@@ -1,4 +1,4 @@
-# sci-fi-5e
+# Sci-five
 5th edition D&amp;D SRD converted to use in a science fiction campaign setting.
 
 I have been a lifelong fan of science fiction, and there is no better RPG system than 5th edition D&D. This is an attempt to join the two together; bring the familiar rules of 5th edition D&D together with a refreshing new universe of roleplay possibilities.
