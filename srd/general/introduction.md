@@ -27,7 +27,7 @@ Personality traits were the results of a two decades long psychological study at
 | Trait | Description|
 |:----:|:-------------|
 | Wit  | Mental sharpness and inventiveness; keen intelligence. |
-| Will  | Mental fortitude. This is the mind’s ability to resist magical effectrs, and mental stress. |
+| Will  | Mental fortitude. This is the mind’s ability to resist tek effectrs, and mental stress. |
 | Intelligence | The ability to acquire and apply knowledge and skills. |
 | Wisdom | The soundness of an action or decision with regard to the application of experience, knowledge, and good judgment. |
 
@@ -98,7 +98,7 @@ In order to be successful at the given task, you roll the die, and add your skil
 The person determining the difficulty might increment the number on the table based on environmental conditions that might make the task easier or more difficult.
 
 ## “Magic”
- Major advancements in technology have enabled the use of “supernatural” “powers” in humans. Rare humans have the ability to cast what could be perceived as “magic spells” are in reality a marvel of modern technology.
+ Major advancements in technology have enabled the use of “supernatural” “powers” in humans. Rare humans have the ability to cast what could be perceived as “tek spells” are in reality a marvel of modern technology.
 
 ### Focus
 A focus is a small device that through a series of voice, movements, and occasionally a fuel source can cast “spells”.
@@ -125,7 +125,7 @@ A focus is a small device that through a series of voice, movements, and occasio
 ```
 
 ### Willpower
-Regardless of the method of magic casting, Willpower is always at the core of casting spells. When estimating a caster’s “magical” ability, you add the relevant ability score to your Will score to determine your Techcasting power. The only exception is Bard, which uses their Wit and Charisma score since their magic is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting spells. When estimating a caster’s “magical” ability, you add the relevant ability score to your Will score to determine your Techcasting power. The only exception is Bard, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.

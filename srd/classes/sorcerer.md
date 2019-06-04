@@ -38,21 +38,21 @@ You start with the following equipment, in addition to the equipment granted by 
 |-------|-------------------|----------------|--------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st   | +2                | -              | Techcasting, Sorcerous Origin | 4              | 2            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | 2              | Font of Magic                  | 4              | 3            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                | 3              | Metamagic                      | 4              | 4            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | 3              | Metatek                      | 4              | 4            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
 | 4th   | +2                | 4              | Ability Score Improvement      | 5              | 5            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
 | 5th   | +3                | 5              | -                              | 5              | 6            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 | 6th   | +3                | 6              | Sorcerous Origin Feature       | 5              | 7            | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
 | 7th   | +3                | 7              | -                              | 5              | 8            | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
 | 8th   | +3                | 8              | Ability Score Improvement      | 5              | 9            | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
 | 9th   | +4                | 9              | -                              | 5              | 10           | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th  | +4                | 10             | Metamagic                      | 6              | 11           | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 10th  | +4                | 10             | Metatek                      | 6              | 11           | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
 | 11th  | +4                | 11             | -                              | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 12th  | +4                | 12             | Ability Score Improvement      | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 13th  | +5                | 13             | -                              | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 14th  | +5                | 14             | Sorcerous Origin Feature       | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15th  | +5                | 15             | -                              | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
 | 16th  | +5                | 16             | Ability Score Improvement      | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | +6                | 17             | Metamagic                      | 6              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 17th  | +6                | 17             | Metatek                      | 6              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
 | 18th  | +6                | 18             | Sorcerous Origin Feature       | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | +6                | 19             | Ability Score Improvement      | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | 20             | Sorcerous Restoration          | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
@@ -81,7 +81,7 @@ Additionally, when you gain a level in this class, you can choose one of the sor
 
 ##### Techcasting Ability
 
-Charisma + Will is your Techcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your Techcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+Charisma + Will is your Techcasting ability for your sorcerer spells, since the power of your tek relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your Techcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
 
@@ -93,13 +93,13 @@ You can use an arcane focus as a Techcasting focus for your sorcerer spells.
 
 #### Sorcerous Origin
 
-Choose a sorcerous origin, which describes the source of your innate magical power: Draconic Bloodline or Wild Magic, both detailed at the end of the class description.
+Choose a sorcerous origin, which describes the source of your innate tek power: Draconic Bloodline or Wild Magic, both detailed at the end of the class description.
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
 #### Font of Magic
 
-At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+At 2nd level, you tap into a deep wellspring of tek within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of tek effects.
 
 ##### Sorcery Points
 
@@ -127,9 +127,9 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 
 #### Metamagic
 
-At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
+At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metatek options of your choice. You gain another one at 10th and 17th level.
 
-You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+You can use only one Metatek option on a spell when you cast it, unless otherwise noted.
 
 ##### Careful Spell
 
@@ -145,7 +145,7 @@ When you cast a spell that has a range of touch, you can spend 1 sorcery point t
 
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
 
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+You can use Empowered Spell even if you have already used a different Metatek option during the casting of the spell.
 
 ##### Extended Spell
 
@@ -167,7 +167,7 @@ When you cast a spell, you can spend 1 sorcery point to cast it without any soma
 
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
-To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, *magic missile* and *scorching ray* aren’t eligible, but *ray of frost* and *chromatic orb* are.
+To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, *tek missile* and *scorching ray* aren’t eligible, but *ray of frost* and *chromatic orb* are.
 
 #### Ability Score Improvement
 
@@ -183,7 +183,7 @@ Different sorcerers claim different origins for their innate magic. Although man
 
 ##### Draconic Bloodline
 
-Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
+Your innate tek comes from draconic tek that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
 ###### Dragon Ancestor
 
@@ -208,7 +208,7 @@ You can speak, read, and write Draconic. Additionally, whenever you make a Chari
 
 ###### Draconic Resilience
 
-As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
+As tek flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
 Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier.
 

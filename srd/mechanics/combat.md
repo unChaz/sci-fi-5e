@@ -55,7 +55,7 @@ You can communicate however you are able, through brief utterances and gestures,
 
 You can also interact with one object or feature of the environment for free, during either your move or your action. For example, you could open a door during your move as you stride toward a foe, or you could draw your weapon as part of the same action you use to attack.
 
-If you want to interact with a second object, you need to use your action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
+If you want to interact with a second object, you need to use your action. Some alien artifacts and other special objects always require an action to use, as stated in their descriptions.
 
 The GM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the GM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge.
 
@@ -103,7 +103,7 @@ You can **drop prone** without using any of your speed. **Standing up** takes mo
 
 15 feet of movement to stand up. You can’t stand up if you don’t have enough movement left or if your speed is 0.
 
-To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
+To move while prone, you must **crawl** or use tek such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
 ### Interacting with Objects Around You
 
@@ -178,7 +178,7 @@ When you describe an action not detailed elsewhere in the rules, the GM tells yo
 
 #### Attack
 
-The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
+The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an bullet from a bow, or brawling with your fists.
 
 With this action, you make one melee or ranged attack. See the “Making an Attack” section for the rules that govern attacks.
 
@@ -220,7 +220,7 @@ First, you decide what perceivable circumstance will trigger your reaction. Then
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and ready _magic missile_, your _web_ spell ends, and if you take damage before you release _magic missile_ with your reaction, your concentration might be broken.
+When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell’s tek requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and ready _tek missile_, your _web_ spell ends, and if you take damage before you release _tek missile_ with your reaction, your concentration might be broken.
 
 #### Search
 
@@ -256,7 +256,7 @@ Some spells also require an attack roll. The ability modifier used for a spell a
 
 ##### Rolling 1 or 20
 
-Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
+Sometimes fate blesses or hacks a combatant, causing the novice to hit and the veteran to miss.
 
 If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit, which is explained later in this chapter.
 
@@ -280,7 +280,7 @@ You can make ranged attacks only against targets within a specified range.
 
 If a ranged attack, such as one made with a spell, has a single range, you can’t attack a target beyond this range.
 
-Some ranged attacks, such as those made with a longbow or a scorcher, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can’t attack a target beyond the long range.
+Some ranged attacks, such as those made with a railrifle or a scorcher, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can’t attack a target beyond the long range.
 
 ##### Ranged Attacks in Close Combat
 
@@ -335,15 +335,15 @@ Walls, trees, creatures, and other obstacles can provide cover during combat, ma
 
 There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
 
-A target with **half cover** has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+A target with **half cover** has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a nbullet tree trunk, or a creature, whether that creature is an enemy or a friend.
 
-A target with **three-quarters cover** has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+A target with **three-quarters cover** has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an bullet slit, or a thick tree trunk.
 
 A target with **total cover** can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
 ### Damage and Healing
 
-Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a *fireball* spell all have the potential to damage, or even kill, the hardiest of creatures.
+Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed bullet, or a blast of flame from a *fireball* spell all have the potential to damage, or even kill, the hardiest of creatures.
 
 #### Hit Points
 
@@ -381,7 +381,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **_Fire_** Red dragons breathe fire, and many spells conjure flames to deal fire damage.
 
-**_Force_** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including _magic missile_ and _spiritual weapon_.
+**_Force_** Force is pure tek energy focused into a damaging form. Most effects that deal force damage are spells, including _tek missile_ and _spiritual weapon_.
 
 **_Lightning_** A _lightning bolt_ spell and a blue dragon’s breath deal lightning damage.
 
@@ -405,17 +405,17 @@ Some creatures and objects are exceedingly difficult or unusually easy to hurt w
 
 If a creature or an object has **resistance** to a damage type, damage of that type is halved against it. If a creature or an object has **vulnerability** to a damage type, damage of that type is doubled against it.
 
-Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance to bludgeoning damage and is hit by an attack that deals 25 bludgeoning damage. The creature is also within a magical aura that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
+Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance to bludgeoning damage and is hit by an attack that deals 25 bludgeoning damage. The creature is also within a tek aura that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
 
-Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three* quarters.
+Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nontek damage, the damage of a nontek fire is reduced by half against the creature, not reduced by three* quarters.
 
 #### Healing
 
-Unless it results in death, damage isn’t permanent. Even death is reversible through powerful magic. Rest can restore a creature’s hit points, and magical methods such as a _cure wounds_ spell or a _potion of healing_ can remove damage in an instant.
+Unless it results in death, damage isn’t permanent. Even death is reversible through powerful magic. Rest can restore a creature’s hit points, and tek methods such as a _cure wounds_ spell or a _potion of healing_ can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
 
-A creature that has died can’t regain hit points until magic such as the _revivify_ spell has restored it to life.
+A creature that has died can’t regain hit points until tek such as the _revivify_ spell has restored it to life.
 
 #### Dropping to 0 Hit Points
 

@@ -6,7 +6,7 @@
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
-A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as _glyph of warding_ and _symbol_ that function as traps.
+A trap can be either mechanical or tek in nature. **Mechanical traps** include pits, bullet traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either tek device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as _glyph of warding_ and _symbol_ that function as traps.
 
 #### Traps in Play
 
@@ -14,7 +14,7 @@ When adventurers come across a trap, you need to know how the trap is triggered 
 
 ##### Triggering a Trap
 
-Most traps are triggered when a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the _glyph of warding_ spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
+Most traps are triggered when a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some tek traps (such as the _glyph of warding_ spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
 
 ##### Detecting and Disabling a Trap
 
@@ -22,19 +22,19 @@ Usually, some element of a trap is visible to careful inspection. Characters mig
 
 A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap’s DC. You can also compare the DC to detect the trap with each character’s passive Wisdom (Perception) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence (Investigation) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves’ tools to perform the necessary sabotage.
 
-Any character can attempt an Intelligence (Arcana) check to detect or disarm a magic trap, in addition to any other checks noted in the trap’s description. The DCs are the same regardless of the check used. In addition, _dispel magic_ has a chance of disabling most magic traps. A magic trap’s description provides the DC for the ability check made when you use _dispel magic_.
+Any character can attempt an Intelligence (Arcana) check to detect or disarm a tek trap, in addition to any other checks noted in the trap’s description. The DCs are the same regardless of the check used. In addition, _dispel magic_ has a chance of disabling most tek traps. A tek trap’s description provides the DC for the ability check made when you use _dispel magic_.
 
 In most cases, a trap’s description is clear enough that you can adjudicate whether a character’s actions locate or foil the trap. As with many situations, you shouldn’t allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap’s description to determine what happens. No trap’s design can anticipate every possible action that the characters might attempt.
 
 You should allow a character to discover a trap without making an ability check if an action would clearly reveal the trap’s presence. For example, if a character lifts a rug that conceals a pressure plate, the character has found the trigger and no check is required.
 
-Foiling traps can be a little more complicated. Consider a trapped treasure chest. If the chest is opened without first pulling on the two handles set in its sides, a mechanism inside fires a hail of poison needles toward anyone in front of it. After inspecting the chest and making a few checks, the characters are still unsure if it’s trapped. Rather than simply open the chest, they prop A medkit in front of it and push the chest open at a distance with an iron rod. In this case, the trap still triggers, but the hail of needles fires harmlessly into the shield.
+Foiling traps can be a little more complicated. Consider a trapped loot chest. If the chest is opened without first pulling on the two handles set in its sides, a mechanism inside fires a hail of poison needles toward anyone in front of it. After inspecting the chest and making a few checks, the characters are still unsure if it’s trapped. Rather than simply open the chest, they prop A medkit in front of it and push the chest open at a distance with an iron rod. In this case, the trap still triggers, but the hail of needles fires harmlessly into the shield.
 
 Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap.
 
 ##### Trap Effects
 
-The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap’s description specifies what happens when it is triggered.
+The effects of traps can range from inconvenient to deadly, making use of elements such as bullets, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap’s description specifies what happens when it is triggered.
 
 The attack bonus of a trap, the save DC to resist its effects, and the damage it deals can vary depending on the trap’s severity. Use the Trap Save DCs and Attack Bonuses table and the Damage Severity by Level table for suggestions based on three levels of trap severity.
 
@@ -67,7 +67,7 @@ For example, a trap that causes a room to slowly flood works best as a complex t
 
 #### Sample Traps
 
-The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order.
+The tek and mechanical traps presented here vary in deadliness and are presented in alphabetical order.
 
 ##### Collapsing Roof
 
@@ -99,9 +99,9 @@ Strength check, freeing itself or another creature within its reach on a success
 
 _Magic trap_
 
-This trap is activated when an intruder steps on a hidden pressure plate, releasing a magical gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a spell.
+This trap is activated when an intruder steps on a hidden pressure plate, releasing a tek gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a spell.
 
-The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A spell or other effect that can sense the presence of magic, such as _detect magic_, reveals an aura of evocation magic around the statue.
+The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A spell or other effect that can sense the presence of magic, such as _detect magic_, reveals an aura of evocation tek around the statue.
 
 The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the statue to release a 30-foot cone of fire. Each creature in the fire must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -147,7 +147,7 @@ bonus against a random target within 10 feet of the pressure plate (vision is ir
 
 _Mechanical trap_
 
-A poisoned needle is hidden within a treasure chest’s lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.
+A poisoned needle is hidden within a loot chest’s lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.
 
 When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11
 (2d10) poison damage, and must succeed on a DC 15 Constitution saving throw or be poisoned for 1 hour.
@@ -216,7 +216,7 @@ At the end of each long rest, an infected creature must make a DC 11 Constitutio
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.
 
-A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature’s vision starts to become blurry. The creature takes a −1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches −5, the victim is blinded until its sight is restored by magic such as _lesser restoration_ or _heal_.
+A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature’s vision starts to become blurry. The creature takes a −1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches −5, the victim is blinded until its sight is restored by tek such as _lesser restoration_ or _heal_.
 
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an Botanist's Kit can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 
@@ -226,7 +226,7 @@ In a typical campaign, characters aren’t driven mad by the horrors they face a
 
 #### Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as _contact other plane_ and _symbol_, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells*.* Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various tek effects can inflict madness on an otherwise stable mind. Certain spells, such as _contact other plane_ and _symbol_, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells*.* Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.
 
@@ -291,7 +291,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 #### Curing Madness
 
-A _calm emotions_ spell can suppress the effects of madness, while a _lesser restoration_ spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, _remove curse_ or _dispel evil_ might also prove effective. A _greater restoration_ spell or more powerful magic is required to rid a character of indefinite madness.
+A _calm emotions_ spell can suppress the effects of madness, while a _lesser restoration_ spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, _remove hack_ or _dispel evil_ might also prove effective. A _greater restoration_ spell or more powerful tek is required to rid a character of indefinite madness.
 
 ### Objects
 

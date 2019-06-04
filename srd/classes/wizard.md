@@ -16,7 +16,7 @@ As a wizard, you gain the following class features.
 
 **Armor:** None
 
-**Weapons:** ion daggers, darts, slings, quarterstaffs, scorchers
+**Weapons:** ion daggers, darts, slings, Bowstaffs, scorchers
 
 **Tools:** None
 
@@ -27,7 +27,7 @@ As a wizard, you gain the following class features.
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* *(a)* a quarterstaff or (*b*) an ion dagger
+* *(a)* a Bowstaff or (*b*) an ion dagger
 * *(a)* a component pouch or (*b*) an arcane focus
 * *(a)* a scholar’s pack or (*b*) a field survival kit
 * A datapad
@@ -75,7 +75,7 @@ The Wizard table shows how many spell slots you have to cast your spells of 1st 
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spell datapad equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you’re a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spell datapad. If you prepare the 1st-level spell *magic missile,* you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you’re a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spell datapad. If you prepare the 1st-level spell *tek missile,* you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spell datapad and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
@@ -101,13 +101,13 @@ Each time you gain a wizard level, you can add two wizard spells of your choice 
 
 #### Arcane Recovery
 
-You have learned to regain some of your magical energy by studying your spell datapad. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
+You have learned to regain some of your tek energy by studying your spell datapad. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
 For example, if you’re a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
 #### Arcane Tradition
 
-When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation, all detailed at the end of the class description.
+When you reach 2nd level, you choose an arcane tradition, shaping your practice of tek through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation, all detailed at the end of the class description.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
@@ -131,11 +131,11 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 
 The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
 
-The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools; a wizard might study at the School of Illusion while another studies across town at the School of Enchantment. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
+The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools; a wizard might study at the School of Illusion while another studies across town at the School of Enchantment. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of tek into schools as a learning device, since the spells of each school require mastery of different techniques.
 
 ##### School of Evocation
 
-You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
+You focus your study on tek that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
 
 ###### Evocation Savant
 

@@ -8,7 +8,7 @@ This chapter provides the rules for casting spells. Different character classes 
 
 ### What Is a Spell?
 
-A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
+A spell is a discrete tek effect, a single shaping of the tek energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw tek suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
 
 Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix A), drain life energy away, and restore life to the dead.
 
@@ -16,21 +16,21 @@ Uncounted thousands of spells have been created over the course of the multivers
 
 #### Spell Level
 
-Every spell has a level from 0 to 9. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) _magic missile_ at 1st level and the earth-shaking _wish_ at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
+Every spell has a level from 0 to 9. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) _tek missile_ at 1st level and the earth-shaking _wish_ at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
 
 Spell level and character level don’t correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
 
 #### Known and Prepared Spells
 
-Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a alien artifact. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
 
 In every case, the number of spells a caster can have fixed in mind at any given time depends on the character’s level.
 
 #### Spell Slots
 
-Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher level spells are even more so. Thus, each Techcasting class’s description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
+Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of tek and channeling its energy into even a simple spell is physically and mentally taxing, and higher level spells are even more so. Thus, each Techcasting class’s description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
 
-When a character casts a spell, he or she expends a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts _magic missile_, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
+When a character casts a spell, he or she expends a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts _tek missile_, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
 
 Finishing a long rest restores any expended spell slots.
 
@@ -38,9 +38,9 @@ Some characters and monsters have special abilities that let them cast spells wi
 
 ##### Casting a Spell at a Higher Level
 
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts _magic missile_ using one of her 2nd-level slots, that _magic missile_ is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts _tek missile_ using one of her 2nd-level slots, that _tek missile_ is 2nd level. Effectively, the spell expands to fill the slot it is put into.
 
-Some spells, such as _magic missile_ and _cure wounds_, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
+Some spells, such as _tek missile_ and _cure wounds_, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
 
 > #### Casting in Armor
 >
@@ -48,7 +48,7 @@ Some spells, such as _magic missile_ and _cure wounds_, have more powerful effec
 
 #### Cantrips
 
-A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect over and over. A cantrip’s spell level is 0.
+A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the tek needed to produce the effect over and over. A cantrip’s spell level is 0.
 
 #### Rituals
 
@@ -80,7 +80,7 @@ Certain spells (including spells cast as rituals) require more time to cast: min
 
 #### Spell Range
 
-The target of a spell must be within the spell’s range. For a spell like _magic missile_, the target is a creature. For a spell like _fireball_, the target is the point in space where the ball of fire erupts.
+The target of a spell must be within the spell’s range. For a spell like _tek missile_, the target is a creature. For a spell like _fireball_, the target is the point in space where the ball of fire erupts.
 
 Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the _shield_ spell, affect only you. These spells have a range of self.
 
@@ -94,7 +94,7 @@ A spell’s components are the physical requirements you must meet in order to c
 
 ##### Verbal (V)
 
-Most spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the _silence_ spell, can’t cast a spell with a verbal component.
+Most spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of tek in motion. Thus, a character who is gagged or in an area of silence, such as one created by the _silence_ spell, can’t cast a spell with a verbal component.
 
 ##### Somatic (S)
 
@@ -114,18 +114,18 @@ A spell’s duration is the length of time the spell persists. A duration can be
 
 ##### Instantaneous
 
-Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
+Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its tek exists only for an instant.
 
 ##### Concentration
 
-Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+Some spells require you to maintain concentration in order to keep their tek active. If you lose concentration, such a spell ends.
 
 If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
 
 Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
 
 * **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
-* **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
+* **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an bullet and a dragon’s breath, you make a separate saving throw for each source of damage.
 * **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
@@ -198,11 +198,11 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 
 > #### The Schools of Magic
 >
-> Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
+> Academies of tek group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all tek functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 >
-> The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.
+> The schools of tek help describe spells; they have no rules of their own, although some rules refer to the schools.
 >
-> **Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
+> **Abjuration** spells are protective in nature, though some of them have aggressive uses. They create tek barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
 >
 > **Conjuration** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster’s side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
 >
@@ -210,7 +210,7 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 >
 > **Enchantment** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
 >
-> **Evocation** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
+> **Evocation** spells manipulate tek energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
 >
 > **Illusion** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.
 >
@@ -287,7 +287,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 ##### 3rd Level
 
-* Bestow Curse
+* Bestow Hack
 * Clairvoyance
 * Dispel Magic
 * Fear
@@ -423,7 +423,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 * Animate Dead
 * Beacon of Hope
-* Bestow Curse
+* Bestow Hack
 * Clairvoyance
 * Create Food and Water
 * Daylight
@@ -433,7 +433,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Mass Healing Word
 * Meld into Stone
 * Protection from Energy
-* Remove Curse
+* Remove Hack
 * Revivify
 * Sending
 * Speak with Dead
@@ -493,7 +493,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 ##### 8th Level
 
-* Antimagic Field
+* Antitek Field
 * Control Weather
 * Earthquake
 * Holy Aura
@@ -670,7 +670,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Daylight
 * Dispel Magic
 * Magic Circle
-* Remove Curse
+* Remove Hack
 * Revivify
 
 ##### 4th Level
@@ -927,7 +927,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Hypnotic Pattern
 * Magic Circle
 * Major Image
-* Remove Curse
+* Remove Hack
 * Tongues
 * Vampiric Touch
 
@@ -1026,7 +1026,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 ##### 2nd Level
 
-* Acid Arrow
+* Acid Bullet
 * Alter Self
 * Arcane Lock
 * Arcanist’s Magic Aura
@@ -1061,7 +1061,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 ##### 3rd Level
 
 * Animate Dead
-* Bestow Curse
+* Bestow Hack
 * Blink
 * Clairvoyance
 * Dispel Magic
@@ -1078,7 +1078,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Nondetection
 * Phantom Steed
 * Protection from Energy
-* Remove Curse
+* Remove Hack
 * Sending
 * Sleet Storm
 * Slow
@@ -1184,7 +1184,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 ##### 8th Level
 
-* Antimagic Field
+* Antitek Field
 * Antipathy/Sympathy
 * Clone
 * Control Weather
@@ -1216,7 +1216,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 ### Spells (A)
 
-##### Acid Arrow
+##### Acid Bullet
 
 _2nd-level evocation_
 
@@ -1228,7 +1228,7 @@ _2nd-level evocation_
 
 **Duration:** Instantaneous
 
-A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
+A shimmering green bullet streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the bullet splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
@@ -1300,7 +1300,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 **_Change Appearance._** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.
 
-**_Natural Weapons._** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+**_Natural Weapons._** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is tek and you have a +1 bonus to the attack and damage rolls you make using it.
 
 ##### Animal Messenger
 
@@ -1332,7 +1332,7 @@ _8th-level transmutation_
 
 **Duration:** Concentration, up to 24 hours
 
-Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.
+Your tek turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.
 
 The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target’s game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak or cast spells.
 
@@ -1370,7 +1370,7 @@ _5th-level transmutation_
 
 **Duration:** Concentration, up to 1 minute
 
-Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can’t animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.
+Objects come to life at your command. Choose up to ten nontek objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can’t animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
@@ -1410,7 +1410,7 @@ The barrier prevents an affected creature from passing or reaching through. An a
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-##### Antimagic Field
+##### Antitek Field
 
 _8th-level abjuration_
 
@@ -1422,25 +1422,25 @@ _8th-level abjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
+A 10-foot-radius invisible sphere of antitek surrounds you. This area is divorced from the tek energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even alien artifacts become mundane. Until the spell ends, the sphere moves with you, centered on you.
 
-Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
+Spells and other tek effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 
-**_Targeted Effects._** Spells and other magical effects, such as _magic missile_ and _charm person_, that target a creature or an object in the sphere have no effect on that target.
+**_Targeted Effects._** Spells and other tek effects, such as _tek missile_ and _charm person_, that target a creature or an object in the sphere have no effect on that target.
 
-**_Areas of Magic._** The area of another spell or magical effect, such as _fireball_, can’t extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a _wall of fire_ are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+**_Areas of Magic._** The area of another spell or tek effect, such as _fireball_, can’t extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a _wall of fire_ are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
-**_Spells._** Any active spell or other magical effect on a creature or an object in the sphere is suppressed while the creature or object is in it.
+**_Spells._** Any active spell or other tek effect on a creature or an object in the sphere is suppressed while the creature or object is in it.
 
-**_Magic Items._** The properties and powers of magic items are suppressed in the sphere. For example, a _+1 pulse blade_ in the sphere functions as a nonmagical pulse blade.
+**_Alien Artifacts._** The properties and powers of alien artifacts are suppressed in the sphere. For example, a _+1 pulse blade_ in the sphere functions as a nontek pulse blade.
 
-A magic weapon’s properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If a magic weapon or a piece of magic ammunition fully leaves the sphere (for example, if you fire a magic arrow or throw a magic spear at a target outside the sphere), the magic of the item ceases to be suppressed as soon as it exits.
+A tek weapon’s properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If a tek weapon or a piece of tek ammunition fully leaves the sphere (for example, if you fire a tek bullet or throw a tek spear at a target outside the sphere), the tek of the item ceases to be suppressed as soon as it exits.
 
-**_Magical Travel._** Teleportation and planar travel fail to work in the sphere, whether the sphere is the destination or the departure point for such magical travel. A portal to another location, world, or plane of existence, as well as an opening to an extradimensional space such as that created by the _rope trick_ spell, temporarily closes while in the sphere.
+**_Magical Travel._** Teleportation and planar travel fail to work in the sphere, whether the sphere is the destination or the departure point for such tek travel. A portal to another location, world, or plane of existence, as well as an opening to an extradimensional space such as that created by the _rope trick_ spell, temporarily closes while in the sphere.
 
-**_Creatures and Objects._** A creature or object summoned or created by magic temporarily winks out of existence in the sphere. Such a creature instantly reappears once the space the creature occupied is no longer within the sphere.
+**_Creatures and Objects._** A creature or object summoned or created by tek temporarily winks out of existence in the sphere. Such a creature instantly reappears once the space the creature occupied is no longer within the sphere.
 
-**_Dispel Magic._** Spells and magical effects such as _dispel magic_ have no effect on the sphere. Likewise, the spheres created by different _antimagic field_ spells don’t nullify each other.
+**_Dispel Magic._** Spells and tek effects such as _dispel magic_ have no effect on the sphere. Likewise, the spheres created by different _antitek field_ spells don’t nullify each other.
 
 ##### Antipathy/Sympathy
 
@@ -1478,7 +1478,7 @@ _4th-level divination_
 
 **Duration:** Concentration, up to 1 hour
 
-You create an invisible, magical eye within range that hovers in the air for the duration.
+You create an invisible, tek eye within range that hovers in the air for the duration.
 
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.
 
@@ -1562,9 +1562,9 @@ You place an illusion on a creature or an object you touch so that divination sp
 
 When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.
 
-**_False Aura._** You change the way the target appears to spells and magical effects, such as _detect magic_, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object’s magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.
+**_False Aura._** You change the way the target appears to spells and tek effects, such as _detect magic_, that detect tek auras. You can make a nontek object appear magical, a tek object appear nonmagical, or change the object’s tek aura so that it appears to belong to a specific school of tek that you choose. When you use this effect on an object, you can make the false tek apparent to any creature that handles the item.
 
-**_Mask._** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin’s Divine Sense or the trigger of a _symbol_ spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
+**_Mask._** You change the way the target appears to spells and tek effects that detect creature types, such as a paladin’s Divine Sense or the trigger of a _symbol_ spell. You choose a creature type and other spells and tek effects treat the target as if it were a creature of that type or of that alignment.
 
 ##### Astral Projection
 
@@ -1625,7 +1625,7 @@ _5th-level transmutation_
 
 **Duration:** Instantaneous
 
-After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less. The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human’s. Your GM chooses statistics appropriate for the awakened plant, such as the statistics for the awakened shrub or the awakened tree.
+After spending the casting time tracing tek pathways within a precious gemstone, you touch a Huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less. The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human’s. Your GM chooses statistics appropriate for the awakened plant, such as the statistics for the awakened shrub or the awakened tree.
 
 The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
 
@@ -1695,7 +1695,7 @@ _3rd-level abjuration_
 
 This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 
-##### Bestow Curse
+##### Bestow Hack
 
 _3rd-level necromancy_
 
@@ -1707,14 +1707,14 @@ _3rd-level necromancy_
 
 **Duration:** Concentration, up to 1 minute
 
-You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
+You touch a creature, and that creature must succeed on a Wisdom saving throw or become hacked for the duration of the spell. When you cast this spell, choose the nature of the hack from the following options:
 
-* Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
-* While cursed, the target has disadvantage on attack rolls against you.
-* While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
-* While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
+* Choose one ability score. While hacked, the target has disadvantage on ability checks and saving throws made with that ability score.
+* While hacked, the target has disadvantage on attack rolls against you.
+* While hacked, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
+* While the target is hacked, your attacks and spells deal an extra 1d8 necrotic damage to the target.
 
-A _remove curse_ spell ends this effect. At the GM’s option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse’s effect.
+A _remove hack_ spell ends this effect. At the GM’s option, you may choose an alternative hack effect, but it should be no more powerful than those described above. The GM has final say on such a hack’s effect.
 
 **_At Higher Levels._** If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn’t require concentration.
 
@@ -1748,7 +1748,7 @@ _6th-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three-quarters cover to creatures behind it, and its space is difficult terrain.
+You create a vertical wall of whirling, razor-sharp blades made of tek energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three-quarters cover to creatures behind it, and its space is difficult terrain.
 
 When a creature enters the wall’s area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage.
 
@@ -1782,9 +1782,9 @@ _4th-level necromancy_
 
 Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.
 
-If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it.
+If you target a plant creature or a tek plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it.
 
-If you target a nonmagical plant that isn’t a creature, such as a tree or shrub, it doesn’t make a saving throw; it simply withers and dies.
+If you target a nontek plant that isn’t a creature, such as a tree or shrub, it doesn’t make a saving throw; it simply withers and dies.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
@@ -2590,7 +2590,7 @@ _2nd-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
+Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nontek light can’t illuminate it.
 
 If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
 
@@ -2712,7 +2712,7 @@ _1st-level divination (ritual)_
 
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+For the duration, you sense the presence of tek within 30 feet of you. If you sense tek in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
@@ -2802,15 +2802,15 @@ _6th-level transmutation_
 
 **Duration:** Instantaneous
 
-A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by _wall of force_.
+A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of tek force, such as the wall created by _wall of force_.
 
 A creature targeted by this spell must make a
 
 Dexterity saving throw. On a failed save, the target takes 10d6 + 40 force damage. If this damage reduces the target to 0 hit points, it is disintegrated.
 
-A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a _true resurrection_ or a _wish_ spell.
+A disintegrated creature and everything it is wearing and carrying, except alien artifacts, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a _true resurrection_ or a _wish_ spell.
 
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot* cube portion of it. A magic item is unaffected by this spell.
+This spell automatically disintegrates a Large or smaller nontek object or a creation of tek force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot* cube portion of it. A alien artifact is unaffected by this spell.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
@@ -2846,7 +2846,7 @@ _3rd-level abjuration_
 
 **Duration:** Instantaneous
 
-Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your Techcasting ability. The DC equals 10 + the spell’s level. On a successful check, the spell ends.
+Choose one creature, object, or tek effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your Techcasting ability. The DC equals 10 + the spell’s level. On a successful check, the spell ends.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell’s level is equal to or less than the level of the spell slot you used.
 
@@ -2862,7 +2862,7 @@ _4th-level divination (ritual)_
 
 **Duration:** Instantaneous
 
-Your magic and an offering put you in contact with a god or a god’s servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The GM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
+Your tek and an offering put you in contact with a god or a god’s servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The GM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
 
 The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
@@ -3029,7 +3029,7 @@ _2nd-level transmutation_
 
 **Duration:** Concentration, up to 1 hour.
 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
+You touch a creature and bestow upon it a tek enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
 
 **_Bear’s Endurance._** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
 
@@ -3111,7 +3111,7 @@ _7th-level transmutation_
 
 You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you originated from, but everything there looks gray, and you can’t see anything more than 60 feet away.
 
-While on the Ethereal Plane, you can only affect and be affected by other creatures on that plane. Creatures that aren’t on the Ethereal Plane can’t perceive you and can’t interact with you, unless a special ability or magic has given them the ability to do so.
+While on the Ethereal Plane, you can only affect and be affected by other creatures on that plane. Creatures that aren’t on the Ethereal Plane can’t perceive you and can’t interact with you, unless a special ability or tek has given them the ability to do so.
 
 You ignore all objects and effects that aren’t on the Ethereal Plane, allowing you to move through objects you perceive on the plane you originated from.
 
@@ -3173,7 +3173,7 @@ You convert raw materials into products of the same material. For example, you c
 
 Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.
 
-Creatures or magic items can’t be created or transmuted by this spell. You also can’t use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan’s tools used to craft such objects.
+Creatures or alien artifacts can’t be created or transmuted by this spell. You also can’t use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan’s tools used to craft such objects.
 
 ##### Faerie Fire
 
@@ -3269,7 +3269,7 @@ _8th-level enchantment_
 
 You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an Intelligence saving throw.
 
-On a failed save, the creature’s Intelligence and Charisma scores become 1. The creature can’t cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.
+On a failed save, the creature’s Intelligence and Charisma scores become 1. The creature can’t cast spells, activate alien artifacts, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.
 
 At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.
 
@@ -3537,7 +3537,7 @@ _6th-level abjuration (ritual)_
 
 **Duration:** 1 day
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can’t teleport into the area or use portals, such as those created by the _gate_ spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the _plane shift_ spell.
+You create a ward against tek travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can’t teleport into the area or use portals, such as those created by the _gate_ spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the _plane shift_ spell.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell’s area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or necrotic damage (your choice when you cast this spell).
 
@@ -3557,7 +3557,7 @@ _7th-level evocation_
 
 **Duration:** 1 hour
 
-An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
+An immobile, invisible, cube-shaped prison composed of tek force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 
 A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
 
@@ -3565,7 +3565,7 @@ A prison in the shape of a box can be up to 10 feet on a side, creating a solid 
 
 When you cast the spell, any creature that is completely inside the cage’s area is trapped. Creatures only partially within the area, or those too large to fit inside the area, are pushed away from the center of the area until they are completely outside the area.
 
-A creature inside the cage can’t leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can’t exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
+A creature inside the cage can’t leave it by nontek means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that tek to exit the cage. On a failure, the creature can’t exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
 This spell can’t be dispelled by _dispel magic_.
 
@@ -3597,9 +3597,9 @@ _4th-level abjuration_
 
 **Duration:** 1 hour
 
-You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained.
+You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other tek effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained.
 
-The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target’s movement or attacks.
+The target can also spend 5 feet of movement to automatically escape from nontek restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target’s movement or attacks.
 
 ##### Freezing Sphere
 
@@ -3637,7 +3637,7 @@ _3rd-level transmutation_
 
 You transform a willing creature you touch, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn’t affected.
 
-While in this form, the target’s only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains hovering in the air even when stunned or otherwise incapacitated.
+While in this form, the target’s only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nontek damage, and it has advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through small holes, nbullet openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains hovering in the air even when stunned or otherwise incapacitated.
 
 While in the form of a misty cloud, the target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. The target can’t attack or cast spells.
 
@@ -3673,11 +3673,11 @@ _5th-level enchantment_
 
 **Duration:** 30 days
 
-You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can’t understand you is unaffected by the spell.
+You place a tek command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can’t understand you is unaffected by the spell.
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
-You can end the spell early by using an action to dismiss it. A _remove curse_, _greater restoration_, or _wish_ spell also ends it.
+You can end the spell early by using an action to dismiss it. A _remove hack_, _greater restoration_, or _wish_ spell also ends it.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
@@ -3729,7 +3729,7 @@ _8th-level transmutation_
 
 **Duration:** 1 hour
 
-Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
+Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, tek that would determine if you are telling the truth indicates that you are being truthful.
 
 ##### Globe of Invulnerability
 
@@ -3761,7 +3761,7 @@ _3rd-level abjuration_
 
 **Duration:** Until dispelled or triggered
 
-When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
+When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a loot chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
 The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.
 
@@ -3771,7 +3771,7 @@ You can further refine the trigger so the spell activates only under certain cir
 
 When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 
-**_Explosive Runes._** When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
+**_Explosive Runes._** When triggered, the glyph erupts with tek energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
 
 **_Spell Glyph._** You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
 
@@ -3822,7 +3822,7 @@ _5th-level abjuration_
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target’s exhaustion level by one, or end one of the following effects on the target:
 
 * One effect that charmed or petrified the target
-* One curse, including the target’s attunement to a cursed magic item
+* One hack, including the target’s attunement to a hacked alien artifact
 * Any reduction to one of the target’s ability scores
 * One effect reducing the target’s hit point maximum
 
@@ -3850,9 +3850,9 @@ When you cast this spell, you can specify individuals that are unaffected by any
 
 **_Stairs._** Webs fill all stairs in the warded area from top to bottom, as the _web_ spell. These strands regrow in 10 minutes if they are burned or torn away while _guards and wards_ lasts.
 
-**_Other Spell Effect._** You can place your choice of one of the following magical effects within the warded area of the stronghold.
+**_Other Spell Effect._** You can place your choice of one of the following tek effects within the warded area of the stronghold.
 * Place _dancing lights_ in four corridors. You can designate a simple program that the lights repeat as long as _guards and wards_ lasts.
-* Place _magic mouth_ in two locations.
+* Place _tek mouth_ in two locations.
 * Place _stinking cloud_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _guards and wards_ lasts.
 * Place a constant _gust of wind_ in one corridor or room.
 * Place a _suggestion_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
@@ -3933,7 +3933,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 **_Courage._** Affected creatures can’t be frightened while in the area.
 
-**_Darkness._** Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the slot you used to cast this spell, can’t illuminate the area.
+**_Darkness._** Darkness fills the area. Normal light, as well as tek light created by spells of a lower level than the slot you used to cast this spell, can’t illuminate the area.
 
 **_Daylight._** Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can’t extinguish the light.
 
@@ -4189,7 +4189,7 @@ _1st-level divination (ritual)_
 
 **Duration:** Instantaneous
 
-You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
+You choose one object that you must touch throughout the casting of the spell. If it is a alien artifact or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
 
@@ -4207,7 +4207,7 @@ _1st-level illusion (ritual)_
 
 You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.
 
-To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.
+To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or tek script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.
 
 Should the spell be dispelled, the original script and the illusion both disappear.
 
@@ -4225,11 +4225,11 @@ _9th-level abjuration_
 
 **Duration:** Until dispelled
 
-You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn’t need to breathe, eat, or drink, and it doesn’t age. Divination spells can’t locate or perceive the target.
+You create a tek restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn’t need to breathe, eat, or drink, and it doesn’t age. Divination spells can’t locate or perceive the target.
 
 When you cast the spell, you choose one of the following forms of imprisonment.
 
-**_Burial._** The target is entombed far beneath the earth in a sphere of magical force that is just large enough to contain the target. Nothing can pass through the sphere, nor can any creature teleport or use planar travel to get into or out of it.
+**_Burial._** The target is entombed far beneath the earth in a sphere of tek force that is just large enough to contain the target. Nothing can pass through the sphere, nor can any creature teleport or use planar travel to get into or out of it.
 
 The special component for this version of the spell is a small mithral orb.
 
@@ -4387,7 +4387,7 @@ _2nd-level transmutation_
 
 **Duration:** Instantaneous
 
-Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.
+Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or tek means that prevents access.
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
 
@@ -4411,7 +4411,7 @@ _5th-level divination_
 
 Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. If the thing you named isn’t of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive is.
 
-The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: “Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word _Rudnogg_ on the lips.”
+The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious tek axe on hand, the spell might yield this information: “Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word _Rudnogg_ on the lips.”
 
 ##### Lesser Restoration
 
@@ -4559,7 +4559,7 @@ _1st-level abjuration_
 
 **Duration:** 8 hours
 
-You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+You touch a willing creature who isn’t wearing armor, and a protective tek force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
 
 ##### Mage Hand
 
@@ -4577,7 +4577,7 @@ A spectral, floating hand appears at a point you choose within range. The hand l
 
 You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
-The hand can’t attack, activate magic items, or carry more than 10 pounds.
+The hand can’t attack, activate alien artifacts, or carry more than 10 pounds.
 
 ##### Magic Circle
 
@@ -4591,15 +4591,15 @@ _3rd-level abjuration_
 
 **Duration:** 1 hour
 
-You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
+You create a 10-foot-radius, 20-foot-tall cylinder of tek energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
 
 Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
-* The creature can’t willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+* The creature can’t willingly enter the cylinder by nontek means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
 * The creature has disadvantage on attack rolls against targets within the cylinder.
 * Targets within the cylinder can’t be charmed, frightened, or possessed by the creature.
 
-When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
+When you cast this spell, you can elect to cause its tek to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
@@ -4617,7 +4617,7 @@ _6th-level necromancy_
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell’s material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container’s space. You can’t move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.
 
-You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a _protection from evil and good_ or _magic circle_ spell can’t be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target’s body, and the target’s soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can’t attempt to possess it again for 24 hours.
+You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a _protection from evil and good_ or _tek circle_ spell can’t be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target’s body, and the target’s soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can’t attempt to possess it again for 24 hours.
 
 Once you possess a creature’s body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can’t use any of its class features.
 
@@ -4641,7 +4641,7 @@ _1st-level evocation_
 
 **Duration:** Instantaneous
 
-You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+You create three glowing darts of tek force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 
@@ -4659,7 +4659,7 @@ _2nd-level illusion (ritual)_
 
 You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn’t being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
 
-When that circumstance occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there so that the words appear to come from the object’s mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
+When that circumstance occurs, a tek mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the tek mouth appears there so that the words appear to come from the object’s mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
 
 The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
@@ -4675,7 +4675,7 @@ _2nd-level transmutation_
 
 **Duration:** Concentration, up to 1 hour
 
-You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
+You touch a nontek weapon. Until the spell ends, that weapon becomes a tek weapon with a +1 bonus to attack rolls and damage rolls.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
@@ -4815,7 +4815,7 @@ _3rd-level transmutation (ritual)_
 
 **Duration:** 8 hours
 
-You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
+You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nontek senses.
 
 While merged with the stone, you can’t see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use your movement to leave the stone where you entered it, which ends the spell. You otherwise can’t move.
 
@@ -4835,7 +4835,7 @@ _Transmutation cantrip_
 
 This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
 
-This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
+This spell can physically repair a alien artifact or construct, but the spell can’t restore tek to such an object.
 
 ##### Message
 
@@ -4997,7 +4997,7 @@ You must speak to the target to describe how its memories are affected, and it m
 
 A modified memory doesn’t necessarily affect how a creature behaves, particularly if the memory contradicts the creature’s natural inclinations, alignment, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, perhaps as a bad dream. The GM might deem a modified memory too nonsensical to affect a creature in a significant manner.
 
-A _remove curse_ or _greater restoration_ spell cast on the target restores the creature’s true memory.
+A _remove hack_ or _greater restoration_ spell cast on the target restores the creature’s true memory.
 
 **_At Higher Levels._** If you cast this spell using a spell slot of 6th level or higher, you can alter the target’s memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature’s past (9th level).
 
@@ -5059,7 +5059,7 @@ _3rd-level abjuration_
 
 **Duration:** 8 hours
 
-For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can’t be targeted by any divination magic or perceived through magical scrying sensors.
+For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can’t be targeted by any divination tek or perceived through tek scrying sensors.
 
 ### Spells (O)
 
@@ -5077,7 +5077,7 @@ _2nd-level abjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
+A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can’t be tracked except by tek means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
 ##### Passwall
 
@@ -5143,7 +5143,7 @@ You beseech an otherworldly entity for aid. The being must be known to you: a go
 
 When the creature appears, it is under no compulsion to behave in any particular way. You can ask the creature to perform a service in exchange for payment, but it isn’t obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.
 
-Payment can take a variety of forms. A celestial might require a sizable donation of gold or magic items to an allied temple, while a fiend might demand a living sacrifice or a gift of treasure. Some creatures might exchange their service for a quest undertaken by you.
+Payment can take a variety of forms. A celestial might require a sizable donation of gold or alien artifacts to an allied temple, while a fiend might demand a living sacrifice or a gift of loot. Some creatures might exchange their service for a quest undertaken by you.
 
 As a rule of thumb, a task that can be measured in minutes requires a payment worth 10000 credits per minute. A task measured in hours requires 1,00000 credits per hour. And a task measured in days (up to 10 days) requires 10,00000 credits per day. The GM can adjust these payments based on the circumstances under which you cast the spell. If the task is aligned with the creature’s ethos, the payment might be halved or even waived. Nonhazardous tasks typically require only half the suggested payment, while especially dangerous tasks might require a greater gift. Creatures rarely accept tasks that seem suicidal.
 
@@ -5163,7 +5163,7 @@ _5th-level abjuration_
 
 **Duration:** 24 hours
 
-With this spell, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of an inverted _magic circle_ in order to keep it trapped while this spell is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another spell, that spell’s duration is extended to match the duration of this spell.
+With this spell, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of an inverted _tek circle_ in order to keep it trapped while this spell is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another spell, that spell’s duration is extended to match the duration of this spell.
 
 A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.
 
@@ -5287,14 +5287,14 @@ _Transmutation cantrip_
 
 **Duration:** Up to 1 hour
 
-This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
+This spell is a minor tek trick that novice spellcasters use for practice. You create one of the following tek effects within range:
 
 * You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 * You instantaneously light or snuff out a candle, a torch, or a small campfire.
 * You instantaneously clean or soil an object no larger than 1 cubic foot.
 * You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
 * You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-* You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+* You create a nontek trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
@@ -5339,15 +5339,15 @@ The wall sheds bright light out to a range of 100 feet and dim light for an addi
 
 The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall’s layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer’s properties as described below.
 
-The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. A _rod of cancellation_ destroys a _prismatic wall_, but an _antimagic field_ has no effect on it.
+The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. A _rod of cancellation_ destroys a _prismatic wall_, but an _antitek field_ has no effect on it.
 
-1.  **_Red._** The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can’t pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
-2.  **_Orange._** The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can’t pass through the wall. The layer is destroyed by a strong wind.
+1.  **_Red._** The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nontek ranged attacks can’t pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
+2.  **_Orange._** The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, tek ranged attacks can’t pass through the wall. The layer is destroyed by a strong wind.
 3.  **_Yellow._** The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
 4.  **_Green._** The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A _passwall_ spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
 5.  **_Blue._** The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
 6.  **_Indigo._** On a failed save, the creature is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don’t need to be consecutive; keep track of both until the creature collects three of a kind. While this layer is in place, spells can’t be cast through the wall. The layer is destroyed by bright light shed by a _daylight_ spell or a similar spell of equal or higher level.
-7.  **_Violet._** On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM’s choosing and is no longer blinded. (Typically, a creature that is on a plane that isn’t its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a _dispel magic_ spell or a similar spell of equal or higher level that can end spells and magical effects.
+7.  **_Violet._** On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM’s choosing and is no longer blinded. (Typically, a creature that is on a plane that isn’t its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a _dispel magic_ spell or a similar spell of equal or higher level that can end spells and tek effects.
 
 ##### Private Sanctum
 
@@ -5492,7 +5492,7 @@ _1st-level transmutation (ritual)_
 
 **Duration:** Instantaneous
 
-All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+All nontek food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
 ### Spells (Q)
 
@@ -5512,7 +5512,7 @@ _5th-level necromancy_
 
 You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature’s soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.
 
-This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn’t, however, remove magical diseases, curses, or similar effects; if these aren’t first removed prior to casting the spell, they take effect when the creature returns to life. The spell can’t return an undead creature to life.
+This spell also neutralizes any poisons and cures nontek diseases that affected the creature at the time it died. This spell doesn’t, however, remove tek diseases, hacks, or similar effects; if these aren’t first removed prior to casting the spell, they take effect when the creature returns to life. The spell can’t return an undead creature to life.
 
 This spell closes all mortal wounds, but it doesn’t restore missing body parts. If the creature is lacking body parts or organs integral for its Nature—its head, for instance—the spell automatically fails.
 
@@ -5582,7 +5582,7 @@ You touch a dead humanoid or a piece of a dead humanoid. Provided that the creat
 
 If the target’s soul isn’t free or willing to do so, the spell fails.
 
-The magic fashions a new body for the creature to inhabit, which likely causes the creature’s race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
+The tek fashions a new body for the creature to inhabit, which likely causes the creature’s race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
 
 | d100  | Race                |
 |-------|---------------------|
@@ -5603,7 +5603,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
-##### Remove Curse
+##### Remove Hack
 
 _3rd-level abjuration_
 
@@ -5615,7 +5615,7 @@ _3rd-level abjuration_
 
 **Duration:** Instantaneous
 
-At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner’s attunement to the object so it can be removed or discarded.
+At your touch, all hacks affecting one creature or object end. If the object is a hacked alien artifact, its hack remains, but the spell breaks its owner’s attunement to the object so it can be removed or discarded.
 
 ##### Resilient Sphere
 
@@ -5665,7 +5665,7 @@ _7th-level necromancy_
 
 You touch a dead creature that has been dead for no more than a century, that didn’t die of old age, and that isn’t undead. If its soul is free and willing, the target returns to life with all its hit points.
 
-This spell neutralizes any poisons and cures normal diseases afflicting the creature when it died. It doesn’t, however, remove magical diseases, curses, and the like; if such effects aren’t removed prior to casting the spell, they afflict the target on its return to life.
+This spell neutralizes any poisons and cures normal diseases afflicting the creature when it died. It doesn’t, however, remove tek diseases, hacks, and the like; if such effects aren’t removed prior to casting the spell, they afflict the target on its return to life.
 
 This spell closes all mortal wounds and restores any missing body parts.
 
@@ -5933,7 +5933,7 @@ _2nd-level evocation_
 
 A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
 
-A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
+A nontek object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
@@ -5941,7 +5941,7 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 _1st-level abjuration_
 
-**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the _magic missile_ spell
+**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the _tek missile_ spell
 
 **Range:** Self
 
@@ -5949,7 +5949,7 @@ _1st-level abjuration_
 
 **Duration:** 1 round
 
-An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _magic missile_.
+An invisible barrier of tek force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _tek missile_.
 
 ##### Shield of Faith
 
@@ -5973,11 +5973,11 @@ _Transmutation cantrip_
 
 **Range:** Touch
 
-**Components:** V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)
+**Components:** V, S, M (mistletoe, a shamrock leaf, and a club or Bowstaff)
 
 **Duration:** 1 minute
 
-The wood of a club or quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your Techcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon.
+The wood of a club or Bowstaff you are holding is imbued with nature’s power. For the duration, you can use your Techcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon.
 
 ##### Shocking Grasp
 
@@ -6059,7 +6059,7 @@ _1st-level enchantment_
 
 **Duration:** 1 minute
 
-This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
+This spell sends creatures into a tek slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
 
 Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
@@ -6099,7 +6099,7 @@ _3rd-level transmutation_
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
 
-An affected target’s speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn.
+An affected target’s speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or alien artifacts, it can’t make more than one melee or ranged attack during its turn.
 
 If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted.
 
@@ -6153,7 +6153,7 @@ You can also turn difficult terrain caused by plant growth (such as thickets and
 
 Plants might be able to perform other tasks on your behalf, at the GM’s discretion. The spell doesn’t enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.
 
-If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
+If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no tek ability to influence it.
 
 This spell can cause the plants created by the _entangle_ spell to release a restrained creature.
 
@@ -6269,7 +6269,7 @@ _4th-level abjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
+This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nontek bludgeoning, piercing, and slashing damage.
 
 ##### Storm of Vengeance
 
@@ -6363,7 +6363,7 @@ _7th-level abjuration_
 
 **Duration:** Until dispelled or triggered
 
-When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
+When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a loot chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
 The glyph is nearly invisible, requiring an Intelligence (Investigation) check against your spell save DC to find it.
 
@@ -6379,7 +6379,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 **_Fear._** Each target must make a Wisdom saving throw and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 
-**_Hopelessness._** Each target must make a Charisma saving throw. On a failed save, the target is overwhelmed with despair for 1 minute. During this time, it can’t attack or target any creature with harmful abilities, spells, or other magical effects.
+**_Hopelessness._** Each target must make a Charisma saving throw. On a failed save, the target is overwhelmed with despair for 1 minute. During this time, it can’t attack or target any creature with harmful abilities, spells, or other tek effects.
 
 **_Insanity._** Each target must make an Intelligence saving throw. On a failed save, the target is driven insane for 1 minute. An insane creature can’t take actions, can’t understand what other creatures say, can’t read, and speaks only in gibberish. The GM controls its movement, which is erratic.
 
@@ -6469,7 +6469,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 **_Similar Area._** You and your group (or the target object) wind up in a different area that’s visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another wizard’s laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the spell has no range limit, you could conceivably wind up anywhere on the plane.
 
-**_Mishap._** The spell’s unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
+**_Mishap._** The spell’s unpredictable tek results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
 ##### Teleportation Circle
 
@@ -6485,7 +6485,7 @@ _5th-level conjuration_
 
 As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
-Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence—a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
+Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence—a string of tek runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
@@ -6501,7 +6501,7 @@ _Transmutation cantrip_
 
 **Duration:** Up to 1 minute
 
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
+You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following tek effects within range:
 
 * Your voice booms up to three times as loud as normal for 1 minute.
 * You cause flames to flicker, brighten, dim, or change color for 1 minute.
@@ -6558,7 +6558,7 @@ _3rd-level evocation (ritual)_
 
 A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
 
-Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
+Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other tek effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
@@ -6588,7 +6588,7 @@ _6th-level conjuration_
 
 **Duration:** 1 round
 
-This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
+This spell creates a tek link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
 
 ##### Tree Stride
 
@@ -6618,7 +6618,7 @@ _9th-level transmutation_
 
 **Duration:** Concentration, up to 1 hour
 
-Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into an object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
+Choose one creature or nontek object that you can see within range. You transform the creature into a different creature, the creature into an object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
 
 This spell has no effect on a shapechanger or a creature with 0 hit points. An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn’t affected by this spell.
 
@@ -6650,7 +6650,7 @@ _9th-level necromancy_
 
 You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature’s soul is free and willing, the creature is restored to life with all its hit points.
 
-This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs.
+This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any hacks affecting the creature when it died. The spell replaces damaged or missing organs and limbs.
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature’s name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
@@ -6680,7 +6680,7 @@ _Divination cantrip_
 
 **Duration:** Concentration, up to 1 round
 
-You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
+You extend your hand and point a finger at a target in range. Your tek grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
 
 ### Spells (U)
 
@@ -6790,7 +6790,7 @@ _5th-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot* by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
+A nontek wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot* by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 
 If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
 
@@ -6918,7 +6918,7 @@ _6th-level transmutation_
 
 **Duration:** 8 hours
 
-You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nonmagical weapons. The only actions a creature can take in this form are the Dash action or to revert to its normal form. Reverting takes 1 minute, during which time a creature is incapacitated and can’t move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation.
+You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nontek weapons. The only actions a creature can take in this form are the Dash action or to revert to its normal form. Reverting takes 1 minute, during which time a creature is incapacitated and can’t move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation.
 
 If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can’t land after 1 minute, the creature falls the remaining distance.
 
@@ -6938,7 +6938,7 @@ A wall of strong wind rises from the ground at a point you choose within range. 
 
 When the wall appears, each creature within its area must make a Strength saving throw. A creature takes 3d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can’t pass through it.
+The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Bullets, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can’t pass through it.
 
 ##### Wish
 
@@ -6958,13 +6958,13 @@ The basic use of this spell is to duplicate any other spell of 8th level or lowe
 
 Alternatively, you can create one of the following effects of your choice:
 
-* You create one object of up to 25,00000 credits in value that isn’t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
+* You create one object of up to 25,00000 credits in value that isn’t a alien artifact. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
 * You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the _greater restoration_ spell.
 * You grant up to ten creatures that you can see resistance to a damage type you choose.
-* You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich’s life drain attack.
+* You grant up to ten creatures you can see immunity to a single spell or other tek effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich’s life drain attack.
 * You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a _wish_ spell could undo an opponent’s successful save, a foe’s critical hit, or a friend’s failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
 
-You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item’s current owner.
+You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary alien artifact or artifact might instantly transport you to the presence of the item’s current owner.
 
 The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can’t be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn’t 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast _wish_ ever again if you suffer this stress.
 
@@ -7002,6 +7002,6 @@ _2nd-level enchantment_
 
 **Duration:** 10 minutes
 
-You create a magical zone that guards against Charm in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
+You create a tek zone that guards against Charm in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.

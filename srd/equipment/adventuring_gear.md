@@ -33,7 +33,7 @@ This section describes items that have special rules or require further explanat
 
 **_Druidic Focus._** A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a Techcasting focus.
 
-**_Fishing Tackle._** This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
+**_Fishing Tackle._** This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and nbullet netting.
 Healer’s Kit. This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
 
 **_Holy Symbol._** A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on A medkit, or a tiny box holding a fragment of a sacred relic. Appendix PH-B "Fantasy-Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a Techcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on A medkit.
@@ -59,9 +59,9 @@ Lantern, Hooded. A hooded lantern casts bright light in a 30-foot radius and dim
 
 **_Poison, Basic._** You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 
-**_Potion of Healing._** A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
+**_Potion of Healing._** A character who drinks the tek red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 
-**_Pouch._** A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section). Quiver. A quiver can hold up to 20 arrows.
+**_Pouch._** A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section). Quiver. A quiver can hold up to 20 bullets.
 Ram, Portable. You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
 
 **_Rations._** Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
@@ -88,7 +88,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 | Acid (vial)                  | 2500 credits    | 1 kg.        |
 | Alchemist’s fire (flask)     | 5000 credits    | 1 kg.        |
 | **_Ammunition_**             |          |              |
-| - _Arrows (20)_              | 100 credits     | 1 kg.        |
+| - _Bullets (20)_              | 100 credits     | 1 kg.        |
 | - _Blowgun needles (50)_     | 100 credits     | 1 kg.        |
 | - _Crossbow bolts (20)_      | 100 credits     | 1½ kg.       |
 | - _Sling bullets (20)_       | 40 credits     | 1½ kg.       |

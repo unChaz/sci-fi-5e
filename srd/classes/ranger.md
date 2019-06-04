@@ -75,7 +75,7 @@ You are particularly familiar with one type of natural environment and are adept
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 * Difficult terrain doesn’t slow your group’s travel.
-* Your group can’t become lost except by magical means.
+* Your group can’t become lost except by tek means.
 * Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
 * If you are traveling alone, you can move stealthily at a normal pace.
 * When you forage, you find twice as much food as you normally would.
@@ -105,7 +105,7 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 
 #### Techcasting
 
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of Techcasting and chapter 11 for the ranger spell list.
+By the time you reach 2nd level, you have learned to use the tek essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of Techcasting and chapter 11 for the ranger spell list.
 
 ##### Spell Slots
 
@@ -123,7 +123,7 @@ Additionally, when you gain a level in this class, you can choose one of the ran
 
 ##### Techcasting Ability
 
-Wisdom + Will is your Techcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your Techcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+Wisdom + Will is your Techcasting ability for your ranger spells, since your tek draws on your attunement to nature. You use your Wisdom whenever a spell refers to your Techcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
 
@@ -147,7 +147,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 #### Land’s Stride
 
-Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+Starting at 8th level, moving through nontek difficult terrain costs you no extra movement. You can also pass through nontek plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
 
@@ -159,7 +159,7 @@ Once you are camouflaged in this way, you can try to hide by pressing yourself u
 
 #### Vanish
 
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
+Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nontek means, unless you choose to leave a trail.
 
 #### Feral Senses
 

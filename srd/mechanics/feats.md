@@ -6,7 +6,7 @@ A feat represents a talent or an area of expertise that gives a character specia
 
 At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat’s description says otherwise.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your Strength is restored.
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering hack—you can’t benefit from the Grappler feat until your Strength is restored.
 
 #### ATHLETE
 You have undergone extensive physical training to gain the following benefits:
@@ -86,7 +86,7 @@ You have trained to master the use of heavy armor, gaining the following benefit
 
 You can use your arm or to deflect strikes that would kill others. You gain the following benefits:
 - Increase your Physique score by 1, to a maximum of 20.
-- While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from non magical weapons is reduced by 3.
+- While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from non tek weapons is reduced by 3.
 
 #### INSPIRING LEADER
 *Prerequisite: Charisma 13 or higher*
@@ -107,7 +107,7 @@ You gain proficiency with light armor.
 You have studied languages and codes, gaining the following benefits:
 - Increase your Intelligence score by 1, to a maximum of 20.
 - You learn three languages of your choice.
-- You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
+- You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use tek to decipher it.
 
 #### LUCKY
 You have inexplicable luck that seems to kick in at just the right moment.
@@ -197,7 +197,7 @@ You have learned a number of spells that you can cast as rituals. These spells a
 
 When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class’s spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-If you come across a spell in written form, such as a magical spell scroll or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+If you come across a spell in written form, such as a tek spell scroll or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
 #### SAVAGE ATTACKER
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.

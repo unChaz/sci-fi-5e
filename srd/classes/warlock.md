@@ -63,7 +63,7 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 
 #### Pact Magic
 
-Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
+Your arcane research and the tek bestowed on you by your patron have given you facility with spells.
 
 ##### Cantrips
 
@@ -97,7 +97,7 @@ You can use an arcane focus as a Techcasting focus for your warlock spells.
 
 #### Eldritch Invocations
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding tek ability.
 
 At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
@@ -117,11 +117,11 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 ##### Pact of the Blade
 
-You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as tek for the purpose of overcoming resistance and immunity to nontek attacks and damage.
 
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
-You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform one tek weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 ##### Pact of the Tome
 
@@ -135,7 +135,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 #### Mystic Arcanum
 
-At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th- level spell from the warlock spell list as this arcanum.
+At 11th level, your patron bestows upon you a tek secret called an arcanum. Choose one 6th- level spell from the warlock spell list as this arcanum.
 
 You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
 
@@ -183,7 +183,7 @@ You can cast *compulsion* once using a warlock spell slot. You can’t do so aga
 
 *Prerequisite: Pact of the Tome feature*
 
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+You can now inscribe tek rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 
 On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 5000 credits for the rare inks needed to inscribe it.
 
@@ -195,7 +195,7 @@ You can cast *hold monster* at will—targeting a celestial, fiend, or elemental
 
 ##### Devil’s Sight
 
-You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+You can see normally in darkness, both tek and nonmagical, to a distance of 120 feet.
 
 ##### Dreadful Word
 
@@ -285,7 +285,7 @@ You can cast *polymorph* once using a warlock spell slot. You can’t do so agai
 
 *Prerequisite: 5th level*
 
-You can cast *bestow curse* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast *bestow hack* once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ##### Thief of Five Fates
 
@@ -319,7 +319,7 @@ You can cast *speak with dead* at will, without expending a spell slot.
 
 *Prerequisite: 15th level*
 
-You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
+You can see the true form of any shapechanger or creature concealed by illusion or transmutation tek while the creature is within 30 feet of you and within line of sight.
 
 #### Otherworldly Patrons
 
@@ -357,7 +357,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
 
 ###### Fiendish Resilience
 
-Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
+Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from tek weapons or silver weapons ignores this resistance.
 
 ###### Hurl Through Hell
 

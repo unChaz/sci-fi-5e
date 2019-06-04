@@ -1,8 +1,8 @@
-## Magic Items
+## Alien Artifacts and Tek Items
 
 ---
 
-Magic items are presented in alphabetical order. A magic item’s description gives the item’s name, its category, its rarity, and its magical properties.
+Magic items are presented in alphabetical order. A alien artifact’s description gives the item’s name, its category, its rarity, and its tek properties.
 
 ### Adamantine Armor
 
@@ -14,7 +14,7 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 
 _Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)_
 
-You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
+You have a bonus to attack and damage rolls made with this piece of tek ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
 
 ### Amulet of Health
 
@@ -26,7 +26,7 @@ Your Constitution score is 19 while you wear this amulet. It has no effect on yo
 
 _Wondrous item, uncommon (requires attunement)_
 
-While wearing this amulet, you are hidden from divination magic. You can’t be targeted by such magic or perceived through magical scrying sensors.
+While wearing this amulet, you are hidden from divination magic. You can’t be targeted by such tek or perceived through tek scrying sensors.
 
 ### Amulet of the Planes
 
@@ -34,48 +34,31 @@ _Wondrous item, very rare (requires attunement)_
 
 While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the _plane shift_ spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1–60, you travel to a random location on the plane you named. On a 61–100, you travel to a randomly determined plane of existence.
 
-### Animated Shield
+### Levitating Shield
 
 _Armor (shield), very rare (requires attunement)_
 
-While holding this shield, you can speak its command word as a bonus action to cause it to animate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.
+While holding this shield, you can speak its command word as a bonus action to cause it to levitate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.
 
-### Apparatus of the Crab
+### Crab Crawler
 
 _Wondrous item, legendary_
 
-This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
+This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel when activated expands into a vehicle that can crawl on metallic surfaces, and has a minimal propulsion system.
 
-The apparatus of the Crab is a Large object with the following statistics:
+The Crab Crawler is a Large object with the following statistics:
 
 **Armor Class:** 20
 
 **Hit Points:** 200
 
-**Speed:** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren’t extended)
+**Speed:** 30 ft., propulsion 30 ft.
 
 **Damage Immunities:** poison, psychic
 
 To be used as a vehicle, the apparatus requires one pilot. While the apparatus’s hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
 
 The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the vehicle takes 2d6 bludgeoning damage per minute from pressure.
-
-A creature in the compartment can use an action to move as many as two of the apparatus’s levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
-
-**Apparatus of the Crab Levers (table)**
-
-| Lever | Up                                                                                                                               | Down                                                                                                                                        |
-|-------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | Legs and tail extend, allowing the apparatus to walk and swim.                                                                   | Legs and tail retract, reducing the apparatus’s speed to 0 and making it unable to benefit from bonuses to speed.                           |
-| 2     | Forward window shutter opens.                                                                                                    | Forward window shutter closes.                                                                                                              |
-| 3     | Side window shutters open (two per side).                                                                                        | Side window shutters close (two per side).                                                                                                  |
-| 4     | Two claws extend from the front sides of the apparatus.                                                                          | The claws retract.                                                                                                                          |
-| 5     | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage. | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: The target is grappled (escape DC 15). |
-| 6     | The apparatus walks or swims forward.                                                                                            | The apparatus walks or swims backward.                                                                                                      |
-| 7     | The apparatus turns 90 degrees left.                                                                                             | The apparatus turns 90 degrees right.                                                                                                       |
-| 8     | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet.                                  | The light turns off.                                                                                                                        |
-| 9     | The apparatus sinks as much as 20 feet in liquid.                                                                                | The apparatus rises up to 20 feet in liquid.                                                                                                |
-| 10    | The rear hatch unseals and opens.                                                                                                | The rear hatch closes and seals.                                                                                                            |
 
 ### Armor, +1, +2, or +3
 
@@ -87,7 +70,7 @@ You have a bonus to AC while wearing this armor. The bonus is determined by its 
 
 _Armor (plate), legendary (requires attunement)_
 
-You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can’t be used again until the next dawn.
+You have resistance to nontek damage while you wear this armor. Additionally, you can use an action to make yourself immune to nontek damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can’t be used again until the next dawn.
 
 ### Armor of Resistance
 
@@ -114,23 +97,21 @@ _Armor (plate), rare (requires attunement)_
 
 While wearing this armor, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The GM chooses the type or determines it randomly.
 
-**_Curse_**. This armor is cursed, a fact that is revealed only when an _identify_ spell is cast on the armor or you attune to it. Attuning to the armor curses you until you are targeted by the _remove curse_ spell or similar magic; removing the armor fails to end the curse. While cursed, you have vulnerability to two of the three damage types associated with the armor (not the one to which it grants resistance).
+**_Hack_**. This armor is hacked, a fact that is revealed only when an _identify_ spell is cast on the armor or you attune to it. Attuning to the armor hacks you until you are targeted by the _remove hack_ spell or similar magic; removing the armor fails to end the hack. While hacked, you have vulnerability to two of the three damage types associated with the armor (not the one to which it grants resistance).
 
-### Arrow-Catching Shield
+### Bullet-Catching Shield
 
 _Armor (shield), rare (requires attunement)_
 
 You gain a +2 bonus to AC against ranged attacks while you wield this shield. This bonus is in addition to the shield’s normal bonus to AC. In addition, whenever an attacker makes a ranged attack against a target within 5 feet of you, you can use your reaction to become the target of the attack instead.
 
-### Arrow of Slaying
+### Bullet of Slaying
 
-_Weapon (arrow), very rare_
+_Weapon (bullet), very rare_
 
-An _arrow of slaying_ is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both _arrows of dragon slaying_ and _arrows of blue dragon slaying_. If a creature belonging to the type, race, or group associated with an _arrow of slaying_ takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.
+An _bullet of slaying_ is a tek weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both _bullets of robot slaying_ and _bullets of abberation slaying_. If a creature belonging to the type, race, or group associated with an _bullet of slaying_ takes damage from the bullet, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.
 
-Once an _arrow of slaying_ deals its extra damage to a creature, it becomes a nonmagical arrow.
-
-Other types of magic ammunition of this kind exist, such as _bolts of slaying_ meant for a crossbow, though arrows are most common.
+Once an _bullet of slaying_ deals its extra damage to a creature, it becomes a nontek bullet.
 
 ### Bag of Beans
 
@@ -151,9 +132,9 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 31–40 | A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).                                                                                                                                                                                                                                                                       |
 | 41–50 | 1d6 + 6 shriekers sprout                                                                                                                                                                                                                                                                                                                                              |
 | 51–60 | 1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM’s choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.                                                                                                                                                |
-| 61–70 | A hungry bulette burrows up and attacks. 71–80 A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM’s choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                     |
-| 81–90 | A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.                            |
-| 91–99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord’s lair, and its sarcophagus contains treasure of the GM’s choice.                                                                                                                                                       |
+| 61–70 | A hungry bulette burrows up and attacks. 71–80 A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined tek potions, while one acts as an ingested poison of the GM’s choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any tek for 30 days.                                                                     |
+| 81–90 | A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal tek explosion.                            |
+| 91–99 | A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord’s lair, and its sarcophagus contains loot of the GM’s choice.                                                                                                                                                       |
 | 100   | A giant beanstalk sprouts, growing to a height of the GM’s choice. The top leads where the GM chooses, such as to a great view, a cloud giant’s castle, or a different plane of existence.                                                                                                                                                                            |
 
 ### Bag of Devouring
@@ -237,7 +218,7 @@ This small black sphere measures 3/4 of an inch in diameter and weighs an ounce.
 
 You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can.
 
-An enclosed creature can use its action to push against the sphere’s wall, moving the sphere up to half the creature’s walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
+An enclosed creature can use its action to push against the sphere’s wall, moving the sphere up to half the creature’s walking speed. The sphere can be picked up, and its tek causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
 ### Belt of Dwarvenkind
 
@@ -276,19 +257,13 @@ Six varieties of this belt exist, corresponding with and having rarity according
 
 _Weapon (any axe), rare (requires attunement)_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.
+You gain a +1 bonus to attack and damage rolls made with this tek weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.
 
-**_Curse_**. This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.
+**_Hack_**. This axe is hacked, and becoming attuned to it extends the hack to you. As long as you remain hacked, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.
 
 Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.
 
-### Boots of Elvenkind
-
-_Wondrous item, uncommon_
-
-While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.
-
-### Boots of Levitation
+### Grav Boots
 
 _Wondrous item, rare (requires attunement)_
 
@@ -300,7 +275,7 @@ _Wondrous item, rare (requires attunement)_
 
 While you wear these boots, you can use a bonus action and click the boots’ heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.
 
-When the boots’ property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.
+When the boots’ property has been used for a total of 10 minutes, the tek ceases to function until you finish a long rest.
 
 ### Boots of Striding and Springing
 
@@ -330,7 +305,7 @@ The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and ho
 
 _Wondrous item, uncommon (requires attunement)_
 
-While wearing these bracers, you have proficiency with the longbow and scorcher, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.
+While wearing these bracers, you have proficiency with the railrifle and scorcher, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.
 
 ### Bracers of Defense
 
@@ -350,7 +325,7 @@ The brazier weighs 5 pounds.
 
 _Wondrous item, uncommon (requires attunement)_
 
-While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the _magic missile_ spell.
+While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the _tek missile_ spell.
 
 ### Broom of Flying
 
@@ -378,7 +353,7 @@ This slender taper is dedicated to a deity and shares that deity’s alignment. 
 | 16–17 | Lawful neutral  |
 | 18–20 | Lawful good     |
 
-The candle’s magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle’s total burn time.
+The candle’s tek is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle’s total burn time.
 
 While lit, the candle sheds dim light in a 30-foot radius. Any creature within that light whose alignment matches that of the candle makes attack rolls, saving throws, and ability checks with advantage. In addition, a cleric or druid in the light whose alignment matches the candle’s can cast 1st* level spells he or she has prepared without expending spell slots, though the spell’s effect is as if cast with a 1st-level slot.
 
@@ -449,7 +424,7 @@ _Wondrous item, rare (requires attunement)_
 
 While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
 
-### Cloak of Elvenkind
+### Ghost Cloak
 
 _Wondrous item, uncommon (requires attunement)_
 
@@ -510,7 +485,7 @@ If your movement causes the barrier to come into contact with a solid object tha
 | 5    | 5       | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.            |
 | 6    | 0       | The barrier deactivates.                                                                                          |
 
-The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
+The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or alien artifact effects, as shown in the table below.
 
 | Spell or Item    | Charges Lost |
 |------------------|--------------|
@@ -524,17 +499,17 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 
 _Wondrous item, legendary_
 
-This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.
+This cube is 3 inches across and radiates palpable tek energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.
 
 You can use an action to press one side of the cube to cast the _gate_ spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the _plane shift_ spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.
 
 The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1d3 expended charges daily at dawn.
 
-### ion dagger of Venom
+### Ion Dagger of Reaper
 
 _Weapon (ion dagger), rare_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+You gain a +1 bonus to attack and damage rolls made with this tek weapon.
 
 You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and become poisoned for 1 minute. The ion dagger can’t be used this way again until the next dawn.
 
@@ -542,7 +517,7 @@ You can use an action to cause thick, black poison to coat the blade. The poison
 
 _Weapon (any sword), very rare (requires attunement)_
 
-You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
+You can use a bonus action to toss this tek sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.
 
 While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.
 
@@ -564,9 +539,9 @@ You can use an action to remove the stopper and speak one of three command words
 
 _Wondrous item, uncommon_
 
-This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.
+This box contains a set of parchment cards. A full deck has 34 cards. A deck found as loot is usually missing 1d20 − 1 cards.
 
-The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
+The tek of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
 
 An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence (Investigation) check. The creature then appears translucent.
 
@@ -614,7 +589,7 @@ _Wondrous item, legendary_
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 
-Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
+Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its tek takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
 
 Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
@@ -651,9 +626,9 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 **_Donjon_**. You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can’t be located by any divination magic, but a _wish_ spell can reveal the location of your prison. You draw no more cards.
 
-**_Euryale_**. The card’s medusa-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse.
+**_Euryale_**. The card’s medusa-like visage hacks you. You take a −2 penalty on saving throws while hacked in this way. Only a god or the tek of The Fates card can end this hack.
 
-**_The Fates_**. Reality’s fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card’s magic as soon as you draw the card or at any other time before you die.
+**_The Fates_**. Reality’s fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card’s tek as soon as you draw the card or at any other time before you die.
 
 **_Flames_**. A powerful devil becomes your enemy. The devil seeks your ruin and plagues your life, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
 
@@ -665,7 +640,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 **_Jester_**. You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
 
-**_Key_**. A rare or rarer magic weapon with which you are proficient appears in your hands. The GM chooses the weapon.
+**_Key_**. A rare or rarer tek weapon with which you are proficient appears in your hands. The GM chooses the weapon.
 
 **_Knight_**. You gain the service of a 4th-level fighter who appears in a space you choose within 30 feet of you. The fighter is of the same race as you and serves you loyally until death, believing the fates have drawn him or her to you. You control this character.
 
@@ -673,7 +648,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 **_Rogue_**. A nonplayer character of the GM’s choice becomes hostile toward you. The identity of your new enemy isn’t known until the NPC or someone else reveals it. Nothing less than a _wish_ spell or divine intervention can end the NPC’s hostility toward you.
 
-**_Ruin_**. All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
+**_Ruin_**. All forms of wealth that you carry or own, other than alien artifacts, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 
 **_Skull_**. You summon an avatar of death—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM’s choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can’t be restored to life.
 
@@ -713,7 +688,7 @@ _Medium undead, neutral evil_
 
 **_Sun_**. You gain 50,000 XP, and a wondrous item (which the GM determines randomly) appears in your hands.
 
-**_Talons_**. Every magic item you wear or carry disintegrates. Artifacts in your possession aren’t destroyed but do vanish.
+**_Talons_**. Every alien artifact you wear or carry disintegrates. Artifacts in your possession aren’t destroyed but do vanish.
 
 **_Throne_**. You gain proficiency in the Charm skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
 
@@ -725,7 +700,7 @@ _Medium undead, neutral evil_
 
 _Weapon (any sword), legendary (requires attunement)_
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon.
+You gain a +3 bonus to attack and damage rolls made with this tek weapon.
 
 The first time you attack with the sword on each of your turns, you can transfer some or all of the sword’s bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.
 
@@ -733,9 +708,9 @@ The first time you attack with the sword on each of your turns, you can transfer
 
 _Armor (plate), very rare (requires attunement)_
 
-While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor’s clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8.
+While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor’s clawed gauntlets turn unarmed strikes with your hands into tek weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8.
 
-**_Curse_**. Once you don this cursed armor, you can’t doff it unless you are targeted by the _remove curse_ spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
+**_Hack_**. Once you don this hacked armor, you can’t doff it unless you are targeted by the _remove hack_ spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
 
 ### Dimensional Shackles
 
@@ -772,7 +747,7 @@ Additionally, you can focus your senses as an action to magically discern the di
 
 _Weapon (any sword), rare_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+You gain a +1 bonus to attack and damage rolls made with this tek weapon.
 
 When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon’s type. For the purpose of this weapon, “dragon” refers to any creature with the dragon type, including dragon turtles and wyverns.
 
@@ -780,7 +755,7 @@ When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of 
 
 _Wondrous item, uncommon_
 
-Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature.
+Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its tek takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature.
 
 ### Dust of Dryness
 
@@ -810,13 +785,13 @@ While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect m
 
 _Weapon (warhammer), very rare (requires attunement by a dwarf)_
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 damage or, if the target is a giant, 2d8 damage. Immediately after the attack, the weapon flies back to your hand.
+You gain a +3 bonus to attack and damage rolls made with this tek weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 damage or, if the target is a giant, 2d8 damage. Immediately after the attack, the weapon flies back to your hand.
 
 ### Efficient Quiver
 
 _Wondrous item, uncommon_
 
-Each of the quiver’s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen ion daggers or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.
+Each of the quiver’s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty bullets, bolts, or similar objects. The midsize compartment holds up to eighteen ion daggers or similar objects. The longest compartment holds up to six long objects, such as bows, Bowstaffs, or spears.
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
@@ -838,7 +813,7 @@ The first time the bottle is opened, the GM rolls to determine what happens.
 
 _Wondrous item, uncommon_
 
-This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the _conjure elemental_ spell, and the gem’s magic is lost. The type of gem determines the elemental summoned by the spell.
+This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the _conjure elemental_ spell, and the gem’s tek is lost. The type of gem determines the elemental summoned by the spell.
 
 | Gem            | Summoned Elemental |
 |----------------|--------------------|
@@ -902,7 +877,7 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 
 **_Swan Boat_**. You can use an action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-foot* wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can use an action while on the boat to command it to move or to turn up to 90 degrees. The boat can carry up to thirty-two Medium or smaller creatures. A Large creature counts as four Medium creatures, while a Huge creature counts as nine. The boat remains for 24 hours and then disappears. You can dismiss the boat as an action.
 
-**_Tree_**. You must be outdoors to use this token. You can use an action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
+**_Tree_**. You must be outdoors to use this token. You can use an action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nontek oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
 
 **_Whip_**. You can use an action to throw the token to a point within 10 feet of you. The token disappears, and a floating whip takes its place. You can then use a bonus action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 force damage.
 
@@ -964,7 +939,7 @@ If you have a good alignment, the figurine has a 10 percent chance each time you
 
 _Weapon (any sword), rare (requires attunement)_
 
-You can use a bonus action to speak this magic sword’s command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
+You can use a bonus action to speak this tek sword’s command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
 
 ### Folding Boat
 
@@ -984,11 +959,11 @@ The third command word causes the _folding boat_ to fold back into a box, provid
 
 _Weapon (any sword), very rare (requires attunement)_
 
-When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
+When you hit with an attack using this tek sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 
 In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.
+When you draw this weapon, you can extinguish all nontek flames within 30 feet of you. This property can be used no more than once per hour.
 
 ### Gauntlets of Ogre Power
 
@@ -1006,7 +981,7 @@ This prism has 50 charges. While you are holding it, you can use an action to sp
 * The second command word expends 1 charge and causes the gem to fire a brilliant beam of light at one creature you can see within 60 feet of you. The creature must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 * The third command word expends 5 charges and causes the gem to flare with blinding light in a 30* foot cone originating from it. Each creature in the cone must make a saving throw as if struck by the beam created with the second command word.
 
-When all of the gem’s charges are expended, the gem becomes a nonmagical jewel worth 5000 credits.
+When all of the gem’s charges are expended, the gem becomes a nontek jewel worth 5000 credits.
 
 ### Gem of Seeing
 
@@ -1020,7 +995,7 @@ The gem regains 1d3 expended charges daily at dawn.
 
 _Weapon (any axe or sword), rare_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+You gain a +1 bonus to attack and damage rolls made with this tek weapon.
 
 When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon’s type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, “giant” refers to any creature with the giant type, including ettins and trolls.
 
@@ -1052,7 +1027,7 @@ While wearing these dark lenses, you have darkvision out to a range of 60 feet. 
 
 _Weapon (maul), legendary_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+You gain a +1 bonus to attack and damage rolls made with this tek weapon.
 
 **_Giant’s Bane (Requires Attunement)_**. You must be wearing a _belt of giant strength_ (any variety) and _gauntlets of ogre power_ to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30. When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.
 
@@ -1123,9 +1098,9 @@ expended charges daily at dawn.
 
 _Weapon (any sword), legendary (requires attunement by a paladin)_
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
+You gain a +3 bonus to attack and damage rolls made with this tek weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
 
-While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
+While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other tek effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
 
 ### Horn of Blasting
 
@@ -1133,7 +1108,7 @@ _Wondrous item, rare_
 
 You can use an action to speak the horn’s command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes 5d6 thunder damage and is deafened for 1 minute. On a successful save, a creature takes half as much damage and isn’t deafened. Creatures and objects made of glass or crystal have disadvantage on the saving throw and take 10d6 thunder damage instead of 5d6.
 
-Each use of the horn’s magic has a 20 percent chance of causing the horn to explode. The explosion deals 10d6 fire damage to the blower and destroys the horn.
+Each use of the horn’s tek has a 20 percent chance of causing the horn to explode. The explosion deals 10d6 fire damage to the blower and destroys the horn.
 
 ### Horn of Valhalla
 
@@ -1176,13 +1151,13 @@ _Wondrous item, rare_
 
 You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
 
-The fortress is a square tower, 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the _knock_ spell and similar magic, such as that of a _chime of opening_.
+The fortress is a square tower, 20 feet on a side and 30 feet high, with bullet slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the _knock_ spell and similar magic, such as that of a _chime of opening_.
 
 Each creature in the area where the fortress appears must make a DC 15 Dexterity saving throw, taking 10d10 bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren’t being worn or carried take this damage and are pushed automatically.
 
-The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points,
+The tower is made of adamantine, and its tek prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points,
 
-immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a _wish_ spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of _wish_ causes the roof, the door, or one wall to regain 50 hit points.
+immunity to damage from nontek weapons excluding siege weapons, and resistance to all other damage. Only a _wish_ spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of _wish_ causes the roof, the door, or one wall to regain 50 hit points.
 
 ### Ioun Stone
 
@@ -1279,9 +1254,9 @@ An _identify_ spell reveals that a creature is inside the flask, but the only wa
 
 _Weapon (javelin), uncommon_
 
-This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking 4d6 lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus 4d6 lightning damage.
+This javelin is a tek weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking 4d6 lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus 4d6 lightning damage.
 
-The javelin’s property can’t be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.
+The javelin’s property can’t be used again until the next dawn. In the meantime, the javelin can still be used as a tek weapon.
 
 ### Lantern of Revealing
 
@@ -1293,7 +1268,7 @@ While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding brig
 
 _Weapon (any sword), legendary (requires attunement)_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
+You gain a +1 bonus to attack and damage rolls made with this tek weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
 
 **_Luck_**. If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can’t be used again until the next dawn.
 
@@ -1303,7 +1278,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Whil
 
 _Weapon (mace), rare (requires attunement)_
 
-When you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.
+When you hit a fiend or an undead with this tek weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.
 
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
@@ -1311,7 +1286,7 @@ While you hold this weapon, it sheds bright light in a 20-foot radius and dim li
 
 _Weapon (mace), rare_
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.
+You gain a +1 bonus to attack and damage rolls made with this tek weapon. The bonus increases to +3 when you use the mace to attack a construct.
 
 When you roll a 20 on an attack roll made with this weapon, the target takes an extra 2d6 bludgeoning damage, or 4d6 bludgeoning damage if it’s a construct. If a construct has 25 hit points or fewer after taking this damage, it is destroyed.
 
@@ -1319,7 +1294,7 @@ When you roll a 20 on an attack roll made with this weapon, the target takes an 
 
 _Weapon (mace), rare (requires attunement)_
 
-This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-foot radius extending from you must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
+This tek weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-foot radius extending from you must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
 
 The mace regains 1d3 expended charges daily at dawn.
 
@@ -1372,7 +1347,7 @@ Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 po
 
 Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features—such as a door, a pit, flowers, trees, cells, rooms, or weapons— that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.
 
-When you complete the painting, the object or terrain feature depicted becomes a real, nonmagical object. Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.
+When you complete the painting, the object or terrain feature depicted becomes a real, nontek object. Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.
 
 Nothing created by the pigments can have a value greater than 2500 credits. If you paint an object of greater value (such as a diamond or a pile of gold), the object looks authentic, but close inspection reveals it is made from paste, bone, or some other worthless material.
 
@@ -1394,7 +1369,7 @@ If the mirror is hanging on a vertical surface and you are within 5 feet of it, 
 
 Any creature other than you that sees its reflection in the activated mirror while within 30 feet of it must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror’s twelve extradimensional cells. This saving throw is made with advantage if the creature knows the mirror’s nature, and constructs succeed on the saving throw automatically.
 
-An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror’s cells don’t age, and they don’t need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.
+An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror’s cells don’t age, and they don’t need to eat, drink, or sleep. A creature trapped within a cell can escape using tek that permits planar travel. Otherwise, the creature is confined to the cell until freed.
 
 If the mirror traps a creature but its twelve extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.
 
@@ -1426,9 +1401,9 @@ You can hurl multiple beads, or even the whole necklace, as one action. When you
 
 _Wondrous item, rare (requires attunement by a cleric, druid, or paladin)_
 
-This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
+This necklace has 1d4 + 2 tek beads made from aquamarine, black pearl, or topaz. It also has many nontek beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a tek bead is removed from the necklace, that bead loses its magic.
 
-Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead’s spell is cast, that bead can’t be used again until the next dawn.
+Six types of tek beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a tek bead’s spell is cast, that bead can’t be used again until the next dawn.
 
 | d20   | Bead of...   | Spell                                         |
 |-------|--------------|-----------------------------------------------|
@@ -1443,15 +1418,15 @@ Six types of magic beads exist. The GM decides the type of each bead on the neck
 
 _Weapon (any sword), very rare (requires attunement)_
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+You gain a +2 bonus to attack and damage rolls made with this tek weapon.
 
 The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
 
 ### Oathbow
 
-_Weapon (longbow), very rare (requires attunement)_
+_Weapon (railrifle), very rare (requires attunement)_
 
-When you nock an arrow on this bow, it whispers in Elvish, “Swift defeat to my enemies.” When you use this weapon to make a ranged attack, you can, as a command phrase, say, “Swift death to you who have wronged me.” The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
+When you nock an bullet on this bow, it whispers in Elvish, “Swift defeat to my enemies.” When you use this weapon to make a ranged attack, you can, as a command phrase, say, “Swift death to you who have wronged me.” The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
 
 When you make a ranged attack roll with this weapon against your sworn enemy, you have advantage on the roll. In addition, your target gains no benefit from cover, other than total cover, and you suffer no disadvantage due to long range. If the attack hits, your sworn enemy takes an extra 3d6 piercing damage.
 
@@ -1467,7 +1442,7 @@ Beads of this cloudy gray oil form on the outside of its container and quickly e
 
 _Potion, very rare_
 
-This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.
+This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is tek and has a +3 bonus to attack and damage rolls.
 
 ### Oil of Slipperiness
 
@@ -1699,7 +1674,7 @@ While wearing this ring, you can speak its command word as an action to summon a
 
 While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
 
-After the djinni departs, it can’t be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
+After the djinni departs, it can’t be summoned again for 24 hours, and the ring becomes nontek if the djinni dies.
 
 ### Ring of Elemental Command
 
@@ -1757,7 +1732,7 @@ When you fall while wearing this ring, you descend 60 feet per round and take no
 
 _Ring, rare (requires attunement)_
 
-While you wear this ring, difficult terrain doesn’t cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.
+While you wear this ring, difficult terrain doesn’t cost you extra movement. In addition, tek can neither reduce your speed nor cause you to be paralyzed or restrained.
 
 ### Ring of Invisibility
 
@@ -1775,7 +1750,7 @@ While wearing this ring, you can cast the _jump_ spell from it as a bonus action
 
 _Ring, uncommon (requires attunement)_
 
-While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
+While wearing this ring, you are immune to tek that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
 
 You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die.
 
@@ -1877,7 +1852,7 @@ Alternatively, you can expend 1 to 3 of the ring’s charges as an action to try
 
 _Ring, legendary_
 
-While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the _wish_ spell from it. The ring becomes nonmagical when you use the last charge.
+While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the _wish_ spell from it. The ring becomes nontek when you use the last charge.
 
 ### Ring of Warmth
 
@@ -1925,7 +1900,7 @@ _Wondrous item, very rare (requires attunement)_
 
 This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
 
-Six stars, located on the robe’s upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast _magic missile_ as a 5th-level spell. Daily at dusk, 1d6 removed stars reappear on the robe.
+Six stars, located on the robe’s upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast _tek missile_ as a 5th-level spell. Daily at dusk, 1d6 removed stars reappear on the robe.
 
 While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.
 
@@ -1938,7 +1913,7 @@ This elegant garment is made from exquisite cloth of white, gray, or black and a
 You gain these benefits while wearing the robe:
 
 * If you aren’t wearing armor, your base Armor Class is 15 + your Dexterity modifier.
-* You have advantage on saving throws against spells and other magical effects.
+* You have advantage on saving throws against spells and other tek effects.
 * Your spell save DC and spell attack bonus each increase by 2.
 
 ### Robe of Useful Items
@@ -2003,15 +1978,15 @@ The rod’s head stops glowing and the effect ends after 10 minutes, or when a c
 
 _Rod, legendary (requires attunement)_
 
-This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
+This rod has a flanged head, and it functions as a tek mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
 
 **_Six Buttons_**. You can press one of the rod’s six buttons as a bonus action. A button’s effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
 
 If you press **button 1**, the rod becomes a _flame tongue_, as a fiery blade sprouts from the end opposite the rod’s flanged head.
 
-If you press **button 2**, the rod’s flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
+If you press **button 2**, the rod’s flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a tek battleaxe that grants a +3 bonus to attack and damage rolls made with it.
 
-If you press **button 3**, the rod’s flanged head folds down, a spear point springs from the rod’s tip, and the rod’s handle lengthens into a 6-foot haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.
+If you press **button 3**, the rod’s flanged head folds down, a spear point springs from the rod’s tip, and the rod’s handle lengthens into a 6-foot haft, transforming the rod into a tek spear that grants a +3 bonus to attack and damage rolls made with it.
 
 If you press **button 4**, the rod transforms into a climbing pole up to 50 feet long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 4,000 pounds. More weight or lack of solid anchoring causes the rod to revert to its normal form.
 
@@ -2065,7 +2040,7 @@ The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as 
 
 _Wondrous item, legendary (requires attunement)_
 
-If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:
+If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its tek nature. It provides two benefits while it is on your person:
 
 * You have advantage on saving throws against spells.
 * The scarab has 12 charges. If you fail a saving throw against a necromancy spell or a harmful effect originating from an undead creature, you can use your reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.
@@ -2074,7 +2049,7 @@ If you hold this beetle-shaped medallion in your hand for 1 round, an inscriptio
 
 _Weapon (scimitar), very rare (requires attunement)_
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
+You gain a +2 bonus to attack and damage rolls made with this tek weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
 
 ### Shield, +1, +2, or +3
 
@@ -2088,7 +2063,7 @@ _Armor (shield), rare (requires attunement)_
 
 While holding this shield, you have resistance to damage from ranged weapon attacks.
 
-**_Curse_**. This shield is cursed. Attuning to it curses you until you are targeted by the _remove curse_ spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.
+**_Hack_**. This shield is hacked. Attuning to it hacks you until you are targeted by the _remove hack_ spell or similar magic. Removing the shield fails to end the hack on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the hack causes you to become the target instead.
 
 ### Slippers of Spider Climbing
 
@@ -2136,13 +2111,13 @@ A wizard spell on a _spell scroll_ can be copied just as spells in spell datapad
 
 _Armor (shield), very rare (requires attunement)_
 
-While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
+While holding this shield, you have advantage on saving throws against spells and other tek effects, and spell attacks have disadvantage against you.
 
 ### Sphere of Annihilation
 
 _Wondrous item, legendary_
 
-This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
+This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a tek field surrounding it.
 
 The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an artifact is susceptible to damage from a _sphere of annihilation_, it passes through the sphere unscathed. Anything else that touches the sphere but isn’t wholly engulfed and obliterated by it takes 4d10 force damage.
 
@@ -2162,11 +2137,11 @@ If the sphere comes into contact with a planar portal, such as that created by t
 
 _Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)_
 
-While holding this staff, you can use an action to expend 1 of its 10 charges to cast _charm person_, _command_, _or comprehend languages_ from it using your spell save DC. The staff can also be used as a magic quarterstaff.
+While holding this staff, you can use an action to expend 1 of its 10 charges to cast _charm person_, _command_, _or comprehend languages_ from it using your spell save DC. The staff can also be used as a tek Bowstaff.
 
 If you are holding the staff and fail a saving throw against an enchantment spell that targets only you, you can turn your failed save into a successful one. You can’t use this property of the staff again until the next dawn. If you succeed on a save against an enchantment spell that targets only you, with or without the staff’s intervention, you can use your reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
 
-The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
+The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nontek Bowstaff.
 
 ### Staff of Fire
 
@@ -2200,15 +2175,15 @@ The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last
 
 _Staff, very rare (requires attunement by a sorcerer, warlock, or wizard)_
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
+This staff can be wielded as a tek Bowstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
 
 The staff has 20 charges for the following properties. The staff regains 2d8 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1d8 + 2 charges.
 
 **_Power Strike_**. When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d6 force damage to the target.
 
-**_Spells_**. While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: _cone of cold_ (5 charges), _fireball_ (5th-level version, 5 charges), _globe of invulnerability_ (6 charges), _hold monster_ (5 charges), _levitate_ (2 charges), _lightning bolt_ (5th-level version, 5 charges), _magic missile_ (1 charge), _ray of enfeeblement_ (1 charge), or _wall of force_ (5 charges).
+**_Spells_**. While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: _cone of cold_ (5 charges), _fireball_ (5th-level version, 5 charges), _globe of invulnerability_ (6 charges), _hold monster_ (5 charges), _levitate_ (2 charges), _lightning bolt_ (5th-level version, 5 charges), _tek missile_ (1 charge), _ray of enfeeblement_ (1 charge), or _wall of force_ (5 charges).
 
-**_Retributive Strike_**. You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.
+**_Retributive Strike_**. You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining tek in an explosion that expands to fill a 30-foot-radius sphere centered on it.
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
@@ -2222,9 +2197,9 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 
 _Staff, very rare (requires attunement)_
 
-This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
+This staff can be wielded as a tek Bowstaff that grants a +3 bonus to attack and damage rolls made with it.
 
-The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 force damage. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
+The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 force damage. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nontek Bowstaff.
 
 ### Staff of Swarming Insects
 
@@ -2240,17 +2215,17 @@ This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If
 
 _Staff, legendary (requires attunement by a sorcerer, warlock, or wizard)_
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
+This staff can be wielded as a tek Bowstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
 
 The staff has 50 charges for the following properties. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 20, the staff regains 1d12 + 1 charges.
 
-**_Spell Absorption_**. While holding the staff, you have advantage on saving throws against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell’s level. However, if doing so brings the staff’s total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).
+**_Spell Absorption_**. While holding the staff, you have advantage on saving throws against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the tek of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell’s level. However, if doing so brings the staff’s total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).
 
 **_Spells_**. While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and Techcasting ability: _conjure elemental_ (7 charges), _dispel magic_ (3 charges), _fireball_ (7th-level version, 7 charges), _flaming sphere_ (2 charges), _ice storm_ (4 charges), _invisibility_ (2 charges), _knock_ (2 charges), _lightning bolt_ (7th-level version, 7 charges), _passwall_ (5 charges), _plane shift_ (7 charges), _telekinesis_ (5 charges), _wall of fire_ (4 charges), or _web_ (2 charges).
 
 You can also use an action to cast one of the followingspellsfromthestaffwithoutusingany charges: _arcane lock_, _detect magic_, _enlarge/reduce_, _light_, _mage hand_, or _protection from evil and good._
 
-**_Retributive Strike_**. You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.
+**_Retributive Strike_**. You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining tek in an explosion that expands to fill a 30-foot-radius sphere centered on it.
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
@@ -2274,21 +2249,21 @@ If the snake is reduced to 0 hit points, it dies and reverts to its staff form. 
 
 _Staff, rare (requires attunement by a druid)_
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
+This staff can be wielded as a tek Bowstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
 
-The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
+The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nontek Bowstaff.
 
 **_Spells_**. You can use an action to expend 1 or more of the staff’s charges to cast one of the following spells from it, using your spell save DC: _animal friendship_ (1 charge), _awaken_ (5 charges), _barkskin_ (2 charges), _locate animals or plants_ (2 charges), _speak with animals_ (1 charge), _speak with plants_ (3 charges), or _wall of thorns_ (6 charges).
 
 You can also use an action to cast the _pass without trace_ spell from the staff without using any charges. **_Tree Form_**. You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.
 
-The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by _detect magic_. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
+The tree appears ordinary but radiates a faint aura of transmutation tek if targeted by _detect magic_. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
 
 ### Staff of Thunder and Lightning
 
 _Staff, very rare (requires attunement)_
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can’t be used again until the next dawn.
+This staff can be wielded as a tek Bowstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can’t be used again until the next dawn.
 
 **_Lightning_**. When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 lightning damage.
 
@@ -2306,7 +2281,7 @@ _Staff, rare (requires attunement by a cleric, druid, or warlock)_
 
 This staff has 3 charges and regains 1d3 expended charges daily at dawn.
 
-The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
+The staff can be wielded as a tek Bowstaff. On a hit, it deals damage as a normal Bowstaff, and you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
 
 ### Stone of Controlling Earth Elementals
 
@@ -2324,7 +2299,7 @@ While this polished agate is on your person, you gain a +1 bonus to ability chec
 
 _Weapon (pulse blade), rare (requires attunement)_
 
-This item appears to be a pulse blade hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic pulse blade has the finesse property. If you are proficient with ion blades or pulse blades, you are proficient with the _sun blade_.
+This item appears to be a pulse blade hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this tek pulse blade has the finesse property. If you are proficient with ion blades or pulse blades, you are proficient with the _sun blade_.
 
 You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra 1d8 radiant damage.
 
@@ -2334,13 +2309,13 @@ The sword’s luminous blade emits bright light in a 15-foot radius and dim ligh
 
 _Weapon (any sword), rare (requires attunement)_
 
-When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn’t a construct or an undead. You gain temporary hit points equal to the extra damage dealt.
+When you attack a creature with this tek weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn’t a construct or an undead. You gain temporary hit points equal to the extra damage dealt.
 
 ### Sword of Sharpness
 
 _Weapon (any sword that deals slashing damage), very rare (requires attunement)_
 
-When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
+When you attack an object with this tek sword and hit, maximize your weapon damage dice against the target.
 
 When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target’s limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.
 
@@ -2352,7 +2327,7 @@ _Weapon (any sword), rare (requires attunement)_
 
 Hit points lost to this weapon’s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 
-Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature’s turns, it takes 1d4 necrotic damage for each time you’ve wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
+Once per turn, when you hit a creature with an attack using this tek weapon, you can wound the target. At the start of each of the wounded creature’s turns, it takes 1d4 necrotic damage for each time you’ve wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
 
 ### Talisman of Pure Good
 
@@ -2402,7 +2377,7 @@ This book contains intuition and insight exercises, and its words are charged wi
 
 _Weapon (trident), uncommon (requires attunement)_
 
-This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast _dominate beast_ (save DC 15) from it on a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.
+This trident is a tek weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast _dominate beast_ (save DC 15) from it on a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.
 
 ### Universal Solvent
 
@@ -2414,13 +2389,13 @@ This tube holds milky liquid with a strong alcohol smell. You can use an action 
 
 _Weapon (any), rare_
 
-When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon’s type.
+When you roll a 20 on your attack roll with this tek weapon, your critical hit deals an extra 2d6 damage of the weapon’s type.
 
 ### Vorpal Sword
 
 _Weapon (any sword that deals slashing damage), legendary (requires attunement)_
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
+You gain a +3 bonus to attack and damage rolls made with this tek weapon. In addition, the weapon ignores resistance to slashing damage.
 
 When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature’s heads. The creature dies if it can’t survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn’t have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.
 
@@ -2478,7 +2453,7 @@ This wand has 3 charges. While holding it, you can expend 1 charge as an action 
 
 _Wand, uncommon_
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _magic missile_ spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the _tek missile_ spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
@@ -2557,7 +2532,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand�
 
 _Weapon (any), uncommon (+1), rare (+2), or very rare (+3)_
 
-You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon’s rarity.
+You have a bonus to attack and damage rolls made with this tek weapon. The bonus is determined by the weapon’s rarity.
 
 ### Well of Many Worlds
 
@@ -2571,7 +2546,7 @@ You can use an action to unfold and place the _well of many worlds_ on a solid s
 
 _Wondrous item, uncommon_
 
-While holding this fan, you can use an action to cast the _gust of wind_ spell (save DC 13) from it. Once used, the fan shouldn’t be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.
+While holding this fan, you can use an action to cast the _gust of wind_ spell (save DC 13) from it. Once used, the fan shouldn’t be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nontek tatters.
 
 ### Winged Boots
 
@@ -2587,21 +2562,21 @@ _Wondrous item, rare (requires attunement)_
 
 While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can’t use them again for 1d12 hours.
 
-## Sentient Magic Items
+## Sentient Alien Artifacts
 
-Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
+Some alien artifacts possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the tek used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
 
 Most sentient items are weapons. Other kinds of items can manifest sentience, but consumable items such as potions and scrolls are never sentient.
 
-Sentient magic items function as NPCs under the GM’s control. Any activated property of the item is under the item’s control, not its wielder’s. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
+Sentient alien artifacts function as NPCs under the GM’s control. Any activated property of the item is under the item’s control, not its wielder’s. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
 
-### Creating Sentient Magic Items
+### Creating Sentient Alien Artifacts
 
-When you decide to make a magic item sentient, you create the item’s persona in the same way you would create an NPC, with a few exceptions described here.
+When you decide to make a alien artifact sentient, you create the item’s persona in the same way you would create an NPC, with a few exceptions described here.
 
 ### Abilities
 
-A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can choose the item’s abilities or determine them randomly. To determine them randomly, roll 4d6 for each one, dropping the lowest roll and totaling the rest.
+A sentient alien artifact has Intelligence, Wisdom, and Charisma scores. You can choose the item’s abilities or determine them randomly. To determine them randomly, roll 4d6 for each one, dropping the lowest roll and totaling the rest.
 
 ### Communication
 
@@ -2626,7 +2601,7 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 
 ### Alignment
 
-A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
+A sentient alien artifact has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
 | d100   | Alignment       |
 |--------|-----------------|
@@ -2652,7 +2627,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 | 4   | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
 | 5   | _Templar_: The item seeks to defend the servants and interests of a particular deity.                                                    |
 | 6   | _Destroyer:_ The item craves destruction and goads its user to fight arbitrarily.                                                        |
-| 7   | _Glory Seeker:_ The item seeks renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure. |
+| 7   | _Glory Seeker:_ The item seeks renown as the greatest alien artifact in the world, by establishing its user as a famous or notorious figure. |
 | 8   | _Lore Seeker:_ The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.             |
 | 9   | _Destiny Seeker:_ The item is convinced that it and its wielder have key roles to play in future events.                                 |
 | 10  | _Creator Seeker:_ The item seeks its creator and wants to understand why it was created.                                                 |
@@ -2680,9 +2655,9 @@ _Wondrous item, artifact (requires attunement)_
 
 Ages past, elves and humans waged a terrible war against evil dragons. When the world seemed doomed, powerful wizards came together and worked their greatest magic, forging five _Orbs of Dragonkind_ (or _Dragon Orbs_) to help them defeat the dragons. One orb was taken to each of the five wizard towers, and there they were used to speed the war toward a victorious end. The wizards used the orbs to lure dragons to them, then destroyed the dragons with powerful magic.
 
-As the wizard towers fell in later ages, the orbs were destroyed or faded into legend, and only three are thought to survive. Their magic has been warped and twisted over the centuries, so although their primary purpose of calling dragons still functions, they also allow some measure of control over dragons.
+As the wizard towers fell in later ages, the orbs were destroyed or faded into legend, and only three are thought to survive. Their tek has been warped and twisted over the centuries, so although their primary purpose of calling dragons still functions, they also allow some measure of control over dragons.
 
-Each orb contains the essence of an evil dragon, a presence that resents any attempt to coax magic from it. Those lacking in force of personality might find themselves enslaved to an orb.
+Each orb contains the essence of an evil dragon, a presence that resents any attempt to coax tek from it. Those lacking in force of personality might find themselves enslaved to an orb.
 
 An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.
 
@@ -2702,4 +2677,4 @@ You can also use an action to cast the _detect magic_ spell from the orb without
 
 **_Call Dragons_**. While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can’t be used again for 1 hour.
 
-**_Destroying an Orb_**. An _Orb of Dragonkind_ appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A _disintegrate_ spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
+**_Destroying an Orb_**. An _Orb of Dragonkind_ appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A _disintegrate_ spell or one good hit from a +3 tek weapon is sufficient to destroy an orb, however.

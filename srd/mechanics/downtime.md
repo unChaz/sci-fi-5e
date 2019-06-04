@@ -18,7 +18,7 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 ##### Crafting
 
-You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
+You can craft nontek objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 500 credits, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 500 credits, you make progress every day in 5*00 credits increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,50000 credits) takes 300 days to craft by yourself.
 

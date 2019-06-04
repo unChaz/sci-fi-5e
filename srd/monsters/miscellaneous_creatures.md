@@ -1316,7 +1316,7 @@ _Small beast, unaligned_
 
 Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.
 
-**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by magical means, and the target’s hit point maximum decreases by 3 (1d6) every 24 hours. If the target’s hit point maximum drops to 0 as a result of this disease, the target dies.
+**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by tek means, and the target’s hit point maximum decreases by 3 (1d6) every 24 hours. If the target’s hit point maximum drops to 0 as a result of this disease, the target dies.
 
 #### Giant Scorpion
 
@@ -2059,7 +2059,7 @@ _Large monstrosity, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-A **phase spider** possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
+A **phase spider** possesses the tek ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 
 #### Poisonous Snake
 
@@ -2859,7 +2859,7 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 **_Armor and Weapon Swaps_**. You can upgrade or downgrade an NPC’s armor, or add or switch weapons. Adjustments to Armor Class and damage can change an NPC’s challenge rating.
 
-**_Magic Items_**. The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating.
+**_Alien Artifacts_**. The more powerful an NPC, the more likely it has one or more alien artifacts in its possession. An archmage, for example, might have a tek staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing alien artifact could alter its challenge rating.
 
 ### Acolyte
 
@@ -2909,7 +2909,7 @@ _Medium humanoid (any race), any alignment_
 
 **Skills** Arcana +13, History +13
 
-**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from _stoneskin_)
+**Damage Resistance** damage from spells; nontek bludgeoning, piercing, and slashing (from _stoneskin_)
 
 **Senses** passive Perception 12
 
@@ -2917,12 +2917,12 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 12 (8,400 XP)
 
-**_Magic Resistance_**. The archmage has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The archmage has advantage on saving throws against spells and other tek effects.
 
 **_Techcasting_**. The archmage is an 18th-level spellcaster. Its Techcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following wizard spells prepared:
 
 Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_, _shocking grasp_
-1st level (4 slots): _detect magic_, _identify_, _mage armor_\*, _magic missile_
+1st level (4 slots): _detect magic_, _identify_, _mage armor_\*, _tek missile_
 2nd level (3 slots): _detect thoughts_, _mirror image_, _misty step_
 3rd level (3 slots): _counterspell_, _fly_, _lightning bolt_
 4th level (3 slots): _banishment_, _fire shield_, _stoneskin_\*
@@ -2938,9 +2938,9 @@ Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_, _shoc
 
 **_ion dagger_**. _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2)  piercing damage.
 
-**Archmages** are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.
+**Archmages** are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their tek without interruption.
 
-An archmage typically has one or more apprentice mages, and an archmage’s abode has numerous magical wards and guardians to discourage interlopers.
+An archmage typically has one or more apprentice mages, and an archmage’s abode has numerous tek wards and guardians to discourage interlopers.
 
 ### Assassin
 
@@ -3012,7 +3012,7 @@ _Medium humanoid (any race), any non-lawful alignment_
 
 **Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 
-**Pirates** are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation’s vessels.
+**Pirates** are bandits of the high seas. They might be freebooters interested only in loot and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation’s vessels.
 
 ### Bandit Captain
 
@@ -3052,7 +3052,7 @@ It takes a strong personality, ruthless cunning, and a silver tongue to keep a g
 
 In addition to managing a crew of selfish malcontents, the **pirate captain** is a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis.
 
-More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain’s vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain’s colorful reputation.
+More than loot, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain’s vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain’s colorful reputation.
 
 ### Berserker
 
@@ -3198,7 +3198,7 @@ Cantrips (at will): _druidcraft_, _produce flame_, _shillelagh_
 
 **Actions**
 
-**_Quarterstaff_**. _Melee Weapon Attack:_ +2 to hit (+4 to hit with _shillelagh_), reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with _shillelagh_.
+**_Bowstaff_**. _Melee Weapon Attack:_ +2 to hit (+4 to hit with _shillelagh_), reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with _shillelagh_.
 
 **Druids** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
@@ -3339,7 +3339,7 @@ _Medium humanoid (any race), any alignment_
 **_Techcasting_**. The mage is a 9th-level spellcaster. Its Techcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
 Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_
-1st level (4 slots): _detect magic_, _mage armor_, _magic missile_, _shield_
+1st level (4 slots): _detect magic_, _mage armor_, _tek missile_, _shield_
 2nd level (3 slots): _misty step_, _suggestion_
 3rd level (3 slots): _counterspell_, _fireball_, _fly_
 4th level (3 slots): _greater invisibility_, _ice storm_

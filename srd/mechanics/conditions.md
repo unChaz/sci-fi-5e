@@ -15,7 +15,7 @@ The following definitions specify what happens to a creature while it is subject
 * Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
 
 ### Charmed
-* A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
+* A charmed creature can’t attack the charmer or target the charmer with harmful abilities or tek effects.
 * The charmer has advantage on any ability check to interact socially with the creature.
 
 ### Deafened
@@ -55,7 +55,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 * An incapacitated creature can’t take actions or reactions.
 
 ### Invisible
-* An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature’s location can be detected by any noise it makes or any tracks it leaves.
+* An invisible creature is impossible to see without the aid of tek or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature’s location can be detected by any noise it makes or any tracks it leaves.
 * Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
 
 ### Paralyzed
@@ -65,7 +65,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 ### Petrified
-* A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+* A petrified creature is transformed, along with any nontek object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 * The creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings.
 * Attack rolls against the creature have advantage.
 * The creature automatically fails Strength and Dexterity saving throws.

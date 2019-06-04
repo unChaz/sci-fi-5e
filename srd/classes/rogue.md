@@ -125,7 +125,7 @@ Rogues have many features in common, including their emphasis on perfecting thei
 
 ##### Thief
 
-You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
+You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional loot seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using alien artifacts you normally couldn’t employ.
 
 ###### Fast Hands
 
@@ -143,7 +143,7 @@ Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you 
 
 ###### Use Magic Device
 
-By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
+By 13th level, you have learned enough about the workings of tek that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of alien artifacts.
 
 ###### Thief’s Reflexes
 

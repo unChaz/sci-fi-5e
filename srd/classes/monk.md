@@ -69,7 +69,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 
 * You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
 * You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-* When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+* When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a Bowstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
@@ -131,7 +131,7 @@ Starting at 5th level, you can interfere with the flow of ki in an opponent’s 
 
 #### Ki-Empowered Strikes
 
-Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+Starting at 6th level, your unarmed strikes count as tek for the purpose of overcoming resistance and immunity to nontek attacks and damage.
 
 #### Evasion
 

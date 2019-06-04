@@ -66,7 +66,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
 
-Your spells are part of your vast repertoire, magic that you can tune to different situations.
+Your spells are part of your vast repertoire, tek that you can tune to different situations.
 
 ##### Cantrips
 
@@ -88,7 +88,7 @@ Additionally, when you gain a level in this class, you can choose one of the bar
 
 ##### Techcasting Ability
 
-Charisma + Wit is your Techcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your Techcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+Charisma + Wit is your Techcasting ability for your bard spells. Your tek comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your Techcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier + your Wit modifier
 
@@ -148,7 +148,7 @@ At 6th level, you gain the ability to use musical notes or words of power to dis
 
 #### Magical Secrets
 
-By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
+By 10th level, you have plundered tek knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
 
 The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
 

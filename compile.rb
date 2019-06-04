@@ -38,7 +38,7 @@ class Compiler
   end
 
   def main_template
-    @main_template ||= File.open('srd/layout.md')
+    @main_template ||= File.open('srd/layout.html')
   end
 
   def load_sub_template(name)

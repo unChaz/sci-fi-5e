@@ -81,7 +81,7 @@ You can also change your list of prepared spells when you finish a long rest. Pr
 
 #### Techcasting Ability
 
-Wisdom + Will is your Techcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your Techcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+Wisdom + Will is your Techcasting ability for your druid spells, since your tek draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your Techcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
 
@@ -129,7 +129,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 #### Timeless Body
 
-Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+Starting at 18th level, the primal tek that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
 #### Beast Spells
 
@@ -145,7 +145,7 @@ Additionally, you can ignore the verbal and somatic components of your druid spe
 
 ##### Circle of the Land
 
-The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
+The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your tek is influenced by the land where you were initiated into the circle’s mysterious rites.
 
 ###### Bonus Cantrip
 
@@ -153,7 +153,7 @@ When you choose this circle at 2nd level, you learn one additional druid cantrip
 
 ###### Natural Recovery
 
-Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level
+Starting at 2nd level, you can regain some of your tek energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level
 (rounded up), and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
@@ -222,14 +222,14 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Circle Spells                        |
 |-------------|--------------------------------------|
-| 3rd         | acid arrow, darkness                 |
+| 3rd         | acid bullet, darkness                 |
 | 5th         | water walk, stinking cloud           |
 | 7th         | freedom of movement, locate creature |
 | 9th         | insect plague, scrying               |
 
 ###### Land’s Stride
 
-Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+Starting at 6th level, moving through nontek difficult terrain costs you no extra movement. You can also pass through nontek plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
 
@@ -247,7 +247,7 @@ The creature is aware of this effect before it makes its attack against you.
 >
 > A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a Techcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 >
-> Similarly, a druid uses such woods to make other objects, such as weapons and pulse shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as pulse shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or ion daggers.
+> Similarly, a druid uses such woods to make other objects, such as weapons and pulse shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or Bowstaffs, as well as pulse shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or ion daggers.
 >
 > Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
 

@@ -112,7 +112,7 @@ If you have a domain spell that doesn’t appear on the cleric spell list, the s
 
 #### Channel Divinity
 
-At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel tek effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
 

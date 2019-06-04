@@ -25,13 +25,13 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 
 #### Type
 
-A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an _arrow of dragon slaying_ deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
+A monster’s type speaks to its fundamental nature. Certain spells, alien artifacts, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an _bullet of dragon slaying_ deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
 
-**Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature’s alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
+**Aberrations** are utterly alien beings. Many of them have innate tek abilities drawn from the creature’s alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
 
-**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
+**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have tek powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
 
 **Celestials** are creatures native to the Upper
 
@@ -43,25 +43,25 @@ Planes. Many of them are the servants of deities, employed as messengers or agen
 
 **Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers, invisible stalkers, and water weirds.
 
-**Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
+**Fey** are tek creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
 
 **Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
 
 **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 
-**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn Techcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
+**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate tek abilities (though most humanoids can learn Techcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
 
-**Monstrosities** are monsters in the strictest sense—frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs and yuan-ti). They defy categorization, and in some sense serve as a catch-all category for creatures that don’t fit into any other type.
+**Monstrosities** are monsters in the strictest sense—frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of tek experimentation gone awry (such as owlbears), and others are the product of terrible hacks (including minotaurs and yuan-ti). They defy categorization, and in some sense serve as a catch-all category for creatures that don’t fit into any other type.
 
 **Oozes** are gelatinous creatures that rarely have a fixed shape. They are mostly subterranean, dwelling in caves and dungeons and feeding on refuse, carrion, or creatures unlucky enough to get in their way. Black puddings and gelatinous cubes are among the most recognizable oozes.
 
 **Plants** in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the shambling mound and the treant. Fungal creatures such as the gas spore and the myconid also fall into this category.
 
-**Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
+**Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic tek or some unholy hack. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 
 ##### Tags
 
-A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the _humanoid (orc)_ type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
+A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the _humanoid (orc)_ type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a alien artifact, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
 #### Alignment
 
@@ -180,7 +180,7 @@ A skill bonus is the sum of a monster’s relevant ability modifier and its prof
 
 #### Vulnerabilities, Resistances, and Immunities
 
-Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nonmagical attacks (a magical attack is an attack delivered by a spell, a magic item, or another magical source). In addition, some creatures are immune to certain conditions.
+Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nontek attacks (a tek attack is an attack delivered by a spell, a alien artifact, or another tek source). In addition, some creatures are immune to certain conditions.
 
 #### Senses
 
@@ -204,7 +204,7 @@ A monster with tremorsense can detect and pinpoint the origin of vibrations with
 
 #### Truesight
 
-A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+A monster with truesight can, out to a specific range, see in normal and tek darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
 
 >**Armor, Weapon, and Tool Proficiencies**
 >
@@ -220,11 +220,11 @@ The languages that a monster can speak are listed in alphabetical order. Sometim
 
 ##### Telepathy
 
-Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn’t need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can’t initiate or terminate a telepathic conversation.
+Telepathy is a tek ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn’t need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can’t initiate or terminate a telepathic conversation.
 
 A telepathic monster doesn’t need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can’t initiate telepathic contact, and any current contact is terminated.
 
-A creature within the area of an _antimagic field_ or in any other location where magic doesn’t function can’t send or receive telepathic messages.
+A creature within the area of an _antitek field_ or in any other location where tek doesn’t function can’t send or receive telepathic messages.
 
 #### Challenge
 
@@ -238,7 +238,7 @@ Some monsters present a greater challenge than even a typical 20th-level party c
 
 The number of experience points (XP) a monster is worth is based on its challenge rating. Typically, XP is awarded for defeating the monster, although the GM may also award XP for neutralizing the threat posed by the monster in some other manner.
 
-Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
+Unless something tells you otherwise, a monster summoned by a spell or other tek ability is worth the XP noted in its stat block.
 
 **Experience Points by Challenge Rating (table)**
 
@@ -285,7 +285,7 @@ A monster’s innate spells can’t be swapped out with other spells. If a monst
 
 A monster with the Techcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the _Player’s Handbook_). The spellcaster level is also used for any cantrips included in the feature.
 
-The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
+The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a alien artifact that requires membership in the class or access to its spell list.
 
 A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-level _lightning bolt_ spell can cast it as a 5th-level spell by using one of its 5th-level greater or lesser threat than suggested by its challenge rating.
 
@@ -347,7 +347,7 @@ If a Techcasting monster needs material components to cast its spells, assume th
 
 ### Legendary Creatures
 
-A legendary creature can do things that ordinary creatures can’t. It can take special actions outside its turn, and it might exert magical influence for miles around.
+A legendary creature can do things that ordinary creatures can’t. It can take special actions outside its turn, and it might exert tek influence for miles around.
 
 If a creature assumes the form of a legendary creature, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
 
@@ -361,7 +361,7 @@ A legendary creature might have a section describing its lair and the special ef
 
 ##### Lair Actions
 
-If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.
+If a legendary creature has lair actions, it can use them to harness the ambient tek in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.
 
 ##### Regional Effects
 
@@ -403,7 +403,7 @@ _Large aberration, lawful evil_
 
 **_Multiattack_**. The aboleth makes three tentacle attacks.
 
-**_Tentacle_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature’s skin becomes translucent and slimy, the creature can’t regain hit points unless it is underwater, and the disease can be removed only by _heal_ or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+**_Tentacle_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any tek that cures disease. After 1 minute, the diseased creature’s skin becomes translucent and slimy, the creature can’t regain hit points unless it is underwater, and the disease can be removed only by _heal_ or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
 
 **_Tail_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft. one target. _Hit:_ 15 (3d6 + 5) bludgeoning damage.
 
@@ -441,7 +441,7 @@ _Medium celestial, lawful good_
 
 **Skills** Insight +9, Perception +9
 
-**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** charmed, exhaustion, frightened
 
@@ -458,7 +458,7 @@ _Medium celestial, lawful good_
 At will: _detect evil and good_
 1/day each: _commune_, _raise dead_
 
-**_Magic Resistance_**. The deva has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The deva has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -466,7 +466,7 @@ At will: _detect evil and good_
 
 **_Mace_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 
-**_Healing Touch (3/Day)_**. The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+**_Healing Touch (3/Day)_**. The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any hack, disease, poison, blindness, or deafness.
 
 **_Change Shape_**. The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva’s choice).
 
@@ -490,7 +490,7 @@ _Large celestial, lawful good_
 
 **Skills** Perception +11
 
-**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** charmed, exhaustion, frightened
 
@@ -510,7 +510,7 @@ At will: _detect evil and good_, _invisibility_ (self only)
 3/day each: _blade barrier_, _dispel evil and good_, _flame strike_, _raise dead_
 1/day each: _commune_, _control weather_, _insect plague_
 
-**_Magic Resistance_**. The planetar has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The planetar has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -518,7 +518,7 @@ At will: _detect evil and good_, _invisibility_ (self only)
 
 **_Greatsword_**. _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 
-**_Healing Touch (4/Day)_**. The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+**_Healing Touch (4/Day)_**. The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any hack, disease, poison, blindness, or deafness.
 
 ##### Solar
 
@@ -538,7 +538,7 @@ _Large celestial, lawful good_
 
 **Skills** Perception +14
 
-**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** necrotic, poison
 
@@ -560,7 +560,7 @@ At will: _detect evil and good_, _invisibility_ (self only)
 3/day each: _blade barrier_, _dispel evil and good_, _resurrection_
 1/day each: _commune_, _control weather_
 
-**_Magic Resistance_**. The solar has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The solar has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -572,7 +572,7 @@ At will: _detect evil and good_, _invisibility_ (self only)
 
 **_Flying Sword_**. The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar’s hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
 
-**_Healing Touch (4/Day)_**. The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+**_Healing Touch (4/Day)_**. The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any hack, disease, poison, blindness, or deafness.
 
 **Legendary Actions**
 
@@ -582,7 +582,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_Searing Burst (Costs 2 Actions)_**. The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
 
-**_Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the _lesser restoration_ spell removes the blindness.
+**_Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until tek such as the _lesser restoration_ spell removes the blindness.
 
 #### Animated Objects
 
@@ -610,7 +610,7 @@ _Medium construct, unaligned_
 
 **Challenge** 1 (200 XP)
 
-**_Antimagic Susceptibility_**. The armor is incapacitated while in the area of an _antimagic field._ If targeted by _dispel magic_, the armor must succeed on a
+**_Antitek Susceptibility_**. The armor is incapacitated while in the area of an _antitek field._ If targeted by _dispel magic_, the armor must succeed on a
 
 Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 
@@ -648,7 +648,7 @@ _Small construct, unaligned_
 
 **Challenge** 1/4 (50 XP)
 
-**_Antimagic Susceptibility_**. The sword is incapacitated while in the area of an _antimagic field._ If targeted by _dispel magic_, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+**_Antitek Susceptibility_**. The sword is incapacitated while in the area of an _antitek field._ If targeted by _dispel magic_, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 
 **_False Appearance_**. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
 
@@ -680,7 +680,7 @@ _Large construct, unaligned_
 
 **Challenge** 2 (450 XP)
 
-**_Antimagic Susceptibility_**. The rug is incapacitated while in the area of an _antimagic field._ If targeted by _dispel magic_, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+**_Antitek Susceptibility_**. The rug is incapacitated while in the area of an _antitek field._ If targeted by _dispel magic_, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 
 **_Damage Transfer_**. While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
 
@@ -912,7 +912,7 @@ _Large monstrosity, neutral good_
 
 **Actions**
 
-**_Multiattack_**. The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
+**_Multiattack_**. The centaur makes two attacks: one with its pike and one with its hooves or two with its railrifle.
 
 **_Pike_**. _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.
 
@@ -982,7 +982,7 @@ _Large aberration, chaotic evil_
 
 **_Amphibious_**. The chuul can breathe air and water.
 
-**_Sense Magic_**. The chuul senses magic within 120 feet of it at will. This trait otherwise works like the _detect magic_ spell but isn’t itself magical.
+**_Sense Magic_**. The chuul senses tek within 120 feet of it at will. This trait otherwise works like the _detect magic_ spell but isn’t itself magical.
 
 **Actions**
 
@@ -1032,7 +1032,7 @@ _Large aberration, chaotic neutral_
 
 **_Phantasms (Recharges after a Short or Long Rest)_**. The cloaker magically creates three illusory duplicates of itself if it isn’t in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
 
-Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can’t see or if it relies on senses other than sight.
+Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this tek effect if it can’t see or if it relies on senses other than sight.
 
 A duplicate has the cloaker’s AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
 
@@ -1078,7 +1078,7 @@ _Medium celestial, lawful good_
 
 **Damage Resistances** radiant
 
-**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nontek attacks
 
 **Senses** truesight 120 ft., passive Perception 15
 
@@ -1142,7 +1142,7 @@ While attached to the target, the darkmantle can attack no other creature except
 
 A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
 
-**_Darkness Aura (1/Day)_**. A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
+**_Darkness Aura (1/Day)_**. A 15-foot radius of tek darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
 #### Demons
 
@@ -1162,7 +1162,7 @@ _Huge fiend (demon), chaotic evil_
 
 **Saving Throws** Str +14, Con +12, Wis +9, Cha +12
 
-**Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** fire, poison
 
@@ -1178,7 +1178,7 @@ _Huge fiend (demon), chaotic evil_
 
 **_Fire Aura_**. At the start of each of the balor’s turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren’t being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 
-**_Magic Resistance_**. The balor has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The balor has advantage on saving throws against spells and other tek effects.
 
 **_Magic Weapons_**. The balor’s weapon attacks are magical.
 
@@ -1244,7 +1244,7 @@ _Large fiend (demon), chaotic evil_
 
 **Saving Throws** Str +9, Con +9, Wis +7, Cha +7
 
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -1261,7 +1261,7 @@ _Large fiend (demon), chaotic evil_
 At will: _darkness_, _detect magic_, _dispel magic_
 1/day each: _confusion_, _fly_, _power word stun_
 
-**_Magic Resistance_**. The glabrezu has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The glabrezu has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1287,7 +1287,7 @@ _Large fiend (demon), chaotic evil_
 
 **Saving Throws** Str +7, Con +8, Wis +4
 
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -1299,7 +1299,7 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 8 (3,900 XP)
 
-**_Magic Resistance_**. The hezrou has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The hezrou has advantage on saving throws against spells and other tek effects.
 
 **_Stench_**. Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou’s stench for 24 hours.
 
@@ -1327,7 +1327,7 @@ _Large fiend (demon), chaotic evil_
 
 **Saving Throws** Str +9, Con +10, Wis +8, Cha +10
 
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -1339,7 +1339,7 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 16 (15,000 XP)
 
-**_Magic Resistance_**. The marilith has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The marilith has advantage on saving throws against spells and other tek effects.
 
 **_Magic Weapons_**. The marilith’s weapon attacks are magical.
 
@@ -1375,7 +1375,7 @@ _Large fiend (demon), chaotic evil_
 
 **Saving Throws** Con +11, Int +9, Wis +6, Cha +7
 
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -1387,7 +1387,7 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 13 (10,000 XP)
 
-**_Magic Resistance_**. The nalfeshnee has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The nalfeshnee has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1417,7 +1417,7 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 
 **Skills** Stealth +5
 
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -1431,7 +1431,7 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 
 **_Shapechanger_**. The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
-**_Magic Resistance_**. The quasit has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The quasit has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1457,7 +1457,7 @@ _Large fiend (demon), chaotic evil_
 
 **Saving Throws** Dex +5, Wis +4, Cha +2
 
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -1469,7 +1469,7 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 6 (2,300 XP)
 
-**_Magic Resistance_**. The vrock has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The vrock has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1503,7 +1503,7 @@ _Medium fiend (devil), lawful evil_
 
 **Skills** Charm +5, Insight +5, Perception +8
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** fire, poison
 
@@ -1519,7 +1519,7 @@ _Medium fiend (devil), lawful evil_
 
 **_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1547,7 +1547,7 @@ _Medium fiend (devil), lawful evil_
 
 **Saving Throws** Str +5, Con +4, Wis +2
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** fire, poison
 
@@ -1561,7 +1561,7 @@ _Medium fiend (devil), lawful evil_
 
 **_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
 
 **_Steadfast_**. The devil can’t be frightened while it can see an allied creature within 30 feet of it.
 
@@ -1571,7 +1571,7 @@ _Medium fiend (devil), lawful evil_
 
 **_Beard_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can’t regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**_Glaive_**. _Melee Weapon Attack:_ +5 to hit, reach 10 ft., one target. _Hit:_ 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+**_Glaive_**. _Melee Weapon Attack:_ +5 to hit, reach 10 ft., one target. _Hit:_ 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives tek healing.
 
 ##### Bone Devil
 
@@ -1591,7 +1591,7 @@ _Large fiend (devil), lawful evil_
 
 **Skills** Charm +7, Insight +6
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** fire, poison
 
@@ -1605,7 +1605,7 @@ _Large fiend (devil), lawful evil_
 
 **_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1631,7 +1631,7 @@ _Medium fiend (devil), lawful evil_
 
 **Saving Throws** Con +7, Wis +4, Cha +5
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** fire, poison
 
@@ -1645,7 +1645,7 @@ _Medium fiend (devil), lawful evil_
 
 **_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1677,7 +1677,7 @@ _Medium fiend (devil), lawful evil_
 
 **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** fire, poison
 
@@ -1689,9 +1689,9 @@ _Medium fiend (devil), lawful evil_
 
 **Challenge** 12 (8,400 XP)
 
-**_Hellish Weapons_**. The erinyes’s weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
+**_Hellish Weapons_**. The erinyes’s weapon attacks are tek and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
 
-**_Magic Resistance_**. The erinyes has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The erinyes has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1721,7 +1721,7 @@ _Large fiend (devil), lawful evil_
 
 **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nontek attacks not made with silvered weapons
 
 **Damage Immunities** fire, poison
 
@@ -1735,7 +1735,7 @@ _Large fiend (devil), lawful evil_
 
 **_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1743,7 +1743,7 @@ _Large fiend (devil), lawful evil_
 
 **_Fork_**. _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage.
 
-**_Tail_**. _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+**_Tail_**. _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives tek healing.
 
 **_Hurl Flame_**. Ranged Spell Attack:_ +7 to hit, range 150 ft., one target. _Hit:_ 14 (4d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
 
@@ -1763,7 +1763,7 @@ _Large fiend (devil), lawful evil_
 
 **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** cold, fire, poison
 
@@ -1791,7 +1791,7 @@ _Tiny fiend (devil, shapechanger), lawful evil_
 |---------|---------|---------|---------|---------|---------|
 | 6 (−2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1812,7 +1812,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Skills** Charm +4, Insight +3, Charm +4, Stealth +5
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** fire, poison
 
@@ -1828,7 +1828,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **_Devil’s Sight_**. Magical darkness doesn’t impede the imp’s darkvision.
 
-**_Magic Resistance_**. The imp has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The imp has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -1886,7 +1886,7 @@ _Large fiend (devil), lawful evil_
 
 **Saving Throws** Dex +8, Con +13, Wis +10
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** fire, poison
 
@@ -1900,7 +1900,7 @@ _Large fiend (devil), lawful evil_
 
 **_Fear Aura_**. Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature’s saving throw is successful, the creature is immune to the pit fiend’s Fear Aura for the next 24 hours.
 
-**_Magic Resistance_**. The pit fiend has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The pit fiend has advantage on saving throws against spells and other tek effects.
 
 **_Magic Weapons_**. The pit fiend’s weapon attacks are magical.
 
@@ -3956,7 +3956,7 @@ _Large monstrosity, chaotic evil_
 
 **Challenge** 6 (2,300 XP)
 
-**_Fey Ancestry_**. The drider has advantage on saving throws against being charmed, and magic can’t put the drider to sleep.
+**_Fey Ancestry_**. The drider has advantage on saving throws against being charmed, and tek can’t put the drider to sleep.
 
 **_Innate Techcasting_**. The drider’s innate Techcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
 
@@ -3971,7 +3971,7 @@ At will: _dancing lights_
 
 **Actions**
 
-**_Multiattack_**. The drider makes three attacks, either with its pulse blade or its longbow. It can replace one of those attacks with a bite attack.
+**_Multiattack_**. The drider makes three attacks, either with its pulse blade or its railrifle. It can replace one of those attacks with a bite attack.
 
 **_Bite_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 2 (1d4) piercing damage plus 9 (2d8) poison damage.
 
@@ -4007,7 +4007,7 @@ At will: _druidcraft_
 3/day each: _entangle_, _goodberry_
 1/day each: _barkskin_, _pass without trace_, _shillelagh_
 
-**_Magic Resistance_**. The dryad has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The dryad has advantage on saving throws against spells and other tek effects.
 
 **_Speak with Beasts and Plants_**. The dryad can communicate with beasts and plants as if they shared a language.
 
@@ -4077,7 +4077,7 @@ _Large elemental, neutral_
 |---------|---------|---------|--------|---------|--------|
 | 14 (+2) | 20 (+5) | 14 (+2) | 6 (−2) | 10 (+0) | 6 (−2) |
 
-**Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -4089,7 +4089,7 @@ _Large elemental, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Air Form_**. The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+**_Air Form_**. The elemental can enter a hostile creature’s space and stop there. It can move through a space as nbullet as 1 inch wide without squeezing.
 
 **Actions**
 
@@ -4117,7 +4117,7 @@ _Large elemental, neutral_
 
 **Damage Vulnerabilities** thunder
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -4153,7 +4153,7 @@ _Large elemental, neutral_
 |---------|---------|---------|--------|---------|--------|
 | 10 (+0) | 17 (+3) | 16 (+3) | 6 (−2) | 10 (+0) | 7 (−2) |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** fire, poison
 
@@ -4165,7 +4165,7 @@ _Large elemental, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Fire Form_**. The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+**_Fire Form_**. The elemental can move through a space as nbullet as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
 
 **_Illumination_**. The elemental sheds bright light in a 30- foot radius and dim light in an additional 30 feet.
 
@@ -4191,7 +4191,7 @@ _Large elemental, neutral_
 |---------|---------|---------|--------|---------|---------|
 | 18 (+4) | 14 (+2) | 18 (+4) | 5 (−3) | 10 (+0) | 8 (−1) |
 
-**Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** acid; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -4203,7 +4203,7 @@ _Large elemental, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Water Form_**. The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+**_Water Form_**. The elemental can enter a hostile creature’s space and stop there. It can move through a space as nbullet as 1 inch wide without squeezing.
 
 **_Freeze_**. If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
 
@@ -4241,7 +4241,7 @@ _Medium humanoid (elf), neutral evil_
 
 **Challenge** 1/4 (50 XP)
 
-**_Fey Ancestry_**. The drow has advantage on saving throws against being charmed, and magic can’t put the drow to sleep.
+**_Fey Ancestry_**. The drow has advantage on saving throws against being charmed, and tek can’t put the drow to sleep.
 
 **_Innate Techcasting_**. The drow’s Techcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
@@ -4407,7 +4407,7 @@ _Medium elemental, chaotic evil_
 |---------|---------|---------|--------|---------|--------|
 | 15 (+2) | 11 (+0) | 16 (+3) | 6 (−2) | 11 (+0) | 7 (−2) |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
 
 **Damage Immunities** poison
 
@@ -4527,7 +4527,7 @@ _Medium undead, any alignment_
 |--------|---------|---------|---------|---------|---------|
 | 7 (−2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
 
-**Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** cold, necrotic, poison
 
@@ -4844,7 +4844,7 @@ At will: _detect magic_, _feather fall_, _levitate_, _light_
 
 **_Rock_**. _Ranged Weapon Attack:_ +14 to hit, range 60/240 ft., one target. _Hit:_ 35 (4d12 + 9) bludgeoning damage.
 
-**_Lightning Strike (Recharge 5–6)_**. The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+**_Lightning Strike (Recharge 5–6)_**. The giant hurls a tek lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
 #### Gibbering Mouther
 
@@ -4993,7 +4993,7 @@ _Large construct, unaligned_
 |---------|--------|---------|--------|--------|--------|
 | 20 (+5) | 9 (−1) | 18 (+4) | 3 (−4) | 8 (−1) | 1 (−5) |
 
-**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
+**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
@@ -5009,7 +5009,7 @@ _Large construct, unaligned_
 
 **_Immutable Form_**. The golem is immune to any spell or effect that would alter its form.
 
-**_Magic Resistance_**. The golem has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The golem has advantage on saving throws against spells and other tek effects.
 
 **_Magic Weapons_**. The golem’s weapon attacks are magical.
 
@@ -5035,7 +5035,7 @@ _Medium construct, neutral_
 |---------|--------|---------|--------|---------|--------|
 | 19 (+4) | 9 (−1) | 18 (+4) | 6 (−2) | 10 (+0) | 5 (−3) |
 
-**Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
+**Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
@@ -5055,7 +5055,7 @@ The golem’s creator, if within 60 feet of the berserk golem, can try to calm i
 
 **_Lightning Absorption**_. Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
 
-**_Magic Resistance_**. The golem has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The golem has advantage on saving throws against spells and other tek effects.
 
 **_Magic Weapons_**. The golem’s weapon attacks are magical.
 
@@ -5079,7 +5079,7 @@ _Large construct, unaligned_
 |---------|--------|---------|--------|---------|--------|
 | 24 (+7) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
-**Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
+**Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
@@ -5093,7 +5093,7 @@ _Large construct, unaligned_
 
 **_Immutable Form_**. The golem is immune to any spell or effect that would alter its form.
 
-**_Magic Resistance_**. The golem has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The golem has advantage on saving throws against spells and other tek effects.
 
 **_Magic Weapons_**. The golem’s weapon attacks are magical.
 
@@ -5121,7 +5121,7 @@ _Large construct, unaligned_
 |---------|--------|---------|--------|---------|--------|
 | 22 (+6) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
-**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
+**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
@@ -5133,7 +5133,7 @@ _Large construct, unaligned_
 
 **_Immutable Form_**. The golem is immune to any spell or effect that would alter its form.
 
-**_Magic Resistance_**. The golem has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The golem has advantage on saving throws against spells and other tek effects.
 
 **_Magic Weapons_**. The golem’s weapon attacks are magical.
 
@@ -5193,7 +5193,7 @@ _Medium monstrosity, neutral_
 |---------|---------|---------|--------|---------|--------|
 | 14 (+2) | 14 (+2) | 11 (+0) | 3 (−4) | 14 (+2) | 5 (−3) |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
 **Senses** darkvision 60 ft., passive Perception 12
 
@@ -5315,7 +5315,7 @@ At will: _dancing lights_, _minor illusion_, _vicious mockery_
 
 **_Claws_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 
-**_Illusory Appearance_**. The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
+**_Illusory Appearance_**. The hag covers herself and anything she is wearing or carrying with a tek illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
 
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
 
@@ -5337,7 +5337,7 @@ _Medium fiend, neutral evil_
 
 **Skills** Charm +7, Insight +6, Perception +6, Stealth +6
 
-**Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nontek attacks not made with silvered weapons
 
 **Condition Immunities** charmed
 
@@ -5349,10 +5349,10 @@ _Medium fiend, neutral evil_
 
 **_Innate Techcasting_**. The hag’s innate Techcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
-At will: _detect magic_, _magic missile_
+At will: _detect magic_, _tek missile_
 2/day each: _plane shift_ (self only), _ray of enfeeblement_, _sleep_
 
-**_Magic Resistance_**. The hag has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The hag has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -5362,7 +5362,7 @@ At will: _detect magic_, _magic missile_
 
 **_Etherealness_**. The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a _heartstone_ in her possession.
 
-**_Nightmare Haunting (1/Day)_**. While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A _protection from evil and good_ spell cast on the target prevents this contact, as does a _magic circle_. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target’s hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag’s _soul bag_. The reduction to the target’s hit point maximum lasts until removed by the _greater restoration_ spell or similar magic.
+**_Nightmare Haunting (1/Day)_**. While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A _protection from evil and good_ spell cast on the target prevents this contact, as does a _tek circle_. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target’s hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag’s _soul bag_. The reduction to the target’s hit point maximum lasts until removed by the _greater restoration_ spell or similar magic.
 
 ##### Sea Hag
 
@@ -5394,9 +5394,9 @@ Unless the target is surprised or the revelation of the hag’s true form is sud
 
 **_Claws_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 
-**_Death Glare_**. The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
+**_Death Glare_**. The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this tek or drop to 0 hit points.
 
-**_Illusory Appearance_**. The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
+**_Illusory Appearance_**. The hag covers herself and anything she is wearing or carrying with a tek illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
 
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 
@@ -5492,7 +5492,7 @@ _Medium monstrosity, chaotic evil_
 
 **_Club_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
 
-**_Luring Song_**. The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
+**_Luring Song_**. The harpy sings a tek melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
 
 While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
 
@@ -5680,7 +5680,7 @@ _Medium elemental, neutral_
 
 **Skills** Perception +8, Stealth +10
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -5750,7 +5750,7 @@ _Gargantuan monstrosity (titan)**,** chaotic evil_
 
 **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
 
-**Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Immunities** lightning; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** frightened, paralyzed
 
@@ -5762,7 +5762,7 @@ _Gargantuan monstrosity (titan)**,** chaotic evil_
 
 **_Amphibious_**. The kraken can breathe air and water.
 
-**_Freedom of Movement_**. The kraken ignores difficult terrain, and magical effects can’t reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled.
+**_Freedom of Movement_**. The kraken ignores difficult terrain, and tek effects can’t reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nontek restraints or being grappled.
 
 **_Siege Monster_**. The kraken deals double damage to objects and structures.
 
@@ -5828,7 +5828,7 @@ At will: _disguise self_ (any humanoid form), _major image_
 
 **_ion dagger_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
 
-**_Intoxicating Touch_**. Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+**_Intoxicating Touch_**. Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ The target is magically hacked for 1 hour. Until the hack ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 
 #### Lich
 
@@ -5850,7 +5850,7 @@ _Medium undead, any evil alignment_
 
 **Damage Resistances** cold, lightning, necrotic
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Immunities** poison; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
@@ -5867,8 +5867,8 @@ _Medium undead, any evil alignment_
 **_Techcasting_**. The lich is an 18th-level spellcaster. Its Techcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
 Cantrips (at will): _mage hand_, _prestidigitation_, _ray of frost_
-1st level (4 slots): _detect magic_, _magic missile_, _shield_, _thunderwave_
-2nd level (3 slots): _acid arrow_, _detect thoughts_, _invisibility_, _mirror image_
+1st level (4 slots): _detect magic_, _tek missile_, _shield_, _thunderwave_
+2nd level (3 slots): _acid bullet_, _detect thoughts_, _invisibility_, _mirror image_
 3rd level (3 slots): _animate dead_, _counterspell_, _dispel magic_, _fireball_
 4th level (3 slots): _blight_, _dimension door_
 5th level (3 slots): _cloudkill_, _scrying_
@@ -5891,7 +5891,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **_Paralyzing Touch (Costs 2 Actions)_**. The lich uses its Paralyzing Touch.
 
-**_Frightening Gaze (Costs 2 Actions)_**. The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
+**_Frightening Gaze (Costs 2 Actions)_**. The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this tek or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
 
 **_Disrupt Life (Costs 3 Actions)_**. Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 
@@ -5949,7 +5949,7 @@ _Medium humanoid (human, shapechanger), neutral good_
 
 **Skills** Perception +7
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Damage Immunities** bludgeoning, piercing, and slashing from nontek attacks not made with silvered weapons
 
 **Senses** passive Perception 17
 
@@ -5965,7 +5965,7 @@ _Medium humanoid (human, shapechanger), neutral good_
 
 **_Multiattack_**. In bear form, the werebear makes two claw attacks. In humanoid form, it makes two pulse axe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
-**_Bite (Bear or Hybrid Form Only)_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
+**_Bite (Bear or Hybrid Form Only)_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be hacked with werebear lycanthropy.
 
 **_Claw (Bear or Hybrid Form Only)_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 
@@ -5987,7 +5987,7 @@ _Medium humanoid (human, shapechanger), neutral evil_
 
 **Skills** Perception +2
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Damage Immunities** bludgeoning, piercing, and slashing from nontek attacks not made with silvered weapons
 
 **Senses** passive Perception 12
 
@@ -6007,7 +6007,7 @@ _Medium humanoid (human, shapechanger), neutral evil_
 
 **_Maul (Humanoid or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage.
 
-**_Tusks (Boar or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+**_Tusks (Boar or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be hacked with wereboar lycanthropy.
 
 ##### Wererat
 
@@ -6025,7 +6025,7 @@ _Medium humanoid (human, shapechanger), lawful evil_
 
 **Skills** Perception +2, Stealth +4
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Damage Immunities** bludgeoning, piercing, and slashing from nontek attacks not made with silvered weapons
 
 **Senses** darkvision 60 ft. (rat form only), passive Perception 12
 
@@ -6041,7 +6041,7 @@ _Medium humanoid (human, shapechanger), lawful evil_
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. The wererat makes two attacks, only one of which can be a bite.
 
-**_Bite (Rat or Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
+**_Bite (Rat or Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be hacked with wererat lycanthropy.
 
 **_ion blade (Humanoid or Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
@@ -6063,7 +6063,7 @@ _Medium humanoid (human, shapechanger), neutral_
 
 **Skills** Perception +5, Stealth +4
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Damage Immunities** bludgeoning, piercing, and slashing from nontek attacks not made with silvered weapons
 
 **Senses** darkvision 60 ft., passive Perception 15
 
@@ -6079,9 +6079,9 @@ _Medium humanoid (human, shapechanger), neutral_
 
 **Actions**
 
-**_Multiattack (Humanoid or Hybrid Form Only)_**. In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
+**_Multiattack (Humanoid or Hybrid Form Only)_**. In humanoid form, the weretiger makes two scimitar attacks or two railrifle attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 
-**_Bite (Tiger or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3)  piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+**_Bite (Tiger or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3)  piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be hacked with weretiger lycanthropy.
 
 **_Claw (Tiger or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage.
 
@@ -6105,7 +6105,7 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 
 **Skills** Perception +4, Stealth +3
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+**Damage Immunities** bludgeoning, piercing, and slashing from nontek attacks not made with silvered weapons
 
 **Senses** passive Perception 14
 
@@ -6121,7 +6121,7 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: one with its bite and one with its claws or spear.
 
-**_Bite (Wolf or Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+**_Bite (Wolf or Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be hacked with werewolf lycanthropy.
 
 **_Claws (Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (2d4 + 2) slashing damage.
 
@@ -6143,7 +6143,7 @@ _Small elemental, chaotic neutral_
 |--------|---------|---------|--------|---------|---------|
 | 7 (−2) | 15 (+2) | 12 (+1) | 8 (−1) | 11 (+0) | 10 (+0) |
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** fire
 
@@ -6219,11 +6219,11 @@ _Medium monstrosity, lawful evil_
 
 Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can’t see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
 
-If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
+If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its hack, affected by its own gaze.
 
 **Actions**
 
-**_Multiattack_**. The medusa makes either three melee attacks—one with its snake hair and two with its ion blade—or two ranged attacks with its longbow.
+**_Multiattack_**. The medusa makes either three melee attacks—one with its snake hair and two with its ion blade—or two ranged attacks with its railrifle.
 
 **_Snake Hair_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
 
@@ -6539,7 +6539,7 @@ _Medium undead**,** lawful evil_
 
 **Damage Vulnerabilities** fire
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** necrotic, poison
 
@@ -6555,9 +6555,9 @@ _Medium undead**,** lawful evil_
 
 **_Multiattack_**. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-**_Rotting Fist_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the _remove curse_ spell or other magic.
+**_Rotting Fist_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be hacked with mummy rot. The hacked target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the hack reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The hack lasts until removed by the _remove hack_ spell or other magic.
 
-**_Dreadful Glare_**. The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+**_Dreadful Glare_**. The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this tek or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
 ##### Mummy Lord
 
@@ -6579,7 +6579,7 @@ _Medium undead, lawful evil_
 
 **Damage Vulnerabilities** fire
 
-**Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
@@ -6589,7 +6589,7 @@ _Medium undead, lawful evil_
 
 **Challenge** 15 (13,000 XP)
 
-**_Magic Resistance_**. The mummy lord has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The mummy lord has advantage on saving throws against spells and other tek effects.
 
 **_Rejuvenation_**. A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord’s heart.
 
@@ -6607,9 +6607,9 @@ Cantrips (at will): _sacred flame_, _thaumaturgy_
 
 **_Multiattack_**. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-**_Rotting Fist_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the _remove curse_ spell or other magic.
+**_Rotting Fist_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be hacked with mummy rot. The hacked target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the hack reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The hack lasts until removed by the _remove hack_ spell or other magic.
 
-**_Dreadful Glare_**. The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+**_Dreadful Glare_**. The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this tek or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
 **Legendary Actions**
 
@@ -6619,7 +6619,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Blinding Dust_**. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature’s next turn.
 
-**_Blasphemous Word (Costs 2 Actions)_**. The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord’s next turn.
+**_Blasphemous Word (Costs 2 Actions)_**. The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the tek utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord’s next turn.
 
 **_Channel Negative Energy (Costs 2 Actions)_**. The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can’t regain hit points until the end of the mummy lord’s next turn.
 
@@ -6664,7 +6664,7 @@ _Large monstrosity, lawful good_
 Cantrips (at will): _mending_, _sacred flame_, _thaumaturgy_
 1st level (4 slots): _command_, _cure wounds_, _shield of faith_
 2nd level (3 slots) : _calm emotions_, _hold person_
-3rd level (3 slots): _bestow curse_, _clairvoyance_
+3rd level (3 slots): _bestow hack_, _clairvoyance_
 4th level (3 slots): _banishment_, _freedom of movement_
 5th level (2 slots): _flame strike_, _geas_
 6th level (1 slot): _true seeing_
@@ -6844,17 +6844,17 @@ _Large ooze, unaligned_
 
 **Challenge** 4 (1,100 XP)
 
-**_Amorphous_**. The pudding can move through a space as narrow as 1 inch wide without squeezing.
+**_Amorphous_**. The pudding can move through a space as nbullet as 1 inch wide without squeezing.
 
-**_Corrosive Form_**. A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
+**_Corrosive Form_**. A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nontek weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nontek ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
 
-The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
+The pudding can eat through 2-inch-thick, nontek wood or metal in 1 round.
 
 **_Spider Climb_**. The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 **Actions**
 
-**_Pseudopod_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+**_Pseudopod_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nontek armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
 **_Reactions_**
 
@@ -6930,17 +6930,17 @@ _Medium ooze, unaligned_
 
 **Challenge** 1/2 (100 XP)
 
-**_Amorphous_**. The ooze can move through a space as narrow as 1 inch wide without squeezing.
+**_Amorphous_**. The ooze can move through a space as nbullet as 1 inch wide without squeezing.
 
-**_Corrode Metal_**. Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
+**_Corrode Metal_**. Any nontek weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nontek ammunition made of metal that hits the ooze is destroyed after dealing damage.
 
-The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+The ooze can eat through 2-inch-thick, nontek metal in 1 round.
 
 **_False Appearance_**. While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 
 **Actions**
 
-**_Pseudopod_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+**_Pseudopod_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nontek metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
 ##### Ochre Jelly
 
@@ -6968,7 +6968,7 @@ _Large ooze, unaligned_
 
 **Challenge** 2 (450 XP)
 
-**_Amorphous_**. The jelly can move through a space as narrow as 1 inch wide without squeezing.
+**_Amorphous_**. The jelly can move through a space as nbullet as 1 inch wide without squeezing.
 
 **_Spider Climb_**. The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -7130,7 +7130,7 @@ _Tiny dragon, neutral good_
 
 **_Keen Senses_**. The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
 
-**_Magic Resistance_**. The pseudodragon has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The pseudodragon has advantage on saving throws against spells and other tek effects.
 
 **_Limited Telepathy_**. The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
 
@@ -7192,9 +7192,9 @@ _Medium fiend, lawful evil_
 
 **Skills** Charm +10, Insight +8
 
-**Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
+**Damage Vulnerabilities** piercing from tek weapons wielded by good creatures
 
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Immunities** bludgeoning, piercing, and slashing from nontek attacks
 
 **Senses** darkvision 60 ft., passive Perception 13
 
@@ -7202,7 +7202,7 @@ _Medium fiend, lawful evil_
 
 **Challenge** 13 (10,000 XP)
 
-**_Limited Magic Immunity_**. The rakshasa can’t be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
+**_Limited Magic Immunity_**. The rakshasa can’t be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and tek effects.
 
 **_Innate Techcasting_**. The rakshasa’s innate Techcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
@@ -7214,7 +7214,7 @@ At will: _detect thoughts_, _disguise self_, _mage hand_, _minor illusion_
 
 **_Multiattack_**. The rakshasa makes two claw attacks.
 
-**_Claw_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target’s thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a _remove curse_ spell or similar magic.
+**_Claw_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage, and the target is hacked if it is a creature. The tek hack takes effect whenever the target takes a short or long rest, filling the target’s thoughts with horrible images and dreams. The hacked target gains no benefit from finishing a short or long rest. The hack lasts until it is lifted by a _remove hack_ spell or similar magic.
 
 #### Remorhaz
 
@@ -7342,13 +7342,13 @@ _Medium monstrosity, unaligned_
 
 **_Iron Scent_**. The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
 
-**_Rust Metal_**. Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
+**_Rust Metal_**. Any nontek weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nontek ammunition made of metal that hits the rust monster is destroyed after dealing damage.
 
 **Actions**
 
 **_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-**_Antennae_**. The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn’t being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster’s touch.
+**_Antennae_**. The rust monster corrodes a nontek ferrous metal object it can see within 5 feet of it. If the object isn’t being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster’s touch.
 
 If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or A medkit that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
 
@@ -7408,7 +7408,7 @@ _Large elemental, neutral evil_
 
 **Damage Vulnerabilities** cold
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** fire
 
@@ -7452,7 +7452,7 @@ _Medium fey, chaotic neutral_
 
 **Challenge** 1/2 (100 XP)
 
-**_Magic Resistance_**. The satyr has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The satyr has advantage on saving throws against spells and other tek effects.
 
 **Actions**
 
@@ -7480,7 +7480,7 @@ _Medium undead, chaotic evil_
 
 **Damage Vulnerabilities** radiant
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** necrotic, poison
 
@@ -7492,7 +7492,7 @@ _Medium undead, chaotic evil_
 
 **Challenge** 1/2 (100 XP)
 
-**_Amorphous_**. The shadow can move through a space as narrow as 1 inch wide without squeezing.
+**_Amorphous_**. The shadow can move through a space as nbullet as 1 inch wide without squeezing.
 
 **_Shadow Stealth_**. While in dim light or darkness, the shadow can take the Hide action as a bonus action.
 
@@ -7694,7 +7694,7 @@ _Medium undead, chaotic evil_
 |--------|---------|---------|---------|---------|---------|
 | 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** necrotic, poison
 
@@ -7734,7 +7734,7 @@ _Large monstrosity, lawful neutral_
 
 **Skills** Arcana +9, Perception +10, Religion +15
 
-**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** charmed, frightened
 
@@ -7764,7 +7764,7 @@ Cantrips (at will): _sacred flame_, _spare the dying_, _thaumaturgy_
 
 **_Claw_**. _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 17 (2d10 + 6) slashing damage.
 
-**_Roar (3/Day)_**. The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
+**_Roar (3/Day)_**. The sphinx emits a tek roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 
 **First Roar_**. Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -7798,7 +7798,7 @@ _Large monstrosity, lawful neutral_
 
 **Skills** Arcana +12, History +12, Perception +8, Religion +8
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** psychic
 
@@ -7819,7 +7819,7 @@ _Large monstrosity, lawful neutral_
 Cantrips (at will): _mage hand_, _minor illusion_, _prestidigitation_
 1st level (4 slots): _detect magic_, _identify_, _shield_
 2nd level (3 slots): _darkness_, _locate object_, _suggestion_
-3rd level (3 slots): _dispel magic_, _remove curse_, _tongues_
+3rd level (3 slots): _dispel magic_, _remove hack_, _tongues_
 4th level (3 slots): _banishment_, _greater invisibility_
 5th level (1 slot): _legend lore_
 
@@ -7913,7 +7913,7 @@ _Medium fiend (shapechanger), neutral evil_
 
 **Skills** Charm +9, Insight +5, Perception +5, Charm +9, Stealth +7
 
-**Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nontek attacks
 
 **Senses** darkvision 60 ft., passive Perception 15
 
@@ -7957,7 +7957,7 @@ _Gargantuan monstrosity (titan), unaligned_
 
 **Saving Throws** Int +5, Wis +9, Cha +9
 
-**Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** charmed, frightened, paralyzed, poisoned
 
@@ -7969,10 +7969,10 @@ _Gargantuan monstrosity (titan), unaligned_
 
 **_Legendary Resistance (3/Day)_**. If the tarrasque fails a saving throw, it can choose to succeed instead.
 
-**_Magic Resistance_**. The tarrasque has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The tarrasque has advantage on saving throws against spells and other tek effects.
 
 **_Reflective Carapace_**. Any time the tarrasque is targeted by a
-_magic missile_ spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
+_tek missile_ spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
 
 **_Siege Monster_**. The tarrasque deals double damage to objects and structures.
 
@@ -8109,7 +8109,7 @@ _Large celestial**,** lawful good_
 At will: _detect evil and good_, _druidcraft_, _pass without trace_
 1/day each: _calm emotions_, _dispel evil and good_, _entangle_
 
-**_Magic Resistance_**. The unicorn has advantage on saving throws against spells and other magical effects.
+**_Magic Resistance_**. The unicorn has advantage on saving throws against spells and other tek effects.
 
 **_Magic Weapons_**. The unicorn’s weapon attacks are magical.
 
@@ -8131,7 +8131,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **_Hooves_**. The unicorn makes one attack with its hooves.
 
-**_Shimmering Shield (Costs 2 Actions)_**. The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn’s next turn.
+**_Shimmering Shield (Costs 2 Actions)_**. The unicorn creates a shimmering, tek field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn’s next turn.
 
 **_Heal Self (Costs 3 Actions)_**. The unicorn magically regains 11 (2d8 + 2) hit points.
 
@@ -8157,7 +8157,7 @@ _Medium undead (shapechanger), lawful evil_
 
 **Skills** Perception +7, Stealth +9
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nontek attacks
 
 **Senses** darkvision 120 ft., passive Perception 17
 
@@ -8169,7 +8169,7 @@ _Medium undead (shapechanger), lawful evil_
 
 While in bat form, the vampire can’t speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
 
-While in mist form, the vampire can’t take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature’s space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can’t pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
+While in mist form, the vampire can’t take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature’s space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can’t pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nontek damage, except the damage it takes from sunlight.
 
 **_Legendary Resistance (3/Day)_**. If the vampire fails a saving throw, it can choose to succeed instead.
 
@@ -8199,7 +8199,7 @@ _Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it starts 
 
 **_Bite (Bat or Vampire Form Only)_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire’s control.
 
-**_Charm_**. The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn’t under the vampire’s control, it takes the vampire’s requests or actions in the most favorable way it can, and it is a willing target for the vampire’s bite attack.
+**_Charm_**. The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this tek or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn’t under the vampire’s control, it takes the vampire’s requests or actions in the most favorable way it can, and it is a willing target for the vampire’s bite attack.
 
 Each time the vampire or the vampire’s companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
@@ -8233,7 +8233,7 @@ _Medium undead, neutral evil_
 
 **Skills** Perception +3, Stealth +6
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nontek attacks
 
 **Senses** darkvision 60 ft., passive Perception 13
 
@@ -8281,7 +8281,7 @@ _Medium undead, neutral evil_
 
 **Skills** Perception +3, Stealth +4
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** poison
 
@@ -8297,7 +8297,7 @@ _Medium undead, neutral evil_
 
 **Actions**
 
-**_Multiattack_**. The wight makes two pulse blade attacks or two longbow attacks. It can use its Life Drain in place of one pulse blade attack.
+**_Multiattack_**. The wight makes two pulse blade attacks or two railrifle attacks. It can use its Life Drain in place of one pulse blade attack.
 
 **_Life Drain_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
@@ -8323,7 +8323,7 @@ _Tiny undead, chaotic evil_
 
 **Damage Immunities** lightning, poison
 
-**Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 
@@ -8333,7 +8333,7 @@ _Tiny undead, chaotic evil_
 
 **Challenge** 2 (450 XP)
 
-**_Consume Life_**. As a bonus action, the will-o’-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o’-wisp regains 10 (3d6) hit points.
+**_Consume Life_**. As a bonus action, the will-o’-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this tek or die. If the target dies, the will-o’-wisp regains 10 (3d6) hit points.
 
 **_Ephemeral_**. The will-o’-wisp can’t wear or carry anything.
 
@@ -8361,7 +8361,7 @@ _Medium undead, neutral evil_
 |--------|---------|---------|---------|---------|---------|
 | 6 (−2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** necrotic, poison
 
@@ -8433,7 +8433,7 @@ _Medium elemental, neutral_
 
 **Skills** Perception +6, Stealth +3
 
-**Damage Resistances** piercing and slashing from nonmagical attacks that aren’t adamantine
+**Damage Resistances** piercing and slashing from nontek attacks that aren’t adamantine
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
 
@@ -8445,7 +8445,7 @@ _Medium elemental, neutral_
 
 **_Stone Camouflage_**. The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-**_Treasure Sense_**. The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
+**_Loot Sense_**. The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
 
 **Actions**
 

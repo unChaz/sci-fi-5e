@@ -97,7 +97,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 #### Techcasting
 
-By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
+By 2nd level, you have learned to draw on divine tek through meditation and prayer to cast spells as a cleric does.
 
 ##### Preparing and Casting Spells
 
@@ -127,7 +127,7 @@ Starting at 2nd level, when you hit a creature with a melee weapon attack, you c
 
 #### Divine Health
 
-By 3rd level, the divine magic flowing through you makes you immune to disease.
+By 3rd level, the divine tek flowing through you makes you immune to disease.
 
 #### Sacred Oath
 
@@ -143,7 +143,7 @@ If you gain an oath spell that doesn’t appear on the paladin spell list, the s
 
 ##### Channel Divinity
 
-Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
+Your oath allows you to channel divine energy to fuel tek effects. Each Channel Divinity option provided by your oath explains how to use it.
 
 When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
 
@@ -211,7 +211,7 @@ You gain oath spells at the paladin levels listed.
 |-------|------------------------------------------|
 | 3rd   | protection from evil and good, sanctuary |
 | 5th   | lesser restoration, zone of truth        |
-| 9th   | beacon of hope, dispel magic             |
+| 9th   | beacon of hope, dispel tek             |
 | 13th  | freedom of movement, guardian of faith   |
 | 17th  | commune, flame strike                    |
 
@@ -219,7 +219,7 @@ You gain oath spells at the paladin levels listed.
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-**_Sacred Weapon._** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
+**_Sacred Weapon._** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes tek for the duration.
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 

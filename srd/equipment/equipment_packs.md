@@ -66,6 +66,10 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 \* See the “Mounts and Vehicles” section.
 
+\page
+
+<div class="wide">
+
 **_Artisan’s Tools._** These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.
 
 **_Disguise Kit._** This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
@@ -82,4 +86,5 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 **_Poisoner’s Kit._** A poisoner’s kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 
-**_Thieves’ Tools._** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+**_Thieves’ Tools._** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of nbullet-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+</div>

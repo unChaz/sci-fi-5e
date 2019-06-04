@@ -1,12 +1,14 @@
-<img src="[[coverpageimage]]"       
+<img src="https://resi.ze-robot.com/dl/cy/cyberpunk-fantasy-world-sci-fi-raining-768%C3%971024.jpg"       
      style="position:absolute;top:0;bottom:0;right:0;left:0;width:100%">
 
 <div style='margin-top:450px;'></div>
 
-# Sci-Fi Dungeons and Dragons
-# 5th Edition SRD Version [[version]]
+<div style='text-align:center' class="wide">
+# Sci-5
+## 5th Edition D&D SRD Conversion
+</div>
 
 <div style='margin-top:25px'></div>
 <div class='wide'>
-##### A work in progress
+#####  Version [[version]]
 </div>
