@@ -7,6 +7,8 @@ The goal is to change as little as possible mechanically, and reflavor the mecha
 
 Inside you'll find content inspired by fiction such as Red Rising, Altered Carbon, Ender's Game, The Expanse, and more. I would love to collaborrate to build a rich RPG sandbox to play in.
 
+You can find the latest rendered PDF [here](https://github.com/unChaz/sci-fi-5e/tree/master/releases).
+
 ## Compiling
 If you wish to compile the SRD for yourself you will need Ruby installed. Simply run:
 > ruby compile.rb <version_string>
