@@ -3,7 +3,7 @@
 
 I have been a lifelong fan of science fiction, and there is no better RPG system than 5th edition D&D. This is an attempt to join the two together; bring the familiar rules of 5th edition D&D together with a refreshing new universe of roleplay possibilities.
 
-The goal is to change as little as possible mechanically, and reflavor the mechanics, classes, spells, and monsters to be compatible with a sci-fi campaign setting, and continue building onto it.
+The goal is to change as little as possible mechanically, and reflavor the classes, spells, and monsters to be compatible with a sci-fi campaign setting, and continue building onto it.
 
 Inside you'll find content inspired by fiction such as Red Rising, Altered Carbon, Ender's Game, The Expanse, and more. I would love to collaborrate to build a rich RPG sandbox to play in.
 
