@@ -1,7 +1,5 @@
-<style>
-  .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
-</style>
+<img src="[[coverpageimage]]"       
+     style="position:absolute;top:0;bottom:0;right:0;left:0;width:100%">
 
 <div style='margin-top:450px;'></div>
 

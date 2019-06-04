@@ -7,21 +7,22 @@ class Compiler
     puts "Building Sci-fi SRD Version #{@version}"
     File.open(file_name, 'w+') do | write_file |
       @write_file = write_file
-      parse_template(main_template)
+      append_template(load_sub_template('srd/styles.html'))
+      append_template(main_template)
     end
   end
 
   private
 
-  def parse_template(template)
+  def append_template(template)
     template.each_line do |line|
       tag = merge_tag(line)
-      tfn = template_file_name(tag)
+      sub_template_name = template_file_name(tag)
       unless tag.nil?
         if tag == '[[version]]'
           @write_file << line.sub!(tag, version)
-        elsif File.file?(tfn)
-          parse_template(sub_template(tfn))
+        elsif File.file?(sub_template_name)
+          append_template(load_sub_template(sub_template_name))
         else
           puts "Invalid Tag #{tag}"
           @write_file << line
@@ -37,10 +38,10 @@ class Compiler
   end
 
   def main_template
-    @main_template ||= File.open('srd/main.md')
+    @main_template ||= File.open('srd/layout.md')
   end
 
-  def sub_template(name)
+  def load_sub_template(name)
     File.open(name)
   end
 
