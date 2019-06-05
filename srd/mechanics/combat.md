@@ -2,7 +2,7 @@
 
 ---
 
-A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and Techcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A
+A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and Tekcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A
 **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
 > #### Combat Step by Step
@@ -41,7 +41,7 @@ You can forgo moving, taking an action, or doing anything at all on your turn. I
 
 ##### Bonus Actions
 
-Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
+Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
 
 You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
 
@@ -61,7 +61,7 @@ The GM might require you to use an action for any of these activities when it ne
 
 #### Reactions
 
-Certain special abilities, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The opportunity attack, described later in this chapter, is the most common type of reaction.
+Certain special abilities, tek skills, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The opportunity attack, described later in this chapter, is the most common type of reaction.
 
 When you take a reaction, you can’t take another one until the start of your next turn. If the reaction interrupts another creature’s turn, that creature can continue its turn right after the reaction.
 
@@ -85,7 +85,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the *fly* spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 #### Difficult Terrain
 
@@ -141,7 +141,7 @@ If you leave a hostile creature’s reach during your move, you provoke an oppor
 
 #### Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the *fly* spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by tek, such as by the *fly* tek skill.
 
 #### Creature Size
 
@@ -184,9 +184,9 @@ With this action, you make one melee or ranged attack. See the “Making an Atta
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
-#### Cast a Spell
+#### Cast a Tek
 
-Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell.
+Tekcasters such as wizards and clerics, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
 
 #### Dash
 
@@ -220,7 +220,7 @@ First, you decide what perceivable circumstance will trigger your reaction. Then
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell’s tek requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and ready _tek missile_, your _web_ spell ends, and if you take damage before you release _tek missile_ with your reaction, your concentration might be broken.
+When you ready a tek skill, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a tek skill must have a casting time of 1 action, and holding onto the tek skill’s tek requires concentration. If your concentration is broken, the tek skill dissipates without taking effect. For example, if you are concentrating on the _web_ tek skill and ready _tek missile_, your _web_ tek skill ends, and if you take damage before you release _tek missile_ with your reaction, your concentration might be broken.
 
 #### Search
 
@@ -232,10 +232,10 @@ You normally interact with an object while doing something else, such as when yo
 
 ### Making an Attack
 
-Whether you’re striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
+Whether you’re striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a tek skill, an attack has a simple structure.
 
 1. **Choose a target.** Pick a target within your attack’s range: a creature, an object, or a location.
-2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, tek skills, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 3. **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 If there’s ever any question whether something you’re doing counts as an attack, the rule is simple: if you’re making an attack roll, you’re making an attack.
@@ -250,9 +250,9 @@ When a character makes an attack roll, the two most common modifiers to the roll
 
 **_Ability Modifier_** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
 
-Some spells also require an attack roll. The ability modifier used for a spell attack depends on the Techcasting ability of the spellcaster.
+Some tek skills also require an attack roll. The ability modifier used for a tek skill attack depends on the Tekcasting ability of the tekcaster.
 
-**_Proficiency Bonus_** You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
+**_Proficiency Bonus_** You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a tek skill.
 
 ##### Rolling 1 or 20
 
@@ -264,7 +264,7 @@ If the d20 roll for an attack is a 1, the attack misses regardless of any modifi
 
 #### Unseen Attackers and Targets
 
-Combatants often try to escape their foes’ notice by hiding, casting the invisibility spell, or lurking in darkness.
+Combatants often try to escape their foes’ notice by hiding, casting the invisibility tek skill, or lurking in darkness.
 
 When you attack a target that you can’t see, you have disadvantage on the attack roll. This is true whether you’re guessing the target’s location or you’re targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target’s location correctly.
 
@@ -272,23 +272,23 @@ When a creature can’t see you, you have advantage on attack rolls against it. 
 
 #### Ranged Attacks
 
-When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many spells also involve making a ranged attack.
+When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many tek skills also involve making a ranged attack.
 
 ##### Range
 
 You can make ranged attacks only against targets within a specified range.
 
-If a ranged attack, such as one made with a spell, has a single range, you can’t attack a target beyond this range.
+If a ranged attack, such as one made with a tek skill, has a single range, you can’t attack a target beyond this range.
 
 Some ranged attacks, such as those made with a railrifle or a scorcher, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can’t attack a target beyond the long range.
 
 ##### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t incapacitated.
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a tek skill, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t incapacitated.
 
 #### Melee Attacks
 
-Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, an ion slingblade, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
+Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, an ion slingblade, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few tek skills also involve making a melee attack.
 
 Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
 
@@ -339,11 +339,11 @@ A target with **half cover** has a +2 bonus to AC and Dexterity saving throws. A
 
 A target with **three-quarters cover** has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an bullet slit, or a thick tree trunk.
 
-A target with **total cover** can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+A target with **total cover** can’t be targeted directly by an attack or a tek skill, although some tek skills can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
 ### Damage and Healing
 
-Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed bullet, or a blast of flame from a *fireball* spell all have the potential to damage, or even kill, the hardiest of creatures.
+Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed bullet, or a blast of flame from a *fireball* tek skill all have the potential to damage, or even kill, the hardiest of creatures.
 
 #### Hit Points
 
@@ -355,11 +355,11 @@ Whenever a creature takes damage, that damage is subtracted from its hit points.
 
 #### Damage Rolls
 
-Each weapon, spell, and harmful monster ability specifies the damage it deals. You roll the damage die or dice, add any modifiers, and apply the damage to your target. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
+Each weapon, tek skill, and harmful monster ability specifies the damage it deals. You roll the damage die or dice, add any modifiers, and apply the damage to your target. Tek weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
 
-When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
+When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **tek skill** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts _fireball_ or a cleric casts _flame strike_, the spell’s damage is rolled once for all creatures caught in the blast.
+If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts _fireball_ or a cleric casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
@@ -369,7 +369,7 @@ For example, if you score a critical hit with an ion dagger, roll 2d4 for the da
 
 ##### Damage Types
 
-Different attacks, damaging spells, and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types.
+Different attacks, damaging tek skills, and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types.
 
 The damage types follow, with examples to help a GM assign a damage type to a new effect.
 
@@ -379,13 +379,13 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **_Cold_** The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
 
-**_Fire_** Red dragons breathe fire, and many spells conjure flames to deal fire damage.
+**_Fire_** Red dragons breathe fire, and many tek skills conjure flames to deal fire damage.
 
-**_Force_** Force is pure tek energy focused into a damaging form. Most effects that deal force damage are spells, including _tek missile_ and _spiritual weapon_.
+**_Force_** Force is pure tek energy focused into a damaging form. Most effects that deal force damage are tek skills, including _tek missile_ and _spiritual weapon_.
 
-**_Lightning_** A _lightning bolt_ spell and a blue dragon’s breath deal lightning damage.
+**_Shock_** A _lightning bolt_ tek skill and a blue dragon’s breath deal lightning damage.
 
-**_Necrotic_** Necrotic damage, dealt by certain undead and a spell such as _chill touch_, withers matter and even the soul.
+**_Radiation_** Radiation damage, dealt by certain undead and a tek skill such as _chill touch_, withers matter and even the soul.
 
 **_Piercing_** Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
 
@@ -393,11 +393,11 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **_Psychic_** Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
 
-**_Radiant_** Radiant damage, dealt by a cleric’s _flame strike_ spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+**_Radiant_** Radiant damage, dealt by a cleric’s _flame strike_ tek skill or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 **_Slashing_** Swords, axes, and monsters’ claws deal slashing damage.
 
-**_Thunder_** A concussive burst of sound, such as the effect of the _thunderwave_ spell, deals thunder damage.
+**_Concussive_** A concussive burst of sound, such as the effect of the _shockwave_ tek skill, deals concussive damage.
 
 #### Damage Resistance and Vulnerability
 
@@ -411,11 +411,11 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 #### Healing
 
-Unless it results in death, damage isn’t permanent. Even death is reversible through powerful magic. Rest can restore a creature’s hit points, and tek methods such as a _cure wounds_ spell or a _potion of healing_ can remove damage in an instant.
+Unless it results in death, damage isn’t permanent. Even death is reversible through powerful tek. Rest can restore a creature’s hit points, and tek methods such as a _cure wounds_ tek skill or a _potion of healing_ can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
 
-A creature that has died can’t regain hit points until tek such as the _revivify_ spell has restored it to life.
+A creature that has died can’t regain hit points until tek such as the _revivify_ tek skill has restored it to life.
 
 #### Dropping to 0 Hit Points
 
@@ -433,7 +433,7 @@ If damage reduces you to 0 hit points and fails to kill you, you fall unconsciou
 
 ##### Death Saving Throws
 
-Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on a saving throw.
+Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by tek skills and features that improve your chances of succeeding on a saving throw.
 
 Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
 
@@ -461,13 +461,13 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a killing bl
 
 #### Temporary Hit Points
 
-Some spells and special abilities confer temporary hit points to a creature. Temporary hit points aren’t actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
+Some tek skills and special abilities confer temporary hit points to a creature. Temporary hit points aren’t actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
 
 When you have temporary hit points and take damage, the temporary hit points are lost first, and any leftover damage carries over to your normal hit points. For example, if you have 5 temporary hit points and take 7 damage, you lose the temporary hit points and then take 2 damage.
 
 Because temporary hit points are separate from your actual hit points, they can exceed your hit point maximum. A character can, therefore, be at full hit points and receive temporary hit points.
 
-Healing can’t restore temporary hit points, and they can’t be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a spell grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
+Healing can’t restore temporary hit points, and they can’t be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a tek skill grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
 
 If you have 0 hit points, receiving temporary hit points doesn’t restore you to consciousness or stabilize you. They can still absorb damage directed at you while you’re in that state, but only true healing can save you.
 
@@ -475,7 +475,7 @@ Unless a feature that grants you temporary hit points has a duration, they last 
 
 ### Mounted Combat
 
-A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+A knight charging into battle on a warhorse, a wizard casting tek skills from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 
@@ -501,7 +501,7 @@ In either case, if the mount provokes an opportunity attack while you’re on it
 
 When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
 
-When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is an ion dagger, javelin, ion blade, spear, or trident.
+When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by tek) has disadvantage on the attack roll unless the weapon is an ion dagger, javelin, ion blade, spear, or trident.
 
 A **ranged weapon attack** automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
 

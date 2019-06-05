@@ -25,7 +25,7 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 
 #### Type
 
-A monster’s type speaks to its fundamental nature. Certain spells, alien artifacts, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an _bullet of dragon slaying_ deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
+A monster’s type speaks to its fundamental nature. Certain tek skills, alien artifacts, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an _bullet of dragon slaying_ deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
 
@@ -39,7 +39,7 @@ Planes. Many of them are the servants of deities, employed as messengers or agen
 
 **Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.
 
-**Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.
+**Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate tek. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less tek, such as wyverns and pseudodragons.
 
 **Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers, invisible stalkers, and water weirds.
 
@@ -49,7 +49,7 @@ Planes. Many of them are the servants of deities, employed as messengers or agen
 
 **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 
-**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate tek abilities (though most humanoids can learn Techcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
+**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate tek abilities (though most humanoids can learn Tekcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
 
 **Monstrosities** are monsters in the strictest sense—frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of tek experimentation gone awry (such as owlbears), and others are the product of terrible hacks (including minotaurs and yuan-ti). They defy categorization, and in some sense serve as a catch-all category for creatures that don’t fit into any other type.
 
@@ -180,7 +180,7 @@ A skill bonus is the sum of a monster’s relevant ability modifier and its prof
 
 #### Vulnerabilities, Resistances, and Immunities
 
-Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nontek attacks (a tek attack is an attack delivered by a spell, a alien artifact, or another tek source). In addition, some creatures are immune to certain conditions.
+Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nontek attacks (a tek attack is an attack delivered by a tek skill, a alien artifact, or another tek source). In addition, some creatures are immune to certain conditions.
 
 #### Senses
 
@@ -204,7 +204,7 @@ A monster with tremorsense can detect and pinpoint the origin of vibrations with
 
 #### Truesight
 
-A monster with truesight can, out to a specific range, see in normal and tek darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+A monster with truesight can, out to a specific range, see in normal and tek darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by tek. Furthermore, the monster can see into the Ethereal Plane within the same range.
 
 >**Armor, Weapon, and Tool Proficiencies**
 >
@@ -238,7 +238,7 @@ Some monsters present a greater challenge than even a typical 20th-level party c
 
 The number of experience points (XP) a monster is worth is based on its challenge rating. Typically, XP is awarded for defeating the monster, although the GM may also award XP for neutralizing the threat posed by the monster in some other manner.
 
-Unless something tells you otherwise, a monster summoned by a spell or other tek ability is worth the XP noted in its stat block.
+Unless something tells you otherwise, a monster summoned by a tek skill or other tek ability is worth the XP noted in its stat block.
 
 **Experience Points by Challenge Rating (table)**
 
@@ -273,25 +273,25 @@ Unless something tells you otherwise, a monster summoned by a spell or other tek
 
 Special traits (which appear after a monster’s challenge rating but before any actions or reactions) are characteristics that are likely to be relevant in a combat encounter and that require some explanation.
 
-##### Innate Techcasting
+##### Innate Tekcasting
 
-A monster with the innate ability to cast spells has the Innate Techcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast at its lowest possible level and can’t be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster’s challenge rating.
+A monster with the innate ability to cast tek skills has the Innate Tekcasting special trait. Unless noted otherwise, an innate tek skill of 1st level or higher is always cast at its lowest possible level and can’t be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster’s challenge rating.
 
-An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the _levitate_ spell, but the spell has a “self only” restriction, which means that the spell affects only the drow mage.
+An innate tek skill can have special rules or restrictions. For example, a drow mage can innately cast the _levitate_ tek skill, but the tek skill has a “self only” restriction, which means that the tek skill affects only the drow mage.
 
-A monster’s innate spells can’t be swapped out with other spells. If a monster’s innate spells don’t require attack rolls, no attack bonus is given for them.
+A monster’s innate tek skills can’t be swapped out with other tek skills. If a monster’s innate tek skills don’t require attack rolls, no attack bonus is given for them.
 
-##### Techcasting
+##### Tekcasting
 
-A monster with the Techcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the _Player’s Handbook_). The spellcaster level is also used for any cantrips included in the feature.
+A monster with the Tekcasting special trait has a tekcaster level and tek skill slots, which it uses to cast its tek skills of 1st level and higher (as explained in the _Player’s Handbook_). The tekcaster level is also used for any cantrips included in the feature.
 
-The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a alien artifact that requires membership in the class or access to its spell list.
+The monster has a list of tek skills known or prepared from a specific class. The list might also include tek skills from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a alien artifact that requires membership in the class or access to its tek skill list.
 
-A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-level _lightning bolt_ spell can cast it as a 5th-level spell by using one of its 5th-level greater or lesser threat than suggested by its challenge rating.
+A monster can cast a tek skill from its list at a higher level if it has the tek skill slot to do so. For example, a drow mage with the 3rd-level _lightning bolt_ tek skill can cast it as a 5th-level tek skill by using one of its 5th-level greater or lesser threat than suggested by its challenge rating.
 
 ##### Psionics
 
-A monster that casts spells using only the power of its mind has the psionics tag added to its Techcasting or Innate Techcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn’t require any components to cast its spells.
+A monster that casts tek skills using only the power of its mind has the psionics tag added to its Tekcasting or Innate Tekcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn’t require any components to cast its tek skills.
 
 #### Actions
 
@@ -299,7 +299,7 @@ When a monster takes its action, it can choose from the options in the Actions s
 
 ##### Melee and Ranged Attacks
 
-The most common actions that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the “weapon” might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on different kinds of attacks, see the _Player’s Handbook_.
+The most common actions that a monster will take in combat are melee and ranged attacks. These can be tek skill attacks or weapon attacks, where the “weapon” might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on different kinds of attacks, see the _Player’s Handbook_.
 
 ***Creature vs. Target.*** The target of a melee or ranged attack is usually either one creature or one target, the difference being that a “target” can be a creature or an object.
 
@@ -343,13 +343,13 @@ A stat block rarely refers to equipment, other than armor or weapons used by a m
 
 You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster’s equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
 
-If a Techcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
+If a Tekcasting monster needs material components to cast its tek skills, assume that it has the material components it needs to cast the tek skills in its stat block.
 
 ### Legendary Creatures
 
 A legendary creature can do things that ordinary creatures can’t. It can take special actions outside its turn, and it might exert tek influence for miles around.
 
-If a creature assumes the form of a legendary creature, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
+If a creature assumes the form of a legendary creature, such as through a tek skill, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
 
 #### Legendary Actions
 
@@ -403,11 +403,11 @@ _Large aberration, lawful evil_
 
 **_Multiattack_**. The aboleth makes three tentacle attacks.
 
-**_Tentacle_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any tek that cures disease. After 1 minute, the diseased creature’s skin becomes translucent and slimy, the creature can’t regain hit points unless it is underwater, and the disease can be removed only by _heal_ or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+**_Tentacle_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any tek that cures disease. After 1 minute, the diseased creature’s skin becomes translucent and slimy, the creature can’t regain hit points unless it is underwater, and the disease can be removed only by _heal_ or another disease-curing tek skill of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
 
 **_Tail_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft. one target. _Hit:_ 15 (3d6 + 5) bludgeoning damage.
 
-**_Enslave (3/Day)_**. The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth’s control and can’t take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.
+**_Enslave (3/Day)_**. The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth’s control and can’t take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.
 
 Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 
@@ -451,14 +451,14 @@ _Medium celestial, lawful good_
 
 **Challenge** 10 (5,900 XP)
 
-**_Angelic Weapons_**. The deva’s weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
+**_Angelic Weapons_**. The deva’s weapon attacks are tek. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
 
-**_Innate Techcasting_**. The deva’s Techcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:
+**_Innate Tekcasting_**. The deva’s Tekcasting ability is Charisma (tek skill save DC 17). The deva can innately cast the following tek skills, requiring only verbal components:
 
 At will: _detect evil and good_
 1/day each: _commune_, _raise dead_
 
-**_Magic Resistance_**. The deva has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The deva has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -466,9 +466,9 @@ At will: _detect evil and good_
 
 **_Mace_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 
-**_Healing Touch (3/Day)_**. The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any hack, disease, poison, blindness, or deafness.
+**_Healing Touch (3/Day)_**. The deva touches another creature. The target regains 20 (4d8 + 2) hit points and is freed from any hack, disease, poison, blindness, or deafness.
 
-**_Change Shape_**. The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva’s choice).
+**_Change Shape_**. The deva polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva’s choice).
 
 In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
 
@@ -500,17 +500,17 @@ _Large celestial, lawful good_
 
 **Challenge** 16 (15,000 XP)
 
-**_Angelic Weapons_**. The planetar’s weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
+**_Angelic Weapons_**. The planetar’s weapon attacks are tek. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
 
 **_Divine Awareness_**. The planetar knows if it hears a lie.
 
-**_Innate Techcasting_**. The planetar’s Techcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The planetar’s Tekcasting ability is Charisma (tek skill save DC 20). The planetar can innately cast the following tek skills, requiring no material components:
 
 At will: _detect evil and good_, _invisibility_ (self only)
 3/day each: _blade barrier_, _dispel evil and good_, _flame strike_, _raise dead_
 1/day each: _commune_, _control weather_, _insect plague_
 
-**_Magic Resistance_**. The planetar has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The planetar has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -518,7 +518,7 @@ At will: _detect evil and good_, _invisibility_ (self only)
 
 **_Greatsword_**. _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 
-**_Healing Touch (4/Day)_**. The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any hack, disease, poison, blindness, or deafness.
+**_Healing Touch (4/Day)_**. The planetar touches another creature. The target regains 30 (6d8 + 3) hit points and is freed from any hack, disease, poison, blindness, or deafness.
 
 ##### Solar
 
@@ -540,7 +540,7 @@ _Large celestial, lawful good_
 
 **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nontek attacks
 
-**Damage Immunities** necrotic, poison
+**Damage Immunities** radiation, poison
 
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
 
@@ -550,17 +550,17 @@ _Large celestial, lawful good_
 
 **Challenge** 21 (33,000 XP)
 
-**_Angelic Weapons_**. The solar’s weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).
+**_Angelic Weapons_**. The solar’s weapon attacks are tek. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).
 
 **_Divine Awareness_**. The solar knows if it hears a lie.
 
-**_Innate Techcasting_**. The solar’s Techcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The solar’s Tekcasting ability is Charisma (tek skill save DC 25). It can innately cast the following tek skills, requiring no material components:
 
 At will: _detect evil and good_, _invisibility_ (self only)
 3/day each: _blade barrier_, _dispel evil and good_, _resurrection_
 1/day each: _commune_, _control weather_
 
-**_Magic Resistance_**. The solar has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The solar has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -570,19 +570,19 @@ At will: _detect evil and good_, _invisibility_ (self only)
 
 **_Slaying Longbow_**. _Ranged Weapon Attack:_ +13 to hit, range 150/600 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.
 
-**_Flying Sword_**. The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar’s hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
+**_Flying Sword_**. The solar releases its greatsword to hover in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar’s hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
 
-**_Healing Touch (4/Day)_**. The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any hack, disease, poison, blindness, or deafness.
+**_Healing Touch (4/Day)_**. The solar touches another creature. The target regains 40 (8d8 + 4) hit points and is freed from any hack, disease, poison, blindness, or deafness.
 
 **Legendary Actions**
 
 The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The solar regains spent legendary actions at the start of its turn.
 
-**_Teleport_**. The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport_**. The solar teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-**_Searing Burst (Costs 2 Actions)_**. The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
+**_Searing Burst (Costs 2 Actions)_**. The solar emits tek, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
 
-**_Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until tek such as the _lesser restoration_ spell removes the blindness.
+**_Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until tek such as the _lesser restoration_ tek skill removes the blindness.
 
 #### Animated Objects
 
@@ -610,9 +610,9 @@ _Medium construct, unaligned_
 
 **Challenge** 1 (200 XP)
 
-**_Antitek Susceptibility_**. The armor is incapacitated while in the area of an _antitek field._ If targeted by _dispel magic_, the armor must succeed on a
+**_Antitek Susceptibility_**. The armor is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the armor must succeed on a
 
-Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+Constitution saving throw against the caster’s tek skill save DC or fall unconscious for 1 minute.
 
 **_False Appearance_**. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
@@ -648,7 +648,7 @@ _Small construct, unaligned_
 
 **Challenge** 1/4 (50 XP)
 
-**_Antitek Susceptibility_**. The sword is incapacitated while in the area of an _antitek field._ If targeted by _dispel magic_, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+**_Antitek Susceptibility_**. The sword is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the sword must succeed on a Constitution saving throw against the caster’s tek skill save DC or fall unconscious for 1 minute.
 
 **_False Appearance_**. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
 
@@ -680,7 +680,7 @@ _Large construct, unaligned_
 
 **Challenge** 2 (450 XP)
 
-**_Antitek Susceptibility_**. The rug is incapacitated while in the area of an _antitek field._ If targeted by _dispel magic_, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+**_Antitek Susceptibility_**. The rug is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the rug must succeed on a Constitution saving throw against the caster’s tek skill save DC or fall unconscious for 1 minute.
 
 **_Damage Transfer_**. While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
 
@@ -774,7 +774,7 @@ _Medium monstrosity, unaligned_
 
 **Challenge** 3 (700 XP)
 
-**Petrifying Gaze_**. If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn’t incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the _greater restoration_ spell or other magic.
+**Petrifying Gaze_**. If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn’t incapacitated. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the _greater restoration_ tek skill or other tek.
 
 A creature that isn’t surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can’t see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.
 
@@ -816,7 +816,7 @@ _Huge monstrosity, neutral evil_
 
 **_Constrict_**. _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one Large or smaller creature. _Hit:_ 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn’t already constricting a creature, and the target is restrained until this grapple ends.
 
-**_Lightning Breath (Recharge 5–6)_**. The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+**_Shock Breath (Recharge 5–6)_**. The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **_Swallow_**. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir’s turns. A behir can have only one creature swallowed at a time.
 
@@ -982,7 +982,7 @@ _Large aberration, chaotic evil_
 
 **_Amphibious_**. The chuul can breathe air and water.
 
-**_Sense Magic_**. The chuul senses tek within 120 feet of it at will. This trait otherwise works like the _detect magic_ spell but isn’t itself magical.
+**_Sense Tek_**. The chuul senses tek within 120 feet of it at will. This trait otherwise works like the _detect tek_ tek skill but isn’t itself tek.
 
 **Actions**
 
@@ -1030,9 +1030,9 @@ _Large aberration, chaotic neutral_
 
 **_Moan_**. Each creature within 60 feet of the cloaker that can hear its moan and that isn’t an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker’s next turn. If a creature’s saving throw is successful, the creature is immune to the cloaker’s moan for the next 24 hours
 
-**_Phantasms (Recharges after a Short or Long Rest)_**. The cloaker magically creates three illusory duplicates of itself if it isn’t in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
+**_Phantasms (Recharges after a Short or Long Rest)_**. The cloaker creates three illusory duplicates of itself if it isn’t in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
 
-Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this tek effect if it can’t see or if it relies on senses other than sight.
+Whenever any creature targets the cloaker with an attack or a harmful tek skill while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this tek effect if it can’t see or if it relies on senses other than sight.
 
 A duplicate has the cloaker’s AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
 
@@ -1058,7 +1058,7 @@ _Small monstrosity, unaligned_
 
 **Actions**
 
-**_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+**_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
 #### Couatl
 
@@ -1086,13 +1086,13 @@ _Medium celestial, lawful good_
 
 **Challenge** 4 (1,100 XP)
 
-**_Innate Techcasting_**. The couatl’s Techcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
+**_Innate Tekcasting_**. The couatl’s Tekcasting ability is Charisma (tek skill save DC 14). It can innately cast the following tek skills, requiring only verbal components:
 
-At will: _detect evil and good_, _detect magic_, _detect thoughts_
+At will: _detect evil and good_, _detect tek_, _detect thoughts_
 3/day each: _bless_, _create food and water_, _cure wounds_, _lesser restoration_, _protection from poison_, _sanctuary_, _shield_
 1/day each: _dream_, _greater restoration_, _scrying_
 
-**_Magic Weapons_**. The couatl’s weapon attacks are magical.
+**_Tek Weapons_**. The couatl’s weapon attacks are tek.
 
 **_Shielded Mind_**. The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
 
@@ -1102,7 +1102,7 @@ At will: _detect evil and good_, _detect magic_, _detect thoughts_
 
 **_Constrict_**. _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one Medium or smaller creature. _Hit:_ 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can’t constrict another target.
 
-**_Change Shape_**. The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl’s choice).
+**_Change Shape_**. The couatl polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl’s choice).
 
 In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
 
@@ -1142,7 +1142,7 @@ While attached to the target, the darkmantle can attack no other creature except
 
 A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
 
-**_Darkness Aura (1/Day)_**. A 15-foot radius of tek darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
+**_Darkness Aura (1/Day)_**. A 15-foot radius of tek darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a tek skill). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a tek skill of 2nd level or lower, the tek skill creating the light is ditek skilled.
 
 #### Demons
 
@@ -1178,9 +1178,9 @@ _Huge fiend (demon), chaotic evil_
 
 **_Fire Aura_**. At the start of each of the balor’s turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren’t being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 
-**_Magic Resistance_**. The balor has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The balor has advantage on saving throws against tek skills and other tek effects.
 
-**_Magic Weapons_**. The balor’s weapon attacks are magical.
+**_Tek Weapons_**. The balor’s weapon attacks are tek.
 
 **Actions**
 
@@ -1190,7 +1190,7 @@ _Huge fiend (demon), chaotic evil_
 
 **_Whip_**. _Melee Weapon Attack:_ +14 to hit, reach 30 ft., one target. _Hit:_ 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
 
-**_Teleport_**. The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport_**. The balor teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
 ##### Dretch
 
@@ -1256,16 +1256,16 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 9 (5,000 XP)
 
-**_Innate Techcasting_**. The glabrezu’s Techcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The glabrezu’s Tekcasting ability is Intelligence (tek skill save DC 16). The glabrezu can innately cast the following tek skills, requiring no material components:
 
-At will: _darkness_, _detect magic_, _dispel magic_
+At will: _darkness_, _detect tek_, _dispel tek_
 1/day each: _confusion_, _fly_, _power word stun_
 
-**_Magic Resistance_**. The glabrezu has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The glabrezu has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
-**_Multiattack_**. The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
+**_Multiattack_**. The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one tek skill.
 
 **_Pincer_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
 
@@ -1299,7 +1299,7 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 8 (3,900 XP)
 
-**_Magic Resistance_**. The hezrou has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The hezrou has advantage on saving throws against tek skills and other tek effects.
 
 **_Stench_**. Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou’s stench for 24 hours.
 
@@ -1339,9 +1339,9 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 16 (15,000 XP)
 
-**_Magic Resistance_**. The marilith has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The marilith has advantage on saving throws against tek skills and other tek effects.
 
-**_Magic Weapons_**. The marilith’s weapon attacks are magical.
+**_Tek Weapons_**. The marilith’s weapon attacks are tek.
 
 **_Reactive_**. The marilith can take one reaction on every turn in a combat.
 
@@ -1353,7 +1353,7 @@ _Large fiend (demon), chaotic evil_
 
 **_Tail_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one creature. _Hit:_ 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can’t make tail attacks against other targets.
 
-**_Teleport_**. The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport_**. The marilith teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
 **Reactions**
 
@@ -1387,7 +1387,7 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 13 (10,000 XP)
 
-**_Magic Resistance_**. The nalfeshnee has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The nalfeshnee has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1397,9 +1397,9 @@ _Large fiend (demon), chaotic evil_
 
 **_Claw_**. _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 15 (3d6 + 5) slashing damage.
 
-**_Horror Nimbus (Recharge 5–6)_**. The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee’s Horror Nimbus for the next 24 hours.
+**_Horror Nimbus (Recharge 5–6)_**. The nalfeshnee emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee’s Horror Nimbus for the next 24 hours.
 
-**_Teleport_**. The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport_**. The nalfeshnee teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
 ##### Quasit
 
@@ -1431,7 +1431,7 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 
 **_Shapechanger_**. The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
-**_Magic Resistance_**. The quasit has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The quasit has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1439,7 +1439,7 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 
 **_Scare (1/Day)_**. One creature of the quasit’s choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
 
-**_Invisibility_**. The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.
+**_Invisibility_**. The quasit turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a tek skill). Any equipment the quasit wears or carries is invisible with it.
 
 ##### Vrock
 
@@ -1469,7 +1469,7 @@ _Large fiend (demon), chaotic evil_
 
 **Challenge** 6 (2,300 XP)
 
-**_Magic Resistance_**. The vrock has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The vrock has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1517,9 +1517,9 @@ _Medium fiend (devil), lawful evil_
 
 **_Barbed Hide_**. At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.
 
-**_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
+**_Devil’s Sight_**. Tek darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The devil has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1529,7 +1529,7 @@ _Medium fiend (devil), lawful evil_
 
 **_Tail_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.
 
-**_Hurl Flame_**. Ranged Spell Attack:_ +5 to hit, range 150 ft., one target. _Hit:_ 10 (3d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
+**_Hurl Flame_**. Ranged Tek Attack:_ +5 to hit, range 150 ft., one target. _Hit:_ 10 (3d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
 
 ##### Bearded Devil
 
@@ -1559,9 +1559,9 @@ _Medium fiend (devil), lawful evil_
 
 **Challenge** 3 (700 XP)
 
-**_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
+**_Devil’s Sight_**. Tek darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The devil has advantage on saving throws against tek skills and other tek effects.
 
 **_Steadfast_**. The devil can’t be frightened while it can see an allied creature within 30 feet of it.
 
@@ -1603,9 +1603,9 @@ _Large fiend (devil), lawful evil_
 
 **Challenge** 9 (5,000 XP)
 
-**_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
+**_Devil’s Sight_**. Tek darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The devil has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1643,9 +1643,9 @@ _Medium fiend (devil), lawful evil_
 
 **Challenge** 8 (3,900 XP)
 
-**_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
+**_Devil’s Sight_**. Tek darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The devil has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1653,9 +1653,9 @@ _Medium fiend (devil), lawful evil_
 
 **_Chain_**. _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn’t already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
 
-**_Animate Chains (Recharges after a Short or Long Rest)_**. Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil’s control, provided that the chains aren’t being worn or carried.
+**_Animate Chains (Recharges after a Short or Long Rest)_**. Up to four chains the devil can see within 60 feet of it sprout razor-edged barbs and animate under the devil’s control, provided that the chains aren’t being worn or carried.
 
-Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can’t make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
+Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and concussive damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can’t make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
 
 **Reactions**
 
@@ -1691,7 +1691,7 @@ _Medium fiend (devil), lawful evil_
 
 **_Hellish Weapons_**. The erinyes’s weapon attacks are tek and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
 
-**_Magic Resistance_**. The erinyes has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The erinyes has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1699,7 +1699,7 @@ _Medium fiend (devil), lawful evil_
 
 **_pulse blade_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _lesser restoration_ spell or similar magic.
+**_Longbow_**. _Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _lesser restoration_ tek skill or similar tek.
 
 **Reactions**
 
@@ -1733,9 +1733,9 @@ _Large fiend (devil), lawful evil_
 
 **Challenge** 11 (7,200 XP)
 
-**_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
+**_Devil’s Sight_**. Tek darkness doesn’t impede the devil’s darkvision.
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The devil has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1745,7 +1745,7 @@ _Large fiend (devil), lawful evil_
 
 **_Tail_**. _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives tek healing.
 
-**_Hurl Flame_**. Ranged Spell Attack:_ +7 to hit, range 150 ft., one target. _Hit:_ 14 (4d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
+**_Hurl Flame_**. Ranged Tek Attack:_ +7 to hit, range 150 ft., one target. _Hit:_ 14 (4d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
 
 ##### Ice Devil
 
@@ -1775,7 +1775,7 @@ _Large fiend (devil), lawful evil_
 
 **Challenge** 14 (11,500 XP)
 
-**_Devil’s Sight_**. Magical darkness doesn’t impede the devil’s darkvision.
+**_Devil’s Sight_**. Tek darkness doesn’t impede the devil’s darkvision.
 
 ##### Imp
 
@@ -1791,7 +1791,7 @@ _Tiny fiend (devil, shapechanger), lawful evil_
 |---------|---------|---------|---------|---------|---------|
 | 6 (−2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
 
-**_Magic Resistance_**. The devil has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The devil has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -1803,12 +1803,12 @@ _Tiny fiend (devil, shapechanger), lawful evil_
 
 **_Tail_**. _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 
-**_Wall of Ice (Recharge 6)_**. The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it’s a hemispherical dome up to 20 feet in diameter.
+**_Wall of Ice (Recharge 6)_**. The devil forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it’s a hemispherical dome up to 20 feet in diameter.
 
 When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
 
 The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5,
-30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+30 hit points, vulnerability to fire damage, and immunity to acid, cold, radiation, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 
 **Skills** Charm +4, Insight +3, Charm +4, Stealth +5
 
@@ -1826,15 +1826,15 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **_Shapechanger_**. The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
-**_Devil’s Sight_**. Magical darkness doesn’t impede the imp’s darkvision.
+**_Devil’s Sight_**. Tek darkness doesn’t impede the imp’s darkvision.
 
-**_Magic Resistance_**. The imp has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The imp has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
 **_Sting (Bite in Beast Form)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-**_Invisibility_**. The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
+**_Invisibility_**. The imp turns invisible until it attacks or until its concentration ends (as if concentrating on a tek skill). Any equipment the imp wears or carries is invisible with it.
 
 ##### Lemure
 
@@ -1862,9 +1862,9 @@ _Medium fiend (devil), lawful evil_
 
 **Challenge** 0 (10 XP)
 
-**_Devil’s Sight_**. Magical darkness doesn’t impede the lemure’s darkvision.
+**_Devil’s Sight_**. Tek darkness doesn’t impede the lemure’s darkvision.
 
-**_Hellish Rejuvenation_**. A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a _bless_ spell cast on that creature or its remains are sprinkled with holy water.
+**_Hellish Rejuvenation_**. A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a _bless_ tek skill cast on that creature or its remains are sprinkled with holy water.
 
 **Actions**
 
@@ -1900,13 +1900,13 @@ _Large fiend (devil), lawful evil_
 
 **_Fear Aura_**. Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature’s saving throw is successful, the creature is immune to the pit fiend’s Fear Aura for the next 24 hours.
 
-**_Magic Resistance_**. The pit fiend has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The pit fiend has advantage on saving throws against tek skills and other tek effects.
 
-**_Magic Weapons_**. The pit fiend’s weapon attacks are magical.
+**_Tek Weapons_**. The pit fiend’s weapon attacks are tek.
 
-**_Innate Techcasting_**. The pit fiend’s Techcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The pit fiend’s Tekcasting ability is Charisma (tek skill save DC 21). The pit fiend can innately cast the following tek skills, requiring no material components:
 
-At will: _detect magic_, _fireball_
+At will: _detect tek_, _fireball_
 3/day each: _hold monster_, _wall of fire_
 
 **Actions**
@@ -2047,7 +2047,7 @@ _Medium monstrosity (shapechanger), neutral_
 
 **_Slam_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage.
 
-**_Read Thoughts_**. The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger’s concentration isn’t broken (as if concentrating on a spell). While reading the target’s mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Charm, Intimidation, and Charm) checks against the target.
+**_Read Thoughts_**. The doppelganger reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger’s concentration isn’t broken (as if concentrating on a tek skill). While reading the target’s mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Charm, Intimidation, and Charm) checks against the target.
 
 #### Dragons, Chromatic
 
@@ -2275,7 +2275,7 @@ _Gargantuan dragon, lawful evil_
 
 **_Frightful Presence_**. Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
 
-**_Lightning Breath (Recharge 5–6)_**. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+**_Shock Breath (Recharge 5–6)_**. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Legendary Actions**
 
@@ -2327,7 +2327,7 @@ _Huge dragon, lawful evil_
 
 **_Frightful Presence_**. Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
 
-**_Lightning Breath (Recharge 5–6)_**. The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+**_Shock Breath (Recharge 5–6)_**. The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **_Legendary Actions_**
 
@@ -2373,7 +2373,7 @@ _Large dragon, lawful evil_
 
 **_Claw_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.
 
-**_Lightning Breath (Recharge 5–6)_**. The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+**_Shock Breath (Recharge 5–6)_**. The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 ###### Blue Dragon Wyrmling
 
@@ -2405,7 +2405,7 @@ _Medium dragon, lawful evil_
 
 **_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
-**_Lightning Breath (Recharge 5–6)_**. The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+**_Shock Breath (Recharge 5–6)_**. The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 ##### Green Dragon
 
@@ -2966,7 +2966,7 @@ _Huge dragon, chaotic good_
 
 **Sleep Breath_**. The dragon exhales sleep gas in a 90-foot cone. Each creature in that area must succeed on a DC 21 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-**_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
+**_Change Shape_**. The dragon polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
@@ -3138,11 +3138,11 @@ _Gargantuan dragon, lawful good_
 
 **_Breath Weapons (Recharge 5–6)_**. The dragon uses one of the following breath weapons.
 
-**Lightning Breath_**. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Shock Breath_**. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath_**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
 
-**_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
+**_Change Shape_**. The dragon polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
@@ -3200,11 +3200,11 @@ _Huge dragon, lawful good_
 
 **_Breath Weapons (Recharge 5–6)_**. The dragon uses one of the following breath weapons.
 
-**Lightning Breath_**. The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Shock Breath_**. The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath_**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
 
-**_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
+**_Change Shape_**. The dragon polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
@@ -3256,7 +3256,7 @@ _Large dragon, lawful good_
 
 **_Breath Weapons (Recharge 5–6)_**. The dragon uses one of the following breath weapons.
 
-**Lightning Breath_**. The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Shock Breath_**. The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath_**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
 
@@ -3294,7 +3294,7 @@ _Medium dragon, lawful good_
 
 **_Breath Weapons (Recharge 5–6)_**. The dragon uses one of the following breath weapons.
 
-**Lightning Breath_**. The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Shock Breath_**. The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath_**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
 
@@ -3346,7 +3346,7 @@ _Gargantuan dragon, chaotic good_
 
 **Slowing Breath_**. The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-**_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
+**_Change Shape_**. The dragon polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
@@ -3542,7 +3542,7 @@ _Gargantuan dragon, lawful good_
 
 **Weakening Breath_**. The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
+**_Change Shape_**. The dragon polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
@@ -3604,7 +3604,7 @@ _Huge dragon, lawful good_
 
 **Weakening Breath_**. The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
+**_Change Shape_**. The dragon polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
@@ -3746,7 +3746,7 @@ _Gargantuan dragon, lawful good_
 
 **Paralyzing Breath_**. The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
+**_Change Shape_**. The dragon polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
@@ -3806,7 +3806,7 @@ _Huge dragon, lawful good_
 
 **Paralyzing Breath_**. The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
+**_Change Shape_**. The dragon polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
@@ -3958,7 +3958,7 @@ _Large monstrosity, chaotic evil_
 
 **_Fey Ancestry_**. The drider has advantage on saving throws against being charmed, and tek can’t put the drider to sleep.
 
-**_Innate Techcasting_**. The drider’s innate Techcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The drider’s innate Tekcasting ability is Wisdom (tek skill save DC 13). The drider can innately cast the following tek skills, requiring no material components:
 
 At will: _dancing lights_
 1/day each: _darkness_, _faerie fire_
@@ -4001,23 +4001,23 @@ _Medium fey, neutral_
 
 **Challenge** 1 (200 XP)
 
-**_Innate Techcasting_**. The dryad’s innate Techcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The dryad’s innate Tekcasting ability is Charisma (tek skill save DC 14). The dryad can innately cast the following tek skills, requiring no material components:
 
 At will: _druidcraft_
 3/day each: _entangle_, _goodberry_
 1/day each: _barkskin_, _pass without trace_, _shillelagh_
 
-**_Magic Resistance_**. The dryad has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The dryad has advantage on saving throws against tek skills and other tek effects.
 
 **_Speak with Beasts and Plants_**. The dryad can communicate with beasts and plants as if they shared a language.
 
-**_Tree Stride_**. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+**_Tree Stride_**. Once on her turn, the dryad can use 10 feet of her movement to step into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
 **Actions**
 
 **_Club_**. _Melee Weapon Attack:_ +2 to hit (+6 to hit with _shillelagh_), reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _shillelagh_.
 
-**_Fey Charm_**. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn’t under the dryad’s control, it takes the dryad’s requests or actions in the most favorable way it can.
+**_Fey Charm_**. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn’t under the dryad’s control, it takes the dryad’s requests or actions in the most favorable way it can.
 
 Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target’s saving throw is successful, the target is immune to the dryad’s Fey Charm for the next 24 hours.
 
@@ -4045,19 +4045,19 @@ _Medium humanoid (dwarf), lawful evil_
 
 **Challenge** 1 (200 XP)
 
-**_Duergar Resilience_**. The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
+**_Duergar Resilience_**. The duergar has advantage on saving throws against poison, tek skills, and illusions, as well as to resist being charmed or paralyzed.
 
 **_Sunlight Sensitivity_**. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 **Actions**
 
-**_Enlarge (Recharges after a Short or Long Rest)_**. For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+**_Enlarge (Recharges after a Short or Long Rest)_**. For 1 minute, the duergar increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
 **_War Pick_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged.
 
 **_Javelin_**. _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged.
 
-**_Invisibility (Recharges after a Short or Long Rest)_**. The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+**_Invisibility (Recharges after a Short or Long Rest)_**. The duergar turns invisible until it attacks, casts a tek skill, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a tek skill). Any equipment the duergar wears or carries is invisible with it.
 
 ### Monsters (E)
 
@@ -4077,7 +4077,7 @@ _Large elemental, neutral_
 |---------|---------|---------|--------|---------|--------|
 | 14 (+2) | 20 (+5) | 14 (+2) | 6 (−2) | 10 (+0) | 6 (−2) |
 
-**Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks
+**Damage Resistances** lightning, concussive; bludgeoning, piercing, and slashing from nontek attacks
 
 **Damage Immunities** poison
 
@@ -4115,7 +4115,7 @@ _Large elemental, neutral_
 |---------|--------|---------|--------|---------|--------|
 | 20 (+5) | 8 (−1) | 20 (+5) | 5 (−3) | 10 (+0) | 5 (−3) |
 
-**Damage Vulnerabilities** thunder
+**Damage Vulnerabilities** concussive
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
@@ -4129,7 +4129,7 @@ _Large elemental, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Earth Glide_**. The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn’t disturb the material it moves through.
+**_Earth Glide_**. The elemental can burrow through nontek, unworked earth and stone. While doing so, the elemental doesn’t disturb the material it moves through.
 
 **_Siege Monster_**. The elemental deals double damage to objects and structures.
 
@@ -4243,7 +4243,7 @@ _Medium humanoid (elf), neutral evil_
 
 **_Fey Ancestry_**. The drow has advantage on saving throws against being charmed, and tek can’t put the drow to sleep.
 
-**_Innate Techcasting_**. The drow’s Techcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The drow’s Tekcasting ability is Charisma (tek skill save DC 11). It can innately cast the following tek skills, requiring no material components:
 
 At will: _dancing lights_
 1/day each: _darkness_, _faerie fire_
@@ -4388,7 +4388,7 @@ _Medium plant, unaligned_
 
 **_Multiattack_**. The fungus makes 1d4 Rotting Touch attacks.
 
-**_Rotting Touch_**. _Melee Weapon Attack:_ +2 to hit, reach 10 ft., one creature. _Hit:_ 4 (1d8) necrotic damage.
+**_Rotting Touch_**. _Melee Weapon Attack:_ +2 to hit, reach 10 ft., one creature. _Hit:_ 4 (1d8) radiation damage.
 
 
 ### Monsters (G)
@@ -4447,7 +4447,7 @@ _Large elemental, chaotic good_
 
 **Saving Throws** Dex +6, Wis +7, Cha +9
 
-**Damage Immunities** lightning, thunder
+**Damage Immunities** lightning, concussive
 
 **Senses** darkvision 120 ft., passive Perception 13
 
@@ -4457,9 +4457,9 @@ _Large elemental, chaotic good_
 
 **_Elemental Demise_**. If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 
-**_Innate Techcasting_**. The djinni’s innate Techcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The djinni’s innate Tekcasting ability is Charisma (tek skill save DC 17, +9 to hit with tek skill attacks). It can innately cast the following tek skills, requiring no material components:
 
-At will: _detect evil and good_, _detect magic_, _thunderwave_
+At will: _detect evil and good_, _detect tek_, _shockwave_
 3/day each: _create food and water_ (can create wine instead of water), _tongues_, _wind walk_
 1/day each: _conjure elemental_ (air elemental only), _creation_, _gaseous form_, _invisibility_, _major image_, _plane shift_
 
@@ -4467,9 +4467,9 @@ At will: _detect evil and good_, _detect magic_, _thunderwave_
 
 **_Multiattack_**. The djinni makes three scimitar attacks.
 
-**_Scimitar_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni’s choice).
+**_Scimitar_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or concussive damage (djinni’s choice).
 
-**_Create Whirlwind_**. A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
+**_Create Whirlwind_**. A 5-foot-radius, 30-foot-tall cylinder of swirling air forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a tek skill). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 
 A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 
@@ -4499,9 +4499,9 @@ _Large elemental, lawful evil_
 
 **_Elemental Demise_**. If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 
-**_Innate Techcasting_**. The efreeti’s innate Techcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The efreeti’s innate Tekcasting ability is Charisma (tek skill save DC 15, +7 to hit with tek skill attacks). It can innately cast the following tek skills, requiring no material components:
 
-At will: _detect magic_
+At will: _detect tek_
 3/day: _enlarge/reduce_, _tongues_
 1/day each: _conjure elemental_ (fire elemental only), _gaseous form, invisibility_, _major image_, _plane shift_, _wall of fire_
 
@@ -4511,7 +4511,7 @@ At will: _detect magic_
 
 **_Scimitar_**. _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 
-**_Hurl Flame_**. Ranged Spell Attack:_ +7 to hit, range 120 ft., one target. _Hit:_ 17 (5d6) fire damage.
+**_Hurl Flame_**. Ranged Tek Attack:_ +7 to hit, range 120 ft., one target. _Hit:_ 17 (5d6) fire damage.
 
 #### Ghost
 
@@ -4527,9 +4527,9 @@ _Medium undead, any alignment_
 |--------|---------|---------|---------|---------|---------|
 | 7 (−2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
 
-**Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks
+**Damage Resistances** acid, fire, lightning, concussive; bludgeoning, piercing, and slashing from nontek attacks
 
-**Damage Immunities** cold, necrotic, poison
+**Damage Immunities** cold, radiation, poison
 
 **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
@@ -4545,15 +4545,15 @@ _Medium undead, any alignment_
 
 **Actions**
 
-**_Withering Touch_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 17 (4d6 + 3) necrotic damage.
+**_Withering Touch_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 17 (4d6 + 3) radiation damage.
 
 **_Etherealness_**. The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can’t affect or be affected by anything on the other plane.
 
-**_Horrifying Visage_**. Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to this ghost’s Horrifying Visage for the next 24 hours. The aging effect can be reversed with a _greater restoration_ spell, but only within 24 hours of it occurring.
+**_Horrifying Visage_**. Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to this ghost’s Horrifying Visage for the next 24 hours. The aging effect can be reversed with a _greater restoration_ tek skill, but only within 24 hours of it occurring.
 
-**_Possession (Recharge 6)_**. One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn’t deprive the target of awareness. The ghost can’t be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target’s statistics, but doesn’t gain access to the target’s knowledge, class features, or proficiencies.
+**_Possession (Recharge 6)_**. One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn’t deprive the target of awareness. The ghost can’t be targeted by any attack, tek skill, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target’s statistics, but doesn’t gain access to the target’s knowledge, class features, or proficiencies.
 
-The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the _dispel evil and good_ spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost’s Possession for 24 hours after succeeding on the saving throw or after the possession ends.
+The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the _dispel evil and good_ tek skill. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost’s Possession for 24 hours after succeeding on the saving throw or after the possession ends.
 
 #### Ghouls
 
@@ -4571,7 +4571,7 @@ _Medium undead, chaotic evil_
 |---------|---------|---------|---------|---------|--------|
 | 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1) |
 
-**Damage Resistances** necrotic
+**Damage Resistances** radiation
 
 **Damage Immunities** poison
 
@@ -4651,9 +4651,9 @@ _Huge giant, neutral good (50%) or neutral evil (50%)_
 
 **_Keen Smell_**. The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
-**_Innate Techcasting_**. The giant’s innate Techcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The giant’s innate Tekcasting ability is Charisma. It can innately cast the following tek skills, requiring no material components:
 
-At will: _detect magic_, _fog cloud_, _light_
+At will: _detect tek_, _fog cloud_, _light_
 3/day each: _feather fall_, _fly_, _misty step_, _telekinesis_
 1/day each: _control weather_, _gaseous form_
 
@@ -4821,7 +4821,7 @@ _Huge giant, chaotic good_
 
 **Damage Resistances** cold
 
-**Damage Immunities** lightning, thunder
+**Damage Immunities** lightning, concussive
 
 **Senses** passive Perception 19
 
@@ -4831,9 +4831,9 @@ _Huge giant, chaotic good_
 
 **_Amphibious_**. The giant can breathe air and water.
 
-**_Innate Techcasting_**. The giant’s innate Techcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The giant’s innate Tekcasting ability is Charisma (tek skill save DC 17). It can innately cast the following tek skills, requiring no material components:
 
-At will: _detect magic_, _feather fall_, _levitate_, _light_
+At will: _detect tek_, _feather fall_, _levitate_, _light_
 3/day each: _control weather_, _water breathing_
 
 **Actions**
@@ -4844,7 +4844,7 @@ At will: _detect magic_, _feather fall_, _levitate_, _light_
 
 **_Rock_**. _Ranged Weapon Attack:_ +14 to hit, range 60/240 ft., one target. _Hit:_ 35 (4d12 + 9) bludgeoning damage.
 
-**_Lightning Strike (Recharge 5–6)_**. The giant hurls a tek lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+**_Shock Strike (Recharge 5–6)_**. The giant hurls a tek lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
 #### Gibbering Mouther
 
@@ -4934,9 +4934,9 @@ _Small humanoid (gnome), neutral good_
 
 **_Stone Camouflage_**. The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-**_Gnome Cunning_**. The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
+**_Gnome Cunning_**. The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against tek.
 
-**_Innate Techcasting_**. The gnome’s innate Techcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The gnome’s innate Tekcasting ability is Intelligence (tek skill save DC 11). It can innately cast the following tek skills, requiring no material components:
 
 At will: _nondetection_ (self only)
 1/day each: _blindness/deafness_, _blur_, _disguise self_
@@ -5007,19 +5007,19 @@ _Large construct, unaligned_
 
 **_Berserk_**. Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 
-**_Immutable Form_**. The golem is immune to any spell or effect that would alter its form.
+**_Immutable Form_**. The golem is immune to any tek skill or effect that would alter its form.
 
-**_Magic Resistance_**. The golem has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
 
-**_Magic Weapons_**. The golem’s weapon attacks are magical.
+**_Tek Weapons_**. The golem’s weapon attacks are tek.
 
 **Actions**
 
 **_Multiattack_**. The golem makes two slam attacks.
 
-**_Slam_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the _greater restoration_ spell or other magic.
+**_Slam_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the _greater restoration_ tek skill or other tek.
 
-**_Haste (Recharge 5–6)_**. Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
+**_Haste (Recharge 5–6)_**. Until the end of its next turn, the golem gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 
 ##### Flesh Golem
 
@@ -5051,13 +5051,13 @@ The golem’s creator, if within 60 feet of the berserk golem, can try to calm i
 
 **_Aversion of Fire_**. If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
-**_Immutable Form_**. The golem is immune to any spell or effect that would alter its form.
+**_Immutable Form_**. The golem is immune to any tek skill or effect that would alter its form.
 
-**_Lightning Absorption**_. Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
+**_Shock Absorption**_. Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
 
-**_Magic Resistance_**. The golem has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
 
-**_Magic Weapons_**. The golem’s weapon attacks are magical.
+**_Tek Weapons_**. The golem’s weapon attacks are tek.
 
 **Actions**
 
@@ -5091,11 +5091,11 @@ _Large construct, unaligned_
 
 **_Fire Absorption**_. Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
 
-**_Immutable Form_**. The golem is immune to any spell or effect that would alter its form.
+**_Immutable Form_**. The golem is immune to any tek skill or effect that would alter its form.
 
-**_Magic Resistance_**. The golem has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
 
-**_Magic Weapons_**. The golem’s weapon attacks are magical.
+**_Tek Weapons_**. The golem’s weapon attacks are tek.
 
 **Actions**
 
@@ -5131,11 +5131,11 @@ _Large construct, unaligned_
 
 **Challenge** 10 (5,900 XP)
 
-**_Immutable Form_**. The golem is immune to any spell or effect that would alter its form.
+**_Immutable Form_**. The golem is immune to any tek skill or effect that would alter its form.
 
-**_Magic Resistance_**. The golem has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
 
-**_Magic Weapons_**. The golem’s weapon attacks are magical.
+**_Tek Weapons_**. The golem’s weapon attacks are tek.
 
 **Actions**
 
@@ -5143,7 +5143,7 @@ _Large construct, unaligned_
 
 **_Slam_**. _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.
 
-**_Slow (Recharge 5–6)_**. The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Slow (Recharge 5–6)_**. The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this tek. On a failed save, a target can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Gorgon
 
@@ -5177,7 +5177,7 @@ _Large monstrosity, unaligned_
 
 **_Hooves_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage.
 
-**_Petrifying Breath (Recharge 5–6)_**. The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the _greater restoration_ spell or other magic.
+**_Petrifying Breath (Recharge 5–6)_**. The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the _greater restoration_ tek skill or other tek.
 
 #### Grick
 
@@ -5305,7 +5305,7 @@ _Medium fey, neutral evil_
 
 **_Amphibious_**. The hag can breathe air and water.
 
-**_Innate Techcasting_**. The hag’s innate Techcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The hag’s innate Tekcasting ability is Charisma (tek skill save DC 12). She can innately cast the following tek skills, requiring no material components:
 
 At will: _dancing lights_, _minor illusion_, _vicious mockery_
 
@@ -5319,7 +5319,7 @@ At will: _dancing lights_, _minor illusion_, _vicious mockery_
 
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
 
-**_Invisible Passage_**. The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
+**_Invisible Passage_**. The hag turns invisible until she attacks or casts a tek skill, or until her concentration ends (as if concentrating on a tek skill). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by tek. Any equipment she wears or carries is invisible with her.
 
 ##### Night Hag
 
@@ -5347,22 +5347,22 @@ _Medium fiend, neutral evil_
 
 **Challenge** 5 (1,800 XP)
 
-**_Innate Techcasting_**. The hag’s innate Techcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The hag’s innate Tekcasting ability is Charisma (tek skill save DC 14, +6 to hit with tek skill attacks). She can innately cast the following tek skills, requiring no material components:
 
-At will: _detect magic_, _tek missile_
+At will: _detect tek_, _tek missile_
 2/day each: _plane shift_ (self only), _ray of enfeeblement_, _sleep_
 
-**_Magic Resistance_**. The hag has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The hag has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
 **_Claws (Hag Form Only)_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 
-**_Change Shape_**. The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn’t transformed. She reverts to her true form if she dies.
+**_Change Shape_**. The hag polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn’t transformed. She reverts to her true form if she dies.
 
-**_Etherealness_**. The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a _heartstone_ in her possession.
+**_Etherealness_**. The hag enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a _heartstone_ in her possession.
 
-**_Nightmare Haunting (1/Day)_**. While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A _protection from evil and good_ spell cast on the target prevents this contact, as does a _tek circle_. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target’s hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag’s _soul bag_. The reduction to the target’s hit point maximum lasts until removed by the _greater restoration_ spell or similar magic.
+**_Nightmare Haunting (1/Day)_**. While on the Ethereal Plane, the hag touches a sleeping humanoid on the Material Plane. A _protection from evil and good_ tek skill cast on the target prevents this contact, as does a _tek circle_. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target’s hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag’s _soul bag_. The reduction to the target’s hit point maximum lasts until removed by the _greater restoration_ tek skill or similar tek.
 
 ##### Sea Hag
 
@@ -5413,7 +5413,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 | Color               | Damage Resistance |
 |---------------------|-------------------|
 | Black or copper     | Acid              |
-| Blue or bronze      | Lightning         |
+| Blue or bronze      | Shock         |
 | Brass, gold, or red | Fire              |
 | Green               | Poison            |
 | Silver or white     | Cold              |
@@ -5616,7 +5616,7 @@ _Tiny construct, neutral_
 
 **Challenge** 0 (10 XP)
 
-**_Telepathic Bond_**. While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
+**_Telepathic Bond_**. While the homunculus is on the same plane of existence as its master, it can convey what it senses to its master, and the two can communicate telepathically.
 
 **Actions**
 
@@ -5778,7 +5778,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 **_Fling_**. One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone.
 
-**_Lightning Storm_**. The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+**_Shock Storm_**. The kraken creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Legendary Actions**
 
@@ -5786,7 +5786,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 **_Tentacle Attack or Fling_**. The kraken makes one tentacle attack or uses its Fling.
 
-**_Lightning Storm (Costs 2 Actions)_**. The kraken uses Lightning Storm.
+**_Shock Storm (Costs 2 Actions)_**. The kraken uses Shock Storm.
 
 **_Ink Cloud (Costs 3 Actions)_**. While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken’s next turn.
 
@@ -5814,7 +5814,7 @@ _Large monstrosity, chaotic evil_
 
 **Challenge** 4 (1,100 XP)
 
-**_Innate Techcasting_**. The lamia’s innate Techcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
+**_Innate Tekcasting_**. The lamia’s innate Tekcasting ability is Charisma (tek skill save DC 13). It can innately cast the following tek skills, requiring no material components.
 
 At will: _disguise self_ (any humanoid form), _major image_
 3/day each: _charm person_, _mirror image_, _scrying_, _suggestion_
@@ -5828,7 +5828,7 @@ At will: _disguise self_ (any humanoid form), _major image_
 
 **_ion dagger_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
 
-**_Intoxicating Touch_**. Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ The target is magically hacked for 1 hour. Until the hack ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+**_Intoxicating Touch_**. Melee Tek Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ The target is hacked for 1 hour. Until the hack ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 
 #### Lich
 
@@ -5848,7 +5848,7 @@ _Medium undead, any evil alignment_
 
 **Skills** Arcana +18, History +12, Insight +9, Perception +9
 
-**Damage Resistances** cold, lightning, necrotic
+**Damage Resistances** cold, lightning, radiation
 
 **Damage Immunities** poison; bludgeoning, piercing, and slashing from nontek attacks
 
@@ -5864,12 +5864,12 @@ _Medium undead, any evil alignment_
 
 **_Rejuvenation_**. If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
-**_Techcasting_**. The lich is an 18th-level spellcaster. Its Techcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
+**_Tekcasting_**. The lich is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 20, +12 to hit with tek skill attacks). The lich has the following wizard tek skills prepared:
 
 Cantrips (at will): _mage hand_, _prestidigitation_, _ray of frost_
-1st level (4 slots): _detect magic_, _tek missile_, _shield_, _thunderwave_
+1st level (4 slots): _detect tek_, _tek missile_, _shield_, _shockwave_
 2nd level (3 slots): _acid bullet_, _detect thoughts_, _invisibility_, _mirror image_
-3rd level (3 slots): _animate dead_, _counterspell_, _dispel magic_, _fireball_
+3rd level (3 slots): _animate dead_, _countertek skill_, _dispel tek_, _fireball_
 4th level (3 slots): _blight_, _dimension door_
 5th level (3 slots): _cloudkill_, _scrying_
 6th level (1 slot): _disintegrate_, _globe of invulnerability_
@@ -5881,7 +5881,7 @@ Cantrips (at will): _mage hand_, _prestidigitation_, _ray of frost_
 
 **Actions**
 
-**_Paralyzing Touch_**. Melee Spell Attack:_ +12 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Paralyzing Touch_**. Melee Tek Attack:_ +12 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 **Legendary Actions**
 
@@ -5893,7 +5893,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **_Frightening Gaze (Costs 2 Actions)_**. The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this tek or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
 
-**_Disrupt Life (Costs 3 Actions)_**. Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+**_Disrupt Life (Costs 3 Actions)_**. Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this tek, taking 21 (6d6) radiation damage on a failed save, or half as much damage on a successful one.
 
 #### Lizardfolk
 
@@ -6215,7 +6215,7 @@ _Medium monstrosity, lawful evil_
 
 **Challenge** 6 (2,300 XP)
 
-**_Petrifying Gaze_**. When a creature that can see the medusa’s eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn’t incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the _greater restoration_ spell or other magic.
+**_Petrifying Gaze_**. When a creature that can see the medusa’s eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn’t incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the _greater restoration_ tek skill or other tek.
 
 Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can’t see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
 
@@ -6263,7 +6263,7 @@ _Small elemental, neutral evil_
 
 **_Death Burst_**. When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
-**_Innate Techcasting (1/Day)_**. The mephit can innately cast _sleep_, requiring no material components. Its innate Techcasting ability is Charisma.
+**_Innate Tekcasting (1/Day)_**. The mephit can innately cast _sleep_, requiring no material components. Its innate Tekcasting ability is Charisma.
 
 **Actions**
 
@@ -6303,7 +6303,7 @@ _Small elemental, neutral evil_
 
 **_False Appearance_**. While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
 
-**_Innate Techcasting (1/Day)_**. The mephit can innately cast _fog cloud_, requiring no material components. Its innate Techcasting ability is Charisma.
+**_Innate Tekcasting (1/Day)_**. The mephit can innately cast _fog cloud_, requiring no material components. Its innate Tekcasting ability is Charisma.
 
 **Actions**
 
@@ -6343,7 +6343,7 @@ _Small elemental, neutral evil_
 
 **_False Appearance_**. While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
 
-**_Innate Techcasting (1/Day)_**. The mephit can innately cast _heat metal_ (spell save DC 10), requiring no material components. Its innate Techcasting ability is Charisma.
+**_Innate Tekcasting (1/Day)_**. The mephit can innately cast _heat metal_ (tek skill save DC 10), requiring no material components. Its innate Tekcasting ability is Charisma.
 
 **Actions**
 
@@ -6377,7 +6377,7 @@ _Small elemental, neutral evil_
 
 **_Death Burst_**. When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
 
-**_Innate Techcasting (1/Day)_**. The mephit can innately cast _blur_, requiring no material components. Its innate Techcasting ability is Charisma.
+**_Innate Tekcasting (1/Day)_**. The mephit can innately cast _blur_, requiring no material components. Its innate Tekcasting ability is Charisma.
 
 **Actions**
 
@@ -6541,7 +6541,7 @@ _Medium undead**,** lawful evil_
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
-**Damage Immunities** necrotic, poison
+**Damage Immunities** radiation, poison
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
@@ -6555,7 +6555,7 @@ _Medium undead**,** lawful evil_
 
 **_Multiattack_**. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-**_Rotting Fist_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be hacked with mummy rot. The hacked target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the hack reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The hack lasts until removed by the _remove hack_ spell or other magic.
+**_Rotting Fist_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) radiation damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be hacked with mummy rot. The hacked target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the hack reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The hack lasts until removed by the _remove hack_ tek skill or other tek.
 
 **_Dreadful Glare_**. The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this tek or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
@@ -6579,7 +6579,7 @@ _Medium undead, lawful evil_
 
 **Damage Vulnerabilities** fire
 
-**Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nontek attacks
+**Damage Immunities** radiation, poison; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
@@ -6589,16 +6589,16 @@ _Medium undead, lawful evil_
 
 **Challenge** 15 (13,000 XP)
 
-**_Magic Resistance_**. The mummy lord has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The mummy lord has advantage on saving throws against tek skills and other tek effects.
 
 **_Rejuvenation_**. A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord’s heart.
 
-**_Techcasting_**. The mummy lord is a 10th-level spellcaster. Its Techcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
+**_Tekcasting_**. The mummy lord is a 10th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 17, +9 to hit with tek skill attacks). The mummy lord has the following cleric tek skills prepared:
 
 Cantrips (at will): _sacred flame_, _thaumaturgy_
 1st level (4 slots): _command_, _guiding bolt_, _shield of faith_
 2nd level (3 slots): _hold person_, _silence_, _spiritual weapon_
-3rd level (3 slots): _animate dead_, _dispel magic_
+3rd level (3 slots): _animate dead_, _dispel tek_
 4th level (3 slots): _divination_, _guardian of faith_
 5th level (2 slots): _contagion_, _insect plague_
 6th level (1 slot): _harm_
@@ -6607,7 +6607,7 @@ Cantrips (at will): _sacred flame_, _thaumaturgy_
 
 **_Multiattack_**. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-**_Rotting Fist_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be hacked with mummy rot. The hacked target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the hack reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The hack lasts until removed by the _remove hack_ spell or other magic.
+**_Rotting Fist_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) radiation damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be hacked with mummy rot. The hacked target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the hack reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The hack lasts until removed by the _remove hack_ tek skill or other tek.
 
 **_Dreadful Glare_**. The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this tek or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
@@ -6617,13 +6617,13 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Attack_**. The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
 
-**_Blinding Dust_**. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature’s next turn.
+**_Blinding Dust_**. Blinding dust and sand swirls around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature’s next turn.
 
 **_Blasphemous Word (Costs 2 Actions)_**. The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the tek utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord’s next turn.
 
-**_Channel Negative Energy (Costs 2 Actions)_**. The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can’t regain hit points until the end of the mummy lord’s next turn.
+**_Channel Negative Energy (Costs 2 Actions)_**. The mummy lord unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can’t regain hit points until the end of the mummy lord’s next turn.
 
-**_Whirlwind of Sand (Costs 2 Actions)_**. The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can’t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+**_Whirlwind of Sand (Costs 2 Actions)_**. The mummy lord transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can’t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
 
 ### Monsters (N)
 
@@ -6657,9 +6657,9 @@ _Large monstrosity, lawful good_
 
 **Challenge** 10 (5,900 XP)
 
-**_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ spell can prevent this trait from functioning.
+**_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ tek skill can prevent this trait from functioning.
 
-**_Techcasting_**. The naga is an 11th-level spellcaster. Its Techcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
+**_Tekcasting_**. The naga is an 11th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 16, +8 to hit with tek skill attacks), and it needs only verbal components to cast its tek skills. It has the following cleric tek skills prepared:
 
 Cantrips (at will): _mending_, _sacred flame_, _thaumaturgy_
 1st level (4 slots): _command_, _cure wounds_, _shield of faith_
@@ -6700,12 +6700,12 @@ _Large monstrosity, chaotic evil_
 
 **Challenge** 8 (3,900 XP)
 
-**_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ spell can prevent this trait from functioning.
+**_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ tek skill can prevent this trait from functioning.
 
-**_Techcasting_**. The naga is a 10th-level spellcaster. Its Techcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
+**_Tekcasting_**. The naga is a 10th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks), and it needs only verbal components to cast its tek skills. It has the following wizard tek skills prepared:
 
 Cantrips (at will): _mage hand_, _minor illusion_, _ray of frost_
-1st level (4 slots): _charm person_, _detect magic_, _sleep_
+1st level (4 slots): _charm person_, _detect tek_, _sleep_
 2nd level (3 slots): _detect thoughts_, _hold person_
 3rd level (3 slots): _lightning bolt_, _water breathing_
 4th level (3 slots): _blight_, _dimension door_
@@ -6745,7 +6745,7 @@ _Large fiend, neutral evil_
 
 **_Hooves_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 
-**_Ethereal Stride_**. The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+**_Ethereal Stride_**. The nightmare and up to three willing creatures within 5 feet of it enter the Ethereal Plane from the Material Plane, or vice versa.
 
 ### Monsters (O)
 
@@ -6799,12 +6799,12 @@ _Large giant, lawful evil_
 
 **Challenge** 7 (2,900 XP)
 
-**_Innate Techcasting_**. The oni’s innate Techcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The oni’s innate Tekcasting ability is Charisma (tek skill save DC 13). The oni can innately cast the following tek skills, requiring no material components:
 
 At will: _darkness_, _invisibility_
 1/day each: _charm person_, _cone of cold_, _gaseous form_, _sleep_
 
-**_Magic Weapons_**. The oni’s weapon attacks are magical.
+**_Tek Weapons_**. The oni’s weapon attacks are tek.
 
 **_Regeneration_**. The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
@@ -6816,7 +6816,7 @@ At will: _darkness_, _invisibility_
 
 **_Glaive_**. _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.
 
-**_Change Shape_**. The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
+**_Change Shape_**. The oni polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 
 #### Oozes
 
@@ -7032,7 +7032,7 @@ _Large aberration, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Limited Telepathy_**. The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn’t allow the receiving creature to telepathically respond.
+**_Limited Telepathy_**. The otyugh can transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn’t allow the receiving creature to telepathically respond.
 
 **Actions**
 
@@ -7130,9 +7130,9 @@ _Tiny dragon, neutral good_
 
 **_Keen Senses_**. The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
 
-**_Magic Resistance_**. The pseudodragon has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The pseudodragon has advantage on saving throws against tek skills and other tek effects.
 
-**_Limited Telepathy_**. The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
+**_Limited Telepathy_**. The pseudodragon can communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
 
 **Actions**
 
@@ -7202,19 +7202,19 @@ _Medium fiend, lawful evil_
 
 **Challenge** 13 (10,000 XP)
 
-**_Limited Magic Immunity_**. The rakshasa can’t be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and tek effects.
+**_Limited Tek Immunity_**. The rakshasa can’t be affected or detected by tek skills of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other tek skills and tek effects.
 
-**_Innate Techcasting_**. The rakshasa’s innate Techcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
+**_Innate Tekcasting_**. The rakshasa’s innate Tekcasting ability is Charisma (tek skill save DC 18, +10 to hit with tek skill attacks). The rakshasa can innately cast the following tek skills, requiring no material components:
 
 At will: _detect thoughts_, _disguise self_, _mage hand_, _minor illusion_
-3/day each: _charm person_, _detect magic_, _invisibility_, _major image_, s_uggestion_
+3/day each: _charm person_, _detect tek_, _invisibility_, _major image_, s_uggestion_
 1/day each: _dominate person_, _fly_, _plane shift_, _true seeing_
 
 **Actions**
 
 **_Multiattack_**. The rakshasa makes two claw attacks.
 
-**_Claw_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage, and the target is hacked if it is a creature. The tek hack takes effect whenever the target takes a short or long rest, filling the target’s thoughts with horrible images and dreams. The hacked target gains no benefit from finishing a short or long rest. The hack lasts until it is lifted by a _remove hack_ spell or similar magic.
+**_Claw_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage, and the target is hacked if it is a creature. The tek hack takes effect whenever the target takes a short or long rest, filling the target’s thoughts with horrible images and dreams. The hacked target gains no benefit from finishing a short or long rest. The hack lasts until it is lifted by a _remove hack_ tek skill or similar tek.
 
 #### Remorhaz
 
@@ -7380,7 +7380,7 @@ _Medium humanoid (sahuagin), lawful evil_
 
 **_Limited Amphibiousness_**. The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
 
-**_Shark Telepathy_**. The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+**_Shark Telepathy_**. The sahuagin can command any shark within 120 feet of it, using a limited telepathy.
 
 **Actions**
 
@@ -7452,7 +7452,7 @@ _Medium fey, chaotic neutral_
 
 **Challenge** 1/2 (100 XP)
 
-**_Magic Resistance_**. The satyr has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The satyr has advantage on saving throws against tek skills and other tek effects.
 
 **Actions**
 
@@ -7480,9 +7480,9 @@ _Medium undead, chaotic evil_
 
 **Damage Vulnerabilities** radiant
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks
+**Damage Resistances** acid, cold, fire, lightning, concussive; bludgeoning, piercing, and slashing from nontek attacks
 
-**Damage Immunities** necrotic, poison
+**Damage Immunities** radiation, poison
 
 **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
@@ -7500,7 +7500,7 @@ _Medium undead, chaotic evil_
 
 **Actions**
 
-**_Strength Drain_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) necrotic damage, and the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+**_Strength Drain_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) radiation damage, and the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 
 If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 
@@ -7532,7 +7532,7 @@ _Large plant, unaligned_
 
 **Challenge** 5 (1,800 XP)
 
-**_Lightning Absorption**_. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+**_Shock Absorption**_. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
 **Actions**
 
@@ -7566,11 +7566,11 @@ _Large construct, unaligned_
 
 **Challenge** 7 (2,900 XP)
 
-**_Bound_**. The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet’s wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet’s wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
+**_Bound_**. The shield guardian is bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet’s wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet’s wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
 
 **_Regeneration_**. The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-**_Spell Storing**_. A spellcaster who wears the shield guardian’s amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
+**_Tek Storing**_. A tekcaster who wears the shield guardian’s amulet can cause the guardian to store one tek skill of 4th level or lower. To do so, the wearer must cast the tek skill on the guardian. The tek skill has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the tekcaster, the guardian casts the stored tek skill with any parameters set by the original caster, requiring no components. When the tek skill is cast or a new tek skill is stored, any previously stored tek skill is lost.
 
 **Actions**
 
@@ -7694,9 +7694,9 @@ _Medium undead, chaotic evil_
 |--------|---------|---------|---------|---------|---------|
 | 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks
+**Damage Resistances** acid, cold, fire, lightning, concussive; bludgeoning, piercing, and slashing from nontek attacks
 
-**Damage Immunities** necrotic, poison
+**Damage Immunities** radiation, poison
 
 **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
@@ -7712,7 +7712,7 @@ _Medium undead, chaotic evil_
 
 **Actions**
 
-**_Life Drain_**. Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**_Life Drain_**. Melee Tek Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) radiation damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 #### Sphinxes
 
@@ -7744,16 +7744,16 @@ _Large monstrosity, lawful neutral_
 
 **Challenge** 17 (18,000 XP)
 
-**_Inscrutable_**. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx’s intentions or sincerity have disadvantage.
+**_Inscrutable_**. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination tek skill that it refuses. Wisdom (Insight) checks made to ascertain the sphinx’s intentions or sincerity have disadvantage.
 
-**_Magic Weapons_**. The sphinx’s weapon attacks are magical.
+**_Tek Weapons_**. The sphinx’s weapon attacks are tek.
 
-**_Techcasting_**. The sphinx is a 12th-level spellcaster. Its Techcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
+**_Tekcasting_**. The sphinx is a 12th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 18, +10 to hit with tek skill attacks). It requires no material components to cast its tek skills. The sphinx has the following cleric tek skills prepared:
 
 Cantrips (at will): _sacred flame_, _spare the dying_, _thaumaturgy_
-1st level (4 slots): _command_, _detect evil and good_, _detect magic_
+1st level (4 slots): _command_, _detect evil and good_, _detect tek_
 2nd level (3 slots): _lesser restoration_, _zone of truth_
-3rd level (3 slots): _dispel magic_, _tongues_
+3rd level (3 slots): _dispel tek_, _tongues_
 4th level (3 slots): _banishment_, _freedom of movement_
 5th level (2 slots): _flame strike_, _greater restoration_
 6th level (1 slot): _heroes’ feast_
@@ -7770,7 +7770,7 @@ Cantrips (at will): _sacred flame_, _spare the dying_, _thaumaturgy_
 
 **Second Roar_**. Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Third Roar_**. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn’t knocked prone.
+**Third Roar_**. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) concussive damage and is knocked prone. On a successful save, the creature takes half as much damage and isn’t knocked prone.
 
 **Legendary Actions**
 
@@ -7778,9 +7778,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Claw Attack_**. The sphinx makes one claw attack.
 
-**_Teleport (Costs 2 Actions)_**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport (Costs 2 Actions)_**. The sphinx teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-**_Cast a Spell (Costs 3 Actions)_**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+**_Cast a Tek (Costs 3 Actions)_**. The sphinx casts a tek skill from its list of prepared tek skills, using a tek skill slot as normal.
 
 ##### Gynosphinx
 
@@ -7810,16 +7810,16 @@ _Large monstrosity, lawful neutral_
 
 **Challenge** 11 (7,200 XP)
 
-**_Inscrutable_**. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx’s intentions or sincerity have disadvantage.
+**_Inscrutable_**. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination tek skill that it refuses. Wisdom (Insight) checks made to ascertain the sphinx’s intentions or sincerity have disadvantage.
 
-**_Magic Weapons_**. The sphinx’s weapon attacks are magical.
+**_Tek Weapons_**. The sphinx’s weapon attacks are tek.
 
-**_Techcasting_**. The sphinx is a 9th-level spellcaster. Its Techcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
+**_Tekcasting_**. The sphinx is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 16, +8 to hit with tek skill attacks). It requires no material components to cast its tek skills. The sphinx has the following wizard tek skills prepared:
 
 Cantrips (at will): _mage hand_, _minor illusion_, _prestidigitation_
-1st level (4 slots): _detect magic_, _identify_, _shield_
+1st level (4 slots): _detect tek_, _identify_, _shield_
 2nd level (3 slots): _darkness_, _locate object_, _suggestion_
-3rd level (3 slots): _dispel magic_, _remove hack_, _tongues_
+3rd level (3 slots): _dispel tek_, _remove hack_, _tongues_
 4th level (3 slots): _banishment_, _greater invisibility_
 5th level (1 slot): _legend lore_
 
@@ -7835,9 +7835,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Claw Attack_**. The sphinx makes one claw attack.
 
-**_Teleport (Costs 2 Actions)_**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport (Costs 2 Actions)_**. The sphinx teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-**_Cast a Spell (Costs 3 Actions)_**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+**_Cast a Tek (Costs 3 Actions)_**. The sphinx casts a tek skill from its list of prepared tek skills, using a tek skill slot as normal.
 
 #### Sprite
 
@@ -7867,9 +7867,9 @@ _Tiny fey, neutral good_
 
 **_scorcher_**. _Ranged Weapon Attack:_ +6 to hit, range 40/160 ft., one target. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 
-**_Heart Sight_**. The sprite touches a creature and magically knows the creature’s current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature’s alignment. Celestials, fiends, and undead automatically fail the saving throw.
+**_Heart Sight_**. The sprite touches a creature and knows the creature’s current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature’s alignment. Celestials, fiends, and undead automatically fail the saving throw.
 
-**_Invisibility_**. The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
+**_Invisibility_**. The sprite turns invisible until it attacks or casts a tek skill, or until its concentration ends (as if concentrating on a tek skill). Any equipment the sprite wears or carries is invisible with it.
 
 #### Stirge
 
@@ -7929,15 +7929,15 @@ _Medium fiend (shapechanger), neutral evil_
 
 **_Claw (Fiend Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
-**_Charm_**. One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend’s verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend’s Charm for the next 24 hours.
+**_Charm_**. One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be charmed for 1 day. The charmed target obeys the fiend’s verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend’s Charm for the next 24 hours.
 
 The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
 
 **_Draining Kiss_**. The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15
 
-Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target’s hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+Constitution saving throw against this tek, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target’s hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-**_Etherealness_**. The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
+**_Etherealness_**. The fiend enters the Ethereal Plane from the Material Plane, or vice versa.
 
 ### Monsters (T)
 
@@ -7969,10 +7969,10 @@ _Gargantuan monstrosity (titan), unaligned_
 
 **_Legendary Resistance (3/Day)_**. If the tarrasque fails a saving throw, it can choose to succeed instead.
 
-**_Magic Resistance_**. The tarrasque has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The tarrasque has advantage on saving throws against tek skills and other tek effects.
 
 **_Reflective Carapace_**. Any time the tarrasque is targeted by a
-_tek missile_ spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
+_tek missile_ tek skill, a line tek skill, or a tek skill that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
 
 **_Siege Monster_**. The tarrasque deals double damage to objects and structures.
 
@@ -8040,7 +8040,7 @@ _Huge plant, chaotic good_
 
 **_Rock_**. _Ranged Weapon Attack:_ +10 to hit, range 60/180 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage.
 
-**_Animate Trees (1/Day)_**. The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can’t speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+**_Animate Trees (1/Day)_**. The treant animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can’t speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
 
 #### Troll
 
@@ -8104,14 +8104,14 @@ _Large celestial**,** lawful good_
 
 **_Charge_**. If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-**_Innate Techcasting_**. The unicorn’s innate Techcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
+**_Innate Tekcasting_**. The unicorn’s innate Tekcasting ability is Charisma (tek skill save DC 14). The unicorn can innately cast the following tek skills, requiring no components:
 
 At will: _detect evil and good_, _druidcraft_, _pass without trace_
 1/day each: _calm emotions_, _dispel evil and good_, _entangle_
 
-**_Magic Resistance_**. The unicorn has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The unicorn has advantage on saving throws against tek skills and other tek effects.
 
-**_Magic Weapons_**. The unicorn’s weapon attacks are magical.
+**_Tek Weapons_**. The unicorn’s weapon attacks are tek.
 
 **Actions**
 
@@ -8121,9 +8121,9 @@ At will: _detect evil and good_, _druidcraft_, _pass without trace_
 
 **_Horn_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.
 
-**_Healing Touch (3/Day)_**. The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
+**_Healing Touch (3/Day)_**. The unicorn touches another creature with its horn. The target regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
 
-**_Teleport (1/Day)_**. The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
+**_Teleport (1/Day)_**. The unicorn teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 
 **Legendary Actions**
 
@@ -8133,7 +8133,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **_Shimmering Shield (Costs 2 Actions)_**. The unicorn creates a shimmering, tek field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn’s next turn.
 
-**_Heal Self (Costs 3 Actions)_**. The unicorn magically regains 11 (2d8 + 2) hit points.
+**_Heal Self (Costs 3 Actions)_**. The unicorn regains 11 (2d8 + 2) hit points.
 
 ### Monsters (V)
 
@@ -8157,7 +8157,7 @@ _Medium undead (shapechanger), lawful evil_
 
 **Skills** Perception +7, Stealth +9
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nontek attacks
+**Damage Resistances** radiation; bludgeoning, piercing, and slashing from nontek attacks
 
 **Senses** darkvision 120 ft., passive Perception 17
 
@@ -8197,13 +8197,13 @@ _Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it starts 
 
 **_Unarmed Strike (Vampire Form Only)_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one creature. _Hit:_ 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
 
-**_Bite (Bat or Vampire Form Only)_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire’s control.
+**_Bite (Bat or Vampire Form Only)_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 7 (1d6 + 4) piercing damage plus 10 (3d6) radiation damage. The target’s hit point maximum is reduced by an amount equal to the radiation damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire’s control.
 
 **_Charm_**. The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this tek or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn’t under the vampire’s control, it takes the vampire’s requests or actions in the most favorable way it can, and it is a willing target for the vampire’s bite attack.
 
 Each time the vampire or the vampire’s companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
-**_Children of the Night (1/Day)_**. The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn’t up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
+**_Children of the Night (1/Day)_**. The vampire calls 2d4 swarms of bats or rats, provided that the sun isn’t up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
 **Legendary Actions**
 
@@ -8233,7 +8233,7 @@ _Medium undead, neutral evil_
 
 **Skills** Perception +3, Stealth +6
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nontek attacks
+**Damage Resistances** radiation; bludgeoning, piercing, and slashing from nontek attacks
 
 **Senses** darkvision 60 ft., passive Perception 13
 
@@ -8261,7 +8261,7 @@ _Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it starts 
 
 **_Claws_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
 
-**_Bite_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**_Bite_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 6 (1d6 + 3) piercing damage plus 7 (2d6) radiation damage. The target’s hit point maximum is reduced by an amount equal to the radiation damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 ### Monsters (W)
 
@@ -8281,7 +8281,7 @@ _Medium undead, neutral evil_
 
 **Skills** Perception +3, Stealth +4
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
+**Damage Resistances** radiation; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
 **Damage Immunities** poison
 
@@ -8299,7 +8299,7 @@ _Medium undead, neutral evil_
 
 **_Multiattack_**. The wight makes two pulse blade attacks or two railrifle attacks. It can use its Life Drain in place of one pulse blade attack.
 
-**_Life Drain_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**_Life Drain_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) radiation damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 A humanoid slain by this attack rises 24 hours later as a zombie under the wight’s control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
 
@@ -8323,7 +8323,7 @@ _Tiny undead, chaotic evil_
 
 **Damage Immunities** lightning, poison
 
-**Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nontek attacks
+**Damage Resistances** acid, cold, fire, radiation, concussive; bludgeoning, piercing, and slashing from nontek attacks
 
 **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 
@@ -8343,9 +8343,9 @@ _Tiny undead, chaotic evil_
 
 **Actions**
 
-**_Shock_**. Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d8) lightning damage.
+**_Concussive_**. Melee Tek Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d8) lightning damage.
 
-**_Invisibility_**. The will-o’-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
+**_Invisibility_**. The will-o’-wisp and its light become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a tek skill).
 
 #### Wraith
 
@@ -8361,9 +8361,9 @@ _Medium undead, neutral evil_
 |--------|---------|---------|---------|---------|---------|
 | 6 (−2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
+**Damage Resistances** acid, cold, fire, lightning, concussive; bludgeoning, piercing, and slashing from nontek attacks that aren’t silvered
 
-**Damage Immunities** necrotic, poison
+**Damage Immunities** radiation, poison
 
 **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 
@@ -8379,7 +8379,7 @@ _Medium undead, neutral evil_
 
 **Actions**
 
-**_Life Drain_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**_Life Drain_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 21 (4d8 + 3) radiation damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 **_Create Specter_**. The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target’s spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith’s control. The wraith can have no more than seven specters under its control at one time.
 
@@ -8441,7 +8441,7 @@ _Medium elemental, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Earth Glide_**. The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn’t disturb the material it moves through.
+**_Earth Glide_**. The xorn can burrow through nontek, unworked earth and stone. While doing so, the xorn doesn’t disturb the material it moves through.
 
 **_Stone Camouflage_**. The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 

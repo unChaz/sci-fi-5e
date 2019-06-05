@@ -4,23 +4,23 @@ A typical creature in the game world has an alignment, which broadly describes i
 
 These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
 
-**Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
+**Lawful good** (LG) creatures can be counted on to do the right thing as expected by society.
 
-**Neutral good** (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
+**Neutral good** (NG) folk do the best they can to help others according to their needs.
 
-**Chaotic good** (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
+**Chaotic good** (CG) creatures act as their conscience directs, with little regard for what others expect.
 
-**Lawful neutral** (LN) individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.
+**Lawful neutral** (LN) individuals act in accordance with law, tradition, or personal codes.
 
-**Neutral** (N) is the alignment of those who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.
+**Neutral** (N) is the alignment of those who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time.
 
-**Chaotic neutral** (CN) creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.
+**Chaotic neutral** (CN) creatures follow their whims, holding their personal freedom above all else.
 
-**Lawful evil** (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils, blue dragons, and hobgoblins are lawful evil.
+**Lawful evil** (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order.
 
-**Neutral evil** (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and goblins are neutral evil.
+**Neutral evil** (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms.
 
-**Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.
+**Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust.
 
 ##### Alignment in the Multiverse
 
@@ -45,10 +45,13 @@ Some of these languages are actually families of languages with many dialects.
 | Chinese  | Martians         | Chinese   |
 | Russian  | Rim Dwellers     | Russian |
 | Binary   | Robots           | Binary |
+| Prothean   | Artificers | Prothean |
+
+Other Common Languages: Spanish, Japanese, German, French, Swahili, and any language originating on Earth.
 
 ### Inspiration
 
-Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
+Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a tek skill that has been laid on you.
 
 #### Gaining Inspiration
 

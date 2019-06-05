@@ -34,10 +34,10 @@ You start with the following equipment, in addition to the equipment granted by 
 
 **The Ranger (table)**
 
-| Level | Proficiency Bonus | Features                                          | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+| Level | Proficiency Bonus | Features                                          | Tek Skills Known | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------------|---------------------------------------------------|--------------|-----|-----|-----|-----|-----|
 | 1st   | +2                | Favored Enemy, Natural Explorer                   | -            | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Fighting Style, Techcasting                      | 2            | 2   | -   | -   | -   | -   |
+| 2nd   | +2                | Fighting Style, Tekcasting                      | 2            | 2   | -   | -   | -   | -   |
 | 3rd   | +2                | Ranger Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |
 | 4th   | +2                | Ability Score Improvement                         | 3            | 3   | -   | -   | -   | -   |
 | 5th   | +3                | Extra Attack                                      | 4            | 4   | 2   | -   | -   | -   |
@@ -103,31 +103,31 @@ When you are wielding a melee weapon in one hand and no other weapons, you gain 
 
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-#### Techcasting
+#### Tekcasting
 
-By the time you reach 2nd level, you have learned to use the tek essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of Techcasting and chapter 11 for the ranger spell list.
+By the time you reach 2nd level, you have learned to use the tek essence of nature to cast tek skills, much as a druid does. See chapter 10 for the general rules of Tekcasting and chapter 11 for the ranger tek skill list.
 
-##### Spell Slots
+##### Tek Slots
 
-The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+The Ranger table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
 
-For example, if you know the 1st-level spell *animal friendship* and have a 1st-level and a 2nd-level spell slot available, you can cast *animal friendship* using either slot.
+For example, if you know the 1st-level tek skill *animal friendship* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *animal friendship* using either slot.
 
-##### Spells Known of 1st Level and Higher
+##### Tek Skills Known of 1st Level and Higher
 
-You know two 1st-level spells of your choice from the ranger spell list.
+You know two 1st-level tek skills of your choice from the ranger tek skill list.
 
-The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+The Tek Skills Known column of the Ranger table shows when you learn more ranger tek skills of your choice. Each of these tek skills must be of a level for which you have tek skill slots. For instance, when you reach 5th level in this class, you can learn one new tek skill of 1st or 2nd level.
 
-Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the ranger tek skills you know and replace it with another tek skill from the ranger tek skill list, which also must be of a level for which you have tek skill slots.
 
-##### Techcasting Ability
+##### Tekcasting Ability
 
-Wisdom + Will is your Techcasting ability for your ranger spells, since your tek draws on your attunement to nature. You use your Wisdom whenever a spell refers to your Techcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+Wisdom + Will is your Tekcasting ability for your ranger tek skills, since your tek draws on your attunement to nature. You use your Wisdom whenever a tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger tek skill you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
+**Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
 
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier + your Will modifier
+**Tek attack modifier** = your proficiency bonus + your Wisdom modifier + your Will modifier
 
 #### Ranger Archetype
 
@@ -135,7 +135,7 @@ At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beas
 
 #### Primeval Awareness
 
-Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
+Beginning at 3rd level, you can use your action and expend one ranger tek skill slot to focus your awareness on the region around you. For 1 minute per level of the tek skill slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
 
 #### Ability Score Improvement
 
@@ -149,7 +149,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 Starting at 8th level, moving through nontek difficult terrain costs you no extra movement. You can also pass through nontek plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
+In addition, you have advantage on saving throws against plants that are created or manipulated to impede movement, such those created by the *entangle* tek skill.
 
 #### Hide in Plain Sight
 
@@ -211,7 +211,7 @@ At 11th level, you gain one of the following features of your choice.
 
 At 15th level, you gain one of the following features of your choice.
 
-**_Evasion._** When you are subjected to an effect, such as a red dragon’s fiery breath or a *lightning bolt* spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+**_Evasion._** When you are subjected to an effect, such as a red dragon’s fiery breath or a *lightning bolt* tek skill, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 **_Stand Against the Tide._** When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
 

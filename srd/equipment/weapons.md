@@ -57,6 +57,7 @@ Sometimes characters don’t have their weapons and have to attack with whatever
 Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
 
 An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
+
 \page
 
 ##### Special Weapons
@@ -67,7 +68,7 @@ Weapons with special rules are described here.
 
 **_Pulse Fist._** Has advantage on targets using Pulse Shielding.
 
-**_Pulse Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 shock damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+**_Pulse Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 concussive damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
@@ -78,12 +79,13 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | **_Simple Melee Weapons_**   |       |                 |         |                                                        |
 | Knife Ring | 200 credits  | 1d4 piercing | 1 kg. | Hidden, Light |
 | Ion Dagger | 200 credits  | 1d4 piercing | 1 kg. | Finesse, light, thrown (range 20/60) |
+| Katana | 800 credits | 1d6 piercing | 4 kg. | Finesse |
 | Bowstaff | 2000 credits | 1d6 bludgeoning | 4 kg. | Versatile (1d8) |
 | **_Simple Ranged Weapons_**  | | | | |
 | Scorcher | 2500 credits | 1d8 piercing    | 5 kg.   | Ammunition (range 80/320), loading(10), two-handed |
 | Dart | 50 credits  | 1d4 piercing    | 1/4 kg. | Finesse, thrown (range 20/60) |
 | **_Martial Melee Weapons_**  | | | | |
-| Stun Fist | 1000 credits | 1d6 shock | 4 kg.   | Reach |
+| Stun Fist | 1000 credits | 1d6 concussive | 4 kg.   | Reach |
 | Ion Blade | 1000 credits | 1d6 piercing | 2 kg.   | Finesse, light |
 | Pulse blade | 1500 credits | 1d8 slashing | 3 kg.   | Versatile (1d10) |
 | Razer | 3000 credits | 1d8 piercing (rapier), 1d4 slashing (whip)   | 7 kg.   | Finesse, Special, Reach (whip only) |

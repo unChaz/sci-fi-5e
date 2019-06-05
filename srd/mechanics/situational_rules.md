@@ -6,7 +6,7 @@
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
-A trap can be either mechanical or tek in nature. **Mechanical traps** include pits, bullet traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either tek device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as _glyph of warding_ and _symbol_ that function as traps.
+A trap can be either mechanical or tek in nature. **Mechanical traps** include pits, bullet traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Tek traps** are either tek device traps or tek skill traps. Tek device traps initiate tek skill effects when activated. Tek traps are tek skills such as _glyph of warding_ and _symbol_ that function as traps.
 
 #### Traps in Play
 
@@ -14,7 +14,7 @@ When adventurers come across a trap, you need to know how the trap is triggered 
 
 ##### Triggering a Trap
 
-Most traps are triggered when a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some tek traps (such as the _glyph of warding_ spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
+Most traps are triggered when a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Tek traps are often set to go off when a creature enters an area or touches an object. Some tek traps (such as the _glyph of warding_ tek skill) have more complicated trigger conditions, including a password that prevents the trap from activating.
 
 ##### Detecting and Disabling a Trap
 
@@ -22,7 +22,7 @@ Usually, some element of a trap is visible to careful inspection. Characters mig
 
 A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap’s DC. You can also compare the DC to detect the trap with each character’s passive Wisdom (Perception) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence (Investigation) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves’ tools to perform the necessary sabotage.
 
-Any character can attempt an Intelligence (Arcana) check to detect or disarm a tek trap, in addition to any other checks noted in the trap’s description. The DCs are the same regardless of the check used. In addition, _dispel magic_ has a chance of disabling most tek traps. A tek trap’s description provides the DC for the ability check made when you use _dispel magic_.
+Any character can attempt an Intelligence (Arcana) check to detect or disarm a tek trap, in addition to any other checks noted in the trap’s description. The DCs are the same regardless of the check used. In addition, _dispel tek_ has a chance of disabling most tek traps. A tek trap’s description provides the DC for the ability check made when you use _dispel tek_.
 
 In most cases, a trap’s description is clear enough that you can adjudicate whether a character’s actions locate or foil the trap. As with many situations, you shouldn’t allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap’s description to determine what happens. No trap’s design can anticipate every possible action that the characters might attempt.
 
@@ -97,15 +97,15 @@ Strength check, freeing itself or another creature within its reach on a success
 
 ##### Fire-Breathing Statue
 
-_Magic trap_
+_Tek trap_
 
-This trap is activated when an intruder steps on a hidden pressure plate, releasing a tek gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a spell.
+This trap is activated when an intruder steps on a hidden pressure plate, releasing a tek gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a tek skill.
 
-The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A spell or other effect that can sense the presence of magic, such as _detect magic_, reveals an aura of evocation tek around the statue.
+The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A tek skill or other effect that can sense the presence of tek, such as _detect tek_, reveals an aura of evocation tek around the statue.
 
 The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the statue to release a 30-foot cone of fire. Each creature in the fire must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
 
-Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful _dispel magic_ (DC 13) cast on the statue destroys the trap.
+Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful _dispel tek_ (DC 13) cast on the statue destroys the trap.
 
 ##### Pits
 
@@ -123,7 +123,7 @@ A successful DC 15 Wisdom (Perception) check discerns an absence of foot traffic
 
 When a creature steps on the cover, it swings open like a trapdoor, causing the intruder to spill into the pit below. The pit is usually 10 or 20 feet deep but can be deeper.
 
-Once the pit trap is detected, an iron spike or similar object can be wedged between the pit’s cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. The cover can also be magically held shut using the _arcane lock_ spell or similar magic.
+Once the pit trap is detected, an iron spike or similar object can be wedged between the pit’s cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. The cover can also be held shut using the _arcane lock_ tek skill or similar tek.
 
 **_Locking Pit_**. This pit trap is identical to a hidden pit trap, with one key exception: the trap door that covers the pit is spring-loaded. After a creature falls into the pit, the cover snaps shut to trap its victim inside.
 
@@ -170,17 +170,17 @@ As an action, a creature within 5 feet of the sphere can attempt to slow it down
 
 ##### Sphere of Annihilation
 
-_Magic trap_
+_Tek trap_
 
-Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
+Tek, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
 
 A successful DC 20 Intelligence (Arcana) check reveals that the mouth contains a _sphere of annihilation_ that can’t be controlled or moved. It is otherwise identical to a normal _sphere of annihilation_.
 
-Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the _sympathy_ aspect of the _antipathy/sympathy_ spell. A successful _dispel magic_ (DC 18) removes this enchantment.
+Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the _sympathy_ aspect of the _antipathy/sympathy_ tek skill. A successful _dispel tek_ (DC 18) removes this enchantment.
 
 ### Diseases
 
-A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
+A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts tek skills.
 
 A simple outbreak might amount to little more than a small drain on party resources, curable by a casting of _lesser restoration_. A more complicated outbreak can form the basis of one or more adventures as characters search for a cure, stop the spread of the disease, and deal with the consequences.
 
@@ -226,7 +226,7 @@ In a typical campaign, characters aren’t driven mad by the horrors they face a
 
 #### Going Mad
 
-Various tek effects can inflict madness on an otherwise stable mind. Certain spells, such as _contact other plane_ and _symbol_, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells*.* Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various tek effects can inflict madness on an otherwise stable mind. Certain tek skills, such as _contact other plane_ and _symbol_, can cause insanity, and you can use the madness rules here instead of the tek skill effects of those tek skills*.* Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.
 
@@ -247,7 +247,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 01–20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
 | 21–30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
 | 31–40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
-| 41–50  | The character begins babbling and is incapable of normal speech or Techcasting.                                             |
+| 41–50  | The character begins babbling and is incapable of normal speech or Tekcasting.                                             |
 | 51–60  | The character must use his or her action each round to attack the nearest creature.                                          |
 | 61–70  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                       |
 | 71–75  | The character does whatever anyone tells him or her to do that isn’t obviously self- destructive.                            |
@@ -262,13 +262,13 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 01–10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
 | 11–20  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
 | 21–30  | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.                                                                                                                                |
-| 31–40  | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy spell.                                                                      |
+| 31–40  | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy tek skill.                                                                      |
 | 41–45  | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects.                                                                                                          |
 | 46–55  | The character becomes attached to a “lucky charm,” such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.                                           |
 | 56–65  | The character is blinded (25%) or deafened (75%).                                                                                                                                                                                    |
 | 66–75  | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.                                                           |
 | 76–85  | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn’t recognize other people or remember anything that happened before the madness took effect. |
-| 86–90  | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.            |
+| 86–90  | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion tek skill. The confusion effect lasts for 1 minute.            |
 | 91–95  | The character loses the ability to speak.                                                                                                                                                                                            |
 | 96–100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 
@@ -291,7 +291,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 #### Curing Madness
 
-A _calm emotions_ spell can suppress the effects of madness, while a _lesser restoration_ spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, _remove hack_ or _dispel evil_ might also prove effective. A _greater restoration_ spell or more powerful tek is required to rid a character of indefinite madness.
+A _calm emotions_ tek skill can suppress the effects of madness, while a _lesser restoration_ tek skill can rid a character of a short-term or long-term madness. Depending on the source of the madness, _remove hack_ or _dispel evil_ might also prove effective. A _greater restoration_ tek skill or more powerful tek is required to rid a character of indefinite madness.
 
 ### Objects
 
@@ -328,7 +328,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 | Medium (barrel, chandelier)           | 4 (1d8)  | 18 (4d8)  |
 | Large (cart, 10-ft.-by-10-ft. window) | 5 (1d10) | 27 (5d10) |
 
-**_Huge and Gargantuan Objects_**. Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an _earthquake_ spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object’s hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section’s hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
+**_Huge and Gargantuan Objects_**. Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an _earthquake_ tek skill can reduce a colossus to rubble. You can track a Huge or Gargantuan object’s hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section’s hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
 
 **_Objects and Damage Types_**. Objects are immune to poison and psychic damage. You might decide that some damage types are more effective against a particular object or substance than others. For example, bludgeoning damage works well for smashing things but not for cutting through rope or leather. Paper or cloth objects might be vulnerable to fire and lightning damage. A pick can chip away stone but can’t effectively cut down a tree. As always, use your best judgment.
 
@@ -361,7 +361,7 @@ Poisons come in the following four types.
 | Midnight tears     | Ingested | 1,50000 credits       |
 | Oil of taggit      | Contact  | 40000 credits         |
 | Pale tincture      | Ingested | 25000 credits         |
-| Purple worm poison | Injury   | 2,00000 credits       |
+| Purple worm poison | Injury   | 200,000 credits       |
 | Serpent venom      | Injury   | 20000 credits         |
 | Torpor             | Ingested | 60000 credits         |
 | Truth serum        | Ingested | 15000 credits         |
@@ -395,6 +395,6 @@ Each type of poison has its own debilitating effects.
 
 **_Torpor (Ingested)_**. A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated.
 
-**_Truth Serum (Ingested)_**. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can’t knowingly speak a lie, as if under the effect of a _zone of truth_ spell.
+**_Truth Serum (Ingested)_**. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can’t knowingly speak a lie, as if under the effect of a _zone of truth_ tek skill.
 
 **_Wyvern Poison (Injury)_**. This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.

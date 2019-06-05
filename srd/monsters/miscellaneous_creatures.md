@@ -68,7 +68,7 @@ _Small plant, unaligned_
 
 **_Rake_**. _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) slashing damage.
 
-An **awakened shrub** is an ordinary shrub given sentience and mobility by the _awaken_ spell or similar magic.
+An **awakened shrub** is an ordinary shrub given sentience and mobility by the _awaken_ tek skill or similar tek.
 
 #### Awakened Tree
 
@@ -100,7 +100,7 @@ _Huge plant, unaligned_
 
 **_Slam_**. _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage.
 
-An **awakened tree** is an ordinary tree given sentience and mobility by the _awaken_ spell or similar magic.
+An **awakened tree** is an ordinary tree given sentience and mobility by the _awaken_ tek skill or similar tek.
 
 #### Axe Beak
 
@@ -268,7 +268,7 @@ _Medium fey, lawful good_
 
 **_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.
 
-**_Teleport (Recharge 4–6)_**. The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
+**_Teleport (Recharge 4–6)_**. The dog teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
 
 A **blink dog** takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long- standing hatred for displacer beasts and attack them on sight.
 
@@ -2049,7 +2049,7 @@ _Large monstrosity, unaligned_
 
 **Challenge** 3 (700 XP)
 
-**_Ethereal Jaunt_**. As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
+**_Ethereal Jaunt_**. As a bonus action, the spider can shift from the Material Plane to the Ethereal Plane, or vice versa.
 
 **_Spider Climb_**. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -2855,7 +2855,7 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 **_Racial Traits_**. You can add racial traits to an NPC. For example, a halfling druid might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn’t alter its challenge rating. For more on racial traits, see the _Player’s Handbook_.
 
-**_Spell Swaps_**. One way to customize an NPC spellcaster is to replace one or more of its spells. You can substitute any spell on the NPC’s spell list with a different spell of the same level from the same spell list. Swapping spells in this manner doesn’t alter an NPC’s challenge rating.
+**_Tek Swaps_**. One way to customize an NPC tekcaster is to replace one or more of its tek skills. You can substitute any tek skill on the NPC’s tek skill list with a different tek skill of the same level from the same tek skill list. Swapping tek skills in this manner doesn’t alter an NPC’s challenge rating.
 
 **_Armor and Weapon Swaps_**. You can upgrade or downgrade an NPC’s armor, or add or switch weapons. Adjustments to Armor Class and damage can change an NPC’s challenge rating.
 
@@ -2879,7 +2879,7 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 1/4 (50 XP)
 
-**_Techcasting_**. The acolyte is a 1st-level spellcaster. Its Techcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
+**_Tekcasting_**. The acolyte is a 1st-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 12, +4 to hit with tek skill attacks). The acolyte has following cleric tek skills prepared:
 
 Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 
@@ -2889,7 +2889,7 @@ Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 
 **_Club_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
-**Acolytes** are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor Techcasting power by their deities.
+**Acolytes** are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor Tekcasting power by their deities.
 
 **Archmage**
 
@@ -2909,7 +2909,7 @@ _Medium humanoid (any race), any alignment_
 
 **Skills** Arcana +13, History +13
 
-**Damage Resistance** damage from spells; nontek bludgeoning, piercing, and slashing (from _stoneskin_)
+**Damage Resistance** damage from tek skills; nontek bludgeoning, piercing, and slashing (from _stoneskin_)
 
 **Senses** passive Perception 12
 
@@ -2917,14 +2917,14 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 12 (8,400 XP)
 
-**_Magic Resistance_**. The archmage has advantage on saving throws against spells and other tek effects.
+**_Tek Resistance_**. The archmage has advantage on saving throws against tek skills and other tek effects.
 
-**_Techcasting_**. The archmage is an 18th-level spellcaster. Its Techcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following wizard spells prepared:
+**_Tekcasting_**. The archmage is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 17, +9 to hit with tek skill attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following wizard tek skills prepared:
 
-Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_, _shocking grasp_
-1st level (4 slots): _detect magic_, _identify_, _mage armor_\*, _tek missile_
+Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_, _concussiveing grasp_
+1st level (4 slots): _detect tek_, _identify_, _mage armor_\*, _tek missile_
 2nd level (3 slots): _detect thoughts_, _mirror image_, _misty step_
-3rd level (3 slots): _counterspell_, _fly_, _lightning bolt_
+3rd level (3 slots): _countertek skill_, _fly_, _lightning bolt_
 4th level (3 slots): _banishment_, _fire shield_, _stoneskin_\*
 5th level (3 slots): _cone of cold_, _scrying_, _wall of force_
 6th level (1 slot): _globe of invulnerability_
@@ -2932,13 +2932,13 @@ Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_, _shoc
 8th level (1 slot): _mind blank_\*
 9th level (1 slot): _time stop_
 
-\*The archmage casts these spells on itself before combat.
+\*The archmage casts these tek skills on itself before combat.
 
 **Actions**
 
 **_ion dagger_**. _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2)  piercing damage.
 
-**Archmages** are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their tek without interruption.
+**Archmages** are powerful (and usually quite old) tekcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their tek without interruption.
 
 An archmage typically has one or more apprentice mages, and an archmage’s abode has numerous tek wards and guardians to discourage interlopers.
 
@@ -3010,7 +3010,7 @@ _Medium humanoid (any race), any non-lawful alignment_
 
 **_scorcher_**. _Ranged Weapon Attack:_ +3 to hit, range 80 ft./320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-**Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
+**Bandits** rove in gangs and are sometimes led by thugs, veterans, or tekcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 
 **Pirates** are bandits of the high seas. They might be freebooters interested only in loot and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation’s vessels.
 
@@ -3158,7 +3158,7 @@ _Medium humanoid (any race), any non-good alignment_
 
 **_Dark Devotion_**. The fanatic has advantage on saving throws against being charmed or frightened.
 
-**_Techcasting_**. The fanatic is a 4th-level spellcaster. Its Techcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
+**_Tekcasting_**. The fanatic is a 4th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 11, +3 to hit with tek skill attacks). The fanatic has the following cleric tek skills prepared:
 
 Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 1st level (4 slots): _command_, _inflict wounds_, _shield of faith_
@@ -3190,10 +3190,10 @@ _Medium humanoid (any race), any alignment_
 
 **Senses** passive Perception 14 **Languages** Druidic plus any two languages **Challenge** 2 (450 XP)
 
-**_Techcasting_**. The druid is a 4th-level spellcaster. Its Techcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
+**_Tekcasting_**. The druid is a 4th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 12, +4 to hit with tek skill attacks). It has the following druid tek skills prepared:
 
 Cantrips (at will): _druidcraft_, _produce flame_, _shillelagh_
-1st level (4 slots): _entangle_, _longstrider_, _speak with animals_, _thunderwave_
+1st level (4 slots): _entangle_, _longstrider_, _speak with animals_, _shockwave_
 2nd level (3 slots): _animal messenger_, _barkskin_
 
 **Actions**
@@ -3336,12 +3336,12 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 6 (2,300 XP)
 
-**_Techcasting_**. The mage is a 9th-level spellcaster. Its Techcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
+**_Tekcasting_**. The mage is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks). The mage has the following wizard tek skills prepared:
 
 Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_
-1st level (4 slots): _detect magic_, _mage armor_, _tek missile_, _shield_
+1st level (4 slots): _detect tek_, _mage armor_, _tek missile_, _shield_
 2nd level (3 slots): _misty step_, _suggestion_
-3rd level (3 slots): _counterspell_, _fireball_, _fly_
+3rd level (3 slots): _countertek skill_, _fireball_, _fly_
 4th level (3 slots): _greater invisibility_, _ice storm_
 5th level (1 slot): _cone of cold_
 
@@ -3349,7 +3349,7 @@ Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_
 
 **_ion dagger_**. _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 1)  piercing damage.
 
-**Mages** spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
+**Mages** spend their lives in the study and practice of tek. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 
 ### Noble
 
@@ -3407,14 +3407,14 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 2 (450 XP)
 
-**_Divine Eminence_**. As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
+**_Divine Eminence_**. As a bonus action, the priest can expend a tek skill slot to cause its melee weapon attacks to deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a tek skill slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 
-**_Techcasting_**. The priest is a 5th-level spellcaster. Its Techcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
+**_Tekcasting_**. The priest is a 5th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 13, +5 to hit with tek skill attacks). The priest has the following cleric tek skills prepared:
 
 Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 1st level (4 slots): _cure wounds_, _guiding bolt_, _sanctuary_
 2nd level (3 slots): _lesser restoration_, _spiritual weapon_
-3rd level (2 slots): _dispel magic_, _spirit guardians_
+3rd level (2 slots): _dispel tek_, _spirit guardians_
 
 **Actions**
 

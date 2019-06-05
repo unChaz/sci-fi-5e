@@ -127,35 +127,35 @@ In order to be successful at the given task, you roll the die, and add your skil
 
 The person determining the difficulty might increment the number on the table based on environmental conditions that might make the task easier or more difficult.
 
-## “Magic”
- Major advancements in technology have enabled the use of “supernatural” “powers” in humans. Rare humans have the ability to cast what could be perceived as “tek spells” are in reality a marvel of modern technology.
+## “Tek”
+ Major advancements in technology have enabled the use of “supernatural” “powers” in humans. Rare humans have the ability to cast what could be perceived as “tek tek skills” are in reality a marvel of modern technology.
 
 ### Focus
-A focus is a small device that through a series of voice, movements, and occasionally a fuel source can cast “spells”.
+A focus is a small device that through a series of voice, movements, and occasionally a fuel source can cast “tek skills”.
 
 - Wand - A small handheld device.
 -Staff - A larger 2 handed device, equally effective as a wand, however can be used as a blunted weapon (1d4 bludgeoning), or a walking stick.
 - Amulet - A device that optically reads hand movements. Leaves the hands free to do other things.
 
-> ##### The two sources of Magic
+> ##### The two sources of Tek
 > #### Knowledge
-> One method to cast “spells” is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting “spells”.
+> One method to cast “tek skills” is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting “tek skills”.
 >
-> Classes that use this type of “magic” are Cleric, Druid, Ranger, Warlock, and Wizard.
+> Classes that use this type of “tek” are Cleric, Druid, Ranger, Warlock, and Wizard.
 >
 > #### Genetic Alteration
-> Another way to cast spells is to be genetically modified to do so. This prevents you from having to memorize “spells”, but you must be equipped with an adequate sleeve that has been genetically modified.
+> Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize “tek skills”, but you must be equipped with an adequate sleeve that has been genetically modified.
 >
 > Usually sleeves with above average Charisma or Constitution are better suited to this type of casting.
 >
-> Classes that use this type of “magic” are Bards, Paladins, and Sorcerers.
+> Classes that use this type of “tek” are Bards, Paladins, and Sorcerers.
 
 
 ```
 ```
 
 ### Willpower
-Regardless of the method of tek casting, Willpower is always at the core of casting spells. When estimating a caster’s “magical” ability, you add the relevant ability score to your Will score to determine your Techcasting power. The only exception is Bard, which uses their Wit and Charisma score since their tek is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s “tek” ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Bard, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
@@ -163,7 +163,7 @@ All tier 1 quality sleeves are given basic genetic alterations. You merely need 
 Basic Genetic Alterations
 (Free Upgrades)
 
-Innate Techcasting
+Innate Tekcasting
 
 Genetic Enhancements
 (Premium Upgrades)
@@ -462,7 +462,7 @@ Opportunities abound to find loot, equipment, weapons, armor, and more in the du
 
 **_Arms, Armor, and Other Equipment._** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by raiders are rarely in good enough condition to sell.
 
-**_Alien Artifacts._** Selling alien artifacts is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common alien artifacts, you won’t normally come across alien artifacts or spells to purchase. The value of tek is far beyond simple gold and should always be treated as such.
+**_Alien Artifacts._** Selling alien artifacts is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common alien artifacts, you won’t normally come across alien artifacts or tek skills to purchase. The value of tek is far beyond simple gold and should always be treated as such.
 
 **_Gems, Jewelry, and Art Objects._** These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable loot, the GM might require you to find a buyer in a large town or larger community first.
 
@@ -476,7 +476,7 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-**_Armor Proficiency._** Anyone can put on a suit of armor or strap A Pulse Shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
+**_Armor Proficiency._** Anyone can put on a suit of armor or strap A Pulse Shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast tek skills.
 
 **_Armor Class (AC)._** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
 
@@ -608,7 +608,7 @@ Weapons with special rules are described here.
 
 **_Pulse Fist._** Has advantage on targets using Pulse Shielding.
 
-**_Pulse Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 shock damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+**_Pulse Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 concussive damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
@@ -624,7 +624,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Scorcher | 2500 credits | 1d8 piercing    | 5 kg.   | Ammunition (range 80/320), loading(10), two-handed |
 | Dart | 50 credits  | 1d4 piercing    | 1/4 kg. | Finesse, thrown (range 20/60) |
 | **_Martial Melee Weapons_**  | | | | |
-| Stun Fist | 1000 credits | 1d6 shock | 4 kg.   | Reach |
+| Stun Fist | 1000 credits | 1d6 concussive | 4 kg.   | Reach |
 | Ion Blade | 1000 credits | 1d6 piercing | 2 kg.   | Finesse, light |
 | Pulse blade | 1500 credits | 1d8 slashing | 3 kg.   | Versatile (1d10) |
 | Razer | 3000 credits | 1d8 piercing (rapier), 1d4 slashing (whip)   | 7 kg.   | Finesse, Special, Reach (whip only) |
@@ -699,9 +699,9 @@ Hardy and resilient, you gain the following benefits:
 Increase your Constitution score by 1, to a maximum of 20.
 
 #### ELEMENTAL ADEPT
-*Prerequisite: The ability to cast at least one spell*
+*Prerequisite: The ability to cast at least one tek skill*
 
-When you gain this feat, choose one o f the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to damage o f the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type.
+When you gain this feat, choose one o f the following damage types: acid, cold, fire, lightning, or concussive. Tek Skills you cast ignore resistance to damage o f the chosen type. In addition, when you roll damage for a tek skill you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type.
 
 #### GRAPPLER
 *Prerequisite: Physique 13 or higher*
@@ -770,17 +770,17 @@ If more than one creature spends a luck point to influence the outcome of a roll
 You regain your expended luck points when you finish a long rest.
 
 #### MAGE SLAYER
-You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
-- When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
-- When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
-You have advantage on saving throws against spells cast by creatures within 5 feet of you.
+You have practiced techniques useful in melee combat against tekcasters, gaining the following benefits:
+- When a creature within 5 feet of you casts a tek skill, you can use your reaction to make a melee weapon attack against that creature.
+- When you damage a creature that is concentrating on a tek skill, that creature has disadvantage on the saving throw it makes to maintain its concentration.
+You have advantage on saving throws against tek skills cast by creatures within 5 feet of you.
 
 #### MAGIC INITIATE
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class’s spell list.
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class’s tek skill list.
 
-In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
+In addition, choose one 1st-level tek skill from that same list. You learn that tek skill and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
 
-Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
+Your tek skillcasting ability for these tek skills depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
 
 \page
 
@@ -842,11 +842,11 @@ Choose one ability score. You gain the following benefits:
 #### RITUAL CASTER
 *Prerequisite: Intelligence, Will or Wisdom 13 or higher*
 
-You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+You have learned a number of tek skills that you can cast as rituals. These tek skills are written in a ritual book, which you must have in hand while casting one of them.
 
-When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class’s spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-If you come across a spell in written form, such as a tek spell scroll or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+If you come across a tek skill in written form, such as a tek tek skill scroll or a wizard’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
 
 #### SAVAGE ATTACKER
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
@@ -890,12 +890,12 @@ You understand spacecraft architecture with uncanny precision. You gain the foll
 - You can accurately recall the layout of any ship or space station you’ve been on.
 
 #### SPELL SNIPER
-*Prerequisite: The ability to cast at least one spell*
+*Prerequisite: The ability to cast at least one tek skill*
 
-You have learned techniques to enhance your attacks with certain kinds o f spells, gaining the following benefits:
-- When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
-- Your ranged spell attacks ignore half cover and three-quarters cover.
-- You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+You have learned techniques to enhance your attacks with certain kinds o f tek skills, gaining the following benefits:
+- When you cast a tek skill that requires you to make an attack roll, the tek skill’s range is doubled.
+- Your ranged tek skill attacks ignore half cover and three-quarters cover.
+- You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
 #### TAVERN BRAWLER
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
@@ -909,12 +909,12 @@ Your hit point maximum increases by an amount equal to twice your level when you
 increases by an additional 2 hit points.
 
 #### WAR CASTER
-*Prerequisite: The ability to cast at least one spell*
-You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
-You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
-You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
-When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making
-an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
+*Prerequisite: The ability to cast at least one tek skill*
+You have practiced casting tek skills in the midst of combat, learning techniques that grant you the following benefits:
+You have advantage on Constitution saving throws that you make to maintain your concentration on a tek skill when you take damage.
+You can perform the somatic components of tek skills even when you have weapons or a shield in one or both hands.
+When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a tek skill at the creature, rather than making
+an opportunity attack. The tek skill must have a casting time of 1 action and must target only that creature.
 
 #### WEAPON MASTER
 You have practiced extensively with a variety of weapons, gaining the following benefits:
@@ -931,9 +931,9 @@ You gain proficiency with four weapons of your choice
 
 <!-- Situational Rules -->
 
-<!-- Spellcasting -->
+<!-- Tekcasting -->
 
-<!-- Magic Items -->
+<!-- Tek Items -->
 
 <!-- Monsters -->
 

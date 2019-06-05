@@ -37,7 +37,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
 | 1st   | +2                | Divine Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Fighting Style, Techcasting, Divine Smite | 2   | -   | -   | -   | -   |
+| 2nd   | +2                | Fighting Style, Tekcasting, Divine Smite | 2   | -   | -   | -   | -   |
 | 3rd   | +2                | Divine Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
 | 4th   | +2                | Ability Score Improvement                  | 3   | -   | -   | -   | -   |
 | 5th   | +3                | Extra Attack                               | 4   | 2   | -   | -   | -   |
@@ -61,7 +61,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire
 
-Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
+Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* tek skill.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -95,35 +95,35 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding A medkit.
 
-#### Techcasting
+#### Tekcasting
 
-By 2nd level, you have learned to draw on divine tek through meditation and prayer to cast spells as a cleric does.
+By 2nd level, you have learned to draw on divine tek through meditation and prayer to cast tek skills as a cleric does.
 
-##### Preparing and Casting Spells
+##### Preparing and Casting Tek Skills
 
-The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+The Paladin table shows how many tek skill slots you have to cast your tek skills. To cast one of your paladin tek skills of 1st level or higher, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
 
-You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of paladin tek skills that are available for you to cast, choosing from the paladin tek skill list. When you do so, choose a number of paladin tek skills equal to your Charisma modifier + half your paladin level, rounded down (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level tek skill slots. With a Charisma of 14, your list of prepared tek skills can include four tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared tek skills when you finish a long rest. Preparing a new list of paladin tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
 
-##### Techcasting Ability
+##### Tekcasting Ability
 
-Charisma + Will is your Techcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your Techcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
+Charisma + Will is your Tekcasting ability for your paladin tek skills, since their power derives from the strength of your convictions. You use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin tek skill you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
+**Tek save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
 
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier + your Will modifier + your Wit modifier
+**Tek attack modifier** = your proficiency bonus + your Charisma modifier + your Will modifier + your Wit modifier
 
-##### Techcasting Focus
+##### Tekcasting Focus
 
-You can use a holy symbol as a Techcasting focus for your paladin spells.
+You can use a holy symbol as a Tekcasting focus for your paladin tek skills.
 
 #### Divine Smite
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one tek skill slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level tek skill slot, plus 1d8 for each tek skill level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
 
 #### Divine Health
 
@@ -133,13 +133,13 @@ By 3rd level, the divine tek flowing through you makes you immune to disease.
 
 When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion, the Oath of the Ancients, or the Oath of Vengeance, all detailed at the end of the class description.
 
-Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath tek skills and the Channel Divinity feature.
 
-##### Oath Spells
+##### Oath Tek Skills
 
-Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day.
+Each oath has a list of associated tek skills. You gain access to these tek skills at the levels specified in the oath description. Once you gain access to an oath tek skill, you always have it prepared. Oath tek skills don’t count against the number of tek skills you can prepare each day.
 
-If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
+If you gain an oath tek skill that doesn’t appear on the paladin tek skill list, the tek skill is nonetheless a paladin tek skill for you.
 
 ##### Channel Divinity
 
@@ -147,7 +147,7 @@ Your oath allows you to channel divine energy to fuel tek effects. Each Channel 
 
 When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin tek skill save DC.
 
 #### Ability Score Improvement
 
@@ -175,7 +175,7 @@ By 11th level, you are so suffused with righteous might that all your melee weap
 
 #### Cleansing Touch
 
-Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
+Beginning at 14th level, you can use your action to end one tek skill on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
@@ -201,13 +201,13 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 
 **_Duty._** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
-###### Oath Spells
+###### Oath Tek Skills
 
-You gain oath spells at the paladin levels listed.
+You gain oath tek skills at the paladin levels listed.
 
-**Oath of Devotion Spells (table)**
+**Oath of Devotion Tek Skills (table)**
 
-| Level | Paladin Spells                           |
+| Level | Paladin Tek Skills                           |
 |-------|------------------------------------------|
 | 3rd   | protection from evil and good, sanctuary |
 | 5th   | lesser restoration, zone of truth        |
@@ -219,7 +219,7 @@ You gain oath spells at the paladin levels listed.
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-**_Sacred Weapon._** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes tek for the duration.
+**_Sacred Weapon._** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already tek, it becomes tek for the duration.
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
@@ -235,7 +235,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ###### Purity of Spirit
 
-Beginning at 15th level, you are always under the effects of a *protection from evil and good* spell.
+Beginning at 15th level, you are always under the effects of a *protection from evil and good* tek skill.
 
 ###### Holy Nimbus
 
@@ -243,7 +243,7 @@ At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, 
 
 Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.
 
-In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.
+In addition, for the duration, you have advantage on saving throws against tek skills cast by fiends or undead.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 

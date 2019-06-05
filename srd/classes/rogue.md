@@ -95,7 +95,7 @@ Starting at 5th level, when an attacker that you can see hits you with an attack
 
 #### Evasion
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an *ice storm* tek skill. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 #### Reliable Talent
 
@@ -141,7 +141,7 @@ In addition, when you make a running jump, the distance you cover increases by a
 
 Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
 
-###### Use Magic Device
+###### Use Tek Device
 
 By 13th level, you have learned enough about the workings of tek that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of alien artifacts.
 

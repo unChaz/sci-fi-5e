@@ -64,7 +64,7 @@ When you gain your first level in a class other than your initial class, you gai
 
 #### Class Features
 
-When you gain a new level in a class, you get its features for that level. You don’t, however, receive the class’s starting equipment, and a few features have additional rules when you’re multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Techcasting.
+When you gain a new level in a class, you get its features for that level. You don’t, however, receive the class’s starting equipment, and a few features have additional rules when you’re multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Tekcasting.
 
 ##### Channel Divinity
 
@@ -78,23 +78,23 @@ If you gain the Extra Attack class feature from more than one class, the feature
 
 If you already have the Unarmored Defense feature, you can’t gain it again from another class.
 
-##### Techcasting
+##### Tekcasting
 
-Your capacity for Techcasting depends partly on your combined levels in all your Techcasting classes and partly on your individual levels in those classes. Once you have the Techcasting feature from more than one class, use the rules below. If you multiclass but have the Techcasting feature from only one class, you follow the rules as described in that class.
+Your capacity for Tekcasting depends partly on your combined levels in all your Tekcasting classes and partly on your individual levels in those classes. Once you have the Tekcasting feature from more than one class, use the rules below. If you multiclass but have the Tekcasting feature from only one class, you follow the rules as described in that class.
 
-**_Spells Known and Prepared._** You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your spell datapad contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your Intelligence is 16, you can prepare six wizard spells from your spell datapad.
+**_Tek Skills Known and Prepared._** You determine what tek skills you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger tek skills based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your tek skill datapad contains ten wizard tek skills, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level tek skills. If your Intelligence is 16, you can prepare six wizard tek skills from your tek skill datapad.
 
-Each spell you know and prepare is associated with one of your classes, and you use the Techcasting ability of that class when you cast the spell. Similarly, a Techcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
+Each tek skill you know and prepare is associated with one of your classes, and you use the Tekcasting ability of that class when you cast the tek skill. Similarly, a Tekcasting focus, such as a holy symbol, can be used only for the tek skills from the class associated with that focus.
 
-**_Spell Slots._** You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
+**_Tek Slots._** You determine your available tek skill slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes. Use this total to determine your tek skill slots by consulting the Multiclass Tekcaster table.
 
-If you have more than one Techcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like _burning hands_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any spells of that higher level.
+If you have more than one Tekcasting class, this table might give you tek skill slots of a level that is higher than the tek skills you know or can prepare. You can use those slots, but only to cast your lower-level tek skills. If a lower-level tek skill that you cast, like _burning hands_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any tek skills of that higher level.
 
-For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
+For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level tek skills, nor do you know any 2nd-level ranger tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
 
-**_Pact Magic._** If you have both the Techcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Techcasting class feature, and you can use the spell slots you gain from the Techcasting class feature to cast warlock spells you know.
+**_Pact Tek._** If you have both the Tekcasting class feature and the Pact Tek class feature from the warlock class, you can use the tek skill slots you gain from the Pact Tek feature to cast tek skills you know or have prepared from classes with the Tekcasting class feature, and you can use the tek skill slots you gain from the Tekcasting class feature to cast warlock tek skills you know.
 
-**Multiclass Spellcaster: Spell Slots per Spell Level (table)**
+**Multiclass Tekcaster: Tek Slots per Tek Level (table)**
 
 | Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|

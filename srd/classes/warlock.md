@@ -34,9 +34,9 @@ You start with the following equipment, in addition to the equipment granted by 
 
 **The Warlock (table)**
 
-| Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
+| Level | Proficiency Bonus | Features                        | Cantrips Known | Tek Skills Known | Tek Slots | Slot Level | Invocations Known |
 |-------|-------------------|---------------------------------|----------------|--------------|-------------|------------|-------------------|
-| 1st   | +2                | Otherworldly Patron, Pact Magic | 2              | 2            | 1           | 1st        | -                 |
+| 1st   | +2                | Otherworldly Patron, Pact Tek | 2              | 2            | 1           | 1st        | -                 |
 | 2nd   | +2                | Eldritch Invocations            | 2              | 3            | 2           | 1st        | 2                 |
 | 3rd   | +2                | Pact Boon                       | 2              | 4            | 2           | 2nd        | 2                 |
 | 4th   | +2                | Ability Score Improvement       | 3              | 5            | 2           | 2nd        | 2                 |
@@ -61,39 +61,39 @@ You start with the following equipment, in addition to the equipment granted by 
 
 At 1st level, you have struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each of which is detailed at the end of the class description. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
 
-#### Pact Magic
+#### Pact Tek
 
-Your arcane research and the tek bestowed on you by your patron have given you facility with spells.
+Your arcane research and the tek bestowed on you by your patron have given you facility with tek skills.
 
 ##### Cantrips
 
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+You know two cantrips of your choice from the warlock tek skill list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
-##### Spell Slots
+##### Tek Slots
 
-The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+The Warlock table shows how many tek skill slots you have. The table also shows what the level of those slots is; all of your tek skill slots are the same level. To cast one of your warlock tek skills of 1st level or higher, you must expend a tek skill slot. You regain all expended tek skill slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell *thunderwave*, you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level tek skill slots. To cast the 1st-level tek skill *shockwave*, you must spend one of those slots, and you cast it as a 3rd-level tek skill.
 
-##### Spells Known of 1st Level and Higher
+##### Tek Skills Known of 1st Level and Higher
 
-At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+At 1st level, you know two 1st-level tek skills of your choice from the warlock tek skill list.
 
-The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
+The Tek Skills Known column of the Warlock table shows when you learn more warlock tek skills of your choice of 1st level and higher. A tek skill you choose must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock tek skill, which can be 1st, 2nd, or 3rd level.
 
-Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the warlock tek skills you know and replace it with another tek skill from the warlock tek skill list, which also must be of a level for which you have tek skill slots.
 
-##### Techcasting Ability
+##### Tekcasting Ability
 
-Charisma + Will is your Techcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your Techcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+Charisma + Will is your Tekcasting ability for your warlock tek skills, so you use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock tek skill you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
+**Tek save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
 
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier + your Will modifier + your Wit modifier
+**Tek attack modifier** = your proficiency bonus + your Charisma modifier + your Will modifier + your Wit modifier
 
-##### Techcasting Focus
+##### Tekcasting Focus
 
-You can use an arcane focus as a Techcasting focus for your warlock spells.
+You can use an arcane focus as a Tekcasting focus for your warlock tek skills.
 
 #### Eldritch Invocations
 
@@ -109,9 +109,9 @@ At 3rd level, your otherworldly patron bestows a gift upon you for your loyal se
 
 ##### Pact of the Chain
 
-You learn the *find familiar* spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
+You learn the *find familiar* tek skill and can cast it as a ritual. The tek skill doesn’t count against your number of tek skills known.
 
-When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
+When you cast the tek skill, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
 
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.
 
@@ -125,7 +125,7 @@ You can transform one tek weapon into your pact weapon by performing a special r
 
 ##### Pact of the Tome
 
-Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are nonetheless warlock spells for you.
+Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s tek skill list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock tek skill list, they are nonetheless warlock tek skills for you.
 
 If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
@@ -135,15 +135,15 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 #### Mystic Arcanum
 
-At 11th level, your patron bestows upon you a tek secret called an arcanum. Choose one 6th- level spell from the warlock spell list as this arcanum.
+At 11th level, your patron bestows upon you a tek secret called an arcanum. Choose one 6th- level tek skill from the warlock tek skill list as this arcanum.
 
-You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
+You can cast your arcanum tek skill once without expending a tek skill slot. You must finish a long rest before you can do so again.
 
-At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th- level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
+At higher levels, you gain more warlock tek skills of your choice that can be cast in this way: one 7th- level tek skill at 13th level, one 8th-level tek skill at 15th level, and one 9th-level tek skill at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
 
 #### Eldritch Master
 
-At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
+At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended tek skill slots. You can spend 1 minute entreating your patron for aid to regain all your expended tek skill slots from your Pact Tek feature. Once you regain tek skill slots with this feature, you must finish a long rest before you can do so again.
 
 #### Eldritch Invocations
 
@@ -157,17 +157,17 @@ When you cast *eldritch blast*, add your Charisma modifier to the damage it deal
 
 ##### Armor of Shadows
 
-You can cast *mage armor* on yourself at will, without expending a spell slot or material components.
+You can cast *mage armor* on yourself at will, without expending a tek skill slot or material components.
 
 ##### Ascendant Step
 
 *Prerequisite: 9th level*
 
-You can cast *levitate* on yourself at will, without expending a spell slot or material components.
+You can cast *levitate* on yourself at will, without expending a tek skill slot or material components.
 
 ##### Beast Speech
 
-You can cast *speak with animals* at will, without expending a spell slot.
+You can cast *speak with animals* at will, without expending a tek skill slot.
 
 ##### Beguiling Influence
 
@@ -177,35 +177,35 @@ You gain proficiency in the Charm and Charm skills.
 
 *Prerequisite: 7th level*
 
-You can cast *compulsion* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast *compulsion* once using a warlock tek skill slot. You can’t do so again until you finish a long rest.
 
 ##### Book of Ancient Secrets
 
 *Prerequisite: Pact of the Tome feature*
 
-You can now inscribe tek rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+You can now inscribe tek rituals in your Book of Shadows. Choose two 1st-level tek skills that have the ritual tag from any class’s tek skill list (the two needn’t be from the same list). The tek skills appear in the book and don’t count against the number of tek skills you know. With your Book of Shadows in hand, you can cast the chosen tek skills as rituals. You can’t cast the tek skills except as rituals, unless you’ve learned them by some other means. You can also cast a warlock tek skill you know as a ritual if it has the ritual tag.
 
-On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 5000 credits for the rare inks needed to inscribe it.
+On your adventures, you can add other ritual tek skills to your Book of Shadows. When you find such a tek skill, you can add it to the book if the tek skill’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the tek skill. For each level of the tek skill, the transcription process takes 2 hours and costs 5000 credits for the rare inks needed to inscribe it.
 
 ##### Chains of Carceri
 
 *Prerequisite: 15th level, Pact of the Chain feature*
 
-You can cast *hold monster* at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast *hold monster* at will—targeting a celestial, fiend, or elemental—without expending a tek skill slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ##### Devil’s Sight
 
-You can see normally in darkness, both tek and nonmagical, to a distance of 120 feet.
+You can see normally in darkness, both tek and nontek, to a distance of 120 feet.
 
 ##### Dreadful Word
 
 *Prerequisite: 7th level*
 
-You can cast *confusion* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast *confusion* once using a warlock tek skill slot. You can’t do so again until you finish a long rest.
 
 ##### Eldritch Sight
 
-You can cast *detect magic* at will, without expending a spell slot.
+You can cast *detect tek* at will, without expending a tek skill slot.
 
 ##### Eldritch Spear
 
@@ -219,7 +219,7 @@ You can read all writing.
 
 ##### Fiendish Vigor
 
-You can cast *false life* on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+You can cast *false life* on yourself at will as a 1st-level tek skill, without expending a tek skill slot or material components.
 
 ##### Gaze of Two Minds
 
@@ -229,33 +229,33 @@ You can use your action to touch a willing humanoid and perceive through its sen
 
 *Prerequisite: 12th level, Pact of the Blade feature*
 
-When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
+When you hit a creature with your pact weapon, the creature takes extra radiation damage equal to your Charisma modifier (minimum 1).
 
 ##### Mask of Many Faces
 
-You can cast *disguise self* at will, without expending a spell slot.
+You can cast *disguise self* at will, without expending a tek skill slot.
 
 ##### Master of Myriad Forms
 
 *Prerequisite: 15th level*
 
-You can cast *alter self* at will, without expending a spell slot.
+You can cast *alter self* at will, without expending a tek skill slot.
 
 ##### Minions of Chaos
 
 *Prerequisite: 9th level*
 
-You can cast *conjure elemental* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast *conjure elemental* once using a warlock tek skill slot. You can’t do so again until you finish a long rest.
 
 ##### Mire the Mind
 
 *Prerequisite: 5th level*
 
-You can cast *slow* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast *slow* once using a warlock tek skill slot. You can’t do so again until you finish a long rest.
 
 ##### Misty Visions
 
-You can cast *silent image* at will, without expending a spell slot or material components.
+You can cast *silent image* at will, without expending a tek skill slot or material components.
 
 ##### One with Shadows
 
@@ -267,7 +267,7 @@ When you are in an area of dim light or darkness, you can use your action to bec
 
 *Prerequisite: 9th level*
 
-You can cast *jump* on yourself at will, without expending a spell slot or material components.
+You can cast *jump* on yourself at will, without expending a tek skill slot or material components.
 
 ##### Repelling Blast
 
@@ -279,17 +279,17 @@ When you hit a creature with *eldritch blast*, you can push the creature up to 1
 
 *Prerequisite: 7th level*
 
-You can cast *polymorph* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast *polymorph* once using a warlock tek skill slot. You can’t do so again until you finish a long rest.
 
 ##### Sign of Ill Omen
 
 *Prerequisite: 5th level*
 
-You can cast *bestow hack* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast *bestow hack* once using a warlock tek skill slot. You can’t do so again until you finish a long rest.
 
 ##### Thief of Five Fates
 
-You can cast *bane* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast *bane* once using a warlock tek skill slot. You can’t do so again until you finish a long rest.
 
 ##### Thirsting Blade
 
@@ -301,7 +301,7 @@ You can attack with your pact weapon twice, instead of once, whenever you take t
 
 *Prerequisite: 15th level*
 
-You can cast *arcane eye* at will, without expending a spell slot.
+You can cast *arcane eye* at will, without expending a tek skill slot.
 
 ##### Voice of the Chain Master
 
@@ -313,7 +313,7 @@ You can communicate telepathically with your familiar and perceive through your 
 
 *Prerequisite: 9th level*
 
-You can cast *speak with dead* at will, without expending a spell slot.
+You can cast *speak with dead* at will, without expending a tek skill slot.
 
 ##### Witch Sight
 
@@ -331,13 +331,13 @@ Some patrons collect warlocks, doling out mystic knowledge relatively freely or 
 
 You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
 
-###### Expanded Spell List
+###### Expanded Tek List
 
-The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+The Fiend lets you choose from an expanded list of tek skills when you learn a warlock tek skill. The following tek skills are added to the warlock tek skill list for you.
 
-**Fiend Expanded Spells (table)**
+**Fiend Expanded Tek Skills (table)**
 
-| Spell Level | Spells                            |
+| Tek Level | Tek Skills                            |
 |-------------|-----------------------------------|
 | 1st         | burning hands, command            |
 | 2nd         | blindness/deafness, scorching ray |
@@ -375,4 +375,4 @@ Once you use this feature, you can’t use it again until you finish a long rest
 >
 > **_Pact of the Blade._** If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.
 >
-> **_Pact of the Tome._** Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
+> **_Pact of the Tome._** Your Book of Shadows might be a fine, gilt-edged tome with tek skills of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding tek skills of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of tek skills that only your own burgeoning insanity allows you to understand and cast.

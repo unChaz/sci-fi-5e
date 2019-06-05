@@ -2,19 +2,17 @@
 
 This section describes items that have special rules or require further explanation.
 
-**_Acid._** As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
-
-**_Alchemist’s Fire._** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+**_Grenade._** Throw at a location within 30 feet. Creatures within 5 feet must make a dexterity 14 saving throw or take damage based on the grenade's type. Types: Incendiary, Radiation, Cryo, 
 
 **_Antitoxin._** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
 
-**_Arcane Focus._** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a Techcasting focus.
+**_Arcane Focus._** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item— designed to channel the power of arcane tek skills. A sorcerer, warlock, or wizard can use such an item as a Tekcasting focus.
 
 **_Ball Bearings._** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
 
 **_Block and Tackle._** A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
 
-**_Book._** A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spell datapad (described later in this section).
+**_Book._** A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of tek skills is a tek skill datapad (described later in this section).
 
 **_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
 
@@ -28,18 +26,18 @@ This section describes items that have special rules or require further explanat
 
 **_Climber’s Kit._** A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself; when you do, you can’t fall more than 25 feet from the point where you anchored yourself, and you can’t climb more than 25 feet away from that point without undoing the anchor.
 
-**_Component Pouch._** A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
+**_Component Pouch._** A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your tek skills, except for those components that have a specific cost (as indicated in a tek skill's description).
 **_Crowbar._** Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.
 
-**_Druidic Focus._** A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a Techcasting focus.
+**_Druidic Focus._** A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a Tekcasting focus.
 
 **_Fishing Tackle._** This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and nbullet netting.
 Healer’s Kit. This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
 
-**_Holy Symbol._** A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on A medkit, or a tiny box holding a fragment of a sacred relic. Appendix PH-B "Fantasy-Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a Techcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on A medkit.
+**_Holy Symbol._** A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on A medkit, or a tiny box holding a fragment of a sacred relic. Appendix PH-B "Fantasy-Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a Tekcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on A medkit.
 
 **_Holy Water._** As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
-A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 2500 credits worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
+A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 2500 credits worth of powdered silver, and requires the caster to expend a 1st-level tek skill slot.
 
 **_Hunting Trap._** When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
 
@@ -61,7 +59,7 @@ Lantern, Hooded. A hooded lantern casts bright light in a 30-foot radius and dim
 
 **_Potion of Healing._** A character who drinks the tek red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 
-**_Pouch._** A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section). Quiver. A quiver can hold up to 20 bullets.
+**_Pouch._** A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding tek skill components is called a component pouch (described earlier in this section). Quiver. A quiver can hold up to 20 bullets.
 Ram, Portable. You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
 
 **_Rations._** Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
@@ -70,7 +68,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 
 **_Scale, Merchant’s._** A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
 
-**_spell datapad._** Essential for wizards, a spell datapad is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
+**_tek skill datapad._** Essential for wizards, a tek skill datapad is a leather-bound tome with 100 blank vellum pages suitable for recording tek skills.
 
 **_Spyglass._** Objects viewed through a spyglass are magnified to twice their size.
 
@@ -178,9 +176,9 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 | Signal whistle               | 50 credits     | —            |
 | Signet ring                  | 500 credits     | —            |
 | Soap                         | 20 credits     | —            |
-| spell datapad                    | 5000 credits    | 3 kg.        |
+| tek skill datapad                    | 5000 credits    | 3 kg.        |
 | Spikes, iron (10)            | 100 credits     | 5 kg.        |
-| Spyglass                     | 1,00000 credits | 1 kg.        |
+| Spyglass                     | 100,000 credits | 1 kg.        |
 | Tent, two-person             | 200 credits     | 20 kg.       |
 | Tinderbox                    | 5000 credits    | 1 kg.        |
 | Torch                        | 10 credits     | 1 kg.        |

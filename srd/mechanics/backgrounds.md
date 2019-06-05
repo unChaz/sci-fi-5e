@@ -33,7 +33,6 @@ You might want to tweak some of the features of a background so it better fits y
 ```
 ```
 
-
 ## Cryo-Emergent
 
 You were born in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into a stack and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
@@ -154,7 +153,6 @@ Tool Proficiencies: Tinker’s Tools
 **Improvised Engineerin**: You can macgyver tools together for any situation using the objects available to you. Gain advantage on Tinker checks when creating a tool for a specific situation.
 
 \page
-
 
 ## Capitalist
 You’ve gone from rags to riches, or at least that is the path you have set up for yourself. You’ve come a long way from your humble upbringing, and you are ambitious to rise to the top.

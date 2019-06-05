@@ -97,35 +97,31 @@ In order to be successful at the given task, you roll the die, and add your skil
 
 The person determining the difficulty might increment the number on the table based on environmental conditions that might make the task easier or more difficult.
 
-## “Magic”
- Major advancements in technology have enabled the use of “supernatural” “powers” in humans. Rare humans have the ability to cast what could be perceived as “tek spells” are in reality a marvel of modern technology.
+## Tekcasting
+ Major advancements in technology have enabled the use of seemingly supernatural powers. Some humans have the ability to use tekcasters, devices discovered from a derelict alien spacestation.
 
 ### Focus
-A focus is a small device that through a series of voice, movements, and occasionally a fuel source can cast “spells”.
+The focus used by those casting tek skills is called a Tekcaster. The tekcaster is a device worn on the wrist and is connected to the fingers. Using a combination of hand movements, vocal commands, and material components, the tekcaster can be used to cast tek skills. One can wield a weapon while wearing a tekcaster, but the hand must be free to use it.
 
-- Wand - A small handheld device.
--Staff - A larger 2 handed device, equally effective as a wand, however can be used as a blunted weapon (1d4 bludgeoning), or a walking stick.
-- Amulet - A device that optically reads hand movements. Leaves the hands free to do other things.
-
-> ##### The two sources of Magic
+> ##### The two sources of Tek Skill
 > #### Knowledge
-> One method to cast “spells” is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting “spells”.
+> One method to cast tek skills is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting tek skills.
 >
-> Classes that use this type of “magic” are Cleric, Druid, Ranger, Warlock, and Wizard.
+> Classes that use this type of tek are Cleric, Druid, Ranger, Warlock, and Wizard.
 >
 > #### Genetic Alteration
-> Another way to cast spells is to be genetically modified to do so. This prevents you from having to memorize “spells”, but you must be equipped with an adequate sleeve that has been genetically modified.
+> Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize tek skills, but you must be equipped with an adequate sleeve that has been genetically modified.
 >
 > Usually sleeves with above average Charisma or Constitution are better suited to this type of casting.
 >
-> Classes that use this type of “magic” are Bards, Paladins, and Sorcerers.
+> Classes that use this type of tek are Bards, Paladins, and Sorcerers.
 
 
 ```
 ```
 
 ### Willpower
-Regardless of the method of tek casting, Willpower is always at the core of casting spells. When estimating a caster’s “magical” ability, you add the relevant ability score to your Will score to determine your Techcasting power. The only exception is Bard, which uses their Wit and Charisma score since their tek is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Bard, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
@@ -133,7 +129,7 @@ All tier 1 quality sleeves are given basic genetic alterations. You merely need 
 Basic Genetic Alterations
 (Free Upgrades)
 
-Innate Techcasting
+Innate Tekcasting
 
 Genetic Enhancements
 (Premium Upgrades)

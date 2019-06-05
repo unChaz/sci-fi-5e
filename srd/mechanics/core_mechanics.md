@@ -50,7 +50,7 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 
 ### Advantage and Disadvantage
 
-Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+Sometimes a special ability or tek skill tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
 If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don’t roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
 
@@ -58,7 +58,7 @@ If circumstances cause a roll to have both advantage and disadvantage, you are c
 
 When you have advantage or disadvantage and something in the game, such as the halfling’s Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The
+You usually gain advantage or disadvantage through the use of special abilities, actions, or tek skills. Inspiration can also give a character advantage. The
 
 GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
@@ -310,7 +310,7 @@ Intelligence measures mental acuity, accuracy of recall, and the ability to reas
 
 An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
 
-**_Arcana._** Your Intelligence (Arcana) check measures your ability to recall lore about spells, alien artifacts, eldritch symbols, tek traditions, the planes of existence, and the inhabitants of those planes.
+**_Arcana._** Your Intelligence (Arcana) check measures your ability to recall lore about tek skills, alien artifacts, eldritch symbols, tek traditions, the planes of existence, and the inhabitants of those planes.
 
 **_History._** Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
 
@@ -329,9 +329,9 @@ An Intelligence check comes into play when you need to draw on logic, education,
 * Recall lore about a craft or trade
 * Win a game of skill
 
-##### Techcasting Ability
+##### Tekcasting Ability
 
-Wizards use Intelligence as their Techcasting ability, which helps determine the saving throw DCs of spells they cast.
+Wizards use Intelligence as their Tekcasting ability, which helps determine the saving throw DCs of tek skills they cast.
 
 #### Wisdom
 
@@ -360,9 +360,9 @@ Wisdom check when you try to accomplish tasks like the following:
 * Get a gut feeling about what course of action to follow
 * Discern whether a seemingly dead or living creature is undead
 
-##### Techcasting Ability
+##### Tekcasting Ability
 
-Clerics, druids, and rangers use Wisdom as their Techcasting ability, which helps determine the saving throw DCs of spells they cast.
+Clerics, druids, and rangers use Wisdom as their Tekcasting ability, which helps determine the saving throw DCs of tek skills they cast.
 
 #### Charisma
 
@@ -385,13 +385,13 @@ A Charisma check might arise when you try to influence or entertain others, when
 * Find the best person to talk to for news, rumors, and gossip
 * Blend into a crowd to get the sense of key topics of conversation
 
-##### Techcasting Ability
+##### Tekcasting Ability
 
-Bards, paladins, sorcerers, and warlocks use Charisma as their Techcasting ability, which helps determine the saving throw DCs of spells they cast.
+Bards, paladins, sorcerers, and warlocks use Charisma as their Tekcasting ability, which helps determine the saving throw DCs of tek skills they cast.
 
 ### Saving Throws
 
-A saving throw—also called a save—represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don’t normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+A saving throw—also called a save—represents an attempt to resist a tek skill, a trap, a poison, a disease, or a similar threat. You don’t normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
 
 To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw.
 
@@ -399,7 +399,7 @@ A saving throw can be modified by a situational bonus or penalty and can be affe
 
 Each class gives proficiency in at least two saving throws. The wizard, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
 
-The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster’s Techcasting ability and proficiency bonus.
+The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a tek skill is determined by the caster’s Tekcasting ability and proficiency bonus.
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
@@ -497,7 +497,7 @@ For example, a creature with a Constitution of 14 can hold its breath for 3 minu
 
 #### Vision and Light
 
-The most fundamental tasks of adventuring— noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few—rely heavily on a character’s ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
+The most fundamental tasks of adventuring— noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a tek skill, to name just a few—rely heavily on a character’s ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 
@@ -525,7 +525,7 @@ Many creatures in fantasy gaming worlds, especially those that dwell underground
 
 ##### Truesight
 
-A creature with truesight can, out to a specific range, see in normal and tek darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
+A creature with truesight can, out to a specific range, see in normal and tek darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by tek. Furthermore, the creature can see into the Ethereal Plane.
 
 #### Food and Water
 
@@ -551,13 +551,13 @@ A character’s interaction with objects in an environment is often simple to re
 
 For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the GM might call for a Strength check to see whether the character can wrench the lever into place. The GM sets the DC for any such check based on the difficulty of the task.
 
-Characters can also damage objects with their weapons and spells. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and tek attacks much like creatures can. The GM determines an object’s Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It’s hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
+Characters can also damage objects with their weapons and tek skills. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and tek attacks much like creatures can. The GM determines an object’s Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It’s hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
 
 A character can also attempt a Strength check to break an object. The GM sets the DC for any such check.
 
 ### Resting
 
-Heroic though they might be, adventurers can’t spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for Techcasting, and brace themselves for further adventure.
+Heroic though they might be, adventurers can’t spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for Tekcasting, and brace themselves for further adventure.
 
 Adventurers can take short rests in the midst of an adventuring day and a long rest to end the day.
 
@@ -569,7 +569,7 @@ A character can spend one or more Hit Dice at the end of a short rest, up to the
 
 #### Long Rest
 
-A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting spells, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.
+A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting tek skills, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.
 
 At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character’s total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
 

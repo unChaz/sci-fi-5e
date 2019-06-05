@@ -2,7 +2,7 @@
 
 ---
 
-Conditions alter a creature’s capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster’s attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+Conditions alter a creature’s capabilities in a variety of ways and can arise as a result of a tek skill, a class feature, a monster’s attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
 
 A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
 
@@ -49,7 +49,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 ### Grappled
 * A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 * The condition ends if the grappler is incapacitated (see the condition).
-* The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the *thunder-wave* spell.
+* The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the *concussive-wave* tek skill.
 
 ### Incapacitated
 * An incapacitated creature can’t take actions or reactions.

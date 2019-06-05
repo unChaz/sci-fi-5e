@@ -52,9 +52,9 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 | Item         | Cost      | Speed  |
 |--------------|-----------|--------|
-| Galley       | 30,00000 credits | 4 mph  |
-| Keelboat     | 3,00000 credits  | 1 mph  |
-| Longship     | 10,00000 credits | 3 mph  |
+| Galley       | 3000,000 credits | 4 mph  |
+| Keelboat     | 300,000 credits  | 1 mph  |
+| Longship     | 1000,000 credits | 3 mph  |
 | Rowboat      | 5000 credits     | 1½ mph |
-| Sailing ship | 10,00000 credits | 2 mph  |
-| Warship      | 25,00000 credits | 2½ mph |
+| Sailing ship | 1000,000 credits | 2 mph  |
+| Warship      | 2500,000 credits | 2½ mph |

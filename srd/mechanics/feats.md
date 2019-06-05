@@ -50,9 +50,9 @@ Hardy and resilient, you gain the following benefits:
 Increase your Constitution score by 1, to a maximum of 20.
 
 #### ELEMENTAL ADEPT
-*Prerequisite: The ability to cast at least one spell*
+*Prerequisite: The ability to cast at least one tek skill*
 
-When you gain this feat, choose one o f the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to damage o f the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type.
+When you gain this feat, choose one o f the following damage types: acid, cold, fire, lightning, or concussive. Tek Skills you cast ignore resistance to damage o f the chosen type. In addition, when you roll damage for a tek skill you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type.
 
 #### GRAPPLER
 *Prerequisite: Physique 13 or higher*
@@ -121,17 +121,17 @@ If more than one creature spends a luck point to influence the outcome of a roll
 You regain your expended luck points when you finish a long rest.
 
 #### MAGE SLAYER
-You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
-- When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
-- When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
-You have advantage on saving throws against spells cast by creatures within 5 feet of you.
+You have practiced techniques useful in melee combat against tekcasters, gaining the following benefits:
+- When a creature within 5 feet of you casts a tek skill, you can use your reaction to make a melee weapon attack against that creature.
+- When you damage a creature that is concentrating on a tek skill, that creature has disadvantage on the saving throw it makes to maintain its concentration.
+You have advantage on saving throws against tek skills cast by creatures within 5 feet of you.
 
 #### MAGIC INITIATE
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class’s spell list.
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class’s tek skill list.
 
-In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
+In addition, choose one 1st-level tek skill from that same list. You learn that tek skill and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
 
-Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
+Your tek skillcasting ability for these tek skills depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
 
 \page
 
@@ -193,11 +193,11 @@ Choose one ability score. You gain the following benefits:
 #### RITUAL CASTER
 *Prerequisite: Intelligence, Will or Wisdom 13 or higher*
 
-You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+You have learned a number of tek skills that you can cast as rituals. These tek skills are written in a ritual book, which you must have in hand while casting one of them.
 
-When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class’s spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-If you come across a spell in written form, such as a tek spell scroll or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+If you come across a tek skill in written form, such as a tek tek skill scroll or a wizard’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
 
 #### SAVAGE ATTACKER
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
@@ -241,12 +241,12 @@ You understand spacecraft architecture with uncanny precision. You gain the foll
 - You can accurately recall the layout of any ship or space station you’ve been on.
 
 #### SPELL SNIPER
-*Prerequisite: The ability to cast at least one spell*
+*Prerequisite: The ability to cast at least one tek skill*
 
-You have learned techniques to enhance your attacks with certain kinds o f spells, gaining the following benefits:
-- When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
-- Your ranged spell attacks ignore half cover and three-quarters cover.
-- You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+You have learned techniques to enhance your attacks with certain kinds o f tek skills, gaining the following benefits:
+- When you cast a tek skill that requires you to make an attack roll, the tek skill’s range is doubled.
+- Your ranged tek skill attacks ignore half cover and three-quarters cover.
+- You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
 #### TAVERN BRAWLER
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
@@ -260,12 +260,12 @@ Your hit point maximum increases by an amount equal to twice your level when you
 increases by an additional 2 hit points.
 
 #### WAR CASTER
-*Prerequisite: The ability to cast at least one spell*
-You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
-You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
-You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
-When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making
-an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
+*Prerequisite: The ability to cast at least one tek skill*
+You have practiced casting tek skills in the midst of combat, learning techniques that grant you the following benefits:
+You have advantage on Constitution saving throws that you make to maintain your concentration on a tek skill when you take damage.
+You can perform the somatic components of tek skills even when you have weapons or a shield in one or both hands.
+When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a tek skill at the creature, rather than making
+an opportunity attack. The tek skill must have a casting time of 1 action and must target only that creature.
 
 #### WEAPON MASTER
 You have practiced extensively with a variety of weapons, gaining the following benefits:

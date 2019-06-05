@@ -69,7 +69,7 @@ While raging, you gain the following benefits if you aren’t wearing heavy armo
 * When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
 * You have resistance to bludgeoning, piercing, and slashing damage.
 
-If you are able to cast spells, you can’t cast them or concentrate on them while raging.
+If you are able to cast tek skills, you can’t cast them or concentrate on them while raging.
 ```
 ```
 
@@ -90,7 +90,7 @@ Starting at 2nd level, you can throw aside all concern for defense to attack wit
 
 At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
 
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and tek skills. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 
 #### Primal Path
 

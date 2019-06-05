@@ -135,7 +135,7 @@ Starting at 6th level, your unarmed strikes count as tek for the purpose of over
 
 #### Evasion
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a *fireball* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a *fireball* tek skill. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 #### Stillness of Mind
 
@@ -157,13 +157,13 @@ Additionally, whenever you make a saving throw and fail, you can spend 1 ki poin
 
 #### Timeless Body
 
-At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can’t be aged. You can still die of old age, however. In addition, you no longer need food or water.
 
 #### Empty Body
 
 Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the *astral projection* spell, without needing material components. When you do so, you can’t take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the *astral projection* tek skill, without needing material components. When you do so, you can’t take any other creatures with you.
 
 #### Perfect Self
 
@@ -190,10 +190,10 @@ At 6th level, you gain the ability to heal yourself. As an action, you can regai
 
 ###### Tranquility
 
-Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a *sanctuary* spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a *sanctuary* tek skill that lasts until the start of your next long rest (the tek skill can end early as normal). The saving throw DC for the tek skill equals 8 + your Wisdom modifier + your proficiency bonus.
 
 ###### Quivering Palm
 
-At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
+At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 radiation damage.
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
