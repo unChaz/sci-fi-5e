@@ -1,4 +1,4 @@
-## Planetary Beasts
+## Fantastic Beasts
 
 ---
 

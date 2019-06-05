@@ -75,6 +75,8 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 ### Poisoned
 * A poisoned creature has disadvantage on attack rolls and ability checks.
 
+\page
+
 ### Prone
 * A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
 * The creature has disadvantage on attack rolls.

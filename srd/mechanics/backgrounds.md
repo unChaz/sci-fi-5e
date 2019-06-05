@@ -30,8 +30,7 @@ A background contains suggested personal characteristics based on your backgroun
 
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
 
-```
-```
+\page
 
 ## Cryo-Emergent
 
@@ -75,7 +74,9 @@ Skill Proficiencies: Sneak. Choose 1 from [Trickery, Charm, Intimidation]
 Tool Proficiencies: Thieve’s Tools. Choose 1 from [Forgery Kit, Poisoner’s Kit, Disguise Kit]
 
 Criminal Contact: You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact.
-\page
+
+```
+```
 
 
 ## Smuggler
@@ -115,6 +116,8 @@ Weapon Proficiencies: Pulse Rapier/Pulse Whip
 
 **House Resources**: Depending on your social standing with your house, you might be able to persuade (Charm check) them to get you out of sticky situations, as well as provide you with resources. Be careful not to abuse this privilege, as the greedy pretorian leaders will likely ask for something in return.
 
+\page
+
 ## Pilot
 
 You have been trained to fly any kind of spacecraft. Your expertise makes you a valuable asset to any spacefaring venture.
@@ -152,7 +155,8 @@ Tool Proficiencies: Tinker’s Tools
 **Inventor**: You’ve invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Tinkering with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
 **Improvised Engineerin**: You can macgyver tools together for any situation using the objects available to you. Gain advantage on Tinker checks when creating a tool for a specific situation.
 
-\page
+```
+```
 
 ## Capitalist
 You’ve gone from rags to riches, or at least that is the path you have set up for yourself. You’ve come a long way from your humble upbringing, and you are ambitious to rise to the top.

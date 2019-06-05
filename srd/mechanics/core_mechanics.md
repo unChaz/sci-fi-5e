@@ -50,6 +50,8 @@ The rules for lifting and carrying are intentionally simple. Here is a variant i
 
 If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your speed drops by 10 feet.
 
+\page
+
 If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
 
@@ -79,6 +81,8 @@ At the beginning of every combat, you roll initiative by making a Dexterity chec
 
 Your Toughness modifier contributes to your hit points. Typically, you add your Toughness modifier to each Hit Die you roll for your hit points.
 
+```
+```
 ##### Tekcasting Ability
 
 Bards, paladins, sorcerers, and warlocks use Charisma and Will as their Tekcasting ability, which helps determine the saving throw DCs of tek skills they cast.
@@ -108,6 +112,8 @@ For long journeys, a scale of **days** works best.
 Following the road from Baldur’s Gate to Waterdeep, the adventurers spend four uneventful days before a goblin ambush interrupts their journey.
 
 In combat and other fast-paced situations, the game relies on **rounds**, a 6-second span of time.
+
+\page
 
 ### Movement
 
@@ -169,7 +175,10 @@ This rule assumes that the height of your jump doesn’t matter, such as a jump 
 
 When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
 
+
 **_High Jump._** When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your GM might allow you to make a Strength (Physique) check to jump higher than you normally can.
+
+\page
 
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 
@@ -209,6 +218,9 @@ Even gloomy days provide bright light, as do torches, lanterns, fires, and other
 
 Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of tek darkness.
 
+```
+```
+
 ##### Blindsight
 
 A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
@@ -239,15 +251,20 @@ A character needs one gallon of water per day, or two gallons per day if the wea
 
 If the character already has one or more levels of exhaustion, the character takes two levels in either case.
 
+\page
 #### Interacting with Objects
 
 A character’s interaction with objects in an environment is often simple to resolve in the game. The player tells the GM that his or her character is doing something, such as moving a lever, and the GM describes what, if anything, happens.
+
 
 For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the GM might call for a Strength check to see whether the character can wrench the lever into place. The GM sets the DC for any such check based on the difficulty of the task.
 
 Characters can also damage objects with their weapons and tek skills. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and tek attacks much like creatures can. The GM determines an object’s Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It’s hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
 
 A character can also attempt a Strength check to break an object. The GM sets the DC for any such check.
+
+```
+```
 
 ### Resting
 

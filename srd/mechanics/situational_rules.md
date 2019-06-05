@@ -57,6 +57,8 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | 11th–16th       | 4d10    | 10d10     | 18d10  |
 | 17th–20th       | 10d10   | 18d10     | 24d10  |
 
+\page
+
 ##### Complex Traps
 
 Complex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.
@@ -129,6 +131,8 @@ Once the pit trap is detected, an iron spike or similar object can be wedged bet
 
 A successful DC 20 Strength check is necessary to pry the cover open. The cover can also be smashed open. A character in the pit can also attempt to disable the spring mechanism from the inside with a DC 15 Dexterity check using thieves’ tools, provided that the mechanism can be reached and the character can see. In some cases, a mechanism (usually hidden behind a secret door nearby) opens the pit.
 
+\page
+
 **_Spiked Pit_**. This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or iron spikes at the bottom. A creature falling into the pit takes 11 (2d10) piercing damage from the spikes, in addition to any falling damage. Even nastier versions have poison smeared on the spikes. In that case, anyone taking piercing damage from the spikes must also make a DC 13 Constitution saving throw, taking an 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
 ##### Poison Darts
@@ -183,6 +187,8 @@ Some versions of the trap include an enchantment placed on the stone face, such 
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts tek skills.
 
 A simple outbreak might amount to little more than a small drain on party resources, curable by a casting of _lesser restoration_. A more complicated outbreak can form the basis of one or more adventures as characters search for a cure, stop the spread of the disease, and deal with the consequences.
+
+\page
 
 A disease that does more than infect a few party members is primarily a plot device. The rules help describe the effects of the disease and how it can be cured, but the specifics of how a disease works aren’t bound by a common set of rules. Diseases can affect any creature, and a given illness might or might not pass from one race or kind of creature to another. A plague might affect only constructs or undead, or sweep through a halfling neighborhood but leave other races untouched. What matters is the story you want to tell.
 
@@ -240,9 +246,10 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-**Short-Term Madness (table)**
+\page
 
-| d100   | Effect (lasts 1d10 minutes)                                                                                                  |
+<div class="wide">
+| d100   | Short Term Madness (lasts 1d10 minutes)                                                                                                  |
 |--------|------------------------------------------------------------------------------------------------------------------------------|
 | 01–20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
 | 21–30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
@@ -255,9 +262,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 81–90  | The character is stunned.                                                                                                    |
 | 91–100 | The character falls unconscious.                                                                                             |
 
-**Long-Term Madness (table)**
-
-| d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
+| d100   | Long Term Madness (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01–10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
 | 11–20  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
@@ -272,9 +277,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 91–95  | The character loses the ability to speak.                                                                                                                                                                                            |
 | 96–100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 
-**Indefinite Madness (table)**
-
-| d100   | Flaw (lasts until cured)                                                                                                                 |
+| d100   | Indefinite Madness - Flaw (lasts until cured)                                                                                                                 |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 01–15  | “Being drunk keeps me sane.”                                                                                                             |
 | 16–25  | “I keep whatever I find.”                                                                                                                |
@@ -287,7 +290,12 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 71–80  | “I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they’re watching me all the time.” |
 | 81–85  | “There’s only one person I can trust. And only I can see this special friend.”                                                           |
 | 86–95  | “I can’t take anything seriously. The more serious the situation, the funnier I find it.”                                                |
-| 96–100 | “I’ve discovered that I really like killing people.”                                                                                     |
+| 96–100 | “I’ve discovered that I really like killing people.”    |
+
+</div>
+
+\page
+
 
 #### Curing Madness
 
@@ -347,6 +355,8 @@ Poisons come in the following four types.
 **_Inhaled_**. These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one’s breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
 **_Injury_**. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
+
+\page
 
 **Poisons (table)**
 

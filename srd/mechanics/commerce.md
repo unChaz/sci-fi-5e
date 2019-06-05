@@ -42,6 +42,8 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 >
 > Maintaining this kind of lifestyle doesn’t require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Nature skill lets you live at the equivalent of a comfortable lifestyle.
 
+\page
+
 #### Food, Drink, and Lodging
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night’s lodging. These prices are included in your total lifestyle expenses.

@@ -59,6 +59,8 @@ If you want to interact with a second object, you need to use your action. Some 
 
 The GM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the GM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge.
 
+\page
+
 #### Reactions
 
 Certain special abilities, tek skills, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The opportunity attack, described later in this chapter, is the most common type of reaction.
@@ -109,7 +111,7 @@ To move while prone, you must **crawl** or use tek such as teleportation. Every 
 
 Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
 
-* draw or sheathe a sword
+* draw or sheathe a weapon
 * open or close a door
 * withdraw a potion from your backpack
 * pick up a dropped axe
@@ -139,9 +141,13 @@ Whether a creature is a friend or an enemy, you can’t willingly end your move 
 
 If you leave a hostile creature’s reach during your move, you provoke an opportunity attack, as explained later in the chapter.
 
+
+\page
+
 #### Flying Movement
 
 Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by tek, such as by the *fly* tek skill.
+
 
 #### Null Gravity
 While moving in null gravity you must make an Acrobatics ability check determine success. If you aren't careful you can miss, undershoot, or overshoot and go spinning in a random direction. When moving in null gravity you maintain momentum until you run into a solid object. In a large space you may use one turn to move your movement speed. You will continue to move your movement speed every subsequent turn until you run into something, or are able to propel yourself somehow. Grav Boots and Jet Packs are very useful in Null G.
@@ -204,6 +210,8 @@ If you take the Disengage action, your movement doesn’t provoke opportunity at
 #### Dodge
 
 When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix A) or if your speed drops to 0.
+
+\page
 
 #### Help
 
@@ -271,6 +279,8 @@ Combatants often try to escape their foes’ notice by hiding, casting the invis
 
 When you attack a target that you can’t see, you have disadvantage on the attack roll. This is true whether you’re guessing the target’s location or you’re targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target’s location correctly.
 
+\page
+
 When a creature can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 
 #### Ranged Attacks
@@ -329,6 +339,8 @@ The target of your grapple must be no more than one size larger than you and mus
 ##### Shoving a Creature
 
 Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
+
+\page
 
 The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Physique) check contested by the target’s Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
 
@@ -402,6 +414,8 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **_Concussive_** A concussive burst of sound, such as the effect of the _shockwave_ tek skill, deals concussive damage.
 
+\page
+
 #### Damage Resistance and Vulnerability
 
 Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
@@ -467,6 +481,8 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a killing bl
 Some tek skills and special abilities confer temporary hit points to a creature. Temporary hit points aren’t actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
 
 When you have temporary hit points and take damage, the temporary hit points are lost first, and any leftover damage carries over to your normal hit points. For example, if you have 5 temporary hit points and take 7 damage, you lose the temporary hit points and then take 2 damage.
+
+\page
 
 Because temporary hit points are separate from your actual hit points, they can exceed your hit point maximum. A character can, therefore, be at full hit points and receive temporary hit points.
 

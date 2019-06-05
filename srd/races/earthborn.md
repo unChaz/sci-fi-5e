@@ -1,6 +1,6 @@
 ## Earthborn
 
-Those born of Earth and Luna share the priveledge of living in the most developed of the worlds. Because of a strong economy, and good education facilities, many Earthborn that are lucky enough to become adventurers grew up strong and well educated. They are not accustomed to the challenges of life out in the ink.
+Those born of Earth and Luna share the privilege of living in the most developed of the worlds. Many Earthborn that are lucky enough to become adventurers grew up healthy and well educated.
 
 ### Sleeve Traits
 

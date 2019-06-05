@@ -5,10 +5,18 @@ class Compiler
 
   def run
     puts "Building Sci-fi SRD Version #{@version}"
-    File.open(file_name, 'w+') do | write_file |
+    Dir.mkdir("versions/#{version}") unless File.exists?("versions/#{version}")
+    build_file('srd')
+    build_file('monster_manual')
+    build_file('tekcasting')
+    build_file('tek_items')
+  end
+
+  def build_file(filename)
+    File.open(file_name(filename.upcase), 'w+') do | write_file |
       @write_file = write_file
       append_template(load_sub_template('srd/styles.html'))
-      append_template(main_template)
+      append_template(main_template(filename))
     end
   end
 
@@ -37,16 +45,16 @@ class Compiler
     line[/\[\[.*?\]\]/]
   end
 
-  def main_template
-    @main_template ||= File.open('srd/layout.html')
+  def main_template(filename)
+    @main_template ||= File.open("srd/#{filename}.html")
   end
 
   def load_sub_template(name)
     File.open(name)
   end
 
-  def file_name
-    "versions/sci_fi_srd_v#{version}.md"
+  def file_name(type)
+    "versions/#{version}/SCI-5_#{type}.md"
   end
 
   def template_file_name(merge_tag)

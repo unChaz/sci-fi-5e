@@ -2,6 +2,7 @@
 
 ---
 
+<div class="wide">
 As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.
 
 When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can’t increase an ability score above 20. In addition, every character’s proficiency bonus increases at certain levels.
@@ -12,7 +13,7 @@ When your Constitution modifier increases by 1, your hit point maximum increases
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character’s class description to see what other improvements you gain at each level.
 
-**Character Advancement (table)**
+## Character Advancement
 
 | Experience Points | Level | Proficiency Bonus |
 |-------------------|-------|-------------------|
@@ -36,3 +37,4 @@ The Character Advancement table summarizes the XP you need to advance in levels 
 | 265,000           | 18    | +6                |
 | 305,000           | 19    | +6                |
 | 355,000           | 20    | +6                |
+</div>

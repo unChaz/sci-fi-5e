@@ -20,6 +20,8 @@
 
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver’s tools, or a Strength check to make something out of particularly hard wood.
 
+```
+```
 ## Tinker’s Tools
 
 These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency. Using Tinker’s tools you can repair electronic and mechanical devices with an ability check.
@@ -43,6 +45,8 @@ Several of the most common types of musical instruments are shown on the table a
 ## Navigator's Kit
 
 This specialized datapad is used for navigation in space. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, it allows you to add your proficiency bonus to any ability check you make to avoid getting lost in space. In the event that a ship’s navigation data is out of date or offline, you can override the navigation controls from the ship’s helm using this device. You can update the star charts on your Navigator’s Datapad at most colonies and stations.
+
+\page
 
 ## Poisoner's Kit
 A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.

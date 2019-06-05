@@ -44,6 +44,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 
 **_Tent._** A simple and portable canvas shelter, a tent sleeps two.
 
+\page
 **Adventuring Gear (table)**
 
 | Item                         | Cost     | Weight       |

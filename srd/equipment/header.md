@@ -1,5 +1,4 @@
 ## Equipment
-
 ---
 
 Currency is mostly dealt with in digital credits, however coins are still in circulation.

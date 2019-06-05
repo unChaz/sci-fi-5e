@@ -18,9 +18,9 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 ##### Crafting
 
-You can craft nontek objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
+You can craft nontek objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it.
 
-For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 500 credits, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 500 credits, you make progress every day in 5*00 credits increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,50000 credits) takes 300 days to craft by yourself.
+For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 500 credits, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 500 credits, you make progress every day in 500 credits increments until you reach the market value of the item. For example, a suit of plate armor (market value 150000 credits) takes 300 days to craft by yourself.
 
 Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 500 credits worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of plate armor in 100 days, at a total cost of 75000 credits.
 
@@ -29,9 +29,7 @@ While crafting, you can maintain a modest lifestyle without having to pay 100 cr
 ##### Practicing a Profession
 
 You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 100 credits per day. This benefit lasts as long you continue to practice your profession.
-
 If you are a member of an organization that can provide gainful employment, such as a temple or a thieves’ guild, you earn enough to support a comfortable lifestyle instead.
-
 If you have proficiency in the Performance skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
 
 ##### Recuperating
@@ -45,9 +43,7 @@ After three days of downtime spent recuperating, you can make a DC 15 Constituti
 
 ##### Researching
 
-The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and crumbling scrolls in a library or buying drinks for the locals to pry rumors and gossip from their lips.
-
-When you begin your research, the GM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The GM might also require you to make one or more ability checks, such as an Intelligence (Investigation) check to find clues pointing toward the information you seek, or a Charisma (Charm) check to secure someone’s aid. Once those conditions are met, you learn the information if it is available.
+The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign.
 
 For each day of research, you must spend 100 credits to cover your expenses. This cost is in addition to your normal lifestyle expenses.
 
