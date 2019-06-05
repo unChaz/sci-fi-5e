@@ -11,7 +11,7 @@
   .phb#p1 .wide { color: white }
 </style>
 <!-- Cover Page -->
-<img src="https://resi.ze-robot.com/dl/cy/cyberpunk-fantasy-world-sci-fi-raining-768%C3%971024.jpg"       
+<img src="https://resi.ze-robot.com/dl/cy/cyberpunk-futuristic-world-sci-fi-raining-768%C3%971024.jpg"       
      style="position:absolute;top:0;bottom:0;right:0;left:0;width:100%">
 
 <div style='margin-top:450px;'></div>
@@ -474,7 +474,7 @@ Opportunities abound to find loot, equipment, weapons, armor, and more in the du
 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from Flak armor to scarab skin to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with A Pulse Shields.
 
-The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
+The Armor table shows the cost, weight, and other properties of the common types of armor worn in futuristic gaming worlds.
 
 **_Armor Proficiency._** Anyone can put on a suit of armor or strap A Pulse Shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast tek skills.
 
@@ -543,7 +543,7 @@ The time it takes to don or doff armor depends on the armor’s category.
 
 Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a pulse blade or a rail rifle, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
-The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
+The Weapons table shows the most common weapons used in the futuristic gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
 #### Weapon Proficiency
 

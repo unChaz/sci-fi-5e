@@ -1,60 +1,56 @@
 
-### Mounts and Vehicles
+### Vehicles
 
-A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s speed and base carrying capacity.
+### Basic Vehicles
 
-An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
+#### Grav Boots
+*10,000 credits*
 
-Mounts other than those listed here are available in fantasy gaming worlds, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.
+Movement Speed is equal to your walking speed.
 
-**_Barding._** Barding is armor designed to protect an animal’s head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
+#### Hover Bike
+*7500 credits (rentable with license and 100 credits per day)*
 
-**_Saddles._** A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
+While mounted, your speed is 60ft. Can carry 1 additional passenger.
 
-**_Vehicle Proficiency._** If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
+#### Aircar
+*50,000 credits (rentable with license and 400 credits per day)*
 
-**_Rowed Vessels._** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
+Small atmospheric vehicle that can carry up to 6 passengers.
 
-**Mounts and Other Animals (table)**
+### Spacecraft
 
-| Item           | Cost   | Speed  | Carrying Capacity |
-|----------------|--------|--------|-------------------|
-| Camel          | 5000 credits  | 50 ft. | 480 kg.           |
-| Donkey or mule | 800 credits   | 40 ft. | 420 kg.           |
-| Elephant       | 20000 credits | 40 ft. | 1,320 kg.         |
-| Horse, draft   | 5000 credits  | 40 ft. | 540 kg.           |
-| Horse, riding  | 7500 credits  | 60 ft. | 480 kg.           |
-| Mastiff        | 2500 credits  | 40 ft. | 195 kg.           |
-| Pony           | 3000 credits  | 40 ft. | 225 kg.           |
-| Warhorse       | 40000 credits | 60 ft. | 540 kg.           |
+#### Stork Shuttle
+*50m credits*
 
-**Tack, Harness, and Drawn Vehicles (table)**
+Can carry up to 40 passengers. Requires 2 pilots and a flight engineer to operate.
 
-| Item               | Cost   | Weight  |
-|--------------------|--------|---------|
-| Barding            | ×4     | ×2      |
-| Bit and bridle     | 200 credits   | 1 kg.   |
-| Carriage           | 10000 credits | 600 kg. |
-| Cart               | 1500 credits  | 200 kg. |
-| Chariot            | 25000 credits | 100 kg. |
-| Feed (per day)     | 50 credits   | 10 kg.  |
-| **_Saddle_**       |        |         |
-| - Exotic           | 6000 credits  | 40 kg.  |
-| - Military         | 2000 credits  | 30 kg.  |
-| - Pack             | 500 credits   | 15 kg.  |
-| - Riding           | 1000 credits  | 25 kg.  |
-| Saddlebags         | 400 credits   | 8 kg.   |
-| Sled               | 2000 credits  | 300 kg. |
-| Stabling (per day) | 5000 credits  | —       |
-| Wagon              | 3500 credits  | 400 kg. |
+#### RipWing
+*250m credits*
 
-**Waterborne Vehicles (table)**
+A small but fast warship.
 
-| Item         | Cost      | Speed  |
-|--------------|-----------|--------|
-| Galley       | 3000,000 credits | 4 mph  |
-| Keelboat     | 300,000 credits  | 1 mph  |
-| Longship     | 1000,000 credits | 3 mph  |
-| Rowboat      | 5000 credits     | 1½ mph |
-| Sailing ship | 1000,000 credits | 2 mph  |
-| Warship      | 2500,000 credits | 2½ mph |
+#### LeechCraft
+*400m credits*
+A medium sized spacecraft that can carry a squadron of marines. It attaches to the hull of enemy ships to forcefully deploy troops by ripping a hole in the ship’s hull. This is the largest ship capable of atmospheric travel.
+
+#### Corvette
+A medium sized spacecraft specializing in heavy artillery.
+
+#### Frigate
+A large spacecraft similar in size to the 21st century naval battleship. It can deploy small shuttles and RipWings.
+
+#### Torchship
+A large transport ship capable of deploying direct munitions as well as RipWing and LeechCraft. About the size of a cruise ship.
+
+#### Cruiser
+A large all purpose ship, frequently owned by private citizens, but can also be outfitted with weapons.
+
+#### Battlecruiser
+The military issue cruiser. Usually in the vanguard of any naval engagement.
+
+#### Dreadnought (Capital Ship)
+A large capital ship measuring around 5 km in length. These ships usually represent the core of a large fleet.
+
+#### MoonBreaker (Capital Ship)
+A large ship measuring at least 8 km in length is essentially a floating city.

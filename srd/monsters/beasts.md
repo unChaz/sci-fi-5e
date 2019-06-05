@@ -1,5 +1,3 @@
-\page
-
 ## Miscellaneous Creatures
 
 ---

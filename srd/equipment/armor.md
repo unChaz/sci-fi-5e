@@ -2,7 +2,7 @@
 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from Flak armor to scarab skin to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with A Pulse Shields.
 
-The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
+The Armor table shows the cost, weight, and other properties of the common types of armor worn in futuristic gaming worlds.
 
 **_Armor Proficiency._** Anyone can put on a suit of armor or strap A Pulse Shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast tek skills.
 

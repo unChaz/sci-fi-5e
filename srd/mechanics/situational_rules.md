@@ -4,7 +4,7 @@
 
 ### Traps
 
-Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
+Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a futuristic game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
 A trap can be either mechanical or tek in nature. **Mechanical traps** include pits, bullet traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Tek traps** are either tek device traps or tek skill traps. Tek device traps initiate tek skill effects when activated. Tek traps are tek skills such as _glyph of warding_ and _symbol_ that function as traps.
 

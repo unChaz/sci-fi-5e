@@ -143,6 +143,9 @@ If you leave a hostile creature’s reach during your move, you provoke an oppor
 
 Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by tek, such as by the *fly* tek skill.
 
+#### Null Gravity
+While moving in null gravity you must make an Acrobatics ability check determine success. If you aren't careful you can miss, undershoot, or overshoot and go spinning in a random direction. When moving in null gravity you maintain momentum until you run into a solid object. In a large space you may use one turn to move your movement speed. You will continue to move your movement speed every subsequent turn until you run into something, or are able to propel yourself somehow. Grav Boots and Jet Packs are very useful in Null G.
+
 #### Creature Size
 
 Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
@@ -343,7 +346,7 @@ A target with **total cover** can’t be targeted directly by an attack or a tek
 
 ### Damage and Healing
 
-Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed bullet, or a blast of flame from a *fireball* tek skill all have the potential to damage, or even kill, the hardiest of creatures.
+Injury and the risk of death are constant companions of those who explore futuristic gaming worlds. The thrust of a sword, a well-placed bullet, or a blast of flame from a *fireball* tek skill all have the potential to damage, or even kill, the hardiest of creatures.
 
 #### Hit Points
 
@@ -489,13 +492,14 @@ If your mount is knocked prone, you can use your reaction to dismount it as it f
 
 #### Controlling a Mount
 
-While you’re mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
-
 You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
 
 An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
 
 In either case, if the mount provokes an opportunity attack while you’re on it, the attacker can target you or the mount.
+
+### Mechanical Mounts
+Mechanical mounts move on your turn, and some have certain restrictions for what actions you can take.
 
 ### Underwater Combat
 

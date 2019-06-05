@@ -1,34 +1,10 @@
-### Trade Goods
-
-Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
-
-Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
-
-**Trade Goods (table)**
-
-| Cost   | Goods                                        |
-|--------|----------------------------------------------|
-| 10 credits   | 1 kg. of wheat                               |
-| 20 credits   | 1 kg. of flour or one chicken                |
-| 50 credits   | 1 kg. of salt                                |
-| 1000 credits  | 1 kg. of iron or 1 sq. yd. of canvas         |
-| 5000 credits  | 1 kg. of copper or 1 sq. yd. of cotton cloth |
-| 100 credits   | 1 kg. of ginger or one goat                  |
-| 200 credits   | 1 kg. of cinnamon or pepper, or one sheep    |
-| 300 credits   | 1 kg. of cloves or one pig                   |
-| 500 credits   | 1 kg. of silver or 1 sq. yd. of linen        |
-| 1000 credits  | 1 sq. yd. of silk or one cow                 |
-| 1500 credits  | 1 kg. of saffron or one ox                   |
-| 5000 credits  | 1 kg. of gold                                |
-| 50000 credits | 1 kg. of platinum                            |
-
 ### Expenses
 
-When not descending into the depths of the earth, exploring ruins for lost loot, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
+When not descending into the depths of space, exploring ruins for lost loot, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a futuristic world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
 
 #### Lifestyle Expenses
 
-Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
+Lifestyle expenses provide you with a simple way to account for the cost of living in a futuristic world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
 
 At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career.
 
@@ -121,7 +97,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 | - Untrained       | 2000 credits per day  |
 | Messenger         | 20 credits per mile |
 | Road or gate toll | 10 credits          |
-| Ship’s passage    | 1000 credits per mile |
+| Ship’s passage    | 10,000 credits per day |
 
 #### Tekcasting Services
 
