@@ -16,7 +16,7 @@ You were not revived for one of the following reasons:
 SCA legislation HL-3404-C53 dictates that all cryogenically preserved pre-stack natural humans that have not been revived to be confiscated by the SCA. Your consciousness has been legally conscripted into indentured servitude to the SCA until you have paid off your contract. Once oriented you will be assigned a job based on your aptitude - most likely hard labor. Welcome to the family!
 
 ## Persona
-SCA assesses each emergent for personality traits. Scores are given to each trait at a 1:1 ratio. Scores range between -2 and 4.
+SCA assesses each emergent for personality traits. Scores range between -2 and 2.
 
 Personality traits were the results of a two decades long psychological study at the Ganymede Institute. These traits were determined to be the most core quantification of the natural human personality. These traits are completely independent of physical form, and represent the human mind.
 
@@ -33,7 +33,7 @@ Personality traits were the results of a two decades long psychological study at
 ```
 ```
 
-## Stack
+### Stack
 
 Thanks to modern cloning techniques, and the availability of confiscated human bodies, death no longer needs to be permanent.
 
@@ -56,7 +56,7 @@ Some sleeves have been genetically modified. Some have been upgraded with bionic
 Naturally born sleeves vary greatly, as the genetic diversity of humanity expanded when we spread out around the solar system.
 
 ### Quality Control
-All sleeves must be appraised by the **Board of Quality Control** to ensure buyer protection. Sleeves are appraised with the following traits:
+All sleeves must be appraised by the **Board of Quality Control** to ensure buyer protection. Sleeves are appraised with the following traits with a score between -2 and 2:
 
 
 | Trait | Description |
