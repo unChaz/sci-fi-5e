@@ -2,6 +2,7 @@
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
   .phb {
+  	background-color: lightgray;
     background-image: url("[[background_image]]");
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -23,7 +24,7 @@
 
 <div style='margin-top:25px'></div>
 <div class='wide'>
-#####  Version 0.2.0
+#####  Version 0.2.3
 </div>
 
 <!-- Introduction -->
@@ -45,9 +46,6 @@ You were not revived for one of the following reasons:
 - Your cryo insurance agency was waiting for your sleeve repair costs to become lower.
 - The contract on your revival designated a date after HL-3404-C53 went into effect.
 
-### Designation
-At the time of emergence, all Cryo-Emergents, are given an eight digit alphanumeric designation beginning with ‘CE-’.
-
 ## Persona
 
 SCA assesses each emergent for personality traits. Scores are given to each trait at a 1:1 ratio. Scores range between -2 and 4.
@@ -61,9 +59,8 @@ Personality traits were the results of a two decades long psychological study at
 | Intelligence | The ability to acquire and apply knowledge and skills. |
 | Wisdom | The soundness of an action or decision with regard to the application of experience, knowledge, and good judgment. |
 
-> ##### Artificial Intelligence
-> The concept of Artificial Intelligence as it applies today is likely very different during your first life. AI as you know it does not exist. Any AI programs are under strict regulations to do only simple tasks.
-
+> ### Calculating Ability Scores
+> Each ability score is calculated by rolling 3d4, dropping the lowest, and subtracting 4 from the result.
 
 ```
 ```

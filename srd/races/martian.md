@@ -5,9 +5,9 @@ The Martian Navy is known for it's disciplined marines. The Martian children are
 
 **_Ability Score Increase._** Your Dexterity increases by 1.
 
-**_Size._** Galileans are tall and muscular. Usually over 6 feet. Regardless of your position in that range, your size is Medium.
+**_Size._** Martians are between 5 and 6 feet tall. Regardless of your position in that range, your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet. 
+**_Speed._** Your base walking speed is 30 feet.
 
 #### Muscle Memory
 Martians are taught to use weapons from a young age. You have proficiency in **Simple Ion Weapons** and **Railrifles**.
@@ -21,4 +21,4 @@ Martians are taught to use weapons from a young age. You have proficiency in **S
 **_Languages._** You can speak, read, and write English, and one extra language of your choice.
 
 #### Flight School
-Martian Pilots are the best of the best, and are all taught at a young age. You are proficient at the **Pilot** skill.
+Martian Pilots are the best of the best, and are all taught at a young age. You are proficient at the **Piloting** skill.
