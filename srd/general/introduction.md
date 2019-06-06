@@ -16,8 +16,7 @@ You were not revived for one of the following reasons:
 - The contract on your revival designated a date after HL-3404-C53 went into effect.
 
 ## Persona
-
-SCA assesses each emergent for personality traits. Scores are given to each trait at a 1:1 ratio. Scores range between -2 and 4.
+SCA assesses each emergent for personality traits. Scores range between -2 and 2.
 
 Personality traits were the results of a two decades long psychological study at the Ganymede Institute. These traits were determined to be the most core quantification of the natural human personality. These traits are completely independent of physical form, and represent the human mind.
 
@@ -34,6 +33,21 @@ Personality traits were the results of a two decades long psychological study at
 ```
 ```
 
+<<<<<<< HEAD
+=======
+### Stack
+
+Thanks to modern cloning techniques, and the availability of confiscated human bodies, death no longer needs to be permanent.
+
+Each human is given a Stack that is installed at the base of the neck connected to your spinal cord. The Stack contains a complete record of your conscious mind. In the event of your death you can be given a new body. Additionally traveling across the solar system has never been faster with the ability to stream your stack backup to a new body. If you have the funds, you can even have a cloned body ready for you on the other side.
+
+If your stack is destroyed however, there is no bringing you back. That is called "true death". The punishment for murder has been lessened with the exception of those who have religious encoding specifying they do not wish to be spun back up.
+
+Having two copies or more of the same stack is illegal, and punishable by the true death of all copies.
+
+It is also possible to enter into a totally virtual environment via the stack. Using this method we can spin up a virtual instance of a person in VR to question them about thier death, or keep prisoners sedated inside a virtual environment which we control.
+
+>>>>>>> b3db14ec136a8c9da99749b4633512db87159a0c
 ## Sleeve
 
 Thanks to modern cloning techniques, and the availability of confiscated human bodies, death no longer needs to be permanent.
@@ -41,7 +55,7 @@ Thanks to modern cloning techniques, and the availability of confiscated human b
 Upon death, if your stack is recovered, you can purchase a new sleeve, or be provided one in the case of wrongful death, or if you are properly insured.
 
 ### Quality Control
-All sleeves must be appraised by the **Board of Quality Control** to ensure buyer protection. Sleeves are appraised with the following traits:
+All sleeves must be appraised by the **Board of Quality Control** to ensure buyer protection. Sleeves are appraised with the following traits with a score between -2 and 2:
 
 
 | Trait | Description |
