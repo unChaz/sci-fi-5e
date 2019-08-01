@@ -251,10 +251,10 @@ The creature is aware of this effect before it makes its attack against you.
 >
 > A morph holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Morphs often use such plants as part of a Tekcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 >
-> Similarly, a morph uses such woods to make other objects, such as weapons and pulse shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or Bowstaffs, as well as pulse shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or ion daggers.
+> Similarly, a morph uses such woods to make other objects, such as weapons and pulse shields. Yew is associated with death and rebirth, so weapon handles for Ion Blades or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or Bowstaffs, as well as pulse shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or ion daggers.
 >
 > Morphs from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a morph of a desert region might value the yucca tree and cactus plants.
 
 > #### Morphs and the Gods
 >
-> Some morphs venerate the forces of nature themselves, but most morphs are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of priests and urbanized peoples.
+> Some morphs venerate the forces of nature themselves, but most morphs are devoted to one of the many nature sects worshiped in the multiverse (the lists of gods in appendix B include many such sects). The worship of these sects is often considered a more ancient tradition than the faiths of priests and urbanized peoples.

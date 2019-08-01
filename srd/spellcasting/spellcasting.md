@@ -189,7 +189,7 @@ Most tek skills that require attack rolls involve ranged attacks. Remember that 
 
 > #### The Schools of Tek
 >
-> Academies of tek group tek skills into eight categories called schools of tek. Scholars, particularly Arcanists, apply these categories to all tek skills, believing that all tek functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
+> Academies of tek group tek skills into eight categories called schools of tek. Scholars, particularly Arcanists, apply these categories to all tek skills, believing that all tek functions in essentially the same way, whether it derives from rigorous study or is bestowed by a sect.
 >
 > The schools of tek help describe tek skills; they have no rules of their own, although some rules refer to the schools.
 >
@@ -473,8 +473,8 @@ For example, if two priests cast _bless_ on the same target, that character gain
 
 ##### 7th Level
 
-* Conjure Celestial
-* Divine Word
+* Conjure Alien
+* Alien Word
 * Etherealness
 * Fire Storm
 * Plane Shift
@@ -639,7 +639,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Detect Evil and Good
 * Detect Tek
 * Detect Poison and Disease
-* Divine Favor
+* Alien Favor
 * Heroism
 * Protection from Evil and Good
 * Purify Food and Drink
@@ -1415,7 +1415,7 @@ _8th-level abjuration_
 
 A 10-foot-radius invisible sphere of antitek surrounds you. This area is divorced from the tek energy that suffuses the multiverse. Within the sphere, tek skills can’t be cast, summoned creatures disappear, and even alien artifacts become mundane. Until the tek skill ends, the sphere moves with you, centered on you.
 
-Tek Skills and other tek effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed tek skill is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
+Tek Skills and other tek effects, except those created by an artifact or a sect, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed tek skill is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 
 **_Targeted Effects._** Tek Skills and other tek effects, such as _tek missile_ and _charm person_, that target a creature or an object in the sphere have no effect on that target.
 
@@ -1425,7 +1425,7 @@ Tek Skills and other tek effects, except those created by an artifact or a deity
 
 **_Alien Artifacts._** The properties and powers of alien artifacts are suppressed in the sphere. For example, a _+1 pulse blade_ in the sphere functions as a nontek pulse blade.
 
-A tek weapon’s properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If a tek weapon or a piece of tek ammunition fully leaves the sphere (for example, if you fire a tek bullet or throw a tek spear at a target outside the sphere), the tek of the item ceases to be suppressed as soon as it exits.
+A tek weapon’s properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If a tek weapon or a piece of tek ammunition fully leaves the sphere (for example, if you fire a tek bullet or throw a tek Pulse Dagger at a target outside the sphere), the tek of the item ceases to be suppressed as soon as it exits.
 
 **_Tek Travel._** Teleportation and planar travel fail to work in the sphere, whether the sphere is the destination or the departure point for such tek travel. A portal to another location, world, or plane of existence, as well as an opening to an extradimensional space such as that created by the _rope trick_ tek skill, temporarily closes while in the sphere.
 
@@ -1555,7 +1555,7 @@ When you cast the tek skill, choose one or both of the following effects. The ef
 
 **_False Aura._** You change the way the target appears to tek skills and tek effects, such as _detect tek_, that detect tek auras. You can make a nontek object appear tek, a tek object appear nontek, or change the object’s tek aura so that it appears to belong to a specific school of tek that you choose. When you use this effect on an object, you can make the false tek apparent to any creature that handles the item.
 
-**_Mask._** You change the way the target appears to tek skills and tek effects that detect creature types, such as a guardian’s Divine Sense or the trigger of a _symbol_ tek skill. You choose a creature type and other tek skills and tek effects treat the target as if it were a creature of that type or of that alignment.
+**_Mask._** You change the way the target appears to tek skills and tek effects that detect creature types, such as a guardian’s Alien Sense or the trigger of a _symbol_ tek skill. You choose a creature type and other tek skills and tek effects treat the target as if it were a creature of that type or of that alignment.
 
 ##### Astral Projection
 
@@ -2067,9 +2067,9 @@ _5th-level divination (ritual)_
 
 **Duration:** 1 minute
 
-You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the tek skill ends. You receive a correct answer for each question.
+You contact your sect or a Alien proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the tek skill ends. You receive a correct answer for each question.
 
-Divine beings aren’t necessarily omniscient, so you might receive “unclear” as an answer if a question pertains to information that lies beyond the deity’s knowledge. In a case where a one-word answer could be misleading or contrary to the deity’s interests, the GM might offer a short phrase as an answer instead.
+Alien beings aren’t necessarily omniscient, so you might receive “unclear” as an answer if a question pertains to information that lies beyond the sect’s knowledge. In a case where a one-word answer could be misleading or contrary to the sect’s interests, the GM might offer a short phrase as an answer instead.
 
 If you cast the tek skill two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The GM makes this roll in secret.
 
@@ -2091,7 +2091,7 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 
 * terrain and bodies of water
 * prevalent plants, minerals, animals, or peoples
-* powerful celestials, fey, fiends, elementals, or undead
+* powerful Aliens, fey, fiends, elementals, or undead
 * influence from other planes of existence
 * buildings
 
@@ -2183,7 +2183,7 @@ The GM has the creatures’ statistics.
 
 **_At Higher Levels._** When you cast this tek skill using certain higher-level tek skill slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
 
-##### Conjure Celestial
+##### Conjure Alien
 
 _7th-level conjuration_
 
@@ -2195,13 +2195,13 @@ _7th-level conjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the tek skill ends.
+You summon a Alien of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The Alien disappears when it drops to 0 hit points or when the tek skill ends.
 
-The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t violate its alignment. If you don’t issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.
+The Alien is friendly to you and your companions for the duration. Roll initiative for the Alien, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t violate its alignment. If you don’t issue any commands to the Alien, it defends itself from hostile creatures but otherwise takes no actions.
 
-The GM has the celestial’s statistics.
+The GM has the Alien’s statistics.
 
-**_At Higher Levels._** When you cast this tek skill using a 9th-level tek skill slot, you summon a celestial of challenge rating 5 or lower.
+**_At Higher Levels._** When you cast this tek skill using a 9th-level tek skill slot, you summon a Alien of challenge rating 5 or lower.
 
 ##### Conjure Elemental
 
@@ -2687,7 +2687,7 @@ _1st-level divination_
 
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been consecrated or desecrated.
+For the duration, you know if there is an aberration, Alien, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been consecrated or desecrated.
 
 The tek skill can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
@@ -2817,13 +2817,13 @@ _5th-level abjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.
+Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, Aliens, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.
 
 You can end the tek skill early by using either of the following special functions.
 
-**_Break Enchantment._** As your action, you touch a creature you can reach that is charmed, frightened, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
+**_Break Enchantment._** As your action, you touch a creature you can reach that is charmed, frightened, or possessed by a Alien, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
 
-**_Dismissal._** As your action, make a melee tek skill attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn’t there already). If they aren’t on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
+**_Dismissal._** As your action, make a melee tek skill attack against a Alien, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn’t there already). If they aren’t on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
 
 ##### Dispel Tek
 
@@ -2859,7 +2859,7 @@ The tek skill doesn’t take into account any possible circumstances that might 
 
 If you cast the tek skill two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.
 
-##### Divine Favor
+##### Alien Favor
 
 _1st-level evocation_
 
@@ -2871,9 +2871,9 @@ _1st-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-Your prayer empowers you with divine radiance. Until the tek skill ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.
+Your prayer empowers you with Alien radiance. Until the tek skill ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.
 
-##### Divine Word
+##### Alien Word
 
 _7th-level evocation_
 
@@ -2885,12 +2885,12 @@ _7th-level evocation_
 
 **Duration:** Instantaneous
 
-You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
+You utter a Alien word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
 
 * 50 hit points or fewer: deafened for 1 minute
 * 40 hit points or fewer: deafened and blinded for 10 minutes
 * 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
-* 20 hit points or fewer: killed instantly Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a _wish_ tek skill.
+* 20 hit points or fewer: killed instantly Regardless of its current hit points, a Alien, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a _wish_ tek skill.
 
 ##### Dominate Beast
 
@@ -3278,7 +3278,7 @@ _2nd-level conjuration_
 
 **Duration:** Instantaneous
 
-You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff. (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
+You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff. (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a Alien, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
 
 Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any tek skill you cast that targets only you also target your steed.
 
@@ -3402,7 +3402,7 @@ _2nd-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a Ion Blade, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
 
 You can use your action to make a melee tek skill attack with the fiery blade. On a hit, the target takes 3d6 fire damage.
 
@@ -3422,7 +3422,7 @@ _5th-level evocation_
 
 **Duration:** Instantaneous
 
-A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
+A vertical column of Alien fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
@@ -3530,7 +3530,7 @@ _6th-level abjuration (ritual)_
 
 You create a ward against tek travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can’t teleport into the area or use portals, such as those created by the _gate_ tek skill, to enter the area. The tek skill proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the _plane shift_ tek skill.
 
-In addition, the tek skill damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the tek skill’s area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or radiation damage (your choice when you cast this tek skill).
+In addition, the tek skill damages types of creatures that you choose when you cast it. Choose one or more of the following: Aliens, elementals, fey, fiends, and undead. When a chosen creature enters the tek skill’s area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or radiation damage (your choice when you cast this tek skill).
 
 When you cast this tek skill, you can designate a password. A creature that speaks the password as it enters the area takes no damage from the tek skill.
 
@@ -3648,7 +3648,7 @@ You conjure a portal linking an unoccupied space you can see within range to a p
 
 The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.
 
-Deities and other planar rulers can prevent portals created by this tek skill from opening in their presence or anywhere within their domains.
+sects and other planar rulers can prevent portals created by this tek skill from opening in their presence or anywhere within their domains.
 
 When you cast this tek skill, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn’t work). If that creature is on a plane other than the one you are on, the portal opens in the named creature’s immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you.
 
@@ -3918,9 +3918,9 @@ _5th-level evocation_
 
 You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the tek skill fails if the radius includes an area already under the effect a _hallow_ tek skill. The affected area is subject to the following effects.
 
-First, celestials, elementals, fey, fiends, and undead can’t enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
+First, Aliens, elementals, fey, fiends, and undead can’t enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
 
-Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the GM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the tek skill’s area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
+Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the GM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific sect or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the tek skill’s area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
 
 **_Courage._** Affected creatures can’t be frightened while in the area.
 
@@ -4130,7 +4130,7 @@ _8th-level abjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this tek skill shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the tek skill ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the tek skill ends.
+Alien light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this tek skill shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the tek skill ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the tek skill ends.
 
 ##### Hypnotic Pattern
 
@@ -4238,7 +4238,7 @@ The special component for this version of the tek skill is a large, transparent 
 
 **_Slumber._** The target falls asleep and can’t be awoken. The special component for this version of the tek skill consists of rare soporific herbs.
 
-**_Ending the Tek._** During the casting of the tek skill, in any of its versions, you can specify a condition that will cause the tek skill to end and release the target. The condition can be as specific or as elaborate as you choose, but the GM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature’s name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
+**_Ending the Tek._** During the casting of the tek skill, in any of its versions, you can specify a condition that will cause the tek skill to end and release the target. The condition can be as specific or as elaborate as you choose, but the GM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature’s name, identity, or sect but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
 
 A _dispel tek_ tek skill can end the tek skill only if it is cast as a 9th-level tek skill, targeting either the prison or the special component used to create it.
 
@@ -4584,7 +4584,7 @@ _3rd-level abjuration_
 
 You create a 10-foot-radius, 20-foot-tall cylinder of tek energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
 
-Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
+Choose one or more of the following types of creatures: Aliens, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
 * The creature can’t willingly enter the cylinder by nontek means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
 * The creature has disadvantage on attack rolls against targets within the cylinder.
@@ -4766,7 +4766,7 @@ _6th-level enchantment_
 
 **Duration:** 24 hours
 
-You suggest a course of activity (limited to a sentence or two) and influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the tek skill.
+You suggest a course of activity (limited to a sentence or two) and influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a Pulse Dagger, immolate itself, or do some other obviously harmful act automatically negates the effect of the tek skill.
 
 Each target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the tek skill ends when the subject finishes what it was asked to do.
 
@@ -5130,11 +5130,11 @@ _6th-level conjuration_
 
 **Duration:** Instantaneous
 
-You beseech an otherworldly entity for aid. The being must be known to you: a god, a primordial, a demon prince, or some other being of cosmic power. That entity sends a celestial, an elemental, or a fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature’s name, you can speak that name when you cast this tek skill to request that creature, though you might get a different creature anyway (GM’s choice).
+You beseech an otherworldly entity for aid. The being must be known to you: a god, a primordial, a demon prince, or some other being of cosmic power. That entity sends a Alien, an elemental, or a fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature’s name, you can speak that name when you cast this tek skill to request that creature, though you might get a different creature anyway (GM’s choice).
 
 When the creature appears, it is under no compulsion to behave in any particular way. You can ask the creature to perform a service in exchange for payment, but it isn’t obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.
 
-Payment can take a variety of forms. A celestial might require a sizable donation of gold or alien artifacts to an allied temple, while a fiend might demand a living sacrifice or a gift of loot. Some creatures might exchange their service for a quest undertaken by you.
+Payment can take a variety of forms. A Alien might require a sizable donation of gold or alien artifacts to an allied temple, while a fiend might demand a living sacrifice or a gift of loot. Some creatures might exchange their service for a quest undertaken by you.
 
 As a rule of thumb, a task that can be measured in minutes requires a payment worth 10000 credits per minute. A task measured in hours requires 100,000 credits per hour. And a task measured in days (up to 10 days) requires 1000,000 credits per day. The GM can adjust these payments based on the circumstances under which you cast the tek skill. If the task is aligned with the creature’s ethos, the payment might be halved or even waived. Nonhazardous tasks typically require only half the suggested payment, while especially dangerous tasks might require a greater gift. Creatures rarely accept tasks that seem suicidal.
 
@@ -5154,7 +5154,7 @@ _5th-level abjuration_
 
 **Duration:** 24 hours
 
-With this tek skill, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the tek skill. (Typically, the creature is first summoned into the center of an inverted _tek circle_ in order to keep it trapped while this tek skill is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another tek skill, that tek skill’s duration is extended to match the duration of this tek skill.
+With this tek skill, you attempt to bind a Alien, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the tek skill. (Typically, the creature is first summoned into the center of an inverted _tek circle_ in order to keep it trapped while this tek skill is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another tek skill, that tek skill’s duration is extended to match the duration of this tek skill.
 
 A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the tek skill ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the tek skill ends.
 
@@ -5451,7 +5451,7 @@ _1st-level abjuration_
 
 **Duration:** Concentration up to 10 minutes
 
-Until the tek skill ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
+Until the tek skill ends, one willing creature you touch is protected against certain types of creatures: aberrations, Aliens, elementals, fey, fiends, and undead.
 
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
@@ -6212,7 +6212,7 @@ You create a floating, spectral weapon within range that lasts for the duration 
 
 As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.
 
-The weapon can take whatever form you choose. Priest s of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this tek skill’s effect resemble that weapon.
+The weapon can take whatever form you choose. Priest s of sects who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this tek skill’s effect resemble that weapon.
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
 
@@ -6298,11 +6298,11 @@ _2nd-level enchantment_
 
 **Duration:** Concentration, up to 8 hours
 
-You suggest a course of activity (limited to a sentence or two) and influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the tek skill.
+You suggest a course of activity (limited to a sentence or two) and influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a Pulse Dagger, immolate itself, or do some other obviously harmful act ends the tek skill.
 
 The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the tek skill ends when the subject finishes what it was asked to do.
 
-You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the tek skill expires, the activity isn’t performed.
+You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a Lancer give her warhorse to the first beggar she meets. If the condition isn’t met before the tek skill expires, the activity isn’t performed.
 
 If you or any of your companions damage the target, the tek skill ends.
 
@@ -6973,7 +6973,7 @@ _6th-level conjuration_
 
 You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this tek skill without first preparing a sanctuary, the tek skill has no effect.
 
-You must designate a sanctuary by casting this tek skill within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the tek skill in this manner in an area that isn’t dedicated to your deity, the tek skill has no effect.
+You must designate a sanctuary by casting this tek skill within a location, such as a temple, dedicated to or strongly linked to your sect. If you attempt to cast the tek skill in this manner in an area that isn’t dedicated to your sect, the tek skill has no effect.
 
 ### Tek Skills (X)
 

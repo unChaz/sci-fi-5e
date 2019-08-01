@@ -33,11 +33,11 @@ The game includes the following monster types, which have no rules of their own.
 
 **Beasts** are nonhumanoid creatures that are a natural part of the futuristic ecology. Some of them have tek powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
 
-**Celestials** are creatures native to the Upper
+**Aliens** are creatures native to the Upper
 
-Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
+Planes. Many of them are the servants of sects, employed as messengers or agents in the mortal realm and throughout the planes. Aliens are good by nature, so the exceptional Alien who strays from a good alignment is a horrifying rarity. Aliens include angels, couatls, and pegasi.
 
-**Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.
+**Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. 
 
 **Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate tek. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less tek, such as wyverns and pseudodragons.
 
@@ -45,7 +45,7 @@ Planes. Many of them are the servants of deities, employed as messengers or agen
 
 **Fey** are tek creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
 
-**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
+**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of sects, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil Alien is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
 
 **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 
@@ -61,7 +61,7 @@ Planes. Many of them are the servants of deities, employed as messengers or agen
 
 ##### Tags
 
-A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the _humanoid (orc)_ type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a alien artifact, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
+A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the _humanoid (orc)_ type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a alien artifact, might refer to them. For instance, a Pulse Dagger that is especially effective at fighting demons would work against any monster that has the demon tag.
 
 #### Alignment
 
@@ -285,7 +285,7 @@ A monster’s innate tek skills can’t be swapped out with other tek skills. If
 
 A monster with the Tekcasting special trait has a tekcaster level and tek skill slots, which it uses to cast its tek skills of 1st level and higher (as explained in the _Player’s Handbook_). The tekcaster level is also used for any cantrips included in the feature.
 
-The monster has a list of tek skills known or prepared from a specific class. The list might also include tek skills from a feature in that class, such as the Divine Domain feature of the priest or the Morph Circle feature of the morph. The monster is considered a member of that class when attuning to or using a alien artifact that requires membership in the class or access to its tek skill list.
+The monster has a list of tek skills known or prepared from a specific class. The list might also include tek skills from a feature in that class, such as the Alien Domain feature of the priest or the Morph Circle feature of the morph. The monster is considered a member of that class when attuning to or using a alien artifact that requires membership in the class or access to its tek skill list.
 
 A monster can cast a tek skill from its list at a higher level if it has the tek skill slot to do so. For example, a drow mage with the 3rd-level _lightning bolt_ tek skill can cast it as a 5th-level tek skill by using one of its 5th-level greater or lesser threat than suggested by its challenge rating.
 
@@ -425,7 +425,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 ##### Deva
 
-_Medium celestial, lawful good_
+_Medium Alien, lawful good_
 
 **Armor Class** 17 (natural armor)
 
@@ -474,7 +474,7 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 
 ##### Planetar
 
-_Large celestial, lawful good_
+_Large Alien, lawful good_
 
 **Armor Class** 19 (natural armor)
 
@@ -502,7 +502,7 @@ _Large celestial, lawful good_
 
 **_Angelic Weapons_**. The planetar’s weapon attacks are tek. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
 
-**_Divine Awareness_**. The planetar knows if it hears a lie.
+**_Alien Awareness_**. The planetar knows if it hears a lie.
 
 **_Innate Tekcasting_**. The planetar’s Tekcasting ability is Charisma (tek skill save DC 20). The planetar can innately cast the following tek skills, requiring no material components:
 
@@ -522,7 +522,7 @@ At will: _detect evil and good_, _invisibility_ (self only)
 
 ##### Solar
 
-_Large celestial, lawful good_
+_Large Alien, lawful good_
 
 **Armor Class** 21 (natural armor)
 
@@ -552,7 +552,7 @@ _Large celestial, lawful good_
 
 **_Angelic Weapons_**. The solar’s weapon attacks are tek. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).
 
-**_Divine Awareness_**. The solar knows if it hears a lie.
+**_Alien Awareness_**. The solar knows if it hears a lie.
 
 **_Innate Tekcasting_**. The solar’s Tekcasting ability is Charisma (tek skill save DC 25). It can innately cast the following tek skills, requiring no material components:
 
@@ -568,7 +568,7 @@ At will: _detect evil and good_, _invisibility_ (self only)
 
 **_Greatsword_**. _Melee Weapon Attack:_ +15 to hit, reach 5 ft., one target. _Hit:_ 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage.
 
-**_Slaying Longbow_**. _Ranged Weapon Attack:_ +13 to hit, range 150/600 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.
+**_Slaying Recoil Rifle_**. _Ranged Weapon Attack:_ +13 to hit, range 150/600 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.
 
 **_Flying Sword_**. The solar releases its greatsword to hover in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar’s hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
 
@@ -580,115 +580,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_Teleport_**. The solar teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-**_Searing Burst (Costs 2 Actions)_**. The solar emits tek, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
+**_Searing Burst (Costs 2 Actions)_**. The solar emits tek, Alien energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
 
 **_Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until tek such as the _lesser restoration_ tek skill removes the blindness.
-
-#### Animated Objects
-
-##### Animated Armor
-
-_Medium construct, unaligned_
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 33 (6d8 + 6)
-
-**Speed** 25 ft.
-
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 14 (+2) | 11 (+0) | 13 (+1) | 1 (−5) | 3 (−4) | 1 (−5) |
-
-**Damage Immunities** poison, psychic
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
-
-**Languages** —
-
-**Challenge** 1 (200 XP)
-
-**_Antitek Susceptibility_**. The armor is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the armor must succeed on a
-
-Constitution saving throw against the caster’s tek skill save DC or fall unconscious for 1 minute.
-
-**_False Appearance_**. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
-
-**Actions**
-
-**_Multiattack_**. The armor makes two melee attacks.
-
-**_Slam_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
-
-##### Flying Sword
-
-_Small construct, unaligned_
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 17 (5d6)
-
-**Speed** 0 ft., fly 50 ft. (hover)
-
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 12 (+1) | 15 (+2) | 11 (+0) | 1 (−5) | 5 (−3) | 1 (−5) |
-
-**Saving Throws** Dex +4
-
-**Damage Immunities** poison, psychic
-
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
-
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
-
-**Languages** —
-
-**Challenge** 1/4 (50 XP)
-
-**_Antitek Susceptibility_**. The sword is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the sword must succeed on a Constitution saving throw against the caster’s tek skill save DC or fall unconscious for 1 minute.
-
-**_False Appearance_**. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
-
-**Actions**
-
-**_pulse blade_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage.
-
-##### Rug of Smothering
-
-_Large construct, unaligned_
-
-**Armor Class** 12
-
-**Hit Points** 33 (6d10)
-
-**Speed** 10 ft.
-
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 17 (+3) | 14 (+2) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
-
-**Damage Immunities** poison, psychic
-
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
-
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
-
-**Languages** —
-
-**Challenge** 2 (450 XP)
-
-**_Antitek Susceptibility_**. The rug is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the rug must succeed on a Constitution saving throw against the caster’s tek skill save DC or fall unconscious for 1 minute.
-
-**_Damage Transfer_**. While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
-
-**_False Appearance_**. While the rug remains motionless, it is indistinguishable from a normal rug.
-
-**Actions**
-
-**_Smother_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one Medium or smaller creature. _Hit:_ The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can’t smother another target. In addition, at the start of each of the target’s turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
 #### Ankheg
 
@@ -918,7 +812,7 @@ _Large monstrosity, neutral good_
 
 **_Hooves_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+**_Recoil Rifle_**. _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
 #### Chimera
 
@@ -1062,7 +956,7 @@ _Small monstrosity, unaligned_
 
 #### Couatl
 
-_Medium celestial, lawful good_
+_Medium Alien, lawful good_
 
 **Armor Class** 19 (natural armor)
 
@@ -1699,7 +1593,7 @@ _Medium fiend (devil), lawful evil_
 
 **_pulse blade_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _lesser restoration_ tek skill or similar tek.
+**_Recoil Rifle_**. _Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _lesser restoration_ tek skill or similar tek.
 
 **Reactions**
 
@@ -3977,7 +3871,7 @@ At will: _dancing lights_
 
 **_pulse blade_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +6 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
+**_Recoil Rifle_**. _Ranged Weapon Attack:_ +6 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 
 #### Dryad
 
@@ -4015,7 +3909,7 @@ At will: _morphcraft_
 
 **Actions**
 
-**_Club_**. _Melee Weapon Attack:_ +2 to hit (+6 to hit with _shillelagh_), reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _shillelagh_.
+**_Ion Dagger_**. _Melee Weapon Attack:_ +2 to hit (+6 to hit with _shillelagh_), reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _shillelagh_.
 
 **_Fey Charm_**. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn’t under the dryad’s control, it takes the dryad’s requests or actions in the most favorable way it can.
 
@@ -4465,9 +4359,9 @@ At will: _detect evil and good_, _detect tek_, _shockwave_
 
 **Actions**
 
-**_Multiattack_**. The djinni makes three scimitar attacks.
+**_Multiattack_**. The djinni makes three Ion Blade attacks.
 
-**_Scimitar_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or concussive damage (djinni’s choice).
+**_Ion Blade_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or concussive damage (djinni’s choice).
 
 **_Create Whirlwind_**. A 5-foot-radius, 30-foot-tall cylinder of swirling air forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a tek skill). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 
@@ -4507,9 +4401,9 @@ At will: _detect tek_
 
 **Actions**
 
-**_Multiattack_**. The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
+**_Multiattack_**. The efreeti makes two Ion Blade attacks or uses its Hurl Flame twice.
 
-**_Scimitar_**. _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
+**_Ion Blade_**. _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 
 **_Hurl Flame_**. Ranged Tek Attack:_ +7 to hit, range 120 ft., one target. _Hit:_ 17 (5d6) fire damage.
 
@@ -4906,9 +4800,9 @@ _Medium humanoid (gnoll), chaotic evil_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage.
 
-**_Spear_**. _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+**_Pulse Dagger_**. _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+**_Recoil Rifle_**. _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
 #### Gnome, Deep (Svirfneblin)
 
@@ -4973,177 +4867,9 @@ _Small humanoid (goblinoid), neutral evil_
 
 **Actions**
 
-**_Scimitar_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
+**_Ion Blade_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
 
 **_scorcher_**. _Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
-
-#### Golems
-
-##### Clay Golem
-
-_Large construct, unaligned_
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 133 (14d10 + 56)
-
-**Speed** 20 ft.
-
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 20 (+5) | 9 (−1) | 18 (+4) | 3 (−4) | 8 (−1) | 1 (−5) |
-
-**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 9
-
-**Languages** understands the languages of its creator but can’t speak
-
-**Challenge** 9 (5,000 XP)
-
-**_Acid Absorption**_. Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
-
-**_Berserk_**. Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
-
-**_Immutable Form_**. The golem is immune to any tek skill or effect that would alter its form.
-
-**_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
-
-**_Tek Weapons_**. The golem’s weapon attacks are tek.
-
-**Actions**
-
-**_Multiattack_**. The golem makes two slam attacks.
-
-**_Slam_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the _greater restoration_ tek skill or other tek.
-
-**_Haste (Recharge 5–6)_**. Until the end of its next turn, the golem gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
-
-##### Flesh Golem
-
-_Medium construct, neutral_
-
-**Armor Class** 9
-
-**Hit Points** 93 (11d8 + 44)
-
-**Speed** 30 ft.
-
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 19 (+4) | 9 (−1) | 18 (+4) | 6 (−2) | 10 (+0) | 5 (−3) |
-
-**Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** understands the languages of its creator but can’t speak
-
-**Challenge** 5 (1,800 XP)
-
-**_Berserk_**. Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
-
-The golem’s creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Charm) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.
-
-**_Aversion of Fire_**. If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
-
-**_Immutable Form_**. The golem is immune to any tek skill or effect that would alter its form.
-
-**_Shock Absorption**_. Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
-
-**_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
-
-**_Tek Weapons_**. The golem’s weapon attacks are tek.
-
-**Actions**
-
-**_Multiattack_**. The golem makes two slam attacks.
-
-**_Slam_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
-
-##### Iron Golem
-
-_Large construct, unaligned_
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 210 (20d10 + 100)
-
-**Speed** 30 ft.
-
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 24 (+7) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
-
-**Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 10
-
-**Languages** understands the languages of its creator but can’t speak
-
-**Challenge** 16 (15,000 XP)
-
-**_Fire Absorption**_. Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
-
-**_Immutable Form_**. The golem is immune to any tek skill or effect that would alter its form.
-
-**_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
-
-**_Tek Weapons_**. The golem’s weapon attacks are tek.
-
-**Actions**
-
-**_Multiattack_**. The golem makes two melee attacks.
-
-**_Slam_**. _Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.
-
-**_Sword_**. _Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 23 (3d10 + 7) slashing damage.
-
-**_Poison Breath (Recharge 6)_**. The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
-
-##### Stone Golem
-
-_Large construct, unaligned_
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 178 (17d10 + 85)
-
-**Speed** 30 ft.
-
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 22 (+6) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
-
-**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nontek attacks that aren’t adamantine
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 10
-
-**Languages** understands the languages of its creator but can’t speak
-
-**Challenge** 10 (5,900 XP)
-
-**_Immutable Form_**. The golem is immune to any tek skill or effect that would alter its form.
-
-**_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
-
-**_Tek Weapons_**. The golem’s weapon attacks are tek.
-
-**Actions**
-
-**_Multiattack_**. The golem makes two slam attacks.
-
-**_Slam_**. _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.
-
-**_Slow (Recharge 5–6)_**. The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this tek. On a failed save, a target can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Gorgon
 
@@ -5460,7 +5186,7 @@ _Medium humanoid (human), any alignment_
 
 **_ion blade_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
 
-**_Heavy Crossbow_**. _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage.
+**_Pulse Fist_**. _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage.
 
 **_Fire Breath (Recharge 5–6)_**. The veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -5490,7 +5216,7 @@ _Medium monstrosity, chaotic evil_
 
 **_Claws_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage.
 
-**_Club_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
+**_Ion Dagger_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
 
 **_Luring Song_**. The harpy sings a tek melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
 
@@ -5590,37 +5316,8 @@ _Medium humanoid (goblinoid), lawful evil_
 
 **_pulse blade_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+**_Recoil Rifle_**. _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-#### Homunculus
-
-_Tiny construct, neutral_
-
-**Armor Class** 13 (natural armor)
-
-**Hit Points** 5 (2d4)
-
-**Speed** 20 ft., fly 40 ft.
-
-| STR    | DEX     | CON     | INT     | WIS     | CHA    |
-|--------|---------|---------|---------|---------|--------|
-| 4 (−3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2) |
-
-**Damage Immunities** poison
-
-**Condition Immunities** charmed, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** understands the languages of its creator but can’t speak
-
-**Challenge** 0 (10 XP)
-
-**_Telepathic Bond_**. While the homunculus is on the same plane of existence as its master, it can convey what it senses to its master, and the two can communicate telepathically.
-
-**Actions**
-
-**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 
 #### Hydra
 
@@ -5756,7 +5453,7 @@ _Gargantuan monstrosity (titan)**,** chaotic evil_
 
 **Senses** truesight 120 ft., passive Perception 14
 
-**Languages** understands Abyssal, Celestial, Infernal, and Primordial but can’t speak, telepathy 120 ft.
+**Languages** understands Abyssal, Alien, Infernal, and Primordial but can’t speak, telepathy 120 ft.
 
 **Challenge** 23 (50,000 XP)
 
@@ -6079,15 +5776,15 @@ _Medium humanoid (human, shapechanger), neutral_
 
 **Actions**
 
-**_Multiattack (Humanoid or Hybrid Form Only)_**. In humanoid form, the weretiger makes two scimitar attacks or two railrifle attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
+**_Multiattack (Humanoid or Hybrid Form Only)_**. In humanoid form, the weretiger makes two Ion Blade attacks or two railrifle attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 
 **_Bite (Tiger or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3)  piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be hacked with weretiger lycanthropy.
 
 **_Claw (Tiger or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage.
 
-**_Scimitar (Humanoid or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
+**_Ion Blade (Humanoid or Hybrid Form Only)_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
-**_Longbow (Humanoid or Hybrid Form Only)_**. _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+**_Recoil Rifle (Humanoid or Hybrid Form Only)_**. _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
 ##### Werewolf
 
@@ -6119,13 +5816,13 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 
 **Actions**
 
-**_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: one with its bite and one with its claws or spear.
+**_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: one with its bite and one with its claws or Pulse Dagger.
 
 **_Bite (Wolf or Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be hacked with werewolf lycanthropy.
 
 **_Claws (Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (2d4 + 2) slashing damage.
 
-**_Spear (Humanoid Form Only)_**. _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+**_Pulse Dagger (Humanoid Form Only)_**. _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 
 ### Monsters (M)
 
@@ -6229,7 +5926,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **_ion blade_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
+**_Recoil Rifle_**. _Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
 #### Mephits
 
@@ -6411,7 +6108,7 @@ _Medium humanoid (merfolk), neutral_
 
 **Actions**
 
-**_Spear_**. _Melee or Ranged Weapon Attack:_ +2 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+**_Pulse Dagger_**. _Melee or Ranged Weapon Attack:_ +2 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 
 #### Merrow
 
@@ -6653,7 +6350,7 @@ _Large monstrosity, lawful good_
 
 **Senses** darkvision 60 ft., passive Perception 14
 
-**Languages** Celestial, Common
+**Languages** Alien, Common
 
 **Challenge** 10 (5,900 XP)
 
@@ -7080,7 +6777,7 @@ _Large monstrosity, unaligned_
 
 #### Pegasus
 
-_Large celestial, chaotic good_
+_Large Alien, chaotic good_
 
 **Armor Class** 12
 
@@ -7098,7 +6795,7 @@ _Large celestial, chaotic good_
 
 **Senses** passive Perception 16
 
-**Languages** understands Celestial, Common, Elvish, and Sylvan but can’t speak
+**Languages** understands Alien, Common, Elvish, and Sylvan but can’t speak
 
 **Challenge** 2 (450 XP)
 
@@ -7384,13 +7081,13 @@ _Medium humanoid (sahuagin), lawful evil_
 
 **Actions**
 
-**_Multiattack_**. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
+**_Multiattack_**. The sahuagin makes two melee attacks: one with its bite and one with its claws or Pulse Dagger.
 
 **_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage.
 
 **_Claws_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) slashing damage.
 
-**_Spear_**. _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+**_Pulse Dagger_**. _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 #### Salamander
 
@@ -7424,9 +7121,9 @@ _Large elemental, neutral evil_
 
 **Actions**
 
-**_Multiattack_**. The salamander makes two attacks: one with its spear and one with its tail.
+**_Multiattack_**. The salamander makes two attacks: one with its Pulse Dagger and one with its tail.
 
-**_Spear_**. _Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+**_Pulse Dagger_**. _Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
 **_Tail_**. _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can’t make tail attacks against other targets.
 
@@ -7542,45 +7239,6 @@ _Large plant, unaligned_
 
 **_Engulf_**. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound’s turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 
-#### Shield Guardian
-
-_Large construct, unaligned_
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 142 (15d10 + 60)
-
-**Speed** 30 ft.
-
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 18 (+4) | 8 (−1) | 18 (+4) | 7 (−2) | 10 (+0) | 3 (−4) |
-
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
-
-**Damage Immunities** poison
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-
-**Languages** understands commands given in any language but can’t speak
-
-**Challenge** 7 (2,900 XP)
-
-**_Bound_**. The shield guardian is bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet’s wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet’s wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
-
-**_Regeneration_**. The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-**_Tek Storing**_. A tekcaster who wears the shield guardian’s amulet can cause the guardian to store one tek skill of 4th level or lower. To do so, the wearer must cast the tek skill on the guardian. The tek skill has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the tekcaster, the guardian casts the stored tek skill with any parameters set by the original caster, requiring no components. When the tek skill is cast or a new tek skill is stored, any previously stored tek skill is lost.
-
-**Actions**
-
-**_Multiattack_**. The guardian makes two fist attacks.
-
-**_Fist_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
-
-**Reactions**
-
-**_Shield_**. When a creature makes an attack against the wearer of the guardian’s amulet, the guardian grants a +2 bonus to the wearer’s AC if the guardian is within 5 feet of the wearer.
 
 #### Skeletons
 
@@ -7867,7 +7525,7 @@ _Tiny fey, neutral good_
 
 **_scorcher_**. _Ranged Weapon Attack:_ +6 to hit, range 40/160 ft., one target. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 
-**_Heart Sight_**. The sprite touches a creature and knows the creature’s current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature’s alignment. Celestials, fiends, and undead automatically fail the saving throw.
+**_Heart Sight_**. The sprite touches a creature and knows the creature’s current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature’s alignment. Aliens, fiends, and undead automatically fail the saving throw.
 
 **_Invisibility_**. The sprite turns invisible until it attacks or casts a tek skill, or until its concentration ends (as if concentrating on a tek skill). Any equipment the sprite wears or carries is invisible with it.
 
@@ -8080,7 +7738,7 @@ _Large giant, chaotic evil_
 
 #### Unicorn
 
-_Large celestial**,** lawful good_
+_Large Alien**,** lawful good_
 
 **Armor Class** 12
 
@@ -8098,7 +7756,7 @@ _Large celestial**,** lawful good_
 
 **Senses** darkvision 60 ft., passive Perception 13
 
-**Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
+**Languages** Alien, Elvish, Sylvan, telepathy 60 ft.
 
 **Challenge** 5 (1,800 XP)
 
@@ -8305,7 +7963,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **_pulse blade_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+**_Recoil Rifle_**. _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
 #### Will-o’-Wisp
 

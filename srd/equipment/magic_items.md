@@ -835,8 +835,8 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 | 1   | _Aligned:_ The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
 | 2   | _Bane:_ The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or Arcanists.           |
 | 3   | _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or morphs.                                    |
-| 4   | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
-| 5   | _Templar_: The item seeks to defend the servants and interests of a particular deity.                                                    |
+| 4   | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular sect.                                             |
+| 5   | _Templar_: The item seeks to defend the servants and interests of a particular sect.                                                    |
 | 6   | _Destroyer:_ The item craves destruction and goads its user to fight arbitrarily.                                                        |
 | 7   | _Glory Seeker:_ The item seeks renown as the greatest alien artifact in the world, by establishing its user as a famous or notorious figure. |
 | 8   | _Lore Seeker:_ The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.             |

@@ -1,6 +1,6 @@
 ### Backgrounds
 
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous knight or a grizzled soldier. Your Arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
+Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous Lancer or a grizzled soldier. Your Arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
 Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
@@ -107,7 +107,7 @@ Armor Proficiencies: Scarab Skin
 **Veteran** As a veteran you can use a Charm check to attempt to get a discount when hiring Mercenaries. You are better at using the marine lingo, and as a result, any marines under your command gain a +1 to Armor Class and attack rolls.
 
 ## Praetor
-You come from one of the elite houses that owns a large corporation, or you have been honored as a lancer of one of these elite houses. You maintain the rank of knight. As a member or lancer of an elite house you always have your house in the best interest.
+You come from one of the elite houses that owns a large corporation, or you have been honored as a lancer of one of these elite houses. You maintain the rank of Lancer. As a member or lancer of an elite house you always have your house in the best interest.
 
 Skill Proficiencies: Diplomacy. Choose 1 from [Charm, History , Medic]
 Tool Proficiencies: Choose 1 from [Botanist’s Kit, Musical Instrument, Disguise Kit]

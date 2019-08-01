@@ -43,9 +43,9 @@ Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 
 **Actions**
 
-**_Club_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
+**_Ion Dagger_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
-**Acolytes** are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor Tekcasting power by their deities.
+**Acolytes** are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor Tekcasting power by their sects.
 
 **Archmage**
 
@@ -94,9 +94,9 @@ Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_, _conc
 
 **_ion dagger_**. _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2)  piercing damage.
 
-**Archmages** are powerful (and usually quite old) tekcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their tek without interruption.
+**Archmages** are powerful tekcasters dedicated to the study of the arcane arts. Benevolent ones counsel the rich, while evil ones rule cults and criminal organizations. Those who are neither good nor evil sequester themselves in remote planets and spacestations to practice their tek without interruption.
 
-An archmage typically has one or more apprentice mages, and an archmage’s abode has numerous tek wards and guardians to discourage interlopers.
+An archmage typically has one or more apprentice, and an archmage’s abode has numerous tek wards and guardians to discourage interlopers.
 
 ### Assassin
 
@@ -140,7 +140,7 @@ _Medium humanoid (any race), any non-good alignment_
 
 Trained in the use of poison, **assassins** are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
-### Bandit
+### Space Pirate
 
 _Medium humanoid (any race), any non-lawful alignment_
 
@@ -162,15 +162,13 @@ _Medium humanoid (any race), any non-lawful alignment_
 
 **Actions**
 
-**_Scimitar_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.
+**_Ion Blade_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.
 
 **_scorcher_**. _Ranged Weapon Attack:_ +3 to hit, range 80 ft./320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-**Bandits** rove in gangs and are sometimes led by thugs, veterans, or tekcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
+**Space Pirates** rove in gangs and are sometimes led by thugs, veterans, or tekcasters. Not all Space Pirates are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of Space Piracy.
 
-**Pirates** are bandits of the high seas. They might be freebooters interested only in loot and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation’s vessels.
-
-### Bandit Captain
+### Space Pirate Captain
 
 _Medium humanoid (any race), any non-lawful alignment_
 
@@ -194,21 +192,23 @@ _Medium humanoid (any race), any non-lawful alignment_
 
 **Actions**
 
-**_Multiattack_**. The captain makes three melee attacks: two with its scimitar and one with its ion dagger. Or the captain makes two ranged attacks with its ion daggers.
+**_Multiattack_**. The captain makes three melee attacks: two with its Ion Blade and one with its ion dagger. Or the captain makes two ranged attacks with its scorcher.
 
-**_Scimitar_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
+**_Ion Blade_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
 **_ion dagger_**. _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d4 + 2)  piercing damage.
+
+**_scorcher_**. _Ranged Weapon Attack:_ +3 to hit, range 80 ft./320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
 **Reactions**
 
 **_Parry_**. The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
-It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The **bandit captain** has these qualities in spades.
+It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of Space Pirates in line. The **Space Pirate captain** has these qualities in spades.
 
-In addition to managing a crew of selfish malcontents, the **pirate captain** is a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis.
+In addition to managing a crew of selfish malcontents, the **pirate captain** is a variation of the Space Pirate captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis.
 
-More than loot, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain’s vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain’s colorful reputation.
+More than loot, a Space Pirate captain or pirate captain craves infamy. A prisoner who appeals to the captain’s vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain’s colorful reputation.
 
 ### Berserker
 
@@ -256,7 +256,7 @@ _Medium humanoid (any race), any alignment_
 
 **Actions**
 
-**_Club_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
+**_Ion Dagger_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
 **Commoners** include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
@@ -286,9 +286,9 @@ _Medium humanoid (any race), any non-good alignment_
 
 **Actions**
 
-**_Scimitar_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) slashing damage.
+**_Ion Blade_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) slashing damage.
 
-**Cultists** swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
+**Cultists** swear allegiance to an alien entity. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
 ### Cult Fanatic
 
@@ -358,11 +358,11 @@ Cantrips (at will): _morphcraft_, _produce flame_, _shillelagh_
 
 **Morphs** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
-### Gladiator
+### Mercenary
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 16 (flak armor, shield)
+**Armor Class** 16 (flak armor)
 
 **Hit Points** 112 (15d8 + 45)
 
@@ -382,29 +382,29 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 5 (1,800 XP)
 
-**_Brave_**. The gladiator has advantage on saving throws against being frightened.
+**_Brave_**. The Mercenary has advantage on saving throws against being frightened.
 
-**_Brute_**. A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
+**_Brute_**. A melee weapon deals one extra die of its damage when the Mercenary hits with it (included in the attack).
 
 **Actions**
 
-**_Multiattack_**. The gladiator makes three melee attacks or two ranged attacks.
+**_Multiattack_**. The Mercenary makes three melee attacks or two ranged attacks.
 
-**_Spear_**. _Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. and range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+**_Rail Rifle_**. _Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. and range 20/60 ft., one target, (2d8 + 4) piercing damage.
 
-**_Shield Bash_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+**_Rifle Bash_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
 **Reactions**
 
-**_Parry_**. The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
+**_Parry_**. The Mercenary adds 3 to its AC against one melee attack that would hit it. To do so, the Mercenary must see the attacker and be wielding a melee weapon.
 
-**Gladiators** battle for the entertainment of raucous crowds. Some gladiators are brutal pit soldiers who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
+**Mercenarys** take contracts of varying lengths. They usually don't have very much loyalty to their employer.
 
 ### Guard
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 16 (scarab skin, shield)
+**Armor Class** 16 (scarab skin)
 
 **Hit Points** 11 (2d8 + 2)
 
@@ -424,11 +424,11 @@ _Medium humanoid (any race), any alignment_
 
 **Actions**
 
-**_Spear_**. _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1)  piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+**_Scorcher_**. _anged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_  5 (1d8 + 1).
 
-**Guards** include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
+**Guards** include members of station security, local law enforcement, and the bodyguards of the wealthy.
 
-### Knight
+### Lancer
 
 _Medium humanoid (any race), any alignment_
 
@@ -450,23 +450,23 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 3 (700 XP)
 
-**_Brave_**. The knight has advantage on saving throws against being frightened.
+**_Brave_**. The Lancer has advantage on saving throws against being frightened.
 
 **Actions**
 
-**_Multiattack_**. The knight makes two melee attacks.
+**_Multiattack_**. The Lancer makes two melee attacks.
 
-**_Greatsword_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
+**_Razor_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 
-**_Heavy Crossbow_**. _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
+**_Pulse Fist_**. _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
 
-**_Leadership (Recharges after a Short or Long Rest)_**. For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
+**_Leadership (Recharges after a Short or Long Rest)_**. For 1 minute, the Lancer can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the Lancer. A creature can benefit from only one Leadership die at a time. This effect ends if the Lancer is incapacitated.
 
 **Reactions**
 
-**_Parry_**. The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
+**_Parry_**. The Lancer adds 2 to its AC against one melee attack that would hit it. To do so, the Lancer must see the attacker and be wielding a melee weapon.
 
-**Knights** are warriors who pledge service to rulers, religious orders, and noble causes. A knight’s alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
+**Lancers** are warriors who pledge service to powerful families, religious orders, and noble causes. A Lancer’s alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a planet, a Lancer often travels with an entourage that includes squires and hirelings who are commoners.
 
 ### Mage
 
@@ -505,7 +505,7 @@ Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_
 
 **_ion dagger_**. _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 1)  piercing damage.
 
-**Mages** spend their lives in the study and practice of tek. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
+**Mages** spend their lives in the study and practice of tek. Good-aligned mages offer counsel to government organizations and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 
 ### Noble
 
@@ -531,15 +531,15 @@ _Medium humanoid (any race), any alignment_
 
 **Actions**
 
-**_Rapier_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+**_Razor_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
 **Reactions**
 
 **_Parry_**. The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
-**Nobles** wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
+**Nobles** wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as corporation executives and generals. A noble often travels in the company of guards, as well as servants who are commoners.
 
-The noble’s statistics can also be used to represent **courtiers** who aren’t of noble birth.
+The noble’s statistics can also be used to represent high level government officials who aren’t of noble birth.
 
 ### Priest
 
@@ -563,7 +563,7 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 2 (450 XP)
 
-**_Divine Eminence_**. As a bonus action, the priest can expend a tek skill slot to cause its melee weapon attacks to deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a tek skill slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
+**_Alien Eminence_**. As a bonus action, the priest can expend a tek skill slot to cause its melee weapon attacks to deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a tek skill slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 
 **_Tekcasting_**. The priest is a 5th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 13, +5 to hit with tek skill attacks). The priest has the following priest tek skills prepared:
 
@@ -610,7 +610,7 @@ _Medium humanoid (any race), any alignment_
 
 **_ion blade_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-**_Longbow_**. _Ranged Weapon Attack:_ +4 to hit, ranged 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+**_Recoil Rifle_**. _Ranged Weapon Attack:_ +4 to hit, ranged 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 
 **Scouts** are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 
@@ -642,13 +642,13 @@ _Medium humanoid (any race), any alignment_
 
 **Actions**
 
-**_Multiattack_**. The spy makes two melee attacks.
+**_Multiattack_**. The spy makes two attacks.
 
-**_ion blade_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+**_ion dagger_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-**_Hand Crossbow_**. _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+**_scorcher_**. _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spies** to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
+Governments, corporations, evil organizations, and other wealthy individuals use **spies** to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
 
 ### Thug
 
@@ -678,9 +678,9 @@ _Medium humanoid (any race), any non-good alignment_
 
 **_Multiattack_**. The thug makes two melee attacks.
 
-**_Mace_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
+**_Ion Dagger_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
 
-**_Heavy Crossbow_**. _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
+**_Pulse Fist_**. _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
 
 **Thugs** are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
@@ -708,7 +708,7 @@ _Medium humanoid (any race), any alignment_
 
 **Actions**
 
-**_Spear_**. _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+**_Pulse Dagger_**. _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 **Tribal warriors** live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
@@ -742,6 +742,6 @@ _Medium humanoid (any race), any alignment_
 
 **_ion blade_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
 
-**_Heavy Crossbow_**. _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage.
+**_Pulse Fist_**. _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage.
 
 **Veterans** are professional soldiers that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.

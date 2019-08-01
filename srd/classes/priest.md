@@ -37,7 +37,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 #### Tekcasting
 
-As a conduit for divine power, you can cast priest tek skills.
+As a conduit for Alien power, you can cast priest tek skills.
 ```
 ```
 
@@ -59,7 +59,7 @@ You can change your list of prepared tek skills when you finish a long rest. Pre
 
 ##### Tekcasting Ability
 
-Wisdom + Will is your Tekcasting ability for your priest tek skills. The power of your tek skills comes from your devotion to your deity. You use your Wisdom whenever a priest tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a priest tek skill you cast and when making an attack roll with one.
+Wisdom + Will is your Tekcasting ability for your priest tek skills. The power of your tek skills comes from your devotion to your sect. You use your Wisdom whenever a priest tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a priest tek skill you cast and when making an attack roll with one.
 
 **Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
 
@@ -73,9 +73,9 @@ You can cast a priest tek skill as a ritual if that tek skill has the ritual tag
 
 You can use a holy symbol (see chapter 5, “Equipment”) as a Tekcasting focus for your priest tek skills.
 
-#### Divine Domain
+#### Alien Domain
 
-Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest, Trickery, or War. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain tek skills and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+Choose one domain related to your sect: Knowledge, Life, Light, Nature, Tempest, Trickery, or War. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain tek skills and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 \page
 <div class='wide'>
@@ -83,26 +83,26 @@ Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest
 
 | Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|-------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st   | +2                | Tekcasting, Divine Domain                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Channel Divinity (1/rest), Divine Domain Feature                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 1st   | +2                | Tekcasting, Alien Domain                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Channel Divinity (1/rest), Alien Domain Feature                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | -                                                                       | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
 | 4th   | +2                | Ability Score Improvement                                               | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
 | 5th   | +3                | Destroy Undead (CR 1/2)                                                 | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6th   | +3                | Channel Divinity (2/rest), Divine Domain Feature                        | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | Channel Divinity (2/rest), Alien Domain Feature                        | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
 | 7th   | +3                | -                                                                       | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8th   | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain Feature | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement, Destroy Undead (CR 1), Alien Domain Feature | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
 | 9th   | +4                | -                                                                       | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th  | +4                | Divine Intervention                                                     | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 10th  | +4                | Alien Intervention                                                     | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
 | 11th  | +4                | Destroy Undead (CR 2)                                                   | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 12th  | +4                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 13th  | +5                | -                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 14th  | +5                | Destroy Undead (CR 3)                                                   | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15th  | +5                | -                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
 | 16th  | +5                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | +6                | Destroy Undead (CR 4), Divine Domain Feature                            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 17th  | +6                | Destroy Undead (CR 4), Alien Domain Feature                            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
 | 18th  | +6                | Channel Divinity (3/rest)                                               | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | +6                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6                | Divine Intervention improvement                                         | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 20th  | +6                | Alien Intervention improvement                                         | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 </div>
 ##### Domain Tek Skills
 
@@ -112,7 +112,7 @@ If you have a domain tek skill that doesn’t appear on the priest tek skill lis
 
 #### Channel Divinity
 
-At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel tek effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+At 2nd level, you gain the ability to channel Alien energy directly from your sect, using that energy to fuel tek effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
 
@@ -151,13 +151,13 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 | 14th         | 3 or lower               |
 | 17th         | 4 or lower               |
 
-#### Divine Intervention
+#### Alien Intervention
 
-Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
+Beginning at 10th level, you can call on your sect to intervene on your behalf when your need is great.
 
-Imploring your deity’s aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your priest level, your deity intervenes. The GM chooses the nature of the intervention; the effect of any priest tek skill or priest domain tek skill would be appropriate.
+Imploring your sect’s aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your priest level, your sect intervenes. The GM chooses the nature of the intervention; the effect of any priest tek skill or priest domain tek skill would be appropriate.
 
-If your deity intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+If your sect intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
@@ -165,7 +165,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 ##### Life Domain
 
-The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
+The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil sect can claim influence over this domain, particularly agricultural sects (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
 **Life Domain Tek Skills (table)**
 
@@ -195,9 +195,9 @@ As an action, you present your holy symbol and evoke healing energy that can res
 
 Beginning at 6th level, the healing tek skills you cast on others heal you as well. When you cast a tek skill of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the tek skill’s level.
 
-###### Divine Strike
+###### Alien Strike
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+At 8th level, you gain the ability to infuse your weapon strikes with Alien energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ###### Supreme Healing
 

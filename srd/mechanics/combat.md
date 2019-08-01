@@ -15,7 +15,7 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 
 #### Surprise
 
-A band of adventurers Stealths up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
+A band of adventurers Stealths up on a Space Pirate camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
 The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn’t notice a threat is surprised at the start of the encounter.
 
@@ -392,7 +392,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **_Bludgeoning_** Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
 
-**_Cold_** The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
+**_Cold_** The infernal chill radiating from an ice devil’s Pulse Dagger and the frigid blast of a white dragon’s breath deal cold damage.
 
 **_Fire_** Red dragons breathe fire, and many tek skills conjure flames to deal fire damage.
 
@@ -402,7 +402,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **_Radiation_** Radiation damage, dealt by certain undead and a tek skill such as _chill touch_, withers matter and even the soul.
 
-**_Piercing_** Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
+**_Piercing_** Puncturing and impaling attacks, including Pulse Daggers and monsters’ bites, deal piercing damage.
 
 **_Poison_** Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
 
@@ -494,7 +494,7 @@ Unless a feature that grants you temporary hit points has a duration, they last 
 
 ### Mounted Combat
 
-A knight charging into battle on a warhorse, an arcanist casting tek skills from the back of a griffon, or a priest soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+A Lancer charging into battle on a warhorse, an arcanist casting tek skills from the back of a griffon, or a priest soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 
@@ -521,8 +521,8 @@ Mechanical mounts move on your turn, and some have certain restrictions for what
 
 When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
 
-When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by tek) has disadvantage on the attack roll unless the weapon is an ion dagger, javelin, ion blade, spear, or trident.
+When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by tek) has disadvantage on the attack roll unless the weapon is an ion dagger, javelin, ion blade, Pulse Dagger, or trident.
 
-A **ranged weapon attack** automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
+A **ranged weapon attack** automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a Pulse Dagger, trident, or dart).
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.

@@ -62,7 +62,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
-Choose a type of favored enemy: aliens, aberrations, beasts, celestials, robots, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two factions of humans as favored enemies.
+Choose a type of favored enemy: aliens, aberrations, beasts, Aliens, robots, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two factions of humans as favored enemies.
 
 You have advantage on Wisdom (Nature) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
@@ -136,7 +136,7 @@ At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beas
 
 #### Scout Drone
 
-Beginning at 3rd level, you can deploy a scout drone that lasts 10 minutes. The drone has a flying speed of 30ft, and a range of 1 mile, 1 hit point, and an AC of 10. It is spherical in shape, about 1 inch in diameter. It can be spotted by enemies with a DC 12 perception check. As an action you can give the drone movement instructions through your datapad. As a bonus action you can view the drone's' camera and microphone feed through your datapad. After 10 minutes, the drone's battery dies, and unless in null-g, it falls to the ground. If the drone is destroyed, you must spend a long rest in order to repair it. Otherwise it becomes fully charged at the end of a short rest.
+Beginning at 3rd level, you can deploy a Scout Drone that lasts 10 minutes. It is spherical in shape, about 1 inch in diameter. It gets +5 to Stealth checks. As an action you can give the drone movement instructions through your datapad. As a bonus action you can view the drone's' camera and microphone feed through your datapad. After 10 minutes, the drone's battery dies, and unless in null-g, it falls to the ground. If the drone is destroyed, you must spend a long rest in order to repair it. Otherwise it becomes fully charged at the end of a short rest.
 
 #### Ability Score Improvement
 

@@ -1,6 +1,6 @@
 ### Guardian
 
-Guardians are warriors who pledged an oath to a cause. In exchange for their oaths they have been given a tekcaster and the secret of casting Guardian tekskills.
+Guardians are warriors who pledged an oath to an alien entity, usually lawful-good. In exchange for their oaths they have been given a tekcaster and the secrets of casting Guardian tekskills.
 
 #### Class Features
 
@@ -29,8 +29,8 @@ As a guardian, you gain the following class features.
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* (*a*) a martial weapon and A medkit or (*b*) two martial weapons
-* (*a*) five ion daggers or (*b*) any simple melee weapon
+* (*a*) a martial weapon and a medkit or (*b*) two martial weapons
+* (*a*) a scorcher (*b*) any simple melee weapon
 * (*a*) a chaplin's pack or (*b*) a field survival kit
 * scarab skin and a holy symbol
 
@@ -38,9 +38,9 @@ You start with the following equipment, in addition to the equipment granted by 
 
 | Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
-| 1st   | +2                | Divine Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Fighting Style, Tekcasting, Divine Smite | 2   | -   | -   | -   | -   |
-| 3rd   | +2                | Divine Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
+| 1st   | +2                | Alien Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Fighting Style, Tekcasting, Alien Smite | 2   | -   | -   | -   | -   |
+| 3rd   | +2                | Alien Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
 | 4th   | +2                | Ability Score Improvement                  | 3   | -   | -   | -   | -   |
 | 5th   | +3                | Extra Attack                               | 4   | 2   | -   | -   | -   |
 | 6th   | +3                | Aura of Protection                         | 4   | 2   | -   | -   | -   |
@@ -48,7 +48,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 8th   | +3                | Ability Score Improvement                  | 4   | 3   | -   | -   | -   |
 | 9th   | +4                | -                                          | 4   | 3   | 2   | -   | -   |
 | 10th  | +4                | Aura of Courage                            | 4   | 3   | 2   | -   | -   |
-| 11th  | +4                | Improved Divine Smite                      | 4   | 3   | 3   | -   | -   |
+| 11th  | +4                | Improved Alien Smite                      | 4   | 3   | 3   | -   | -   |
 | 12th  | +4                | Ability Score Improvement                  | 4   | 3   | 3   | -   | -   |
 | 13th  | +5                | -                                          | 4   | 3   | 3   | 1   | -   |
 | 14th  | +5                | Cleansing Touch                            | 4   | 3   | 3   | 1   | -   |
@@ -59,9 +59,9 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th  | +6                | Ability Score Improvement                  | 4   | 3   | 3   | 3   | 2   |
 | 20th  | +6                | Sacred Oath feature                        | 4   | 3   | 3   | 3   | 2   |
 
-#### Divine Sense
+#### Alien Sense
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any Alien, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (Alien, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire
 
 Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* tek skill.
 
@@ -99,7 +99,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 #### Tekcasting
 
-By 2nd level, you have learned to draw on divine tek through meditation and prayer to cast tek skills as a priest does.
+By 2nd level, you have learned to draw on Alien tek through meditation and prayer to cast tek skills as a priest does.
 
 ##### Preparing and Casting Tek Skills
 
@@ -123,13 +123,13 @@ Charisma + Will is your Tekcasting ability for your guardian tek skills, since t
 
 You can use a holy symbol as a Tekcasting focus for your guardian tek skills.
 
-#### Divine Smite
+#### Alien Smite
 
 Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one tek skill slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level tek skill slot, plus 1d8 for each tek skill level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
 
-#### Divine Health
+#### Alien Health
 
-By 3rd level, the divine tek flowing through you makes you immune to disease.
+By 3rd level, the Alien tek flowing through you makes you immune to disease.
 
 #### Sacred Oath
 
@@ -145,7 +145,7 @@ If you gain an oath tek skill that doesn’t appear on the guardian tek skill li
 
 ##### Channel Divinity
 
-Your oath allows you to channel divine energy to fuel tek effects. Each Channel Divinity option provided by your oath explains how to use it.
+Your oath allows you to channel Alien energy to fuel tek effects. Each Channel Divinity option provided by your oath explains how to use it.
 
 When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
 
@@ -171,9 +171,9 @@ Starting at 10th level, you and friendly creatures within 10 feet of you can’t
 
 At 18th level, the range of this aura increases to 30 feet.
 
-#### Improved Divine Smite
+#### Improved Alien Smite
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Divine Smite with an attack, you add this damage to the extra damage of your Divine Smite.
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry Alien power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Alien Smite with an attack, you add this damage to the extra damage of your Alien Smite.
 
 #### Cleansing Touch
 
@@ -187,7 +187,7 @@ Becoming a guardian involves taking vows that commit the guardian to the cause o
 
 ##### Oath of Devotion
 
-The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these guardians meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white Lancers, or holy warriors, these guardians meet the ideal of the Lancer in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
 ###### Tenets of Devotion
 

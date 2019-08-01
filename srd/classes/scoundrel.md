@@ -125,7 +125,7 @@ Scoundrels have many features in common, including their emphasis on perfecting 
 
 ##### Thief
 
-You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do scoundrels who prefer to think of themselves as professional loot seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using alien artifacts you normally couldn’t employ.
+You hone your skills in the larcenous arts. Burglars, Space Pirates, cutpurses, and other criminals typically follow this archetype, but so do scoundrels who prefer to think of themselves as professional loot seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using alien artifacts you normally couldn’t employ.
 
 ###### Fast Hands
 
