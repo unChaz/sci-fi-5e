@@ -1,5 +1,5 @@
 ## Spliced
-Spliced are the gene spliced creations of mad scientists or their decendents. Spliced have their DNA mixed with that of an animal. This mixed with tekcasters gives the spliced the mysterious ability to shapeshift into the form of the beast whose DNA they share.
+Spliced are the gene spliced creations of mad scientists or their decedents. Spliced have their DNA mixed with that of an animal. This mixed with tekcasters gives the spliced the mysterious ability to shapeshift into the form of the beast whose DNA they share.
 
 ### Sleeve Traits
 
@@ -7,7 +7,7 @@ Spliced are the gene spliced creations of mad scientists or their decendents. Sp
 
 **_Size._** Shifters are between 5 and 6 feet tall. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet. 
+**_Speed._** Your base walking speed is 30 feet.
 
 #### Gene Shifting
 As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Toughness modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.

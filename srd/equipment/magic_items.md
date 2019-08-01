@@ -14,7 +14,7 @@ This suit of armor modified to fit humans is reinforced with adamantine, one of 
 
 _Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)_
 
-You have a bonus to attack and damage rolls made with this piece of tek ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer tek.
+You have a bonus to attack and damage rolls made with this piece of tek ammunition. The bonus is determined by the rarity of the ammunition. Once recycled, the ammunition loses this property.
 
 ### Amulet of Health
 
@@ -122,7 +122,7 @@ This bag superficially resembles a _bag of holding_ but is a feeding orifice for
 
 The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn’t pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.
 
-Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.
+Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another dimension. The GM determines the time and dimension.
 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
@@ -136,74 +136,23 @@ If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and it
 
 Placing a _bag of holding_ inside an extradimensional space created by a _handy haversack_, _portable hole_, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
-### Bag of Tricks
-
-_Wondrous item, uncommon_
-
-This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
-
-You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag’s color.
-
-The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.
-
-Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.
-
-**Gray Bag of Tricks (table)**
-
-| d8 | Creature     |
-|----|--------------|
-| 1  | Weasel       |
-| 2  | Giant rat    |
-| 3  | Badger       |
-| 4  | Boar         |
-| 5  | Panther      |
-| 6  | Giant badger |
-| 7  | Dire wolf    |
-| 8  | Giant elk    |
-
-**Rust Bag of Tricks (table)**
-
-| d8 | Creature   |
-|----|------------|
-| 1  | Rat        |
-| 2  | Owl        |
-| 3  | Mastiff    |
-| 4  | Goat       |
-| 5  | Giant goat |
-| 6  | Giant boar |
-| 7  | Lion       |
-| 8  | Brown bear |
-
-**Tan Bag of Tricks (table)**
-
-| d8 | Creature     |
-|----|--------------|
-| 1  | Jackal       |
-| 2  | Ape          |
-| 3  | Baboon       |
-| 4  | Axe beak     |
-| 5  | Black bear   |
-| 6  | Giant weasel |
-| 7  | Giant hyena  |
-| 8  | Tiger        |
-
-### Bead of Force
+### Grenade of Force
 
 _Wondrous item, rare_
 
-This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 _beads of force_ are found together.
+This small black spherical device measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 _grenades of force_ are found together.
 
-You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can.
+You can use an action to throw the grenade up to 60 feet. The grenade explodes on impact and is destroyed. Each creature within a 10-foot radius of where the grenade landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can.
 
 An enclosed creature can use its action to push against the sphere’s wall, moving the sphere up to half the creature’s walking speed. The sphere can be picked up, and its tek causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
-### Belt of Giant Strength
+### Exoskeleton
 
 _Wondrous item, rarity varies (requires attunement)_
 
-While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt’s score, the item has no effect on you.
+This rare device is worn inside your armor. While wearing this suit, your Strength score changes to a score granted by the suit. If your Strength is already equal to or greater than the suit's score, the item has no effect on you.
 
-Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The _belt of stone giant strength_ and the _belt of frost giant strength_ look different, but they have the same effect.
+Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The _v of stone giant strength_ and the _suit of frost giant strength_ look different, but they have the same effect.
 
 | Type              | Strength | Rarity    |
 |-------------------|----------|-----------|
@@ -215,13 +164,13 @@ Six varieties of this belt exist, corresponding with and having rarity according
 
 ### Berserker Axe
 
-_Weapon (any axe), rare (requires attunement)_
+_Weapon (pulse axe), rare (requires attunement)_
 
 You gain a +1 bonus to attack and damage rolls made with this pulse tek weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.
 
-**_Hack_**. This axe is hacked, and becoming attuned to it extends the hack to you. As long as you remain hacked, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.
+**_Hack_**. This pulse axe is hacked, and becoming attuned to it extends the hack to you. As long as you remain hacked, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.
 
-Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.
+Whenever a hostile creature damages you while the pulse axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the pulse axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.
 
 ### Boots of Speed
 
@@ -247,14 +196,6 @@ These furred boots are snug and feel quite warm. While you wear them, you gain t
 * You ignore difficult terrain created by ice or snow.
 * You can tolerate temperatures as low as −50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit.
 
-### Bowl of Commanding Water Elementals
-
-_Wondrous item, rare_
-
-While this bowl is filled with water, you can use an action to speak the bowl’s command word and summon a water elemental, as if you had cast the _conjure elemental_ tek skill. The bowl can’t be used this way again until the next dawn.
-
-The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons.
-
 ### Bracers of Gunnery
 
 _Wondrous item, uncommon (requires attunement)_
@@ -267,25 +208,17 @@ _Wondrous item, rare (requires attunement)_
 
 While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.
 
-### Brazier of Commanding Fire Elementals
-
-_Wondrous item, rare_
-
-While a fire burns in this brass brazier, you can use an action to speak the brazier’s command word and summon a fire elemental, as if you had cast the _conjure elemental_ tek skill. The brazier can’t be used this way again until the next dawn.
-
-The brazier weighs 5 pounds.
-
 ### Brooch of Shielding
 
 _Wondrous item, uncommon (requires attunement)_
 
 While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the _tek missile_ tek skill.
 
-### Cape of the Mountebank
+### Cuff of the Mountebank
 
 _Wondrous item, rare_
 
-This cape smells faintly of brimstone. While wearing it, you can use it to cast the _dimension door_ tek skill as an action. This property of the cape can’t be used again until the next dawn.
+This is a tek enhanced wrist cuff. While wearing it, you can use it to cast the _dimension door_ tek skill as an action. This property of the cuff can’t be used again until the next dawn.
 
 When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
 
@@ -293,9 +226,9 @@ When you disappear, you leave behind a cloud of smoke, and you appear in a simil
 
 _Wondrous item, very rare_
 
-You can speak the board's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
+You can activate the hoverboard as an action to make the it hover and fly. It is controlled by shifting weight and tracking specific foot movements.
 
-Four sizes of _hoverboard_ exist. The GM chooses the size of a given carpet or determines it randomly.
+Four sizes of _hoverboard_ exist. The GM chooses the size of a given hoverboard or determines it randomly.
 
 | d100   | Size          | Capacity | Flying Speed |
 |--------|---------------|----------|--------------|
@@ -308,63 +241,63 @@ A hoverboard can carry up to twice the weight shown on the table, but it flies a
 
 ### Remote of Opening
 
-_Wondrous item, rare_
+_Wondrous item, rare, disposable_
 
 This handheld remote has a single button. While pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. the remote issues a clear tone, and one lock or latch on the object opens unless the signal can’t reach the object.
 
 The remote can be used ten times. After the tenth time, it runs out of energy and becomes useless.
 
-### Circlet of Blasting
+### Visor of Blasting
 
 _Wondrous item, uncommon_
 
 *requires a tekcaster*
 
-While wearing this circlet, you can use an action to cast the _scorching ray_ tek skill with it. When you make the tek skill’s attacks, you do so with an attack bonus of +5. The circlet can’t be used this way again until the next dawn.
+This visor gives you 30 feet of thermal vision. Additionally, While wearing this visor, you can use an action to cast the _scorching ray_ tek skill through it. When you make the tek skill’s attacks, you do so with an attack bonus of +5. The visor can’t be used this way again until the next dawn.
 
-### Suit  of Arachnida
+### Jumpsuit  of Arachnida
 
 _Wondrous item, very rare (requires attunement)_
 
-This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
+This fine garment is made of black silk interwoven with faint silvery threads. The surfaces of the hands and feet have embedded fibers that stick to surfaces that you touch. While wearing it, you gain the following benefits:
 
 * You have resistance to poison damage.
 * You have a climbing speed equal to your walking speed.
 * You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 * You can’t be caught in webs of any sort and can move through webs as if they were difficult terrain.
-* You can use an action to cast the _web_ tek skill (save DC 13). The web created by the tek skill fills twice its normal area. Once used, this property of the cloak can’t be used again until the next dawn.
+* You can use an action to cast the _web_ tek skill (save DC 13). The web created by the tek skill fills twice its normal area. Alternatively you can send a rope of webbing to a target within 30 feet that you can see. Until the rope is dismissed, as a bonus action you can reel in the web. If the target is smaller than you, it is pulled to you. If the target is larger, you are pulled to it up to a distance of 30 feet. Until the rope is dismissed, you cannot use the hand it is connected to for anything else. You can dismiss the rope with a free action. Once used, this property of the suit must recharge and can’t be used again until the next dawn.
 
-### Suit of Displacement
+### Necklace of Displacement
 
 _Wondrous item, rare (requires attunement)_
 
-While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
+While you wear this necklace, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
 
 ### Ghost Cloak
 
 _Wondrous item, uncommon (requires attunement)_
 
-While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak’s color shifts to camouflage you. Pulling the hood up or down requires an action.
+While you wear this jumpsuit with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the jumpsuit’s color shifts to camouflage you. Pulling the hood up or down requires an action.
 
-### Suit of Protection
+### Jumpsuit of Protection
 
 _Wondrous item, uncommon (requires attunement)_
 
-You gain a +1 bonus to AC and saving throws while you wear this cloak.
+You gain a +1 bonus to AC and saving throws while you wear this jumpsuit.
 
-### Suit of the Bat
+### Jumpsuit of the Bat
 
 _Wondrous item, rare (requires attunement)_
 
-While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak’s edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.
+While wearing this jumpsuit, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the jumpsuit with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the jumpsuit’s edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.
 
-While wearing the cloak in an area of dim light or darkness, you can use your action to cast _polymorph_ on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can’t be used this way again until the next dawn.
+While wearing the jumpsuit in an area of dim light or darkness, you can use your action to cast _polymorph_ on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The jumpsuit can’t be used this way again until the next dawn.
 
-### Suit of the Manta Ray
+### Jumpsuit of the Manta Ray
 
 _Wondrous item, uncommon_
 
-While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.
+While wearing this jumpsuit with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.
 
 ### Cube of Force
 
@@ -427,9 +360,9 @@ The first time you attack with the sword on each of your turns, you can transfer
 
 _Armor (plate), very rare (requires attunement)_
 
-While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor’s clawed gauntlets turn unarmed strikes with your hands into tek weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8.
+While wearing this armor, you gain a +1 bonus to AC. In addition, the armor’s clawed gauntlets turn unarmed strikes with your hands into tek weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8.
 
-**_Hack_**. Once you don this hacked armor, you can’t doff it unless you are targeted by the _remove hack_ tek skill or similar tek. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their tek skills and special abilities.
+**_Hack_**. Once you don this hacked armor, you can’t doff it unless you are targeted by the _remove hack_ tek skill or similar tek. While wearing the armor, you have disadvantage on saving throws against tek skills.
 
 ### Dragon Kevlar
 
@@ -532,19 +465,19 @@ _Weapon (any axe or sword), rare_
 
 You gain a +1 bonus to attack and damage rolls made with this tek weapon.
 
-When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon’s type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, “giant” refers to any creature with the giant type, including ettins and trolls.
+When you hit a giant with it, large and huge creatures take an extra 2d6 damage of the weapon’s type and must succeed on a DC 15 Strength saving throw or fall prone.
 
 ### Glamoured flak armor
 
 _Armor (flak armor), rare_
 
-While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus action to speak the armor’s command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.
+While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus action to speak the armor’s command word and cause the armor to project the image of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.
 
 ### Gloves of Missile Snaring
 
 _Wondrous item, uncommon (requires attunement)_
 
-These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you’re wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
+These gloves seem to almost meld into your hands when you don them. When a _thrown_ weapon attack hits you while you’re wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
 
 ### Gloves of Swimming and Climbing
 
@@ -562,19 +495,19 @@ While wearing these dark lenses, you have darkvision out to a range of 60 feet. 
 
 _Wondrous item, uncommon (requires attunement)_
 
-While wearing this collar, you can use an action to cast the _disguise self_ tek skill from it at will. The collar distorts the light around your face to make it appear different. Your facial movements are mimiced by the illusion. The tek skill ends if the collar is removed.
+While wearing this collar, you can use an action to cast the _disguise self_ tek skill from it at will. The collar distorts the light around your face to make it appear different. Your facial movements are mimicked by the illusion. The tek skill ends if the collar is removed.
 
-### Headband of Intellect
+### Nodule of Intellect
 
 _Wondrous item, uncommon (requires attunement)_
 
-This headband has nodes that connect to your brain, giving you access to information in its memory bank. Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher.
+This electronic nodule sticks to the side of your head, giving you access to information in its memory bank. Your Intelligence score is 19 while you wear it. It has no effect on you if your Intelligence is already 19 or higher.
 
 ### Earpiece of Comprehending Languages
 
 _Wondrous item, uncommon_
 
-While wearing this earpiece, you can use an action to cast the _comprehend languages_ tek skill from it at will.
+While wearing this earpiece, you can use an action to activate the _comprehend languages_ tek skill from it at will.
 
 ### Luck Blade
 
@@ -586,23 +519,23 @@ You gain a +1 bonus to attack and damage rolls made with this tek weapon. While 
 
 **_Wish_**. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the _wish_ tek skill from it. This property can’t be used again until the next dawn. The sword loses this property if it has no charges.
 
-### Mantle of Tek Resistance
+### Jumpsuit of Tek Resistance
 
 _Wondrous item, rare (requires attunement)_
 
-You have advantage on saving throws against tek skills while you wear this cloak.
+You have advantage on saving throws against tek skills while you wear this jumpsuit.
 
 ### Mithral Armor
 
-_Armor (medium or heavy, but not hide), uncommon_
+_Armor (medium or heavy), uncommon_
 
-Mithral is a light, flexible metal. A mithral scarab skin or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn’t.
+Mithral is a light, flexible metal. Mithral scarab skin can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn’t.
 
 ### Oil of Sharpness
 
 _Potion, very rare_
 
-This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is tek and has a +3 bonus to attack and damage rolls.
+This clear, gelatinous oil sparkles with tiny, ultra-thin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is tek and has a +3 bonus to attack and damage rolls.
 
 ### Oil of Slipperiness
 
@@ -616,7 +549,7 @@ Alternatively, the oil can be poured on the ground as an action, where it covers
 
 _Wondrous item, uncommon (requires attunement by a tekcaster)_
 
-While this pearl is on your person, you can use an action to speak its command word and regain one expended tek skill slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can’t be used again until the next dawn.
+While this pearl is on your person, you can use an action to insert it into your tekcaster and regain one expended tek skill slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can’t be used again until the next dawn.
 
 ### Periapt of Wound Closure
 
@@ -642,9 +575,9 @@ Placing a _portable hole_ inside an extradimensional space created by a _bag of 
 
 _Potion, common_
 
-When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Physique) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
+When you drink this potion, your hands and feet grow spider-like grips. You gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Physique) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
 
-### Injection of Giant Strength
+### Vial of Giant Strength
 
 _Potion, rarity varies_
 
@@ -900,8 +833,8 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 | d10 | Purpose                                                                                                                                  |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | _Aligned:_ The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
-| 2   | _Bane:_ The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
-| 3   | _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or druids.                                    |
+| 2   | _Bane:_ The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or arcanists.           |
+| 3   | _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or morphs.                                    |
 | 4   | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
 | 5   | _Templar_: The item seeks to defend the servants and interests of a particular deity.                                                    |
 | 6   | _Destroyer:_ The item craves destruction and goads its user to fight arbitrarily.                                                        |

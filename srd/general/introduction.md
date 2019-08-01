@@ -33,8 +33,6 @@ Personality traits were the results of a two decades long psychological study at
 ```
 ```
 
-<<<<<<< HEAD
-=======
 ### Stack
 
 Thanks to modern cloning techniques, and the availability of confiscated human bodies, death no longer needs to be permanent.
@@ -47,7 +45,6 @@ Having two copies or more of the same stack is illegal, and punishable by the tr
 
 It is also possible to enter into a totally virtual environment via the stack. Using this method we can spin up a virtual instance of a person in VR to question them about thier death, or keep prisoners sedated inside a virtual environment which we control.
 
->>>>>>> b3db14ec136a8c9da99749b4633512db87159a0c
 ## Sleeve
 
 Thanks to modern cloning techniques, and the availability of confiscated human bodies, death no longer needs to be permanent.
@@ -117,21 +114,21 @@ The focus used by those casting tek skills is called a Tekcaster. The tekcaster 
 > #### Knowledge
 > One method to cast tek skills is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting tek skills.
 >
-> Classes that use this type of tek are Cleric, Druid, Ranger, Warlock, and Wizard.
+> Classes that use this type of tek are Priest , Morph, Scout, Cybernetic, and Arcanist.
 >
 > #### Genetic Alteration
 > Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize tek skills, but you must be equipped with an adequate sleeve that has been genetically modified.
 >
 > Usually sleeves with above average Charisma or Constitution are better suited to this type of casting.
 >
-> Classes that use this type of tek are Bards, Paladins, and Sorcerers.
+> Classes that use this type of tek are Evangelists, Guardians, and Scions.
 
 
 ```
 ```
 
 ### Willpower
-Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Bard, which uses their Wit and Charisma score since their tek is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.

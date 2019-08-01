@@ -137,21 +137,21 @@ The focus used by those casting tek skills is called a Tekcaster. The tekcaster 
 > #### Knowledge
 > One method to cast tek skills is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting tek skills.
 >
-> Classes that use this type of tek are Cleric, Druid, Ranger, Warlock, and Wizard.
+> Classes that use this type of tek are Priest , Morph, Scout, Cybernetic, and Arcanist.
 >
 > #### Genetic Alteration
 > Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize tek skills, but you must be equipped with an adequate sleeve that has been genetically modified.
 >
 > Usually sleeves with above average Charisma or Constitution are better suited to this type of casting.
 >
-> Classes that use this type of tek are Bards, Paladins, and Sorcerers.
+> Classes that use this type of tek are Evangelists, Guardians, and Scions.
 
 
 ```
 ```
 
 ### Willpower
-Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Bard, which uses their Wit and Charisma score since their tek is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
@@ -309,7 +309,7 @@ Your sleeve has grown acustomed to living in harsh conditions. You have proficie
 **_Languages._** You can speak, read, and write English, Chinese and one extra language of your choice.
 
 #### Natural Tekcasters
-You know one cantrip of your choice from the wizard spell list. Your spellcasting ability is Intelligence + Will.
+You know one cantrip of your choice from the arcanist spell list. Your spellcasting ability is Intelligence + Will.
 ```
 ```
 ## Martian
@@ -577,7 +577,7 @@ You learn the cantrips **Shocking Grasp**, **Ray of Frost**, and **Firebolt**.
 ```
 ### Backgrounds
 
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
+Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous knight or a grizzled soldier. Your arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
 Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
@@ -748,44 +748,44 @@ Skill Proficiencies: Diplomacy. Choose 1 from [Insight, Knowledge, Charm]
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
-With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you’re a 5th-level character.
+With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in arcanist and two in soldier, you’re a 5th-level character.
 
 As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you’ll sacrifice some focus in exchange for versatility.
 
 #### Prerequisites
 
-To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher- than-average ability scores.
+To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a brute who decides to multiclass into the morph class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher- than-average ability scores.
 
 **Multiclassing Prerequisites (table)**
 
 | Class     | Ability Score Minimum       |
 |-----------|-----------------------------|
-| Barbarian | Strength 3                 |
-| Bard      | Charisma 3                 |
-| Cleric    | Wisdom 3                   |
-| Druid     | Wisdom 3                   |
-| Fighter   | Strength 3 or Dexterity 3 |
+| Brute | Strength 3                 |
+| Evangelist      | Charisma 3                 |
+| Priest    | Wisdom 3                   |
+| Morph     | Wisdom 3                   |
+| Soldier   | Strength 3 or Dexterity 3 |
 | Monk      | Dexterity 3 and Wisdom 3  |
-| Paladin   | Strength 3 and Charisma 3 |
-| Ranger    | Dexterity 3 and Wisdom 3  |
-| Rogue     | Dexterity 3                |
-| Sorcerer  | Charisma 3                 |
-| Warlock   | Charisma 3                 |
-| Wizard    | Intelligence 3             |
+| Guardian   | Strength 3 and Charisma 3 |
+| Scout    | Dexterity 3 and Wisdom 3  |
+| Scoundrel     | Dexterity 3                |
+| Scion  | Charisma 3                 |
+| Cybernetic   | Charisma 3                 |
+| Arcanist    | Intelligence 3             |
 
 #### Experience Points
 
-The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.
+The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a priest 6/soldier 1, you must gain enough XP to reach 8th level before you can take your second level as a soldier or your seventh level as a priest.
 
 #### Hit Points and Hit Dice
 
 You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
 
-You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
+You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the soldier and the guardian have a d10, so if you are a guardian 5/soldier 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a guardian 5/priest 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
 
 ### Proficiency Bonus
 
-Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th- level character, which is +3.
+Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a soldier 3/scoundrel 2, you have the proficiency bonus of a 5th- level character, which is +3.
 
 ### Proficiencies
 
@@ -795,18 +795,18 @@ When you gain your first level in a class other than your initial class, you gai
 
 | Class     | Proficiencies Gained                                                                                       |
 |-----------|------------------------------------------------------------------------------------------------------------|
-| Barbarian | pulse shields, simple weapons, martial weapons                                                                   |
-| Bard      | Light armor, one skill of your choice, one musical instrument of your choice                               |
-| Cleric    | Light armor, medium armor                                                                        |
-| Druid     | Light armor, medium armor (druids will not wear armor)             |
-| Fighter   | Light armor, medium armor, pulse shields, simple weapons, martial weapons                                        |
+| Brute | pulse shields, simple weapons, martial weapons                                                                   |
+| Evangelist      | Light armor, one skill of your choice, one musical instrument of your choice                               |
+| Priest    | Light armor, medium armor                                                                        |
+| Morph     | Light armor, medium armor (morphs will not wear armor)             |
+| Soldier   | Light armor, medium armor, pulse shields, simple weapons, martial weapons                                        |
 | Monk      | Simple weapons, ion blades                                                                                |
-| Paladin   | Light armor, medium armor, pulse shields, simple weapons, martial weapons                                        |
-| Ranger    | Light armor, medium armor, pulse shields, simple weapons, martial weapons, one skill from the class’s skill list |
-| Rogue     | Light armor, one skill from the class’s skill list, thieves’ tools                                         |
-| Sorcerer  | —                                                                                                          |
-| Warlock   | Light armor, simple weapons                                                                                |
-| Wizard    | —                                                                                                          |
+| Guardian   | Light armor, medium armor, pulse shields, simple weapons, martial weapons                                        |
+| Scout    | Light armor, medium armor, pulse shields, simple weapons, martial weapons, one skill from the class’s skill list |
+| Scoundrel     | Light armor, one skill from the class’s skill list, thieves’ tools                                         |
+| Scion  | —                                                                                                          |
+| Cybernetic   | Light armor, simple weapons                                                                                |
+| Arcanist    | —                                                                                                          |
 
 #### Class Features
 
@@ -816,11 +816,11 @@ When you gain a new level in a class, you get its features for that level. You d
 
 ##### Channel Divinity
 
-If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn’t give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a cleric 6/paladin 4, you can use Channel Divinity twice between rests because you are high enough level in the cleric class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
+If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn’t give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a priest 6/guardian 4, you can use Channel Divinity twice between rests because you are high enough level in the priest class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
 
 ##### Extra Attack
 
-If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the fighter’s version of Extra Attack does). Similarly, the warlock’s eldritch invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
+If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the soldier’s version of Extra Attack does). Similarly, the cybernetic’s eldritch invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
 
 ##### Unarmored Defense
 
@@ -830,17 +830,17 @@ If you already have the Unarmored Defense feature, you can’t gain it again fro
 
 Your capacity for Tekcasting depends partly on your combined levels in all your Tekcasting classes and partly on your individual levels in those classes. Once you have the Tekcasting feature from more than one class, use the rules below. If you multiclass but have the Tekcasting feature from only one class, you follow the rules as described in that class.
 
-**_Tek Skills Known and Prepared._** You determine what tek skills you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger tek skills based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your tek skill datapad contains ten wizard tek skills, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level tek skills. If your Intelligence is 16, you can prepare six wizard tek skills from your tek skill datapad.
+**_Tek Skills Known and Prepared._** You determine what tek skills you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a scout 4/arcanist 3, for example, you know three 1st-level scout tek skills based on your levels in the scout class. As 3rd-level arcanist, you know three arcanist cantrips, and your tek skill datapad contains ten arcanist tek skills, two of which (the two you gained when you reached 3rd level as a arcanist) can be 2nd-level tek skills. If your Intelligence is 16, you can prepare six arcanist tek skills from your tek skill datapad.
 
 Each tek skill you know and prepare is associated with one of your classes, and you use the Tekcasting ability of that class when you cast the tek skill. Similarly, a Tekcasting focus, such as a holy symbol, can be used only for the tek skills from the class associated with that focus.
 
-**_Tek Slots._** You determine your available tek skill slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes. Use this total to determine your tek skill slots by consulting the Multiclass Tekcaster table.
+**_Tek Slots._** You determine your available tek skill slots by adding together all your levels in the evangelist, priest, morph, scion, and arcanist classes, and half your levels (rounded down) in the guardian and scout classes. Use this total to determine your tek skill slots by consulting the Multiclass Tekcaster table.
 
 If you have more than one Tekcasting class, this table might give you tek skill slots of a level that is higher than the tek skills you know or can prepare. You can use those slots, but only to cast your lower-level tek skills. If a lower-level tek skill that you cast, like _burning hands_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any tek skills of that higher level.
 
-For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level tek skills, nor do you know any 2nd-level ranger tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
+For example, if you are the aforementioned scout 4/arcanist 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level tek skills, nor do you know any 2nd-level scout tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
 
-**_Pact Tek._** If you have both the Tekcasting class feature and the Pact Tek class feature from the warlock class, you can use the tek skill slots you gain from the Pact Tek feature to cast tek skills you know or have prepared from classes with the Tekcasting class feature, and you can use the tek skill slots you gain from the Tekcasting class feature to cast warlock tek skills you know.
+**_Link Tek._** If you have both the Tekcasting class feature and the Link Tek class feature from the cybernetic class, you can use the tek skill slots you gain from the Link Tek feature to cast tek skills you know or have prepared from classes with the Tekcasting class feature, and you can use the tek skill slots you gain from the Tekcasting class feature to cast cybernetic tek skills you know.
 
 **Multiclass Tekcaster: Tek Slots per Tek Level (table)**
 
@@ -880,7 +880,7 @@ When your character gains a level, his or her class often grants additional feat
 
 Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
 
-When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level fighter has a Constitution score of 18, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
+When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level soldier has a Constitution score of 18, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character’s class description to see what other improvements you gain at each level.
 
@@ -1330,7 +1330,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 **_Poor._** A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
 
-**_Modest._** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge wizards, and the like.
+**_Modest._** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge arcanists, and the like.
 
 **_Comfortable._** Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
 
@@ -1383,7 +1383,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the *secret chest* tek skill. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a arcanist might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the *secret chest* tek skill. A soldier might commission a blacksmith to forge a special sword. A evangelist might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
 
@@ -1540,17 +1540,17 @@ You have practiced techniques useful in melee combat against tekcasters, gaining
 You have advantage on saving throws against tek skills cast by creatures within 5 feet of you.
 
 #### MAGIC INITIATE
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class’s tek skill list.
+Choose a class: evangelist, priest, morph, scion, cybernetic, or arcanist. You learn two cantrips of your choice from that class’s tek skill list.
 
 In addition, choose one 1st-level tek skill from that same list. You learn that tek skill and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
 
-Your tek skillcasting ability for these tek skills depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
+Your tek skillcasting ability for these tek skills depends on the class you chose: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph: or Intelligence for arcanist.
 
 \page
 
 #### MARTIAL ADEPT
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
-- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Physique or Dexterity modifier (your choice).
+- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the soldier class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Physique or Dexterity modifier (your choice).
 - If you already have superiority dice, you gain one m ore; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 #### MEDIUM ARMOR MASTER
@@ -1608,9 +1608,9 @@ Choose one ability score. You gain the following benefits:
 
 You have learned a number of tek skills that you can cast as rituals. These tek skills are written in a ritual book, which you must have in hand while casting one of them.
 
-When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: evangelist, priest, morph, scion, cybernetic, or arcanist. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for arcanist.
 
-If you come across a tek skill in written form, such as a tek tek skill scroll or a wizard’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
+If you come across a tek skill in written form, such as a tek tek skill scroll or a arcanist’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
 
 #### SAVAGE ATTACKER
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
@@ -1659,7 +1659,7 @@ You understand spacecraft architecture with uncanny precision. You gain the foll
 You have learned techniques to enhance your attacks with certain kinds o f tek skills, gaining the following benefits:
 - When you cast a tek skill that requires you to make an attack roll, the tek skill’s range is doubled.
 - Your ranged tek skill attacks ignore half cover and three-quarters cover.
-- You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+- You learn one cantrip that requires an attack roll. Choose the cantrip from the evangelist, priest, morph, scion, cybernetic, or arcanist tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for arcanist.
 
 #### TAVERN BRAWLER
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
@@ -1705,7 +1705,7 @@ Characters have a proficiency bonus determined by level. Monsters also have this
 
 Your proficiency bonus can’t be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
 
-Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the rogue’s Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
+Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the scoundrel’s Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
 
 By the same token, if a feature or effect allows you to multiply your proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (History) checks.
 
@@ -1774,7 +1774,7 @@ Your Toughness modifier contributes to your hit points. Typically, you add your 
 ```
 ##### Tekcasting Ability
 
-Bards, paladins, sorcerers, and warlocks use Charisma and Will as their Tekcasting ability, which helps determine the saving throw DCs of tek skills they cast.
+Evangelists, guardians, scions, and cybernetics use Charisma and Will as their Tekcasting ability, which helps determine the saving throw DCs of tek skills they cast.
 
 ### Saving Throws
 
@@ -1784,7 +1784,7 @@ To make a saving throw, roll a d20 and add the appropriate ability modifier. For
 
 A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the GM.
 
-Each class gives proficiency in at least two saving throws. The wizard, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
+Each class gives proficiency in at least two saving throws. The arcanist, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
 
 The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a tek skill is determined by the caster’s Tekcasting ability and proficiency bonus.
 
@@ -2079,7 +2079,7 @@ You can forgo moving, taking an action, or doing anything at all on your turn. I
 
 ##### Bonus Actions
 
-Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
+Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a scoundrel to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
 
 You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
 
@@ -2119,13 +2119,13 @@ You can break up your movement on your turn, using some of your speed before and
 
 ##### Moving between Attacks
 
-If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
+If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a soldier who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
 
 ##### Using Different Speeds
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a arcanist cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 #### Difficult Terrain
 
@@ -2229,11 +2229,11 @@ The most common action to take in combat is the Attack action, whether you are s
 
 With this action, you make one melee or ranged attack. See the “Making an Attack” section for the rules that govern attacks.
 
-Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
+Certain features, such as the Extra Attack feature of the soldier, allow you to make more than one attack with this action.
 
 #### Cast a Tek
 
-Tekcasters such as wizards and clerics, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
+Tekcasters such as arcanists and priests, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
 
 #### Dash
 
@@ -2412,13 +2412,13 @@ Each weapon, tek skill, and harmful monster ability specifies the damage it deal
 
 When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **tek skill** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts _fireball_ or a cleric casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
+If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
 When you score a critical hit, you get to roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
 
-For example, if you score a critical hit with an ion dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue’s Stealth Attack feature, you roll those dice twice as well.
+For example, if you score a critical hit with an ion dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the scoundrel’s Stealth Attack feature, you roll those dice twice as well.
 
 ##### Damage Types
 
@@ -2446,7 +2446,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **_Psychic_** Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
 
-**_Radiant_** Radiant damage, dealt by a cleric’s _flame strike_ tek skill or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+**_Radiant_** Radiant damage, dealt by a priest’s _flame strike_ tek skill or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 **_Slashing_** Swords, axes, and monsters’ claws deal slashing damage.
 
@@ -2468,7 +2468,7 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 Unless it results in death, damage isn’t permanent. Even death is reversible through powerful tek. Rest can restore a creature’s hit points, and tek methods such as a _cure wounds_ tek skill or a _potion of healing_ can remove damage in an instant.
 
-When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
+When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a morph grants a scout 8 hit points of healing. If the scout has 14 current hit points and has a hit point maximum of 20, the scout regains 6 hit points from the morph, not 8.
 
 A creature that has died can’t regain hit points until tek such as the _revivify_ tek skill has restored it to life.
 
@@ -2480,7 +2480,7 @@ When you drop to 0 hit points, you either die outright or fall unconscious, as e
 
 Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
 
-For example, a cleric with a maximum of 12 hit points currently has 6 hit points. If she takes 18 damage from an attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point maximum, the cleric dies.
+For example, a priest with a maximum of 12 hit points currently has 6 hit points. If she takes 18 damage from an attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point maximum, the priest dies.
 
 ##### Falling Unconscious
 
@@ -2532,7 +2532,7 @@ Unless a feature that grants you temporary hit points has a duration, they last 
 
 ### Mounted Combat
 
-A knight charging into battle on a warhorse, a wizard casting tek skills from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+A knight charging into battle on a warhorse, a arcanist casting tek skills from the back of a griffon, or a priest soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 

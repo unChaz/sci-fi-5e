@@ -1,16 +1,17 @@
-### Ranger
+### Scout
+Modern scouts are very different from those of the past. Today scouts must be versatile enough to track a quarry within the metal hulls of spacecraft or space stations, and in the many types of environment found planet-side on the many habitable planets and moons. Scouts specialize in ranged and martial combat, and employ the use of tekcasting to enhance their combat viability.
 
 #### Class Features
 
-As a ranger, you gain the following class features.
+As a scout, you gain the following class features.
 
 ##### Hit Points
 
-**Hit Dice:** 1d10 per ranger level
+**Hit Dice:** 1d10 per scout level
 
 **Hit Points at 1st Level:** 10 + your Constitution Modifier + Will modifier
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per ranger level after 1st
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per scout level after 1st
 
 ##### Proficiencies
 
@@ -22,35 +23,35 @@ As a ranger, you gain the following class features.
 
 **Saving Throws:** Strength, Dexterity
 
-**Skills:** Choose three from Nature, Physique, Insight, Investigation, Nature, Perception, Stealth, and Nature
+**Skills:** Choose three from Computers, Nature, Physique, Knowledge, Insight, Investigation, Perception, and Stealth
 
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 * (*a*) kevlar or (*b*) Flak armor
-* (*a*) two ion blades or (*b*) two simple melee weapons
+* (*a*) two ion blades or (*b*) two simple weapons
 * (*a*) an incursion kit or (*b*) a field survival kit
-* A rail rifle and 20 clips of ammunition
+* A martial ranged weapon and 20 clips of ammunition
 
-**The Ranger (table)**
+**The Scout (table)**
 
 | Level | Proficiency Bonus | Features                                          | Tek Skills Known | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------------|---------------------------------------------------|--------------|-----|-----|-----|-----|-----|
 | 1st   | +2                | Favored Enemy, Natural Explorer                   | -            | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Fighting Style, Tekcasting                      | 2            | 2   | -   | -   | -   | -   |
-| 3rd   | +2                | Ranger Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |
+| 3rd   | +2                | Scout Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |
 | 4th   | +2                | Ability Score Improvement                         | 3            | 3   | -   | -   | -   | -   |
 | 5th   | +3                | Extra Attack                                      | 4            | 4   | 2   | -   | -   | -   |
 | 6th   | +3                | Favored Enemy and Natural Explorer improvements   | 4            | 4   | 2   | -   | -   | -   |
-| 7th   | +3                | Ranger Archetype feature                          | 5            | 4   | 3   | -   | -   | -   |
+| 7th   | +3                | Scout Archetype feature                          | 5            | 4   | 3   | -   | -   | -   |
 | 8th   | +3                | Ability Score Improvement, Land’s Stride          | 5            | 4   | 3   | -   | -   | -   |
 | 9th   | +4                | -                                                 | 6            | 4   | 3   | 2   | -   | -   |
 | 10th  | +4                | Natural Explorer improvement, Hide in Plain Sight | 6            | 4   | 3   | 2   | -   | -   |
-| 11th  | +4                | Ranger Archetype feature                          | 7            | 4   | 3   | 3   | -   | -   |
+| 11th  | +4                | Scout Archetype feature                          | 7            | 4   | 3   | 3   | -   | -   |
 | 12th  | +4                | Ability Score Improvement                         | 7            | 4   | 3   | 3   | -   | -   |
 | 13th  | +5                | -                                                 | 8            | 4   | 3   | 3   | 1   | -   |
 | 14th  | +5                | Favored Enemy improvement, Vanish                 | 8            | 4   | 3   | 3   | 1   | -   |
-| 15th  | +5                | Ranger Archetype feature                          | 9            | 4   | 3   | 3   | 2   | -   |
+| 15th  | +5                | Scout Archetype feature                          | 9            | 4   | 3   | 3   | 2   | -   |
 | 16th  | +5                | Ability Score Improvement                         | 9            | 4   | 3   | 3   | 2   | -   |
 | 17th  | +6                | -                                                 | 10           | 4   | 3   | 3   | 3   | 1   |
 | 18th  | +6                | Feral Senses                                      | 10           | 4   | 3   | 3   | 3   | 1   |
@@ -71,7 +72,7 @@ You choose one additional favored enemy, as well as an associated language, at 6
 
 #### Natural Explorer
 
-You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
+You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: null-g, arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 * Difficult terrain doesn’t slow your group’s travel.
@@ -87,7 +88,7 @@ You choose additional favored terrain types at 6th and 10th level.
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-##### Sharpshooter
+##### Gunnery
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
@@ -105,37 +106,37 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 
 #### Tekcasting
 
-By the time you reach 2nd level, you have learned to use the tek essence of nature to cast tek skills, much as a druid does. See chapter 10 for the general rules of Tekcasting and chapter 11 for the ranger tek skill list.
+By the time you reach 2nd level, you have trained to use a tekcaster to cast tek skills
 
 ##### Tek Slots
 
-The Ranger table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Scout table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 For example, if you know the 1st-level tek skill *animal friendship* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *animal friendship* using either slot.
 
 ##### Tek Skills Known of 1st Level and Higher
 
-You know two 1st-level tek skills of your choice from the ranger tek skill list.
+You know two 1st-level tek skills of your choice from the scout tek skill list.
 
-The Tek Skills Known column of the Ranger table shows when you learn more ranger tek skills of your choice. Each of these tek skills must be of a level for which you have tek skill slots. For instance, when you reach 5th level in this class, you can learn one new tek skill of 1st or 2nd level.
+The Tek Skills Known column of the Scout table shows when you learn more scout tek skills of your choice. Each of these tek skills must be of a level for which you have tek skill slots. For instance, when you reach 5th level in this class, you can learn one new tek skill of 1st or 2nd level.
 
-Additionally, when you gain a level in this class, you can choose one of the ranger tek skills you know and replace it with another tek skill from the ranger tek skill list, which also must be of a level for which you have tek skill slots.
+Additionally, when you gain a level in this class, you can choose one of the scout tek skills you know and replace it with another tek skill from the scout tek skill list, which also must be of a level for which you have tek skill slots.
 
 ##### Tekcasting Ability
 
-Wisdom + Will is your Tekcasting ability for your ranger tek skills, since your tek draws on your attunement to nature. You use your Wisdom whenever a tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger tek skill you cast and when making an attack roll with one.
+Wisdom + Will is your Tekcasting ability for your scout tek skills, since your tek draws on your attunement to nature. You use your Wisdom whenever a tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a scout tek skill you cast and when making an attack roll with one.
 
 **Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
 
 **Tek attack modifier** = your proficiency bonus + your Wisdom modifier + your Will modifier
 
-#### Ranger Archetype
+#### Scout Archetype
 
 At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beast Master, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
-#### Primeval Awareness
+#### Scout Drone
 
-Beginning at 3rd level, you can use your action and expend one ranger tek skill slot to focus your awareness on the region around you. For 1 minute per level of the tek skill slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
+Beginning at 3rd level, you can deploy a scout drone that lasts 10 minutes. The drone has a flying speed of 30ft, and a range of 1 mile, 1 hit point, and an AC of 10. It is spherical in shape, about 1 inch in diameter. It can be spotted by enemies with a DC 12 perception check. As an action you can give the drone movement instructions through your datapad. As a bonus action you can view the drone's' camera and microphone feed through your datapad. After 10 minutes, the drone's battery dies, and unless in null-g, it falls to the ground. If the drone is destroyed, you must spend a long rest in order to repair it. Otherwise it becomes fully charged at the end of a short rest.
 
 #### Ability Score Improvement
 
@@ -145,17 +146,15 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-#### Land’s Stride
+#### Spacer Agility
 
-Starting at 8th level, moving through nontek difficult terrain costs you no extra movement. You can also pass through nontek plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+Starting at 8th level, you take no movement penalty for moving in null gravity.
 
-In addition, you have advantage on saving throws against plants that are created or manipulated to impede movement, such those created by the *entangle* tek skill.
+In addition, you have advantage on saving throws against objects that are created or manipulated to impede movement.
 
-#### Hide in Plain Sight
+#### Improved Scout Drone
 
-Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
-
-Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
+Starting at 10th level, your scouting drone lasts 1 hour, and can be repaired over a short rest, and is cloaked, requiring a DC 15 Perception check to be seen.
 
 #### Vanish
 
@@ -171,19 +170,17 @@ You are also aware of the location of any invisible creature within 30 feet of y
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
-#### Ranger Archetypes
+#### Scout Archetypes
 
-The ideal of the ranger has two classic expressions: the Hunter and the Beast Master.
+The ideal of the scout has two classic expressions: the Hunter and the Beast Master.
 
-##### Hunter
-
-Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+##### Sharpshooter
 
 ###### Hunter’s Prey
 
 At 3rd level, you gain one of the following features of your choice.
 
-**_Colossus Slayer._** Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+**_Assassin._** Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
 
 **_Giant Killer._** When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
 
@@ -211,7 +208,7 @@ At 11th level, you gain one of the following features of your choice.
 
 At 15th level, you gain one of the following features of your choice.
 
-**_Evasion._** When you are subjected to an effect, such as a red dragon’s fiery breath or a *lightning bolt* tek skill, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+**_Evasion._** When you are subjected to an effect, such as  *lightning bolt* tek skill, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 **_Stand Against the Tide._** When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
 

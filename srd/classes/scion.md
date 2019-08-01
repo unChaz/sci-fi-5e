@@ -1,16 +1,16 @@
-### Sorcerer
+### Scion
 
 #### Class Features
 
-As a sorcerer, you gain the following class features.
+As a scion, you gain the following class features.
 
 ##### Hit Points
 
-**Hit Dice:** 1d6 per sorcerer level
+**Hit Dice:** 1d6 per scion level
 
 **Hit Points at 1st Level:** 6 + your Constitution Modifier + Will modifier
 
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier + Will modifier per sorcerer level after 1st
+**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier + Will modifier per scion level after 1st
 
 ##### Proficiencies
 
@@ -22,17 +22,17 @@ As a sorcerer, you gain the following class features.
 
 **Saving Throws:** Constitution, Charisma
 
-**Skills:** Choose two from Arcana, Charm, Insight, Intimidation, and Religion
+**Skills:** Choose two from Knowledge, Charm, Insight, Intimidation, and Religion
 
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) any simple weapon
-* (*a*) a component pouch or (*b*) an arcane focus
+* (*a*) a component pouch or (*b*) an tekcaster
 * (*a*) an incursion kit or (*b*) a field survival kit
 * Two ion daggers
 
-**The Sorcerer (table)**
+**The Scion (table)**
 
 | Level | Proficiency Bonus | Sorcery Points | Features                       | Cantrips Known | Tek Skills Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|----------------|--------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -63,25 +63,25 @@ An event in your past, or in the life of a parent or ancestor, left an indelible
 
 ##### Cantrips
 
-At 1st level, you know four cantrips of your choice from the sorcerer tek skill list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
+At 1st level, you know four cantrips of your choice from the scion tek skill list. You learn additional scion cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Scion table.
 
 ##### Tek Slots
 
-The Sorcerer table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these sorcerer tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Scion table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these scion tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 For example, if you know the 1st-level tek skill *burning hands* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *burning hands* using either slot.
 
 ##### Tek Skills Known of 1st Level and Higher
 
-You know two 1st-level tek skills of your choice from the sorcerer tek skill list.
+You know two 1st-level tek skills of your choice from the scion tek skill list.
 
-The Tek Skills Known column of the Sorcerer table shows when you learn more sorcerer tek skills of your choice. Each of these tek skills must be of a level for which you have tek skill slots. For instance, when you reach 3rd level in this class, you can learn one new tek skill of 1st or 2nd level.
+The Tek Skills Known column of the Scion table shows when you learn more scion tek skills of your choice. Each of these tek skills must be of a level for which you have tek skill slots. For instance, when you reach 3rd level in this class, you can learn one new tek skill of 1st or 2nd level.
 
-Additionally, when you gain a level in this class, you can choose one of the sorcerer tek skills you know and replace it with another tek skill from the sorcerer tek skill list, which also must be of a level for which you have tek skill slots.
+Additionally, when you gain a level in this class, you can choose one of the scion tek skills you know and replace it with another tek skill from the scion tek skill list, which also must be of a level for which you have tek skill slots.
 
 ##### Tekcasting Ability
 
-Charisma + Will is your Tekcasting ability for your sorcerer tek skills, since the power of your tek relies on your ability to project your will into the world. You use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer tek skill you cast and when making an attack roll with one.
+Charisma + Will is your Tekcasting ability for your scion tek skills, since the power of your tek relies on your ability to project your will into the world. You use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a scion tek skill you cast and when making an attack roll with one.
 
 **Tek save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
 
@@ -89,7 +89,7 @@ Charisma + Will is your Tekcasting ability for your sorcerer tek skills, since t
 
 ##### Tekcasting Focus
 
-You can use an arcane focus as a Tekcasting focus for your sorcerer tek skills.
+You can use an tekcaster as a Tekcasting focus for your scion tek skills.
 
 #### Sorcerous Origin
 
@@ -103,7 +103,7 @@ At 2nd level, you tap into a deep wellspring of tek within yourself. This wellsp
 
 ##### Sorcery Points
 
-You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
+You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Scion table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
 
 ##### Flexible Casting
 
@@ -179,11 +179,11 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 
 #### Sorcerous Origins
 
-Different sorcerers claim different origins for their innate tek. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild tek.
+Different scions claim different origins for their innate tek. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild tek.
 
 ##### Draconic Bloodline
 
-Your innate tek comes from draconic tek that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
+Your innate tek comes from draconic tek that was mingled with your blood or that of your ancestors. Most often, scions with this origin trace their descent back to a mighty scion of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given scion could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
 ###### Dragon Ancestor
 

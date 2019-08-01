@@ -16,7 +16,7 @@ Characters have a proficiency bonus determined by level. Monsters also have this
 
 Your proficiency bonus can’t be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
 
-Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the rogue’s Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
+Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the scoundrel’s Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
 
 By the same token, if a feature or effect allows you to multiply your proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (History) checks.
 
@@ -85,7 +85,7 @@ Your Toughness modifier contributes to your hit points. Typically, you add your 
 ```
 ##### Tekcasting Ability
 
-Bards, paladins, sorcerers, and warlocks use Charisma and Will as their Tekcasting ability, which helps determine the saving throw DCs of tek skills they cast.
+Evangelists, guardians, scions, and cybernetics use Charisma and Will as their Tekcasting ability, which helps determine the saving throw DCs of tek skills they cast.
 
 ### Saving Throws
 
@@ -95,7 +95,7 @@ To make a saving throw, roll a d20 and add the appropriate ability modifier. For
 
 A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the GM.
 
-Each class gives proficiency in at least two saving throws. The wizard, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
+Each class gives proficiency in at least two saving throws. The arcanist, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
 
 The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a tek skill is determined by the caster’s Tekcasting ability and proficiency bonus.
 

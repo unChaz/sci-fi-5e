@@ -18,17 +18,17 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
 
-**_flak armor._** Lightweight metal lined combat armor.
+**_Flak Armor._** Lightweight metal lined combat armor.
 
-**_pulse armor._** Powered by a small generator, this expensive shielding deflects projectiles. Once depleted it takes time to recharge. Pulse armor can be quite expensive, but ideal if you are trying to keep a low profile.
+**_Pulse Armor._** Powered by a small generator, this expensive shielding deflects projectiles. Once depleted it takes time to recharge. Pulse armor can be quite expensive, but ideal if you are trying to keep a low profile.
 
 #### Medium Armor
 
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
-**_scarab skin._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+**_Scarab Skin._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
-**_kevlar._** Basic military issue combat armor.
+**_Kevlar._** Basic military issue combat armor.
 
 #### Heavy Armor
 

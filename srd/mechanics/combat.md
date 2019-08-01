@@ -41,7 +41,7 @@ You can forgo moving, taking an action, or doing anything at all on your turn. I
 
 ##### Bonus Actions
 
-Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
+Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a scoundrel to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
 
 You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
 
@@ -81,13 +81,13 @@ You can break up your movement on your turn, using some of your speed before and
 
 ##### Moving between Attacks
 
-If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
+If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a soldier who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
 
 ##### Using Different Speeds
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a arcanist cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 #### Difficult Terrain
 
@@ -191,11 +191,11 @@ The most common action to take in combat is the Attack action, whether you are s
 
 With this action, you make one melee or ranged attack. See the “Making an Attack” section for the rules that govern attacks.
 
-Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
+Certain features, such as the Extra Attack feature of the soldier, allow you to make more than one attack with this action.
 
 #### Cast a Tek
 
-Tekcasters such as wizards and clerics, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
+Tekcasters such as arcanists and priests, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
 
 #### Dash
 
@@ -374,13 +374,13 @@ Each weapon, tek skill, and harmful monster ability specifies the damage it deal
 
 When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **tek skill** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts _fireball_ or a cleric casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
+If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
 When you score a critical hit, you get to roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
 
-For example, if you score a critical hit with an ion dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue’s Stealth Attack feature, you roll those dice twice as well.
+For example, if you score a critical hit with an ion dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the scoundrel’s Stealth Attack feature, you roll those dice twice as well.
 
 ##### Damage Types
 
@@ -408,7 +408,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **_Psychic_** Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
 
-**_Radiant_** Radiant damage, dealt by a cleric’s _flame strike_ tek skill or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+**_Radiant_** Radiant damage, dealt by a priest’s _flame strike_ tek skill or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 **_Slashing_** Swords, axes, and monsters’ claws deal slashing damage.
 
@@ -430,7 +430,7 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 Unless it results in death, damage isn’t permanent. Even death is reversible through powerful tek. Rest can restore a creature’s hit points, and tek methods such as a _cure wounds_ tek skill or a _potion of healing_ can remove damage in an instant.
 
-When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
+When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a morph grants a scout 8 hit points of healing. If the scout has 14 current hit points and has a hit point maximum of 20, the scout regains 6 hit points from the morph, not 8.
 
 A creature that has died can’t regain hit points until tek such as the _revivify_ tek skill has restored it to life.
 
@@ -442,7 +442,7 @@ When you drop to 0 hit points, you either die outright or fall unconscious, as e
 
 Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
 
-For example, a cleric with a maximum of 12 hit points currently has 6 hit points. If she takes 18 damage from an attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point maximum, the cleric dies.
+For example, a priest with a maximum of 12 hit points currently has 6 hit points. If she takes 18 damage from an attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point maximum, the priest dies.
 
 ##### Falling Unconscious
 
@@ -494,7 +494,7 @@ Unless a feature that grants you temporary hit points has a duration, they last 
 
 ### Mounted Combat
 
-A knight charging into battle on a warhorse, a wizard casting tek skills from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+A knight charging into battle on a warhorse, a arcanist casting tek skills from the back of a griffon, or a priest soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 

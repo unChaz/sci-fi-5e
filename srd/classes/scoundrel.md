@@ -1,16 +1,16 @@
-### Rogue
+### Scoundrel
 
 #### Class Features
 
-As a rogue, you have the following class features.
+As a scoundrel, you have the following class features.
 
 ##### Hit Points
 
-**Hit Dice:** 1d8 per rogue level
+**Hit Dice:** 1d8 per scoundrel level
 
 **Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per rogue level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per scoundrel level after 1st
 
 ##### Proficiencies
 
@@ -22,7 +22,7 @@ As a rogue, you have the following class features.
 
 **Saving Throws:** Dexterity, Intelligence
 
-**Skills:** Choose four from Acrobatics, Physique, Charm, Insight, Intimidation, Investigation, Perception, Performance, Trickery, and Stealth
+**Skills:** Choose four from Acrobatics, Computers, Knowledge, Physique, Charm, Insight, Intimidation, Investigation, Perception, Performance, Trickery, and Stealth
 
 ##### Equipment
 
@@ -32,7 +32,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a slicer's kit, (*b*) an incursion kit, or (*c*) a field survival kit
 * (*a*) Flak armor, two ion daggers, and thieves’ tools
 
-**The Rogue (table)**
+**The Scoundrel (table)**
 
 | Level | Proficiency Bonus | Stealth Attack | Features                               |
 |-------|-------------------|--------------|----------------------------------------|
@@ -69,11 +69,11 @@ Beginning at 1st level, you know how to strike subtly and exploit a foe’s dist
 
 You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 
-The amount of the extra damage increases as you gain levels in this class, as shown in the Stealth Attack column of the Rogue table.
+The amount of the extra damage increases as you gain levels in this class, as shown in the Stealth Attack column of the Scoundrel table.
 
 #### Thieves’ Cant
 
-During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+During your scoundrel training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
@@ -83,7 +83,7 @@ Starting at 2nd level, your quick thinking and agility allow you to move and act
 
 #### Roguish Archetype
 
-At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities: Thief, Assassin, or Arcane Trickster, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+At 3rd level, you choose an archetype that you emulate in the exercise of your scoundrel abilities: Thief, Assassin, or Arcane Trickster, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
 #### Ability Score Improvement
 
@@ -121,11 +121,11 @@ Once you use this feature, you can’t use it again until you finish a short or 
 
 #### Roguish Archetypes
 
-Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques.
+Scoundrels have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different scoundrels steer those talents in varying directions, embodied by the scoundrel archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques.
 
 ##### Thief
 
-You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional loot seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using alien artifacts you normally couldn’t employ.
+You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do scoundrels who prefer to think of themselves as professional loot seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using alien artifacts you normally couldn’t employ.
 
 ###### Fast Hands
 

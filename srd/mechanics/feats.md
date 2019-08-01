@@ -127,17 +127,17 @@ You have practiced techniques useful in melee combat against tekcasters, gaining
 You have advantage on saving throws against tek skills cast by creatures within 5 feet of you.
 
 #### MAGIC INITIATE
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class’s tek skill list.
+Choose a class: evangelist, priest, morph, scion, cybernetic, or arcanist. You learn two cantrips of your choice from that class’s tek skill list.
 
 In addition, choose one 1st-level tek skill from that same list. You learn that tek skill and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
 
-Your tek skillcasting ability for these tek skills depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
+Your tek skillcasting ability for these tek skills depends on the class you chose: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph: or Intelligence for arcanist.
 
 \page
 
 #### MARTIAL ADEPT
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
-- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Physique or Dexterity modifier (your choice).
+- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the soldier class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Physique or Dexterity modifier (your choice).
 - If you already have superiority dice, you gain one m ore; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 #### MEDIUM ARMOR MASTER
@@ -195,9 +195,9 @@ Choose one ability score. You gain the following benefits:
 
 You have learned a number of tek skills that you can cast as rituals. These tek skills are written in a ritual book, which you must have in hand while casting one of them.
 
-When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: evangelist, priest, morph, scion, cybernetic, or arcanist. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for arcanist.
 
-If you come across a tek skill in written form, such as a tek tek skill scroll or a wizard’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
+If you come across a tek skill in written form, such as a tek tek skill scroll or a arcanist’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
 
 #### SAVAGE ATTACKER
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
@@ -246,7 +246,7 @@ You understand spacecraft architecture with uncanny precision. You gain the foll
 You have learned techniques to enhance your attacks with certain kinds o f tek skills, gaining the following benefits:
 - When you cast a tek skill that requires you to make an attack roll, the tek skill’s range is doubled.
 - Your ranged tek skill attacks ignore half cover and three-quarters cover.
-- You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+- You learn one cantrip that requires an attack roll. Choose the cantrip from the evangelist, priest, morph, scion, cybernetic, or arcanist tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for arcanist.
 
 #### TAVERN BRAWLER
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:

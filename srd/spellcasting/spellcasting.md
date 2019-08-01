@@ -17,19 +17,19 @@ Tek level and character level don’t correspond directly. Typically, a characte
 
 #### Known and Prepared Tek Skills
 
-Before a tekcaster can use a tek skill, he or she must have the tek skill firmly fixed in mind, or must have access to the tek skill in a alien artifact. Members of a few classes, including bards and sorcerers, have a limited list of tek skills they know that are always fixed in mind. The same thing is true of many tek-using monsters. Other tekcasters, such as clerics and wizards, undergo a process of preparing tek skills. This process varies for different classes, as detailed in their descriptions.
+Before a tekcaster can use a tek skill, he or she must have the tek skill firmly fixed in mind, or must have access to the tek skill in a alien artifact. Members of a few classes, including evangelists and scions, have a limited list of tek skills they know that are always fixed in mind. The same thing is true of many tek-using monsters. Other tekcasters, such as priests and arcanists, undergo a process of preparing tek skills. This process varies for different classes, as detailed in their descriptions.
 
 In every case, the number of tek skills a caster can have fixed in mind at any given time depends on the character’s level.
 
 #### Tek Slots
 
-Regardless of how many tek skills a caster knows or prepares, he or she can cast only a limited number of tek skills before resting. Manipulating the fabric of tek and channeling its energy into even a simple tek skill is physically and mentally taxing, and higher level tek skills are even more so. Thus, each Tekcasting class’s description (except that of the warlock) includes a table showing how many tek skill slots of each tek skill level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level tek skill slots and two 2nd-level slots.
+Regardless of how many tek skills a caster knows or prepares, he or she can cast only a limited number of tek skills before resting. Manipulating the fabric of tek and channeling its energy into even a simple tek skill is physically and mentally taxing, and higher level tek skills are even more so. Thus, each Tekcasting class’s description (except that of the cybernetic) includes a table showing how many tek skill slots of each tek skill level a character can use at each character level. For example, the 3rd-level arcanist Umara has four 1st-level tek skill slots and two 2nd-level slots.
 
 When a character casts a tek skill, he or she expends a slot of that tek skill’s level or higher, effectively “filling” a slot with the tek skill. You can think of a tek skill slot as a groove of a certain size—small for a 1st-level slot, larger for a tek skill of higher level. A 1st-level tek skill fits into a slot of any size, but a 9th-level tek skill fits only in a 9th-level slot. So when Umara casts _tek missile_, a 1st-level tek skill, she spends one of her four 1st-level slots and has three remaining.
 
 Finishing a long rest restores any expended tek skill slots.
 
-Some characters and monsters have special abilities that let them cast tek skills without using tek skill slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast tek skills in such a way.
+Some characters and monsters have special abilities that let them cast tek skills without using tek skill slots. For example, a monk who follows the Way of the Four Elements, a cybernetic who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast tek skills in such a way.
 
 ##### Casting a Tek Skill at a Higher Level
 
@@ -49,7 +49,7 @@ A cantrip is a tek skill that can be cast at will, without using a tek skill slo
 
 Certain tek skills have a special tag: ritual. Such a tek skill can be cast following the normal rules for Tekcasting, or the tek skill can be cast as a ritual. The ritual version of a tek skill takes 10 minutes longer to cast than normal. It also doesn’t expend a tek skill slot, which means the ritual version of a tek skill can’t be cast at a higher level.
 
-To cast a tek skill as a ritual, a tekcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the tek skill prepared or on his or her list of tek skills known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
+To cast a tek skill as a ritual, a tekcaster must have a feature that grants the ability to do so. The priest and the morph, for example, have such a feature. The caster must also have the tek skill prepared or on his or her list of tek skills known, unless the character’s ritual feature specifies otherwise, as the arcanist’s does.
 
 ### Casting a Tek Skill
 
@@ -189,7 +189,7 @@ Most tek skills that require attack rolls involve ranged attacks. Remember that 
 
 > #### The Schools of Tek
 >
-> Academies of tek group tek skills into eight categories called schools of tek. Scholars, particularly wizards, apply these categories to all tek skills, believing that all tek functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
+> Academies of tek group tek skills into eight categories called schools of tek. Scholars, particularly arcanists, apply these categories to all tek skills, believing that all tek functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 >
 > The schools of tek help describe tek skills; they have no rules of their own, although some rules refer to the schools.
 >
@@ -215,11 +215,11 @@ Most tek skills that require attack rolls involve ranged attacks. Remember that 
 
 The effects of different tek skills add together while the durations of those tek skills overlap. The effects of the same tek skill cast multiple times don’t combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
 
-For example, if two clerics cast _bless_ on the same target, that character gains the tek skill’s benefit only once; he or she doesn’t get to roll two bonus dice.
+For example, if two priests cast _bless_ on the same target, that character gains the tek skill’s benefit only once; he or she doesn’t get to roll two bonus dice.
 
 **Tek Lists**
 
-### Bard Tek Skills
+### Evangelist Tek Skills
 
 ##### Cantrips (0 Level)
 
@@ -361,7 +361,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Power Word Kill
 * True Polymorph
 
-### Cleric Tek Skills
+### Priest Tek Skills
 
 ##### Cantrips (0 Level)
 
@@ -496,7 +496,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Mass Heal
 * True Resurrection
 
-### Druid Tek Skills
+### Morph Tek Skills
 
 ##### Cantrips (0 Level)
 
@@ -629,7 +629,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Storm of Vengeance
 * True Resurrection
 
-### Paladin Tek Skills
+### Guardian Tek Skills
 
 ##### 1st Level
 
@@ -676,7 +676,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Geas
 * Raise Dead
 
-### Ranger Tek Skills
+### Scout Tek Skills
 
 ##### 1st Level
 
@@ -727,7 +727,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Commune with Nature
 * Tree Stride
 
-### Sorcerer Tek Skills
+### Scion Tek Skills
 
 ##### Cantrips (0 Level)
 
@@ -877,7 +877,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Time Stop
 * Wish
 
-### Warlock Tek Skills
+### Cybernetic Tek Skills
 
 ##### Cantrips (0 Level)
 
@@ -969,7 +969,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Power Word Kill
 * True Polymorph
 
-### Wizard Tek Skills
+### Arcanist Tek Skills
 
 ##### Cantrips (0 Level)
 
@@ -1555,7 +1555,7 @@ When you cast the tek skill, choose one or both of the following effects. The ef
 
 **_False Aura._** You change the way the target appears to tek skills and tek effects, such as _detect tek_, that detect tek auras. You can make a nontek object appear tek, a tek object appear nontek, or change the object’s tek aura so that it appears to belong to a specific school of tek that you choose. When you use this effect on an object, you can make the false tek apparent to any creature that handles the item.
 
-**_Mask._** You change the way the target appears to tek skills and tek effects that detect creature types, such as a paladin’s Divine Sense or the trigger of a _symbol_ tek skill. You choose a creature type and other tek skills and tek effects treat the target as if it were a creature of that type or of that alignment.
+**_Mask._** You change the way the target appears to tek skills and tek effects that detect creature types, such as a guardian’s Divine Sense or the trigger of a _symbol_ tek skill. You choose a creature type and other tek skills and tek effects treat the target as if it were a creature of that type or of that alignment.
 
 ##### Astral Projection
 
@@ -6212,7 +6212,7 @@ You create a floating, spectral weapon within range that lasts for the duration 
 
 As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.
 
-The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this tek skill’s effect resemble that weapon.
+The weapon can take whatever form you choose. Priest s of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this tek skill’s effect resemble that weapon.
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
 
@@ -6448,7 +6448,7 @@ The destination you choose must be known to you, and it must be on the same plan
 | Description       | 01–43  | 44–53        | 54–73      | 74–100    |
 | False destination | 01–50  | 51–100       | —          | —         |
 
-**_Familiarity._** “Permanent circle” means a permanent teleportation circle whose sigil sequence you know. “Associated object” means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.
+**_Familiarity._** “Permanent circle” means a permanent teleportation circle whose sigil sequence you know. “Associated object” means that you possess an object taken from the desired destination within the last six months, such as a book from a arcanist’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.
 
 “Very familiar” is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the tek skill. “Seen casually” is someplace you have seen more than once but with which you aren’t very familiar. “Viewed once” is a place you have seen once, possibly using tek. “Description” is a place whose location and appearance you know through someone else’s description, perhaps from a map.
 
@@ -6458,7 +6458,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 **_Off Target._** You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is 1d10 × 1d10 percent of the distance that was to be traveled. For example, if you tried to travel 120 miles, landed off target, and rolled a 5 and 3 on the two d10s, then you would be off target by 15 percent, or 18 miles. The GM determines the direction off target randomly by rolling a d8 and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.
 
-**_Similar Area._** You and your group (or the target object) wind up in a different area that’s visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another wizard’s laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the tek skill has no range limit, you could conceivably wind up anywhere on the plane.
+**_Similar Area._** You and your group (or the target object) wind up in a different area that’s visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another arcanist’s laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the tek skill has no range limit, you could conceivably wind up anywhere on the plane.
 
 **_Mishap._** The tek skill’s unpredictable tek results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 

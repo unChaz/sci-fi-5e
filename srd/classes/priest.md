@@ -1,16 +1,16 @@
-### Cleric
+### Priest
 
 #### Class Features
 
-As a cleric, you gain the following class features.
+As a priest, you gain the following class features.
 
 ##### Hit Points
 
-**Hit Dice:** 1d8 per cleric level
+**Hit Dice:** 1d8 per priest level
 
 **Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per cleric level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per priest level after 1st
 
 ##### Proficiencies
 
@@ -37,29 +37,29 @@ You start with the following equipment, in addition to the equipment granted by 
 
 #### Tekcasting
 
-As a conduit for divine power, you can cast cleric tek skills.
+As a conduit for divine power, you can cast priest tek skills.
 ```
 ```
 
 
 ##### Cantrips
 
-At 1st level, you know three cantrips of your choice from the cleric tek skill list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
+At 1st level, you know three cantrips of your choice from the priest tek skill list. You learn additional priest cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Priest table.
 
 ##### Preparing and Casting Tek Skills
 
-The Cleric table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Priest table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
 
-You prepare the list of cleric tek skills that are available for you to cast, choosing from the cleric tek skill list. When you do so, choose a number of cleric tek skills equal to your Wisdom modifier + your cleric level (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
+You prepare the list of priest tek skills that are available for you to cast, choosing from the priest tek skill list. When you do so, choose a number of priest tek skills equal to your Wisdom modifier + your priest level (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
-For example, if you are a 3rd-level cleric, you have four
+For example, if you are a 3rd-level priest, you have four
 1st-level and two 2nd-level tek skill slots. With a Wisdom of 16, your list of prepared tek skills can include six tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
 
-You can change your list of prepared tek skills when you finish a long rest. Preparing a new list of cleric tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
+You can change your list of prepared tek skills when you finish a long rest. Preparing a new list of priest tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
 
 ##### Tekcasting Ability
 
-Wisdom + Will is your Tekcasting ability for your cleric tek skills. The power of your tek skills comes from your devotion to your deity. You use your Wisdom whenever a cleric tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric tek skill you cast and when making an attack roll with one.
+Wisdom + Will is your Tekcasting ability for your priest tek skills. The power of your tek skills comes from your devotion to your deity. You use your Wisdom whenever a priest tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a priest tek skill you cast and when making an attack roll with one.
 
 **Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
 
@@ -67,11 +67,11 @@ Wisdom + Will is your Tekcasting ability for your cleric tek skills. The power o
 
 ##### Ritual Casting
 
-You can cast a cleric tek skill as a ritual if that tek skill has the ritual tag and you have the tek skill prepared.
+You can cast a priest tek skill as a ritual if that tek skill has the ritual tag and you have the tek skill prepared.
 
 #### Tekcasting Focus
 
-You can use a holy symbol (see chapter 5, “Equipment”) as a Tekcasting focus for your cleric tek skills.
+You can use a holy symbol (see chapter 5, “Equipment”) as a Tekcasting focus for your priest tek skills.
 
 #### Divine Domain
 
@@ -79,7 +79,7 @@ Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest
 
 \page
 <div class='wide'>
-  ##### The  Cleric (table)
+  ##### The  Priest (table)
 
 | Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|-------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -106,9 +106,9 @@ Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest
 </div>
 ##### Domain Tek Skills
 
-Each domain has a list of tek skills—its domain tek skills— that you gain at the cleric levels noted in the domain description. Once you gain a domain tek skill, you always have it prepared, and it doesn’t count against the number of tek skills you can prepare each day.
+Each domain has a list of tek skills—its domain tek skills— that you gain at the priest levels noted in the domain description. Once you gain a domain tek skill, you always have it prepared, and it doesn’t count against the number of tek skills you can prepare each day.
 
-If you have a domain tek skill that doesn’t appear on the cleric tek skill list, the tek skill is nonetheless a cleric tek skill for you.
+If you have a domain tek skill that doesn’t appear on the priest tek skill list, the tek skill is nonetheless a priest tek skill for you.
 
 #### Channel Divinity
 
@@ -116,7 +116,7 @@ At 2nd level, you gain the ability to channel divine energy directly from your d
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric tek skill save DC.
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your priest tek skill save DC.
 
 Beginning at 6th level, you can use your Channel
 
@@ -143,7 +143,7 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 
 **Destroy Undead (table)**
 
-| Cleric Level | Destroys Undead of CR... |
+| Priest Level | Destroys Undead of CR... |
 |--------------|--------------------------|
 | 5th          | 1/2 or lower             |
 | 8th          | 1 or lower               |
@@ -155,13 +155,13 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
-Imploring your deity’s aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The GM chooses the nature of the intervention; the effect of any cleric tek skill or cleric domain tek skill would be appropriate.
+Imploring your deity’s aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your priest level, your deity intervenes. The GM chooses the nature of the intervention; the effect of any priest tek skill or priest domain tek skill would be appropriate.
 
 If your deity intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-#### Cleric Domains
+#### Priest Domains
 
 ##### Life Domain
 
@@ -169,7 +169,7 @@ The Life domain focuses on the vibrant positive energy—one of the fundamental 
 
 **Life Domain Tek Skills (table)**
 
-| Cleric Level | Tek Skills                               |
+| Priest Level | Tek Skills                               |
 |--------------|--------------------------------------|
 | 1st          | bless, cure wounds                   |
 | 3rd          | lesser restoration, spiritual weapon |
@@ -189,7 +189,7 @@ Also starting at 1st level, your healing tek skills are more effective. Whenever
 
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
 
-As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can’t use this feature on an undead or a construct.
+As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your priest level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can’t use this feature on an undead or a construct.
 
 ###### Blessed Healer
 

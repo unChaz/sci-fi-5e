@@ -1,6 +1,6 @@
 ### Backgrounds
 
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
+Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous knight or a grizzled soldier. Your arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
 Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
@@ -78,7 +78,6 @@ Criminal Contact: You have a reliable and trustworthy contact who acts as your l
 ```
 ```
 
-
 ## Smuggler
 You make your living sneaking illegal goods past Authority checkpoints. You’re good with your tongue, and even better in a cockpit.
 
@@ -100,7 +99,7 @@ Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker’s Tools, Medkit]
 
 You’ve spent some time in the military. You have been trained by the best of the best, and are a war hardened veteran.
 
-Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
+Skill Proficiencies: Physique. Choose 1 from [Physique, Intimidation, Medic]
 Tool Proficiencies: Medkit
 Weapon Proficiencies: Rail Rifle
 Armor Proficiencies: Scarab Skin
@@ -110,7 +109,7 @@ Armor Proficiencies: Scarab Skin
 ## Praetor
 You come from one of the elite houses that owns a large corporation, or you have been honored as a lancer of one of these elite houses. You maintain the rank of knight. As a member or lancer of an elite house you always have your house in the best interest.
 
-Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
+Skill Proficiencies: Physique. Choose 1 from [Physique, Intimidation, Medic]
 Tool Proficiencies: Choose 1 from [Botanist’s Kit, Musical Instrument, Disguise Kit]
 Weapon Proficiencies: Pulse Rapier/Pulse Whip
 

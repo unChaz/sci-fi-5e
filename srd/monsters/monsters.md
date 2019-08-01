@@ -285,7 +285,7 @@ A monster’s innate tek skills can’t be swapped out with other tek skills. If
 
 A monster with the Tekcasting special trait has a tekcaster level and tek skill slots, which it uses to cast its tek skills of 1st level and higher (as explained in the _Player’s Handbook_). The tekcaster level is also used for any cantrips included in the feature.
 
-The monster has a list of tek skills known or prepared from a specific class. The list might also include tek skills from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a alien artifact that requires membership in the class or access to its tek skill list.
+The monster has a list of tek skills known or prepared from a specific class. The list might also include tek skills from a feature in that class, such as the Divine Domain feature of the priest or the Morph Circle feature of the morph. The monster is considered a member of that class when attuning to or using a alien artifact that requires membership in the class or access to its tek skill list.
 
 A monster can cast a tek skill from its list at a higher level if it has the tek skill slot to do so. For example, a drow mage with the 3rd-level _lightning bolt_ tek skill can cast it as a 5th-level tek skill by using one of its 5th-level greater or lesser threat than suggested by its challenge rating.
 
@@ -3716,7 +3716,7 @@ _Gargantuan dragon, lawful good_
 
 **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 
-**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+**Skills** Knowledge +11, History +11, Perception +16, Stealth +7
 
 **Damage Immunities** cold
 
@@ -3776,7 +3776,7 @@ _Huge dragon, lawful good_
 
 **Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
 
-**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+**Skills** Knowledge +8, History +8, Perception +11, Stealth +5
 
 **Damage Immunities** cold
 
@@ -3836,7 +3836,7 @@ _Large dragon, lawful good_
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
 
-**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+**Skills** Knowledge +6, History +6, Perception +8, Stealth +4
 
 **Damage Immunities** cold
 
@@ -4003,7 +4003,7 @@ _Medium fey, neutral_
 
 **_Innate Tekcasting_**. The dryad’s innate Tekcasting ability is Charisma (tek skill save DC 14). The dryad can innately cast the following tek skills, requiring no material components:
 
-At will: _druidcraft_
+At will: _morphcraft_
 3/day each: _entangle_, _goodberry_
 1/day each: _barkskin_, _pass without trace_, _shillelagh_
 
@@ -4817,7 +4817,7 @@ _Huge giant, chaotic good_
 
 **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
 
-**Skills** Arcana +8, Physique +14, History +8, Perception +9
+**Skills** Knowledge +8, Physique +14, History +8, Perception +9
 
 **Damage Resistances** cold
 
@@ -5295,7 +5295,7 @@ _Medium fey, neutral evil_
 |---------|---------|---------|---------|---------|---------|
 | 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
 
-**Skills** Arcana +3, Charm +4, Perception +4, Stealth +3
+**Skills** Knowledge +3, Charm +4, Perception +4, Stealth +3
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -5846,7 +5846,7 @@ _Medium undead, any evil alignment_
 
 **Saving Throws** Con +10, Int +12, Wis +9
 
-**Skills** Arcana +18, History +12, Insight +9, Perception +9
+**Skills** Knowledge +18, History +12, Insight +9, Perception +9
 
 **Damage Resistances** cold, lightning, radiation
 
@@ -5864,7 +5864,7 @@ _Medium undead, any evil alignment_
 
 **_Rejuvenation_**. If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
-**_Tekcasting_**. The lich is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 20, +12 to hit with tek skill attacks). The lich has the following wizard tek skills prepared:
+**_Tekcasting_**. The lich is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 20, +12 to hit with tek skill attacks). The lich has the following arcanist tek skills prepared:
 
 Cantrips (at will): _mage hand_, _prestidigitation_, _ray of frost_
 1st level (4 slots): _detect tek_, _tek missile_, _shield_, _shockwave_
@@ -6593,7 +6593,7 @@ _Medium undead, lawful evil_
 
 **_Rejuvenation_**. A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord’s heart.
 
-**_Tekcasting_**. The mummy lord is a 10th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 17, +9 to hit with tek skill attacks). The mummy lord has the following cleric tek skills prepared:
+**_Tekcasting_**. The mummy lord is a 10th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 17, +9 to hit with tek skill attacks). The mummy lord has the following priest tek skills prepared:
 
 Cantrips (at will): _sacred flame_, _thaumaturgy_
 1st level (4 slots): _command_, _guiding bolt_, _shield of faith_
@@ -6659,7 +6659,7 @@ _Large monstrosity, lawful good_
 
 **_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ tek skill can prevent this trait from functioning.
 
-**_Tekcasting_**. The naga is an 11th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 16, +8 to hit with tek skill attacks), and it needs only verbal components to cast its tek skills. It has the following cleric tek skills prepared:
+**_Tekcasting_**. The naga is an 11th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 16, +8 to hit with tek skill attacks), and it needs only verbal components to cast its tek skills. It has the following priest tek skills prepared:
 
 Cantrips (at will): _mending_, _sacred flame_, _thaumaturgy_
 1st level (4 slots): _command_, _cure wounds_, _shield of faith_
@@ -6702,7 +6702,7 @@ _Large monstrosity, chaotic evil_
 
 **_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ tek skill can prevent this trait from functioning.
 
-**_Tekcasting_**. The naga is a 10th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks), and it needs only verbal components to cast its tek skills. It has the following wizard tek skills prepared:
+**_Tekcasting_**. The naga is a 10th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks), and it needs only verbal components to cast its tek skills. It has the following arcanist tek skills prepared:
 
 Cantrips (at will): _mage hand_, _minor illusion_, _ray of frost_
 1st level (4 slots): _charm person_, _detect tek_, _sleep_
@@ -6791,7 +6791,7 @@ _Large giant, lawful evil_
 
 **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5
 
-**Skills** Arcana +5, Charm +8, Perception +4
+**Skills** Knowledge +5, Charm +8, Perception +4
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -7654,7 +7654,7 @@ _Large undead, lawful evil_
 
 _Large undead, lawful evil_
 
-**Armor Class** 13 (barding scraps)
+**Armor Class** 13 (evangelisting scraps)
 
 **Hit Points** 22 (3d10 + 6)
 
@@ -7732,7 +7732,7 @@ _Large monstrosity, lawful neutral_
 
 **Saving Throws** Dex +6, Con +11, Int +9, Wis +10
 
-**Skills** Arcana +9, Perception +10, Religion +15
+**Skills** Knowledge +9, Perception +10, Religion +15
 
 **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nontek attacks
 
@@ -7748,7 +7748,7 @@ _Large monstrosity, lawful neutral_
 
 **_Tek Weapons_**. The sphinx’s weapon attacks are tek.
 
-**_Tekcasting_**. The sphinx is a 12th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 18, +10 to hit with tek skill attacks). It requires no material components to cast its tek skills. The sphinx has the following cleric tek skills prepared:
+**_Tekcasting_**. The sphinx is a 12th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 18, +10 to hit with tek skill attacks). It requires no material components to cast its tek skills. The sphinx has the following priest tek skills prepared:
 
 Cantrips (at will): _sacred flame_, _spare the dying_, _thaumaturgy_
 1st level (4 slots): _command_, _detect evil and good_, _detect tek_
@@ -7796,7 +7796,7 @@ _Large monstrosity, lawful neutral_
 |---------|---------|---------|---------|---------|---------|
 | 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
 
-**Skills** Arcana +12, History +12, Perception +8, Religion +8
+**Skills** Knowledge +12, History +12, Perception +8, Religion +8
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
@@ -7814,7 +7814,7 @@ _Large monstrosity, lawful neutral_
 
 **_Tek Weapons_**. The sphinx’s weapon attacks are tek.
 
-**_Tekcasting_**. The sphinx is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 16, +8 to hit with tek skill attacks). It requires no material components to cast its tek skills. The sphinx has the following wizard tek skills prepared:
+**_Tekcasting_**. The sphinx is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 16, +8 to hit with tek skill attacks). It requires no material components to cast its tek skills. The sphinx has the following arcanist tek skills prepared:
 
 Cantrips (at will): _mage hand_, _minor illusion_, _prestidigitation_
 1st level (4 slots): _detect tek_, _identify_, _shield_
@@ -8024,7 +8024,7 @@ _Huge plant, chaotic good_
 
 **Senses** passive Perception 13
 
-**Languages** Common, Druidic, Elvish, Sylvan
+**Languages** Common, Morphic, Elvish, Sylvan
 
 **Challenge** 9 (5,000 XP)
 
@@ -8106,7 +8106,7 @@ _Large celestial**,** lawful good_
 
 **_Innate Tekcasting_**. The unicorn’s innate Tekcasting ability is Charisma (tek skill save DC 14). The unicorn can innately cast the following tek skills, requiring no components:
 
-At will: _detect evil and good_, _druidcraft_, _pass without trace_
+At will: _detect evil and good_, _morphcraft_, _pass without trace_
 1/day each: _calm emotions_, _dispel evil and good_, _entangle_
 
 **_Tek Resistance_**. The unicorn has advantage on saving throws against tek skills and other tek effects.

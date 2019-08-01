@@ -9,7 +9,7 @@ This appendix contains statistics for various humanoid non-player characters (NP
 
 There are many easy ways to customize the NPCs in this appendix for your home campaign.
 
-**_Racial Traits_**. You can add racial traits to an NPC. For example, a halfling druid might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn’t alter its challenge rating. For more on racial traits, see the _Player’s Handbook_.
+**_Racial Traits_**. You can add racial traits to an NPC. For example, a halfling morph might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn’t alter its challenge rating. For more on racial traits, see the _Player’s Handbook_.
 
 **_Tek Swaps_**. One way to customize an NPC tekcaster is to replace one or more of its tek skills. You can substitute any tek skill on the NPC’s tek skill list with a different tek skill of the same level from the same tek skill list. Swapping tek skills in this manner doesn’t alter an NPC’s challenge rating.
 
@@ -35,7 +35,7 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 1/4 (50 XP)
 
-**_Tekcasting_**. The acolyte is a 1st-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 12, +4 to hit with tek skill attacks). The acolyte has following cleric tek skills prepared:
+**_Tekcasting_**. The acolyte is a 1st-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 12, +4 to hit with tek skill attacks). The acolyte has following priest tek skills prepared:
 
 Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 
@@ -63,7 +63,7 @@ _Medium humanoid (any race), any alignment_
 
 **Saving Throws** Int +9, Wis +6
 
-**Skills** Arcana +13, History +13
+**Skills** Knowledge +13, History +13
 
 **Damage Resistance** damage from tek skills; nontek bludgeoning, piercing, and slashing (from _stoneskin_)
 
@@ -75,7 +75,7 @@ _Medium humanoid (any race), any alignment_
 
 **_Tek Resistance_**. The archmage has advantage on saving throws against tek skills and other tek effects.
 
-**_Tekcasting_**. The archmage is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 17, +9 to hit with tek skill attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following wizard tek skills prepared:
+**_Tekcasting_**. The archmage is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 17, +9 to hit with tek skill attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following arcanist tek skills prepared:
 
 Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_, _concussiveing grasp_
 1st level (4 slots): _detect tek_, _identify_, _mage armor_\*, _tek missile_
@@ -314,7 +314,7 @@ _Medium humanoid (any race), any non-good alignment_
 
 **_Dark Devotion_**. The fanatic has advantage on saving throws against being charmed or frightened.
 
-**_Tekcasting_**. The fanatic is a 4th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 11, +3 to hit with tek skill attacks). The fanatic has the following cleric tek skills prepared:
+**_Tekcasting_**. The fanatic is a 4th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 11, +3 to hit with tek skill attacks). The fanatic has the following priest tek skills prepared:
 
 Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 1st level (4 slots): _command_, _inflict wounds_, _shield of faith_
@@ -328,7 +328,7 @@ Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 
 **Fanatics** are often part of a cult’s leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
 
-### Druid
+### Morph
 
 _Medium humanoid (any race), any alignment_
 
@@ -344,11 +344,11 @@ _Medium humanoid (any race), any alignment_
 
 **Skills** Medicine +4, Nature +3, Perception +4
 
-**Senses** passive Perception 14 **Languages** Druidic plus any two languages **Challenge** 2 (450 XP)
+**Senses** passive Perception 14 **Languages** Morphic plus any two languages **Challenge** 2 (450 XP)
 
-**_Tekcasting_**. The druid is a 4th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 12, +4 to hit with tek skill attacks). It has the following druid tek skills prepared:
+**_Tekcasting_**. The morph is a 4th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 12, +4 to hit with tek skill attacks). It has the following morph tek skills prepared:
 
-Cantrips (at will): _druidcraft_, _produce flame_, _shillelagh_
+Cantrips (at will): _morphcraft_, _produce flame_, _shillelagh_
 1st level (4 slots): _entangle_, _longstrider_, _speak with animals_, _shockwave_
 2nd level (3 slots): _animal messenger_, _barkskin_
 
@@ -356,7 +356,7 @@ Cantrips (at will): _druidcraft_, _produce flame_, _shillelagh_
 
 **_Bowstaff_**. _Melee Weapon Attack:_ +2 to hit (+4 to hit with _shillelagh_), reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with _shillelagh_.
 
-**Druids** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
+**Morphs** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
 ### Gladiator
 
@@ -398,7 +398,7 @@ _Medium humanoid (any race), any alignment_
 
 **_Parry_**. The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 
-**Gladiators** battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
+**Gladiators** battle for the entertainment of raucous crowds. Some gladiators are brutal pit soldiers who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
 
 ### Guard
 
@@ -484,7 +484,7 @@ _Medium humanoid (any race), any alignment_
 
 **Saving Throws** Int +6, Wis +4
 
-**Skills** Arcana +6, History +6
+**Skills** Knowledge +6, History +6
 
 **Senses** passive Perception 11
 
@@ -492,7 +492,7 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 6 (2,300 XP)
 
-**_Tekcasting_**. The mage is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks). The mage has the following wizard tek skills prepared:
+**_Tekcasting_**. The mage is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks). The mage has the following arcanist tek skills prepared:
 
 Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_
 1st level (4 slots): _detect tek_, _mage armor_, _tek missile_, _shield_
@@ -565,7 +565,7 @@ _Medium humanoid (any race), any alignment_
 
 **_Divine Eminence_**. As a bonus action, the priest can expend a tek skill slot to cause its melee weapon attacks to deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a tek skill slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 
-**_Tekcasting_**. The priest is a 5th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 13, +5 to hit with tek skill attacks). The priest has the following cleric tek skills prepared:
+**_Tekcasting_**. The priest is a 5th-level tekcaster. Its Tekcasting ability is Wisdom (tek skill save DC 13, +5 to hit with tek skill attacks). The priest has the following priest tek skills prepared:
 
 Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 1st level (4 slots): _cure wounds_, _guiding bolt_, _sanctuary_
@@ -744,4 +744,4 @@ _Medium humanoid (any race), any alignment_
 
 **_Heavy Crossbow_**. _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage.
 
-**Veterans** are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
+**Veterans** are professional soldiers that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.

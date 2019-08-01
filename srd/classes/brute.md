@@ -1,16 +1,16 @@
-### Barbarian
+### Brute
 
 #### Class Features
 
-As a barbarian, you gain the following class features.
+As a brute, you gain the following class features.
 
 ##### Hit Points
 
-**Hit Dice:** 1d12 per barbarian level
+**Hit Dice:** 1d12 per brute level
 
 **Hit Points at 1st Level:** 12 + your Constitution Modifier + Will modifier
 
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution Modifier + Will modifier per barbarian level after 1st
+**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution Modifier + Will modifier per brute level after 1st
 
 ##### Proficiencies
 
@@ -34,7 +34,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \page
 
-**The Barbarian (table)**
+**The Brute (table)**
 
 | Level  | Proficiency Bonus | Features                      | Rages     | Rage Damage |
 |--------|-------------------|-------------------------------|-----------|-------------|
@@ -66,17 +66,16 @@ In battle, you fight with primal ferocity. On your turn, you can enter a rage as
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
 
 * You have advantage on Strength checks and Strength saving throws.
-* When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+* When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a brute, as shown in the Rage Damage column of the Brute table.
 * You have resistance to bludgeoning, piercing, and slashing damage.
 
 If you are able to cast tek skills, you can’t cast them or concentrate on them while raging.
 ```
 ```
 
-
 Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
-Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
+Once you have raged the number of times shown for your brute level in the Rages column of the Brute table, you must finish a long rest before you can rage again.
 
 #### Unarmored Defense
 
@@ -108,12 +107,18 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor.
 
+#### Heavily Armored
+
+Starting at 5th level, you gain proficiency with heavy armor.
+
 #### Feral Instinct
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
 Additionally, if you are surprised at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+
 \page
+
 #### Brutal Critical
 
 Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
@@ -138,11 +143,11 @@ Beginning at 18th level, if your total for a Strength check is less than your St
 
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
-#### Barbarian Paths
+#### Brute Paths
 
 ##### Path of the Berserker
 
-For some barbarians, rage is a means to an end— that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-being.
+For some brutes, rage is a means to an end— that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
 ###### Frenzy
 

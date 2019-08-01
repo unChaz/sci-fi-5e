@@ -54,6 +54,3 @@ A poisoner's kit includes the vials, chemicals, and other equipment necessary fo
 ## Thieves' Tools
 This set of tools includes a datapad, a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or pick physical locks as well as hack electronic locks.
 Slicer’s Kit. This set of devices allows you to hack into computer systems using a Slicing check.
-
-## Medkit
-This is a simple medic’s toolkit to perform any basic field treatment.

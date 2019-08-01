@@ -1,16 +1,18 @@
-### Paladin
+### Guardian
+
+Guardians are warriors who pledged an oath to a cause. In exchange for their oaths they have been given a tekcaster and the secret of casting Guardian tekskills.
 
 #### Class Features
 
-As a paladin, you gain the following class features.
+As a guardian, you gain the following class features.
 
 ##### Hit Points
 
-**Hit Dice:** 1d10 per paladin level
+**Hit Dice:** 1d10 per guardian level
 
 **Hit Points at 1st Level:** 10 + your Constitution Modifier + Will modifier
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per paladin level after 1st
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per guardian level after 1st
 
 ##### Proficiencies
 
@@ -32,7 +34,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a chaplin's pack or (*b*) a field survival kit
 * scarab skin and a holy symbol
 
-**The Paladin (table)**
+**The Guardian (table)**
 
 | Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
@@ -67,7 +69,7 @@ You can use this feature a number of times equal to 1 + your Charisma modifier. 
 
 #### Lay on Hands
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your guardian level × 5.
 
 As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
 
@@ -97,21 +99,21 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 #### Tekcasting
 
-By 2nd level, you have learned to draw on divine tek through meditation and prayer to cast tek skills as a cleric does.
+By 2nd level, you have learned to draw on divine tek through meditation and prayer to cast tek skills as a priest does.
 
 ##### Preparing and Casting Tek Skills
 
-The Paladin table shows how many tek skill slots you have to cast your tek skills. To cast one of your paladin tek skills of 1st level or higher, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Guardian table shows how many tek skill slots you have to cast your tek skills. To cast one of your guardian tek skills of 1st level or higher, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
 
-You prepare the list of paladin tek skills that are available for you to cast, choosing from the paladin tek skill list. When you do so, choose a number of paladin tek skills equal to your Charisma modifier + half your paladin level, rounded down (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
+You prepare the list of guardian tek skills that are available for you to cast, choosing from the guardian tek skill list. When you do so, choose a number of guardian tek skills equal to your Charisma modifier + half your guardian level, rounded down (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level tek skill slots. With a Charisma of 14, your list of prepared tek skills can include four tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
+For example, if you are a 5th-level guardian, you have four 1st-level and two 2nd-level tek skill slots. With a Charisma of 14, your list of prepared tek skills can include four tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
 
-You can change your list of prepared tek skills when you finish a long rest. Preparing a new list of paladin tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
+You can change your list of prepared tek skills when you finish a long rest. Preparing a new list of guardian tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
 
 ##### Tekcasting Ability
 
-Charisma + Will is your Tekcasting ability for your paladin tek skills, since their power derives from the strength of your convictions. You use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin tek skill you cast and when making an attack roll with one.
+Charisma + Will is your Tekcasting ability for your guardian tek skills, since their power derives from the strength of your convictions. You use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a guardian tek skill you cast and when making an attack roll with one.
 
 **Tek save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
 
@@ -119,7 +121,7 @@ Charisma + Will is your Tekcasting ability for your paladin tek skills, since th
 
 ##### Tekcasting Focus
 
-You can use a holy symbol as a Tekcasting focus for your paladin tek skills.
+You can use a holy symbol as a Tekcasting focus for your guardian tek skills.
 
 #### Divine Smite
 
@@ -131,7 +133,7 @@ By 3rd level, the divine tek flowing through you makes you immune to disease.
 
 #### Sacred Oath
 
-When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion, the Oath of the Ancients, or the Oath of Vengeance, all detailed at the end of the class description.
+When you reach 3rd level, you swear the oath that binds you as a guardian forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion, the Oath of the Ancients, or the Oath of Vengeance, all detailed at the end of the class description.
 
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath tek skills and the Channel Divinity feature.
 
@@ -139,7 +141,7 @@ Your choice grants you features at 3rd level and again at 7th, 15th, and 20th le
 
 Each oath has a list of associated tek skills. You gain access to these tek skills at the levels specified in the oath description. Once you gain access to an oath tek skill, you always have it prepared. Oath tek skills don’t count against the number of tek skills you can prepare each day.
 
-If you gain an oath tek skill that doesn’t appear on the paladin tek skill list, the tek skill is nonetheless a paladin tek skill for you.
+If you gain an oath tek skill that doesn’t appear on the guardian tek skill list, the tek skill is nonetheless a guardian tek skill for you.
 
 ##### Channel Divinity
 
@@ -147,7 +149,7 @@ Your oath allows you to channel divine energy to fuel tek effects. Each Channel 
 
 When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin tek skill save DC.
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your guardian tek skill save DC.
 
 #### Ability Score Improvement
 
@@ -181,15 +183,15 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 #### Sacred Oaths
 
-Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
+Becoming a guardian involves taking vows that commit the guardian to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the guardian’s training. Some characters with this class don’t consider themselves true guardians until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the guardian’s heart.
 
 ##### Oath of Devotion
 
-The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these guardians meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
 ###### Tenets of Devotion
 
-Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
+Though the exact words and strictures of the Oath of Devotion vary, guardians of this oath share these tenets.
 
 **_Honesty._** Don’t lie or cheat. Let your word be your promise.
 
@@ -203,11 +205,11 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 
 ###### Oath Tek Skills
 
-You gain oath tek skills at the paladin levels listed.
+You gain oath tek skills at the guardian levels listed.
 
 **Oath of Devotion Tek Skills (table)**
 
-| Level | Paladin Tek Skills                           |
+| Level | Guardian Tek Skills                           |
 |-------|------------------------------------------|
 | 3rd   | protection from evil and good, sanctuary |
 | 5th   | lesser restoration, zone of truth        |
@@ -249,8 +251,8 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 > #### Breaking Your Oath
 >
-> A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
+> A guardian tries to hold to the highest standards of conduct, but even the most virtuous guardian is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a guardian to transgress his or her oath.
 >
-> A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
+> A guardian who has broken a vow typically seeks absolution from a priest who shares his or her faith or from another guardian of the same order. The guardian might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the guardian starts fresh.
 >
-> If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another.
+> If a guardian willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent guardian might be forced to abandon this class and adopt another.

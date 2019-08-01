@@ -126,21 +126,21 @@ A focus is a small device that through a series of voice, movements, and occasio
 > #### Knowledge
 > One method to cast “tek skills” is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting “tek skills”.
 >
-> Classes that use this type of “tek” are Cleric, Druid, Ranger, Warlock, and Wizard.
+> Classes that use this type of “tek” are Priest , Morph, Scout, Cybernetic, and Arcanist.
 >
 > #### Genetic Alteration
 > Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize “tek skills”, but you must be equipped with an adequate sleeve that has been genetically modified.
 >
 > Usually sleeves with above average Charisma or Constitution are better suited to this type of casting.
 >
-> Classes that use this type of “tek” are Bards, Paladins, and Sorcerers.
+> Classes that use this type of “tek” are Evangelists, Guardians, and Scions.
 
 
 ```
 ```
 
 ### Willpower
-Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s “tek” ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Bard, which uses their Wit and Charisma score since their tek is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s “tek” ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
@@ -242,7 +242,7 @@ Humans typically learn the languages of other peoples they deal with, including 
 \page
 ## Backgrounds
 
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
+Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous knight or a grizzled soldier. Your arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
 Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
