@@ -4,7 +4,7 @@
 >
 > **_Burglar’s Pack (1600 credits)._**  Includes a backpack, a bag of 1,000 ball bearings, 10 feet of micro fiber optic cable, a smoke-can, 5 flares, a crowbar, a hammer, mag-gloves, night-vision goggles, 2 multi-use batteries, 5 days rations, a datapad, and a canteen. The pack also has 50 feet of microfiber rope strapped to the side of it.
 >
-> **_Diplomat’s Pack (3900 credits)._** Includes a footlocker, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+> **_Diplomat’s Pack (3900 credits)._** Includes a footlocker, 2 cases for maps and datacubes, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 >
 > **_Incursion Pack (1200 credits)._** Includes a backpack, a crowbar, a hammer, mag-gloves, a flashlight, a datapad, 10 days of rations, and a canteen. The backpack also has 50 feet of microfiber rope strapped to the side of it.
 >

@@ -3716,7 +3716,7 @@ _Gargantuan dragon, lawful good_
 
 **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 
-**Skills** Knowledge +11, History +11, Perception +16, Stealth +7
+**Skills** History +11, History +11, Perception +16, Stealth +7
 
 **Damage Immunities** cold
 
@@ -3776,7 +3776,7 @@ _Huge dragon, lawful good_
 
 **Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
 
-**Skills** Knowledge +8, History +8, Perception +11, Stealth +5
+**Skills** History +8, History +8, Perception +11, Stealth +5
 
 **Damage Immunities** cold
 
@@ -3836,7 +3836,7 @@ _Large dragon, lawful good_
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
 
-**Skills** Knowledge +6, History +6, Perception +8, Stealth +4
+**Skills** History +6, History +6, Perception +8, Stealth +4
 
 **Damage Immunities** cold
 
@@ -4817,7 +4817,7 @@ _Huge giant, chaotic good_
 
 **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
 
-**Skills** Knowledge +8, Physique +14, History +8, Perception +9
+**Skills** History +8, Physique +14, History +8, Perception +9
 
 **Damage Resistances** cold
 
@@ -5295,7 +5295,7 @@ _Medium fey, neutral evil_
 |---------|---------|---------|---------|---------|---------|
 | 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
 
-**Skills** Knowledge +3, Charm +4, Perception +4, Stealth +3
+**Skills** History +3, Charm +4, Perception +4, Stealth +3
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -5846,7 +5846,7 @@ _Medium undead, any evil alignment_
 
 **Saving Throws** Con +10, Int +12, Wis +9
 
-**Skills** Knowledge +18, History +12, Insight +9, Perception +9
+**Skills** History +18, History +12, Insight +9, Perception +9
 
 **Damage Resistances** cold, lightning, radiation
 
@@ -5864,7 +5864,7 @@ _Medium undead, any evil alignment_
 
 **_Rejuvenation_**. If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
-**_Tekcasting_**. The lich is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 20, +12 to hit with tek skill attacks). The lich has the following arcanist tek skills prepared:
+**_Tekcasting_**. The lich is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 20, +12 to hit with tek skill attacks). The lich has the following Arcanist tek skills prepared:
 
 Cantrips (at will): _mage hand_, _prestidigitation_, _ray of frost_
 1st level (4 slots): _detect tek_, _tek missile_, _shield_, _shockwave_
@@ -6702,7 +6702,7 @@ _Large monstrosity, chaotic evil_
 
 **_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _wish_ tek skill can prevent this trait from functioning.
 
-**_Tekcasting_**. The naga is a 10th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks), and it needs only verbal components to cast its tek skills. It has the following arcanist tek skills prepared:
+**_Tekcasting_**. The naga is a 10th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks), and it needs only verbal components to cast its tek skills. It has the following Arcanist tek skills prepared:
 
 Cantrips (at will): _mage hand_, _minor illusion_, _ray of frost_
 1st level (4 slots): _charm person_, _detect tek_, _sleep_
@@ -6791,7 +6791,7 @@ _Large giant, lawful evil_
 
 **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5
 
-**Skills** Knowledge +5, Charm +8, Perception +4
+**Skills** History +5, Charm +8, Perception +4
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -7732,7 +7732,7 @@ _Large monstrosity, lawful neutral_
 
 **Saving Throws** Dex +6, Con +11, Int +9, Wis +10
 
-**Skills** Knowledge +9, Perception +10, Religion +15
+**Skills** History +9, Perception +10, Religion +15
 
 **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nontek attacks
 
@@ -7796,7 +7796,7 @@ _Large monstrosity, lawful neutral_
 |---------|---------|---------|---------|---------|---------|
 | 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
 
-**Skills** Knowledge +12, History +12, Perception +8, Religion +8
+**Skills** History +12, History +12, Perception +8, Religion +8
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nontek attacks
 
@@ -7814,7 +7814,7 @@ _Large monstrosity, lawful neutral_
 
 **_Tek Weapons_**. The sphinx’s weapon attacks are tek.
 
-**_Tekcasting_**. The sphinx is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 16, +8 to hit with tek skill attacks). It requires no material components to cast its tek skills. The sphinx has the following arcanist tek skills prepared:
+**_Tekcasting_**. The sphinx is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 16, +8 to hit with tek skill attacks). It requires no material components to cast its tek skills. The sphinx has the following Arcanist tek skills prepared:
 
 Cantrips (at will): _mage hand_, _minor illusion_, _prestidigitation_
 1st level (4 slots): _detect tek_, _identify_, _shield_

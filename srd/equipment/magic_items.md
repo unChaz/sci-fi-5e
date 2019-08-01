@@ -777,7 +777,7 @@ The jetpack gives you a flying speed of 60 feet for 1 hour. You can’t use them
 
 Some alien artifacts possess sentience and personality; self-aware thanks to the tek used to create it. The item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
 
-Most sentient items are weapons. Other kinds of items can manifest sentience, but consumable items such as potions and scrolls are never sentient.
+Most sentient items are weapons. Other kinds of items can manifest sentience, but consumable items such as potions and datacubes are never sentient.
 
 Sentient alien artifacts function as NPCs under the GM’s control. Any activated property of the item is under the item’s control, not its wielder’s. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
 
@@ -833,7 +833,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 | d10 | Purpose                                                                                                                                  |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | _Aligned:_ The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
-| 2   | _Bane:_ The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or arcanists.           |
+| 2   | _Bane:_ The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or Arcanists.           |
 | 3   | _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or morphs.                                    |
 | 4   | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
 | 5   | _Templar_: The item seeks to defend the servants and interests of a particular deity.                                                    |

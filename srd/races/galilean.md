@@ -21,4 +21,4 @@ Your sleeve has grown acustomed to living in harsh conditions. You have proficie
 **_Languages._** You can speak, read, and write English, Chinese and one extra language of your choice.
 
 #### Natural Tekcasters
-You know one cantrip of your choice from the arcanist spell list. Your spellcasting ability is Intelligence + Will.
+You know one cantrip of your choice from the Arcanist spell list. Your spellcasting ability is Intelligence + Will.

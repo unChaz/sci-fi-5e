@@ -22,7 +22,7 @@ As a scoundrel, you have the following class features.
 
 **Saving Throws:** Dexterity, Intelligence
 
-**Skills:** Choose four from Acrobatics, Computers, Knowledge, Physique, Charm, Insight, Intimidation, Investigation, Perception, Performance, Trickery, and Stealth
+**Skills:** Choose four from Acrobatics, Computers, History, Physique, Charm, Insight, Intimidation, Investigation, Perception, Performance, Trickery, and Stealth
 
 ##### Equipment
 

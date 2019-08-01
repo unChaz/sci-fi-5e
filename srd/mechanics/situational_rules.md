@@ -22,7 +22,7 @@ Usually, some element of a trap is visible to careful inspection. Characters mig
 
 A trap’s description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap’s DC. You can also compare the DC to detect the trap with each character’s passive Wisdom (Perception) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence (Investigation) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves’ tools to perform the necessary sabotage.
 
-Any character can attempt an Intelligence (Knowledge) check to detect or disarm a tek trap, in addition to any other checks noted in the trap’s description. The DCs are the same regardless of the check used. In addition, _dispel tek_ has a chance of disabling most tek traps. A tek trap’s description provides the DC for the ability check made when you use _dispel tek_.
+Any character can attempt an Intelligence (History) check to detect or disarm a tek trap, in addition to any other checks noted in the trap’s description. The DCs are the same regardless of the check used. In addition, _dispel tek_ has a chance of disabling most tek traps. A tek trap’s description provides the DC for the ability check made when you use _dispel tek_.
 
 In most cases, a trap’s description is clear enough that you can adjudicate whether a character’s actions locate or foil the trap. As with many situations, you shouldn’t allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap’s description to determine what happens. No trap’s design can anticipate every possible action that the characters might attempt.
 
@@ -101,7 +101,7 @@ Strength check, freeing itself or another creature within its reach on a success
 
 _Tek trap_
 
-This trap is activated when an intruder steps on a hidden pressure plate, releasing a tek gout of flame from a nearby statue. The statue can be of anything, including a dragon or a arcanist casting a tek skill.
+This trap is activated when an intruder steps on a hidden pressure plate, releasing a tek gout of flame from a nearby statue. The statue can be of anything, including a dragon or an arcanist casting a tek skill.
 
 The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A tek skill or other effect that can sense the presence of tek, such as _detect tek_, reveals an aura of evocation tek around the statue.
 
@@ -178,7 +178,7 @@ _Tek trap_
 
 Tek, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
 
-A successful DC 20 Intelligence (Knowledge) check reveals that the mouth contains a _sphere of annihilation_ that can’t be controlled or moved. It is otherwise identical to a normal _sphere of annihilation_.
+A successful DC 20 Intelligence (History) check reveals that the mouth contains a _sphere of annihilation_ that can’t be controlled or moved. It is otherwise identical to a normal _sphere of annihilation_.
 
 Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the _sympathy_ aspect of the _antipathy/sympathy_ tek skill. A successful _dispel tek_ (DC 18) removes this enchantment.
 

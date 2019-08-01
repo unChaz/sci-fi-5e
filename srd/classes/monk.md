@@ -22,7 +22,7 @@ As a monk, you gain the following class features.
 
 **Saving Throws:** Strength, Dexterity
 
-**Skills:** Choose two from Acrobatics, Physique, Knowledge, Insight, and Stealth
+**Skills:** Choose two from Acrobatics, Physique, History, Insight, and Stealth
 
 ##### Equipment
 

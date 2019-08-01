@@ -17,19 +17,19 @@ Tek level and character level don’t correspond directly. Typically, a characte
 
 #### Known and Prepared Tek Skills
 
-Before a tekcaster can use a tek skill, he or she must have the tek skill firmly fixed in mind, or must have access to the tek skill in a alien artifact. Members of a few classes, including evangelists and scions, have a limited list of tek skills they know that are always fixed in mind. The same thing is true of many tek-using monsters. Other tekcasters, such as priests and arcanists, undergo a process of preparing tek skills. This process varies for different classes, as detailed in their descriptions.
+Before a tekcaster can use a tek skill, he or she must have the tek skill firmly fixed in mind, or must have access to the tek skill in a alien artifact. Members of a few classes, including evangelists and scions, have a limited list of tek skills they know that are always fixed in mind. The same thing is true of many tek-using monsters. Other tekcasters, such as priests and Arcanists, undergo a process of preparing tek skills. This process varies for different classes, as detailed in their descriptions.
 
 In every case, the number of tek skills a caster can have fixed in mind at any given time depends on the character’s level.
 
 #### Tek Slots
 
-Regardless of how many tek skills a caster knows or prepares, he or she can cast only a limited number of tek skills before resting. Manipulating the fabric of tek and channeling its energy into even a simple tek skill is physically and mentally taxing, and higher level tek skills are even more so. Thus, each Tekcasting class’s description (except that of the cybernetic) includes a table showing how many tek skill slots of each tek skill level a character can use at each character level. For example, the 3rd-level arcanist Umara has four 1st-level tek skill slots and two 2nd-level slots.
+Regardless of how many tek skills a caster knows or prepares, he or she can cast only a limited number of tek skills before resting. Manipulating the fabric of tek and channeling its energy into even a simple tek skill is physically and mentally taxing, and higher level tek skills are even more so. Thus, each Tekcasting class’s description (except that of the cybernetic) includes a table showing how many tek skill slots of each tek skill level a character can use at each character level. For example, the 3rd-level Arcanist Umara has four 1st-level tek skill slots and two 2nd-level slots.
 
 When a character casts a tek skill, he or she expends a slot of that tek skill’s level or higher, effectively “filling” a slot with the tek skill. You can think of a tek skill slot as a groove of a certain size—small for a 1st-level slot, larger for a tek skill of higher level. A 1st-level tek skill fits into a slot of any size, but a 9th-level tek skill fits only in a 9th-level slot. So when Umara casts _tek missile_, a 1st-level tek skill, she spends one of her four 1st-level slots and has three remaining.
 
 Finishing a long rest restores any expended tek skill slots.
 
-Some characters and monsters have special abilities that let them cast tek skills without using tek skill slots. For example, a monk who follows the Way of the Four Elements, a cybernetic who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast tek skills in such a way.
+Some characters and monsters have special abilities that let them cast tek skills without using tek skill slots. For example, a monk who follows the Way of the Four Elements, a cybernetic who chooses certain nanotech invocations, and a pit fiend from the Nine Hells can all cast tek skills in such a way.
 
 ##### Casting a Tek Skill at a Higher Level
 
@@ -49,7 +49,7 @@ A cantrip is a tek skill that can be cast at will, without using a tek skill slo
 
 Certain tek skills have a special tag: ritual. Such a tek skill can be cast following the normal rules for Tekcasting, or the tek skill can be cast as a ritual. The ritual version of a tek skill takes 10 minutes longer to cast than normal. It also doesn’t expend a tek skill slot, which means the ritual version of a tek skill can’t be cast at a higher level.
 
-To cast a tek skill as a ritual, a tekcaster must have a feature that grants the ability to do so. The priest and the morph, for example, have such a feature. The caster must also have the tek skill prepared or on his or her list of tek skills known, unless the character’s ritual feature specifies otherwise, as the arcanist’s does.
+To cast a tek skill as a ritual, a tekcaster must have a feature that grants the ability to do so. The priest and the morph, for example, have such a feature. The caster must also have the tek skill prepared or on his or her list of tek skills known, unless the character’s ritual feature specifies otherwise, as the Arcanist’s does.
 
 ### Casting a Tek Skill
 
@@ -97,7 +97,7 @@ Tekcasting gestures might include a forceful gesticulation or an intricate set o
 
 ##### Material (M)
 
-Some tek skills require a Material component. This is almost always in the form of a gemstone which is sometimes destroyed. The gemstone is set into a slot of the tekcaster. You can have up to 5 gemstones loaded into the tekcaster at a time. 
+Some tek skills require a Material component. This is almost always in the form of a gemstone which is sometimes destroyed. The gemstone is set into a slot of the tekcaster. You can have up to 5 gemstones loaded into the tekcaster at a time.
 
 #### Duration
 
@@ -189,7 +189,7 @@ Most tek skills that require attack rolls involve ranged attacks. Remember that 
 
 > #### The Schools of Tek
 >
-> Academies of tek group tek skills into eight categories called schools of tek. Scholars, particularly arcanists, apply these categories to all tek skills, believing that all tek functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
+> Academies of tek group tek skills into eight categories called schools of tek. Scholars, particularly Arcanists, apply these categories to all tek skills, believing that all tek functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 >
 > The schools of tek help describe tek skills; they have no rules of their own, although some rules refer to the schools.
 >
@@ -3752,7 +3752,7 @@ _3rd-level abjuration_
 
 **Duration:** Until ditek skilled or triggered
 
-When you cast this tek skill, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a loot chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this tek skill, the glyph is broken, and the tek skill ends without being triggered.
+When you cast this tek skill, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a datacube, or a loot chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this tek skill, the glyph is broken, and the tek skill ends without being triggered.
 
 The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your tek skill save DC to be found.
 
@@ -5782,7 +5782,7 @@ _5th-level divination_
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you’re casting this tek skill, it can fail the saving throw voluntarily if it wants to be observed.
 
-| Knowledge                                 | Save Modifier |
+| History                                 | Save Modifier |
 |-------------------------------------------|---------------|
 | Secondhand (you have heard of the target) | +5            |
 | Firsthand (you have met the target)       | +0            |
@@ -6354,7 +6354,7 @@ _7th-level abjuration_
 
 **Duration:** Until ditek skilled or triggered
 
-When you cast this tek skill, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a loot chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this tek skill, the glyph is broken, and the tek skill ends without being triggered.
+When you cast this tek skill, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a datacube, or a loot chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this tek skill, the glyph is broken, and the tek skill ends without being triggered.
 
 The glyph is nearly invisible, requiring an Intelligence (Investigation) check against your tek skill save DC to find it.
 
@@ -6448,7 +6448,7 @@ The destination you choose must be known to you, and it must be on the same plan
 | Description       | 01–43  | 44–53        | 54–73      | 74–100    |
 | False destination | 01–50  | 51–100       | —          | —         |
 
-**_Familiarity._** “Permanent circle” means a permanent teleportation circle whose sigil sequence you know. “Associated object” means that you possess an object taken from the desired destination within the last six months, such as a book from a arcanist’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.
+**_Familiarity._** “Permanent circle” means a permanent teleportation circle whose sigil sequence you know. “Associated object” means that you possess an object taken from the desired destination within the last six months, such as a book from an arcanist’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.
 
 “Very familiar” is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the tek skill. “Seen casually” is someplace you have seen more than once but with which you aren’t very familiar. “Viewed once” is a place you have seen once, possibly using tek. “Description” is a place whose location and appearance you know through someone else’s description, perhaps from a map.
 
@@ -6458,7 +6458,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 **_Off Target._** You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is 1d10 × 1d10 percent of the distance that was to be traveled. For example, if you tried to travel 120 miles, landed off target, and rolled a 5 and 3 on the two d10s, then you would be off target by 15 percent, or 18 miles. The GM determines the direction off target randomly by rolling a d8 and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.
 
-**_Similar Area._** You and your group (or the target object) wind up in a different area that’s visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another arcanist’s laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the tek skill has no range limit, you could conceivably wind up anywhere on the plane.
+**_Similar Area._** You and your group (or the target object) wind up in a different area that’s visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another Arcanist’s laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the tek skill has no range limit, you could conceivably wind up anywhere on the plane.
 
 **_Mishap._** The tek skill’s unpredictable tek results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 

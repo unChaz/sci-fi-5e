@@ -23,7 +23,7 @@ As a scout, you gain the following class features.
 
 **Saving Throws:** Strength, Dexterity
 
-**Skills:** Choose three from Computers, Nature, Physique, Knowledge, Insight, Investigation, Perception, and Stealth
+**Skills:** Choose three from Computers, Nature, Physique, History, Insight, Investigation, Perception, and Stealth
 
 ##### Equipment
 

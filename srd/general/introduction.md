@@ -81,7 +81,8 @@ Average skill levels can be derived from these core Sleeve Traits, and Persona T
 |Performance | Dexterity + Charisma|
 |Tinker | Dexterity + Intelligence|
 |Piloting | Dexterity + Intelligence|
-|Knowledge | Wisdom + Intelligence |
+|History | Wisdom + Intelligence |
+|Arcana | Wisdom + Intelligence |
 |Trickery | Dexterity + Wit|
 |Investigation | Will + Intelligence|
 |Insight | Charisma + Wisdom |
@@ -111,7 +112,7 @@ The person determining the difficulty might increment the number on the table ba
 The focus used by those casting tek skills is called a Tekcaster. The tekcaster is a device worn on the wrist and is connected to the fingers. Using a combination of hand movements, vocal commands, and material components, the tekcaster can be used to cast tek skills. One can wield a weapon while wearing a tekcaster, but the hand must be free to use it.
 
 > ##### The two sources of Tek Skill
-> #### Knowledge
+> #### History
 > One method to cast tek skills is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting tek skills.
 >
 > Classes that use this type of tek are Priest , Morph, Scout, Cybernetic, and Arcanist.

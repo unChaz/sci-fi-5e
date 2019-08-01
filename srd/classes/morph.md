@@ -24,7 +24,7 @@ As a morph, you gain the following class features.
 
 **Saving Throws:** Intelligence, Wisdom
 
-**Skills:** Choose two from Knowledge, Insight, Medicine, Perception, and Nature
+**Skills:** Choose two from History, Insight, Medicine, Perception, and Nature
 
 ##### Equipment
 

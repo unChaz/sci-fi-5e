@@ -22,7 +22,7 @@ As a priest, you gain the following class features.
 
 **Saving Throws:** Wisdom, Charisma
 
-**Skills:** Choose two from Knowledge, Insight, Medicine, and Charm
+**Skills:** Choose two from History, Insight, Medicine, and Charm
 
 ##### Equipment
 

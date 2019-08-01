@@ -1,5 +1,6 @@
 ### Cybernetic (Warlock)
 
+Cybernetics
 #### Class Features
 
 As a cybernetic, you gain the following class features.
@@ -22,7 +23,7 @@ As a cybernetic, you gain the following class features.
 
 **Saving Throws:** Wisdom, Charisma
 
-**Skills:** Choose two skills from Knowledge, Charm, History, Intimidation, Investigation, and Nature
+**Skills:** Choose two skills from History, Charm, History, Intimidation, Investigation, and Nature
 
 ##### Equipment
 
@@ -34,10 +35,10 @@ You start with the following equipment, in addition to the equipment granted by 
 
 **The Cybernetic (table)**
 
-| Level | Proficiency Bonus | Features                        | Cantrips Known | Tek Skills Known | Tek Slots | Slot Level | Invocations Known |
+| Level | Proficiency Bonus | Features                        | Cantrips Known | Tek Skills Known | Tek Slots | Slot Level | Modules Known |
 |-------|-------------------|---------------------------------|----------------|--------------|-------------|------------|-------------------|
 | 1st   | +2                | AI Patron, Link Tek | 2              | 2            | 1           | 1st        | -                 |
-| 2nd   | +2                | Eldritch Invocations            | 2              | 3            | 2           | 1st        | 2                 |
+| 2nd   | +2                | Muse Modules            | 2              | 3            | 2           | 1st        | 2                 |
 | 3rd   | +2                | Muse                       | 2              | 4            | 2           | 2nd        | 2                 |
 | 4th   | +2                | Ability Score Improvement       | 3              | 5            | 2           | 2nd        | 2                 |
 | 5th   | +3                | -                               | 3              | 6            | 2           | 3rd        | 3                 |
@@ -55,15 +56,19 @@ You start with the following equipment, in addition to the equipment granted by 
 | 17th  | +6                | Mystic Arcanum (9th level)      | 4              | 14           | 4           | 5th        | 7                 |
 | 18th  | +6                | -                               | 4              | 14           | 4           | 5th        | 8                 |
 | 19th  | +6                | Ability Score Improvement       | 4              | 15           | 4           | 5th        | 8                 |
-| 20th  | +6                | Eldritch Master                 | 4              | 15           | 4           | 5th        | 8                 |
+| 20th  | +6                | Muse Master                 | 4              | 15           | 4           | 5th        | 8                 |
+
+#### Bionic Enhancements
+
+At 1st level, to allow you to to seamlessly interface with computers, you have been upgraded with bionic enhancements. Your sleeve must be synthetic, bionic, or you have paid to have custom bionic enhancements installed.
 
 #### AI Patron
 
-At 1st level, you have struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each of which is detailed at the end of the class description. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
+At 1st level, through your bionic enhancements, you have bonded with an ancient alien AI called a "muse". Your muse makes it easy for you to interface with nearby networks and computers, and usually comes with a quirky personality.
 
-#### Link Tek
+#### Muse Tek
 
-Your arcane research and the tek bestowed on you by your patron have given you facility with tek skills.
+Your arcane research and the tek bestowed on you by your muse have given you facility with tek skills.
 
 ##### Cantrips
 
@@ -95,39 +100,41 @@ Charisma + Will is your Tekcasting ability for your cybernetic tek skills, so yo
 
 You can use an tekcaster as a Tekcasting focus for your cybernetic tek skills.
 
-#### Eldritch Invocations
+#### Nanotech Modules
 
-In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding tek ability.
+Your muse provides you with access to alien nanotech that imbue you with an abiding tek ability.
 
-At 2nd level, you gain two eldritch invocations of your choice. Your invocation options are detailed at the end of the class description. When you gain certain cybernetic levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Cybernetic table.
+At 2nd level, you gain two nanotech modules of your choice. Your module options are detailed at the end of the class description. When you gain certain cybernetic levels, you gain additional modules of your choice, as shown in the Modules Known column of the Cybernetic table.
 
-Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+Additionally, when you gain a level in this class, you can choose one of the modules you know and replace it with another module that you could learn at that level.
 
 #### Muse
 
-At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+At 3rd level, your muse gives you one of the following features of your choice.
 
-##### Link of the Chain
+##### Link of the Drone
 
 You learn the *find familiar* tek skill and can cast it as a ritual. The tek skill doesn’t count against your number of tek skills known.
 
-When you cast the tek skill, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
+When you cast the tek skill, the form of your familiar is a recon drone with a fly speed of 60, 13 AC, 7 HP, Perception +3, Stealth +4, 60ft of darkvision, 10ft of blindsight.
+
+The familiar is controlled by your muse, and you gain all normal benefits of a familiar.
 
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.
 
 ##### Link of the Blade
 
-You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as tek for the purpose of overcoming resistance and immunity to nontek attacks and damage.
+You can use your action to create a nanotech weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as tek for the purpose of overcoming resistance and immunity to nontek attacks and damage.
 
-Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+Your nanotech weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
-You can transform one tek weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform one tek weapon into your nanotech weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your nanotech weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your nanotech weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 ##### Link of the Tome
 
-Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s tek skill list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the cybernetic tek skill list, they are nonetheless cybernetic tek skills for you.
+Your muse gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s tek skill list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the cybernetic tek skill list, they are nonetheless cybernetic tek skills for you.
 
-If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your muse. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
 #### Ability Score Improvement
 
@@ -135,25 +142,25 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 #### Mystic Arcanum
 
-At 11th level, your patron bestows upon you a tek secret called an arcanum. Choose one 6th- level tek skill from the cybernetic tek skill list as this arcanum.
+At 11th level, your muse bestows upon you a tek secret called an arcanum. Choose one 6th- level tek skill from the cybernetic tek skill list as this arcanum.
 
 You can cast your arcanum tek skill once without expending a tek skill slot. You must finish a long rest before you can do so again.
 
 At higher levels, you gain more cybernetic tek skills of your choice that can be cast in this way: one 7th- level tek skill at 13th level, one 8th-level tek skill at 15th level, and one 9th-level tek skill at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
 
-#### Eldritch Master
+#### Muse Master
 
-At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended tek skill slots. You can spend 1 minute entreating your patron for aid to regain all your expended tek skill slots from your Link Tek feature. Once you regain tek skill slots with this feature, you must finish a long rest before you can do so again.
+At 20th level, you can draw on your reserve of tak power while entreating your muse to regain expended tek skill slots. You can spend 1 minute entreating your muse for aid to regain all your expended tek skill slots from your Link Tek feature. Once you regain tek skill slots with this feature, you must finish a long rest before you can do so again.
 
-#### Eldritch Invocations
+#### Nanotech Modules
 
-If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+If a nanotech module has prerequisites, you must meet them to learn it. You can learn the module at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
 
 ##### Agonizing Blast
 
-*Prerequisite:* eldritch blast *cantrip*
+*Prerequisite:* nanotech blast *cantrip*
 
-When you cast *eldritch blast*, add your Charisma modifier to the damage it deals on a hit.
+When you cast *nanotech blast*, add your Charisma modifier to the damage it deals on a hit.
 
 ##### Armor of Shadows
 
@@ -179,59 +186,52 @@ You gain proficiency in the Charm and Charm skills.
 
 You can cast *compulsion* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
 
-##### Book of Ancient Secrets
-
-*Prerequisite: Link of the Tome feature*
-
-You can now inscribe tek rituals in your Book of Shadows. Choose two 1st-level tek skills that have the ritual tag from any class’s tek skill list (the two needn’t be from the same list). The tek skills appear in the book and don’t count against the number of tek skills you know. With your Book of Shadows in hand, you can cast the chosen tek skills as rituals. You can’t cast the tek skills except as rituals, unless you’ve learned them by some other means. You can also cast a cybernetic tek skill you know as a ritual if it has the ritual tag.
-
-On your adventures, you can add other ritual tek skills to your Book of Shadows. When you find such a tek skill, you can add it to the book if the tek skill’s level is equal to or less than half your cybernetic level (rounded up) and if you can spare the time to transcribe the tek skill. For each level of the tek skill, the transcription process takes 2 hours and costs 5000 credits for the rare inks needed to inscribe it.
 
 ##### Chains of Carceri
 
 *Prerequisite: 15th level, Link of the Chain feature*
 
-You can cast *hold monster* at will—targeting a celestial, fiend, or elemental—without expending a tek skill slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast *hold monster* at will—targeting a celestial, fiend, or elemental—without expending a tek skill slot or material components. You must finish a long rest before you can use this module on the same creature again.
 
 ##### Devil’s Sight
 
 You can see normally in darkness, both tek and nontek, to a distance of 120 feet.
 
-##### Dreadful Word
+##### Mind Hack
 
 *Prerequisite: 7th level*
 
 You can cast *confusion* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
 
-##### Eldritch Sight
+##### Muse Sight
 
 You can cast *detect tek* at will, without expending a tek skill slot.
 
-##### Eldritch Spear
+##### Nanotech Spear
 
-*Prerequisite:* eldritch blast *cantrip*
+*Prerequisite:* nanotech blast *cantrip*
 
-When you cast *eldritch blast*, its range is 300 feet.
+When you cast *nanotech blast*, its range is 300 feet.
 
-##### Eyes of the Rune Keeper
+##### Translator Module
 
 You can read all writing.
 
-##### Fiendish Vigor
+#### Triage Module
 
 You can cast *false life* on yourself at will as a 1st-level tek skill, without expending a tek skill slot or material components.
 
-##### Gaze of Two Minds
+##### Mindlink Module
 
 You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
-##### Lifedrinker
+##### Lifedrinker Module
 
-*Prerequisite: 12th level, Link of the Blade feature*
+*Prerequisite: 12th level, Nanotech Weapon feature*
 
-When you hit a creature with your pact weapon, the creature takes extra radiation damage equal to your Charisma modifier (minimum 1).
+When you hit a creature with your nanotech weapon, the creature takes extra radiation damage equal to your Charisma modifier (minimum 1).
 
-##### Mask of Many Faces
+##### Disguise Module
 
 You can cast *disguise self* at will, without expending a tek skill slot.
 
@@ -271,9 +271,9 @@ You can cast *jump* on yourself at will, without expending a tek skill slot or m
 
 ##### Repelling Blast
 
-*Prerequisite:* eldritch blast *cantrip*
+*Prerequisite:* nanotech blast *cantrip*
 
-When you hit a creature with *eldritch blast*, you can push the creature up to 10 feet away from you in a straight line.
+When you hit a creature with *nanotech blast*, you can push the creature up to 10 feet away from you in a straight line.
 
 ##### Sculptor of Flesh
 
@@ -293,9 +293,9 @@ You can cast *bane* once using a cybernetic tek skill slot. You can’t do so ag
 
 ##### Thirsting Blade
 
-*Prerequisite: 5th level, Link of the Blade feature*
+*Prerequisite: 5th level, Nanotech Weapon feature*
 
-You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
+You can attack with your nanotech weapon twice, instead of once, whenever you take the Attack action on your turn.
 
 ##### Visions of Distant Realms
 
@@ -321,11 +321,11 @@ You can cast *speak with dead* at will, without expending a tek skill slot.
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation tek while the creature is within 30 feet of you and within line of sight.
 
-#### AI Patrons
+#### AI Muses
 
-The beings that serve as patrons for cybernetics are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their cybernetics access to different powers and invocations, and expect significant favors in return.
+The beings that serve as muses for cybernetics are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various muses give their cybernetics access to different powers and modules, and expect significant favors in return.
 
-Some patrons collect cybernetics, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one cybernetic. Cybernetics who serve the same patron might view each other as allies, siblings, or rivals.
+Some muses collect cybernetics, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other muses bestow their power only grudgingly, and might make a pact with only one cybernetic. Cybernetics who serve the same muse might view each other as allies, siblings, or rivals.
 
 ##### The Fiend
 
@@ -351,7 +351,7 @@ Starting at 1st level, when you reduce a hostile creature to 0 hit points, you g
 
 ###### Dark One’s Own Luck
 
-Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll’s effects occur.
+Starting at 6th level, you can call on your muse to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll’s effects occur.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
@@ -369,10 +369,10 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 > #### Your Muse
 >
-> Each Muse option produces a special creature or an object that reflects your patron’s nature.
+> Each Muse option produces a special creature or an object that reflects your muse’s nature.
 >
-> **_Link of the Chain._** Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One’s nature is inscrutable, any familiar form is suitable for it.
+> **_Link of the Chain._** Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your muse, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One’s nature is inscrutable, any familiar form is suitable for it.
 >
-> **_Link of the Blade._** If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.
+> **_Link of the Blade._** If your muse is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your muse is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.
 >
-> **_Link of the Tome._** Your Book of Shadows might be a fine, gilt-edged tome with tek skills of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding tek skills of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of tek skills that only your own burgeoning insanity allows you to understand and cast.
+> **_Link of the Tome._** Your Book of Shadows might be a fine, gilt-edged disk with tek skills of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty disk bound in demon hide studded with iron, holding tek skills of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of tek skills that only your own burgeoning insanity allows you to understand and cast.

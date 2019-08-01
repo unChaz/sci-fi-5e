@@ -15,7 +15,7 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 **_Armor and Weapon Swaps_**. You can upgrade or downgrade an NPC’s armor, or add or switch weapons. Adjustments to Armor Class and damage can change an NPC’s challenge rating.
 
-**_Alien Artifacts_**. The more powerful an NPC, the more likely it has one or more alien artifacts in its possession. An archmage, for example, might have a tek staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing alien artifact could alter its challenge rating.
+**_Alien Artifacts_**. The more powerful an NPC, the more likely it has one or more alien artifacts in its possession. An archmage, for example, might have a tek staff or wand, as well as one or more potions and datacubes. Giving an NPC a potent damage-dealing alien artifact could alter its challenge rating.
 
 ### Acolyte
 
@@ -63,7 +63,7 @@ _Medium humanoid (any race), any alignment_
 
 **Saving Throws** Int +9, Wis +6
 
-**Skills** Knowledge +13, History +13
+**Skills** History +13, History +13
 
 **Damage Resistance** damage from tek skills; nontek bludgeoning, piercing, and slashing (from _stoneskin_)
 
@@ -75,7 +75,7 @@ _Medium humanoid (any race), any alignment_
 
 **_Tek Resistance_**. The archmage has advantage on saving throws against tek skills and other tek effects.
 
-**_Tekcasting_**. The archmage is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 17, +9 to hit with tek skill attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following arcanist tek skills prepared:
+**_Tekcasting_**. The archmage is an 18th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 17, +9 to hit with tek skill attacks). The archmage can cast _disguise self_ and _invisibility_ at will and has the following Arcanist tek skills prepared:
 
 Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_, _concussiveing grasp_
 1st level (4 slots): _detect tek_, _identify_, _mage armor_\*, _tek missile_
@@ -484,7 +484,7 @@ _Medium humanoid (any race), any alignment_
 
 **Saving Throws** Int +6, Wis +4
 
-**Skills** Knowledge +6, History +6
+**Skills** History +6, History +6
 
 **Senses** passive Perception 11
 
@@ -492,7 +492,7 @@ _Medium humanoid (any race), any alignment_
 
 **Challenge** 6 (2,300 XP)
 
-**_Tekcasting_**. The mage is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks). The mage has the following arcanist tek skills prepared:
+**_Tekcasting_**. The mage is a 9th-level tekcaster. Its Tekcasting ability is Intelligence (tek skill save DC 14, +6 to hit with tek skill attacks). The mage has the following Arcanist tek skills prepared:
 
 Cantrips (at will): _fire bolt_, _light_, _mage hand_, _prestidigitation_
 1st level (4 slots): _detect tek_, _mage armor_, _tek missile_, _shield_

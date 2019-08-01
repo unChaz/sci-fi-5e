@@ -2,7 +2,7 @@
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
-With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in arcanist and two in soldier, you’re a 5th-level character.
+With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in Arcanist and two in soldier, you’re a 5th-level character.
 
 As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you’ll sacrifice some focus in exchange for versatility.
 
@@ -74,7 +74,7 @@ If you already have the Channel Divinity feature and gain a level in a class tha
 
 ##### Extra Attack
 
-If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the soldier’s version of Extra Attack does). Similarly, the cybernetic’s eldritch invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
+If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the soldier’s version of Extra Attack does). Similarly, the cybernetic’s nanotech invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
 
 ##### Unarmored Defense
 
@@ -84,15 +84,15 @@ If you already have the Unarmored Defense feature, you can’t gain it again fro
 
 Your capacity for Tekcasting depends partly on your combined levels in all your Tekcasting classes and partly on your individual levels in those classes. Once you have the Tekcasting feature from more than one class, use the rules below. If you multiclass but have the Tekcasting feature from only one class, you follow the rules as described in that class.
 
-**_Tek Skills Known and Prepared._** You determine what tek skills you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a scout 4/arcanist 3, for example, you know three 1st-level scout tek skills based on your levels in the scout class. As 3rd-level arcanist, you know three arcanist cantrips, and your tek skill datapad contains ten arcanist tek skills, two of which (the two you gained when you reached 3rd level as a arcanist) can be 2nd-level tek skills. If your Intelligence is 16, you can prepare six arcanist tek skills from your tek skill datapad.
+**_Tek Skills Known and Prepared._** You determine what tek skills you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a scout 4/Arcanist 3, for example, you know three 1st-level scout tek skills based on your levels in the scout class. As 3rd-level Arcanist, you know three Arcanist cantrips, and your tek skill datapad contains ten Arcanist tek skills, two of which (the two you gained when you reached 3rd level as an arcanist) can be 2nd-level tek skills. If your Intelligence is 16, you can prepare six Arcanist tek skills from your tek skill datapad.
 
 Each tek skill you know and prepare is associated with one of your classes, and you use the Tekcasting ability of that class when you cast the tek skill. Similarly, a Tekcasting focus, such as a holy symbol, can be used only for the tek skills from the class associated with that focus.
 
-**_Tek Slots._** You determine your available tek skill slots by adding together all your levels in the evangelist, priest, morph, scion, and arcanist classes, and half your levels (rounded down) in the guardian and scout classes. Use this total to determine your tek skill slots by consulting the Multiclass Tekcaster table.
+**_Tek Slots._** You determine your available tek skill slots by adding together all your levels in the evangelist, priest, morph, scion, and Arcanist classes, and half your levels (rounded down) in the guardian and scout classes. Use this total to determine your tek skill slots by consulting the Multiclass Tekcaster table.
 
 If you have more than one Tekcasting class, this table might give you tek skill slots of a level that is higher than the tek skills you know or can prepare. You can use those slots, but only to cast your lower-level tek skills. If a lower-level tek skill that you cast, like _burning hands_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any tek skills of that higher level.
 
-For example, if you are the aforementioned scout 4/arcanist 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level tek skills, nor do you know any 2nd-level scout tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
+For example, if you are the aforementioned scout 4/Arcanist 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level tek skills, nor do you know any 2nd-level scout tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
 
 **_Link Tek._** If you have both the Tekcasting class feature and the Link Tek class feature from the cybernetic class, you can use the tek skill slots you gain from the Link Tek feature to cast tek skills you know or have prepared from classes with the Tekcasting class feature, and you can use the tek skill slots you gain from the Tekcasting class feature to cast cybernetic tek skills you know.
 

@@ -22,7 +22,7 @@ As a scion, you gain the following class features.
 
 **Saving Throws:** Constitution, Charisma
 
-**Skills:** Choose two from Knowledge, Charm, Insight, Intimidation, and Religion
+**Skills:** Choose two from History, Charm, Insight, Intimidation, and Religion
 
 ##### Equipment
 

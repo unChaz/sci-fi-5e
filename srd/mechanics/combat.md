@@ -87,7 +87,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a arcanist cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because an arcanist cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 #### Difficult Terrain
 
@@ -195,7 +195,7 @@ Certain features, such as the Extra Attack feature of the soldier, allow you to 
 
 #### Cast a Tek
 
-Tekcasters such as arcanists and priests, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
+Tekcasters such as Arcanists and priests, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
 
 #### Dash
 
@@ -374,7 +374,7 @@ Each weapon, tek skill, and harmful monster ability specifies the damage it deal
 
 When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **tek skill** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
+If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when an arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
@@ -494,7 +494,7 @@ Unless a feature that grants you temporary hit points has a duration, they last 
 
 ### Mounted Combat
 
-A knight charging into battle on a warhorse, a arcanist casting tek skills from the back of a griffon, or a priest soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+A knight charging into battle on a warhorse, an arcanist casting tek skills from the back of a griffon, or a priest soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 

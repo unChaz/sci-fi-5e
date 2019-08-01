@@ -104,7 +104,7 @@ Average skill levels can be derived from these core Sleeve Traits, and Persona T
 |Performance | Dexterity + Charisma|
 |Tinker | Dexterity + Intelligence|
 |Piloting | Dexterity + Intelligence|
-|Knowledge | Wisdom + Intelligence |
+|History | Wisdom + Intelligence |
 |Trickery | Dexterity + Wit|
 |Investigation | Will + Intelligence|
 |Insight | Charisma + Wisdom |
@@ -134,7 +134,7 @@ The person determining the difficulty might increment the number on the table ba
 The focus used by those casting tek skills is called a Tekcaster. The tekcaster is a device worn on the wrist and is connected to the fingers. Using a combination of hand movements, vocal commands, and material components, the tekcaster can be used to cast tek skills. One can wield a weapon while wearing a tekcaster, but the hand must be free to use it.
 
 > ##### The two sources of Tek Skill
-> #### Knowledge
+> #### History
 > One method to cast tek skills is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting tek skills.
 >
 > Classes that use this type of tek are Priest , Morph, Scout, Cybernetic, and Arcanist.
@@ -309,7 +309,7 @@ Your sleeve has grown acustomed to living in harsh conditions. You have proficie
 **_Languages._** You can speak, read, and write English, Chinese and one extra language of your choice.
 
 #### Natural Tekcasters
-You know one cantrip of your choice from the arcanist spell list. Your spellcasting ability is Intelligence + Will.
+You know one cantrip of your choice from the Arcanist spell list. Your spellcasting ability is Intelligence + Will.
 ```
 ```
 ## Martian
@@ -577,7 +577,7 @@ You learn the cantrips **Shocking Grasp**, **Ray of Frost**, and **Firebolt**.
 ```
 ### Backgrounds
 
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous knight or a grizzled soldier. Your arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
+Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous knight or a grizzled soldier. Your Arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
 Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
@@ -616,7 +616,7 @@ You were born in the 20th century, and at some point in your life bought “Cryo
 Skill Proficiencies: Charm. Choose 1 from [Diplomacy, Investigate, Insight].
 Tool Proficiency: [Gaming Set, Musical Instrument]
 
-**Old World Knowledge**: You have advantage on Knowledge checks when related to old world technology or history.
+**Old World History**: You have advantage on History checks when related to old world technology or history.
 
 ## Spacer
 
@@ -639,15 +639,15 @@ Weapon Proficiency: Pulse Rapier, Pulse Whip
 
 Since childhood you’ve retreated to the comfortable world of cyberspace.
 
-Skill Proficiencies: Computers, Tinker. Choose 1 from [Sneak, Investigate, Trickery]
+Skill Proficiencies: Computers, Tinker. Choose 1 from [Stealth, Investigate, Trickery]
 Tool Proficiency: Choose one: [Slicer’s Kit, Forgery Kit]
 
-**Stealthy Slicer**: You have advantage on Sneak checks when trying to hack a system unnoticed.
+**Stealthy Slicer**: You have advantage on Stealth checks when trying to hack a system unnoticed.
 
 ## Criminal/Spy
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You’re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
 
-Skill Proficiencies: Sneak. Choose 1 from [Trickery, Charm, Intimidation]
+Skill Proficiencies: Stealth. Choose 1 from [Trickery, Charm, Intimidation]
 Tool Proficiencies: Thieve’s Tools. Choose 1 from [Forgery Kit, Poisoner’s Kit, Disguise Kit]
 
 Criminal Contact: You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact.
@@ -659,7 +659,7 @@ Criminal Contact: You have a reliable and trustworthy contact who acts as your l
 ## Smuggler
 You make your living sneaking illegal goods past Authority checkpoints. You’re good with your tongue, and even better in a cockpit.
 
-Skill Proficiencies: Pilot. Choose 1 from [Sneak, Charm, Diplomacy]
+Skill Proficiencies: Pilot. Choose 1 from [Stealth, Charm, Diplomacy]
 Tool Proficiencies: Navigator’s Tools
 
 **Skills of the Trade**. You know how to hide things on a ship so they cannot be found. You also know where to look when trying to find hidden contraband.
@@ -668,7 +668,7 @@ Tool Proficiencies: Navigator’s Tools
 
 You’ve had a successful career in law enforcement. You’ve decided to go freelance since the private sector tends to pay better.
 
-Skill Proficiencies: Investigation. Choose 1 from [Insight, Perception, Knowledge]
+Skill Proficiencies: Investigation. Choose 1 from [Insight, Perception, History]
 Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker’s Tools, Medkit]
 
 **Well Connected**. You still have contacts in CommSec, and your reputation usually helps you get out of tight spots. CommSec officers are more likely to share privileged information not available to most civilians.
@@ -716,10 +716,10 @@ Tool Proficiencies: Choose 1 from [Musical Instrument, Gaming Set, Disguise Kit]
 
 You have spent most of your life being educated, and now you are going out there to make a difference. Whether that is to discover, invent, or cure, you want to change the universe for better or for worse. You might be a researcher, doctor, inventor, chemist, physicist, or biologist.
 
-Skill Proficiencies: Knowledge. Choose 2 from [Nature, Medic, Investigation]
+Skill Proficiencies: History. Choose 2 from [Nature, Medic, Investigation]
 Tool Proficiencies: Choose 2 from [Botanist’s Kit, MedKit, Poisoner’s Kit]
 
-**Field of Study**: You specialize in a specific field. You have advantage when rolling Knowledge checks involving that field of study.
+**Field of Study**: You specialize in a specific field. You have advantage when rolling History checks involving that field of study.
 
 ## Engineer
 You know the ins and outs of most ships and devices.
@@ -738,7 +738,7 @@ Tool Proficiencies: Tinker’s Tools
 ## Capitalist
 You’ve gone from rags to riches, or at least that is the path you have set up for yourself. You’ve come a long way from your humble upbringing, and you are ambitious to rise to the top.
 
-Skill Proficiencies: Diplomacy. Choose 1 from [Insight, Knowledge, Charm]
+Skill Proficiencies: Diplomacy. Choose 1 from [Insight, History, Charm]
 
 **Entrepreneur**: You are skilled at making business deals. You do all your business through a small corporation you chose a name for. You have 3 employees that run this small business for you. The business does not turn a profit unless you invest time and money into a business venture. The business can be any type of legal small business. The business venture can be anything legal or illegal. You must fund the venture directly by investing credits and making the appropriate business connections. The success of the venture is determined by a number of appropriate ability checks determined by the DM. Results can range from capital gains/losses, earned/ruined business relationships, to even legal trouble, or disputes with elite houses/corporations. Once you make the proposal and appropriate connections, the length of the business venture, the difficulty, and potential outcomes will be determined by the DM.
 
@@ -748,7 +748,7 @@ Skill Proficiencies: Diplomacy. Choose 1 from [Insight, Knowledge, Charm]
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
-With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in arcanist and two in soldier, you’re a 5th-level character.
+With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in Arcanist and two in soldier, you’re a 5th-level character.
 
 As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you’ll sacrifice some focus in exchange for versatility.
 
@@ -820,7 +820,7 @@ If you already have the Channel Divinity feature and gain a level in a class tha
 
 ##### Extra Attack
 
-If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the soldier’s version of Extra Attack does). Similarly, the cybernetic’s eldritch invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
+If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the soldier’s version of Extra Attack does). Similarly, the cybernetic’s nanotech invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
 
 ##### Unarmored Defense
 
@@ -830,15 +830,15 @@ If you already have the Unarmored Defense feature, you can’t gain it again fro
 
 Your capacity for Tekcasting depends partly on your combined levels in all your Tekcasting classes and partly on your individual levels in those classes. Once you have the Tekcasting feature from more than one class, use the rules below. If you multiclass but have the Tekcasting feature from only one class, you follow the rules as described in that class.
 
-**_Tek Skills Known and Prepared._** You determine what tek skills you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a scout 4/arcanist 3, for example, you know three 1st-level scout tek skills based on your levels in the scout class. As 3rd-level arcanist, you know three arcanist cantrips, and your tek skill datapad contains ten arcanist tek skills, two of which (the two you gained when you reached 3rd level as a arcanist) can be 2nd-level tek skills. If your Intelligence is 16, you can prepare six arcanist tek skills from your tek skill datapad.
+**_Tek Skills Known and Prepared._** You determine what tek skills you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a scout 4/Arcanist 3, for example, you know three 1st-level scout tek skills based on your levels in the scout class. As 3rd-level Arcanist, you know three Arcanist cantrips, and your tek skill datapad contains ten Arcanist tek skills, two of which (the two you gained when you reached 3rd level as an arcanist) can be 2nd-level tek skills. If your Intelligence is 16, you can prepare six Arcanist tek skills from your tek skill datapad.
 
 Each tek skill you know and prepare is associated with one of your classes, and you use the Tekcasting ability of that class when you cast the tek skill. Similarly, a Tekcasting focus, such as a holy symbol, can be used only for the tek skills from the class associated with that focus.
 
-**_Tek Slots._** You determine your available tek skill slots by adding together all your levels in the evangelist, priest, morph, scion, and arcanist classes, and half your levels (rounded down) in the guardian and scout classes. Use this total to determine your tek skill slots by consulting the Multiclass Tekcaster table.
+**_Tek Slots._** You determine your available tek skill slots by adding together all your levels in the evangelist, priest, morph, scion, and Arcanist classes, and half your levels (rounded down) in the guardian and scout classes. Use this total to determine your tek skill slots by consulting the Multiclass Tekcaster table.
 
 If you have more than one Tekcasting class, this table might give you tek skill slots of a level that is higher than the tek skills you know or can prepare. You can use those slots, but only to cast your lower-level tek skills. If a lower-level tek skill that you cast, like _burning hands_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any tek skills of that higher level.
 
-For example, if you are the aforementioned scout 4/arcanist 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level tek skills, nor do you know any 2nd-level scout tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
+For example, if you are the aforementioned scout 4/Arcanist 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level tek skills, nor do you know any 2nd-level scout tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
 
 **_Link Tek._** If you have both the Tekcasting class feature and the Link Tek class feature from the cybernetic class, you can use the tek skill slots you gain from the Link Tek feature to cast tek skills you know or have prepared from classes with the Tekcasting class feature, and you can use the tek skill slots you gain from the Tekcasting class feature to cast cybernetic tek skills you know.
 
@@ -943,7 +943,7 @@ Opportunities abound to find loot, equipment, weapons, armor, and more in the du
 
 **_Arms, Armor, and Other Equipment._** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by raiders are rarely in good enough condition to sell.
 
-**_Alien Artifacts._** Selling alien artifacts is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common alien artifacts, you won’t normally come across alien artifacts or tek skills to purchase. The value of tek is far beyond simple gold and should always be treated as such.
+**_Alien Artifacts._** Selling alien artifacts is problematic. Finding someone to buy a potion or a datacube isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common alien artifacts, you won’t normally come across alien artifacts or tek skills to purchase. The value of tek is far beyond simple gold and should always be treated as such.
 
 **_Gems, Jewelry, and Art Objects._** These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable loot, the GM might require you to find a buyer in a large town or larger community first.
 
@@ -1244,7 +1244,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 >
 > **_Burglar’s Pack (1600 credits)._**  Includes a backpack, a bag of 1,000 ball bearings, 10 feet of micro fiber optic cable, a smoke-can, 5 flares, a crowbar, a hammer, mag-gloves, night-vision goggles, 2 multi-use batteries, 5 days rations, a datapad, and a canteen. The pack also has 50 feet of microfiber rope strapped to the side of it.
 >
-> **_Diplomat’s Pack (3900 credits)._** Includes a footlocker, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+> **_Diplomat’s Pack (3900 credits)._** Includes a footlocker, 2 cases for maps and datacubes, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 >
 > **_Incursion Pack (1200 credits)._** Includes a backpack, a crowbar, a hammer, mag-gloves, a flashlight, a datapad, 10 days of rations, and a canteen. The backpack also has 50 feet of microfiber rope strapped to the side of it.
 >
@@ -1330,7 +1330,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 **_Poor._** A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
 
-**_Modest._** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge arcanists, and the like.
+**_Modest._** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge Arcanists, and the like.
 
 **_Comfortable._** Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
 
@@ -1383,7 +1383,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a arcanist might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the *secret chest* tek skill. A soldier might commission a blacksmith to forge a special sword. A evangelist might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, an arcanist might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the *secret chest* tek skill. A soldier might commission a blacksmith to forge a special sword. A evangelist might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
 
@@ -1540,11 +1540,11 @@ You have practiced techniques useful in melee combat against tekcasters, gaining
 You have advantage on saving throws against tek skills cast by creatures within 5 feet of you.
 
 #### MAGIC INITIATE
-Choose a class: evangelist, priest, morph, scion, cybernetic, or arcanist. You learn two cantrips of your choice from that class’s tek skill list.
+Choose a class: evangelist, priest, morph, scion, cybernetic, or Arcanist. You learn two cantrips of your choice from that class’s tek skill list.
 
 In addition, choose one 1st-level tek skill from that same list. You learn that tek skill and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
 
-Your tek skillcasting ability for these tek skills depends on the class you chose: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph: or Intelligence for arcanist.
+Your tek skillcasting ability for these tek skills depends on the class you chose: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph: or Intelligence for Arcanist.
 
 \page
 
@@ -1608,9 +1608,9 @@ Choose one ability score. You gain the following benefits:
 
 You have learned a number of tek skills that you can cast as rituals. These tek skills are written in a ritual book, which you must have in hand while casting one of them.
 
-When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: evangelist, priest, morph, scion, cybernetic, or arcanist. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for arcanist.
+When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: evangelist, priest, morph, scion, cybernetic, or Arcanist. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for Arcanist.
 
-If you come across a tek skill in written form, such as a tek tek skill scroll or a arcanist’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
+If you come across a tek skill in written form, such as a tek tek skill datacube or an arcanist’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
 
 #### SAVAGE ATTACKER
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
@@ -1659,7 +1659,7 @@ You understand spacecraft architecture with uncanny precision. You gain the foll
 You have learned techniques to enhance your attacks with certain kinds o f tek skills, gaining the following benefits:
 - When you cast a tek skill that requires you to make an attack roll, the tek skill’s range is doubled.
 - Your ranged tek skill attacks ignore half cover and three-quarters cover.
-- You learn one cantrip that requires an attack roll. Choose the cantrip from the evangelist, priest, morph, scion, cybernetic, or arcanist tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for arcanist.
+- You learn one cantrip that requires an attack roll. Choose the cantrip from the evangelist, priest, morph, scion, cybernetic, or Arcanist tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for Arcanist.
 
 #### TAVERN BRAWLER
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
@@ -1784,7 +1784,7 @@ To make a saving throw, roll a d20 and add the appropriate ability modifier. For
 
 A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the GM.
 
-Each class gives proficiency in at least two saving throws. The arcanist, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
+Each class gives proficiency in at least two saving throws. The Arcanist, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
 
 The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a tek skill is determined by the caster’s Tekcasting ability and proficiency bonus.
 
@@ -2125,7 +2125,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a arcanist cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because an arcanist cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 #### Difficult Terrain
 
@@ -2233,7 +2233,7 @@ Certain features, such as the Extra Attack feature of the soldier, allow you to 
 
 #### Cast a Tek
 
-Tekcasters such as arcanists and priests, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
+Tekcasters such as Arcanists and priests, as well as many monsters, have access to tek skills and can use them to great effect in combat. Each tek skill has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the tek skill. Casting a tek skill is, therefore, not necessarily an action. Most tek skills do have a casting time of 1 action, so a tekcaster often uses his or her action in combat to cast such a tek skill.
 
 #### Dash
 
@@ -2412,7 +2412,7 @@ Each weapon, tek skill, and harmful monster ability specifies the damage it deal
 
 When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **tek skill** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
+If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when an arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
@@ -2532,7 +2532,7 @@ Unless a feature that grants you temporary hit points has a duration, they last 
 
 ### Mounted Combat
 
-A knight charging into battle on a warhorse, a arcanist casting tek skills from the back of a griffon, or a priest soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+A knight charging into battle on a warhorse, an arcanist casting tek skills from the back of a griffon, or a priest soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 

@@ -23,7 +23,7 @@ As a soldier, you gain the following class features.
 
 **Saving Throws:** Strength, Constitution
 
-**Skills:** Choose two skills from Acrobatics, Physique, Knowledge, Insight, Intimidation, Perception, and Nature
+**Skills:** Choose two skills from Acrobatics, Physique, History, Insight, Intimidation, Perception, and Nature
 
 ##### Equipment
 
@@ -99,7 +99,7 @@ Once you use this feature, you must finish a short or long rest before you can u
 
 #### Martial Archetype
 
-At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. All archetypes are detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 #### Ability Score Improvement
 
