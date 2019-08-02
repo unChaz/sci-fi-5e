@@ -106,8 +106,8 @@ Armor Proficiencies: Scarab Skin
 
 **Veteran** As a veteran you can use a Charm check to attempt to get a discount when hiring Mercenaries. You are better at using the marine lingo, and as a result, any marines under your command gain a +1 to Armor Class and attack rolls.
 
-## Praetor
-You come from one of the elite houses that owns a large corporation, or you have been honored as a lancer of one of these elite houses. You maintain the rank of Lancer. As a member or lancer of an elite house you always have your house in the best interest.
+## Lancer
+You come from one of the elite houses that owns a large corporation, or you have been honored as a lancer of one of these elite houses. You maintain the rank and privileges of Lancer. As a member or lancer of an elite house you always have your house in the best interest.
 
 Skill Proficiencies: Diplomacy. Choose 1 from [Charm, History , Medic]
 Tool Proficiencies: Choose 1 from [Botanist’s Kit, Musical Instrument, Disguise Kit]

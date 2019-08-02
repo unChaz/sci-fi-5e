@@ -1,10 +1,10 @@
-### Scion
+#  Scion
 
-#### Class Features
+##  Class Features
 
 As a scion, you gain the following class features.
 
-##### Hit Points
+###  Hit Points
 
 **Hit Dice:** 1d6 per scion level
 
@@ -12,7 +12,7 @@ As a scion, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier + Will modifier per scion level after 1st
 
-##### Proficiencies
+###  Proficiencies
 
 **Armor:** None
 
@@ -24,13 +24,67 @@ As a scion, you gain the following class features.
 
 **Skills:** Choose two from History, Charm, Insight, Intimidation, and Religion
 
-##### Equipment
+###  Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) any simple weapon
 * (*a*) a component pouch or (*b*) an tekcaster
 * (*a*) an incursion kit or (*b*) a field survival kit
 * Two ion daggers
+
+##  Tekcasting
+
+An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane tek. This font of tek, whatever its origin, fuels your tek skills.
+
+###  Cantrips
+
+At 1st level, you know four cantrips of your choice from the scion tek skill list. You learn additional scion cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Scion table.
+
+###  Tek Slots
+
+The Scion table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these scion tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+
+For example, if you know the 1st-level tek skill *burning hands* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *burning hands* using either slot.
+
+```
+```
+
+###  Tek Skills Known of 1st Level and Higher
+
+You know two 1st-level tek skills of your choice from the scion tek skill list.
+
+The Tek Skills Known column of the Scion table shows when you learn more scion tek skills of your choice. Each of these tek skills must be of a level for which you have tek skill slots. For instance, when you reach 3rd level in this class, you can learn one new tek skill of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the scion tek skills you know and replace it with another tek skill from the scion tek skill list, which also must be of a level for which you have tek skill slots.
+
+###  Tekcasting Ability
+
+Charisma + Will is your Tekcasting ability for your scion tek skills, since the power of your tek relies on your ability to project your will into the world. You use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a scion tek skill you cast and when making an attack roll with one.
+
+**Tek save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
+
+**Tek attack modifier** = your proficiency bonus + your Charisma modifier + your Will modifier + your Wit modifier
+
+###  Tekcasting Focus
+
+You can use an tekcaster as a Tekcasting focus for your scion tek skills.
+
+##  Sorcerous Origin
+
+Choose a sorcerous origin, which describes the source of your innate tek power: Draconic Bloodline or Wild Tek, both detailed at the end of the class description.
+
+Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
+
+##  Font of Tek
+
+At 2nd level, you tap into a deep wellspring of tek within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of tek effects.
+
+###  Sorcery Points
+
+You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Scion table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
+
+\page
+<div class="wide">
 
 **The Scion (table)**
 
@@ -56,62 +110,17 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | 18             | Sorcerous Origin Feature       | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | +6                | 19             | Ability Score Improvement      | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | 20             | Sorcerous Restoration          | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-
-#### Tekcasting
-
-An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane tek. This font of tek, whatever its origin, fuels your tek skills.
-
-##### Cantrips
-
-At 1st level, you know four cantrips of your choice from the scion tek skill list. You learn additional scion cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Scion table.
-
-##### Tek Slots
-
-The Scion table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these scion tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
-
-For example, if you know the 1st-level tek skill *burning hands* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *burning hands* using either slot.
-
-##### Tek Skills Known of 1st Level and Higher
-
-You know two 1st-level tek skills of your choice from the scion tek skill list.
-
-The Tek Skills Known column of the Scion table shows when you learn more scion tek skills of your choice. Each of these tek skills must be of a level for which you have tek skill slots. For instance, when you reach 3rd level in this class, you can learn one new tek skill of 1st or 2nd level.
-
-Additionally, when you gain a level in this class, you can choose one of the scion tek skills you know and replace it with another tek skill from the scion tek skill list, which also must be of a level for which you have tek skill slots.
-
-##### Tekcasting Ability
-
-Charisma + Will is your Tekcasting ability for your scion tek skills, since the power of your tek relies on your ability to project your will into the world. You use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a scion tek skill you cast and when making an attack roll with one.
-
-**Tek save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
-
-**Tek attack modifier** = your proficiency bonus + your Charisma modifier + your Will modifier + your Wit modifier
-
-##### Tekcasting Focus
-
-You can use an tekcaster as a Tekcasting focus for your scion tek skills.
-
-#### Sorcerous Origin
-
-Choose a sorcerous origin, which describes the source of your innate tek power: Draconic Bloodline or Wild Tek, both detailed at the end of the class description.
-
-Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
-
-#### Font of Tek
-
-At 2nd level, you tap into a deep wellspring of tek within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of tek effects.
-
-##### Sorcery Points
-
-You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Scion table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
-
-##### Flexible Casting
+</div>
+###  Flexible Casting
 
 You can use your sorcery points to gain additional tek skill slots, or sacrifice tek skill slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
 
 **_Creating Tek Slots._** You can transform unexpended sorcery points into one tek skill slot as a bonus action on your turn. The Creating Tek Slots table shows the cost of creating a tek skill slot of a given level. You can create tek skill slots no higher in level than 5th.
 
 Any tek skill slot you create with this feature vanishes when you finish a long rest.
+
+```
+```
 
 **Creating Tek Slots (table)**
 
@@ -125,67 +134,72 @@ Any tek skill slot you create with this feature vanishes when you finish a long 
 
 **_Converting a Tek Slot to Sorcery Points._** As a bonus action on your turn, you can expend one tek skill slot and gain a number of sorcery points equal to the slot’s level.
 
-#### Metatek
+\page
+
+##  Metatek
 
 At 3rd level, you gain the ability to twist your tek skills to suit your needs. You gain two of the following Metatek options of your choice. You gain another one at 10th and 17th level.
 
 You can use only one Metatek option on a tek skill when you cast it, unless otherwise noted.
 
-##### Careful Tek
+###  Careful Tek
 
 When you cast a tek skill that forces other creatures to make a saving throw, you can protect some of those creatures from the tek skill’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the tek skill.
 
-##### Distant Tek
+###  Distant Tek
 
 When you cast a tek skill that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the tek skill.
 
 When you cast a tek skill that has a range of touch, you can spend 1 sorcery point to make the range of the tek skill 30 feet.
 
-##### Empowered Tek
+###  Empowered Tek
 
 When you roll damage for a tek skill, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
 
 You can use Empowered Tek even if you have already used a different Metatek option during the casting of the tek skill.
 
-##### Extended Tek
+###  Extended Tek
 
 When you cast a tek skill that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.
 
-##### Heightened Tek
+###  Heightened Tek
 
 When you cast a tek skill that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the tek skill disadvantage on its first saving throw made against the tek skill.
 
-##### Quickened Tek
+###  Quickened Tek
 
 When you cast a tek skill that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 
-##### Subtle Tek
+###  Subtle Tek
 
 When you cast a tek skill, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
-##### Twinned Tek
+```
+```
+
+###  Twinned Tek
 
 When you cast a tek skill that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the tek skill’s level to target a second creature in range with the same tek skill (1 sorcery point if the tek skill is a cantrip).
 
 To be eligible, a tek skill must be incapable of targeting more than one creature at the tek skill’s current level. For example, *tek missile* and *scorching ray* aren’t eligible, but *ray of frost* and *chromatic orb* are.
 
-#### Ability Score Improvement
+##  Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-#### Sorcerous Restoration
+##  Sorcerous Restoration
 
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
 
-#### Sorcerous Origins
+##  Sorcerous Origins
 
 Different scions claim different origins for their innate tek. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild tek.
 
-##### Draconic Bloodline
+###  Draconic Bloodline
 
 Your innate tek comes from draconic tek that was mingled with your blood or that of your ancestors. Most often, scions with this origin trace their descent back to a mighty scion of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given scion could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
-###### Dragon Ancestor
+####  Dragon Ancestor
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
@@ -204,24 +218,26 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 | Silver | Cold        |
 | White  | Cold        |
 
+\page
+
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
-###### Draconic Resilience
+####  Draconic Resilience
 
 As tek flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
 Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier.
 
-###### Elemental Affinity
+####  Elemental Affinity
 
 Starting at 6th level, when you cast a tek skill that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that tek skill. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
 
-###### Dragon Wings
+####  Dragon Wings
 
 At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.
 
 You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
-###### Draconic Presence
+####  Draconic Presence
 
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration tek skill), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
