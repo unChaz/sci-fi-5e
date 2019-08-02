@@ -36,7 +36,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ##  Morphic cant
 
-You know Morphic, the secret language of morphs. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful DC 15 Wisdom (Perception) check but can’t decipher it without tek.
+You know Morphic, the secret language of morphs. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without tek.
 
 ##  Tekcasting
 
@@ -51,11 +51,11 @@ At 1st level, you know two cantrips of your choice from the morph tek skill list
 
 ###  Preparing and Casting Tek Skills
 
-The Morph table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these morph tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Morph table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these morph tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 You prepare the list of morph tek skills that are available for you to cast, choosing from the morph tek skill list. When you do so, choose a number of morph tek skills equal to your Wisdom modifier + your morph level (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
-For example, if you are a 3rd-level morph, you have four 1st-level and two 2nd-level tek skill slots. With a Wisdom of 16, your list of prepared tek skills can include six tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or 2nd-level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
+For example, if you are a 3rd-level morph, you have four 1st-level and two 2nd-level tek skill slots. With a Wisdom of 16, your list of prepared tek skills can include six tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or 2nd-level slot. Casting the tek skill doesn't remove it from your list of prepared tek skills.
 
 You can also change your list of prepared tek skills when you finish a long rest. Preparing a new list of morph tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
 
@@ -109,7 +109,7 @@ You can use a tekcaster as a focus for your morph tek skills.
 
 Starting at 2nd level, you can use your action to assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
-Your morph level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn’t have a flying or swimming speed.
+Your morph level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
 **Beast Shapes (table)**
 
@@ -123,14 +123,14 @@ You can stay in a beast shape for a number of hours equal to half your morph lev
 
 While you are transformed, the following rules apply:
 
-* Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
-* When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
+* Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
+* When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
 
 \page
 
-* You can’t cast tek skills, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a tek skill you’ve already cast, however, or prevent you from taking actions that are part of a tek skill, such as *call lightning*, that you’ve already cast.
-* You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
-* You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+* You can't cast tek skills, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a tek skill you've already cast, however, or prevent you from taking actions that are part of a tek skill, such as *call lightning*, that you've already cast.
+* You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
+* You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ##  Morph Circle
 
@@ -140,7 +140,7 @@ At 2nd level, you choose to identify with a circle of morphs: the Circle of the 
 
 ##  Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ##  Timeless Body
 
@@ -148,19 +148,19 @@ Starting at 18th level, the nature shifting tek that you wield causes you to age
 
 ##  Beast Tek Skills
 
-Beginning at 18th level, you can cast many of your morph tek skills in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a morph tek skill while in a beast shape, but you aren’t able to provide material components.
+Beginning at 18th level, you can cast many of your morph tek skills in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a morph tek skill while in a beast shape, but you aren't able to provide material components.
 
 ##  Archmorph
 
 At 20th level, you can use your Wild Shape an unlimited number of times.
 
-Additionally, you can ignore the verbal and somatic components of your morph tek skills, as well as any material components that lack a cost and aren’t consumed by a tek skill. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
+Additionally, you can ignore the verbal and somatic components of your morph tek skills, as well as any material components that lack a cost and aren't consumed by a tek skill. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
 
 ##  Morph Circles
 
 ###  Circle of the Land
 
-The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These morphs meet within sacred circles of trees or standing stones to whisper primal secrets in Morphic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your tek is influenced by the land where you were initiated into the circle’s mysterious rites.
+The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These morphs meet within sacred circles of trees or standing stones to whisper primal secrets in Morphic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your tek is influenced by the land where you were initiated into the circle's mysterious rites.
 
 ####  Bonus Cantrip
 
@@ -169,7 +169,7 @@ When you choose this circle at 2nd level, you learn one additional morph cantrip
 ####  Natural Recovery
 
 Starting at 2nd level, you can regain some of your tek energy by sitting in meditation and communing with nature. During a short rest, you choose expended tek skill slots to recover. The tek skill slots can have a combined level that is equal to or less than half your morph level
-(rounded up), and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
+(rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level morph, you can recover up to two levels worth of tek skill slots. You can recover either a 2nd-level slot or two 1st-level slots.
 
@@ -177,7 +177,7 @@ For example, when you are a 4th-level morph, you can recover up to two levels wo
 
 Your mystical connection to the land infuses you with the ability to cast certain tek skills. At 3rd, 5th, 7th, and 9th level you gain access to circle tek skills connected to the land where you became a morph. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of tek skills.
 
-Once you gain access to a circle tek skill, you always have it prepared, and it doesn’t count against the number of tek skills you can prepare each day. If you gain access to a tek skill that doesn’t appear on the morph tek skill list, the tek skill is nonetheless a morph tek skill for you.
+Once you gain access to a circle tek skill, you always have it prepared, and it doesn't count against the number of tek skills you can prepare each day. If you gain access to a tek skill that doesn't appear on the morph tek skill list, the tek skill is nonetheless a morph tek skill for you.
 
 
 **Arctic (table)**
@@ -245,17 +245,17 @@ Once you gain access to a circle tek skill, you always have it prepared, and it 
 | 7th         | freedom of movement, locate creature |
 | 9th         | insect plague, scrying               |
 
-####  Land’s Stride
+####  Land's Stride
 
 Starting at 6th level, moving through nontek difficult terrain costs you no extra movement. You can also pass through nontek plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are created or manipulated to impede movement, such those created by the *entangle* tek skill.
 
-####  Nature’s Ward
+####  Nature's Ward
 
-When you reach 10th level, you can’t be charmed or frightened by elementals or fey, and you are immune to poison and disease.
+When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.
 
-####  Nature’s Sanctuary
+####  Nature's Sanctuary
 
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your morph tek skill save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
 

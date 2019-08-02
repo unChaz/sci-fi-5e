@@ -8,11 +8,11 @@ This section describes items that have special rules or require further explanat
 
 **_Datacube._** A cube 1 inch on each side that can store up to 1 zettabyte of information.
 
-**_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
+**_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.
 
 **_Chain._** A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
 
-**_Climber’s Kit._** A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself; when you do, you can’t fall more than 25 feet from the point where you anchored yourself, and you can’t climb more than 25 feet away from that point without undoing the anchor.
+**_Climber's Kit._** A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
 
 **_Datapad._** An all purpose personal digital assistant. Used for storing information, and accessing data networks. Also a required tool for slicers. A datapad can last up to 2 weeks before it needs to be charged over a long rest.
 
@@ -28,9 +28,9 @@ This section describes items that have special rules or require further explanat
 
 **_Flashlight Attachment._** A flashlight attachment can be attached to the side of most firearms.
 
-**_Mechanical Lock._** A key is provided with the lock. Without the key, a creature proficient with thieves’ tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.
+**_Mechanical Lock._** A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.
 
-**_Handcuffs_** These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves’ tools can pick the manacles’ lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+**_Handcuffs_** These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
 
 **_Mess Kit._** This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 
@@ -61,11 +61,11 @@ This section describes items that have special rules or require further explanat
 | Backpack                     | 200 credits     | 5 kg.        |
 | Sleeping Bag                 | 300 credits     | 7 kg.        |
 | Blanket                      | 150 credits    | 3 kg.        |
-| Climber’s kit                | 2500 credits    | 12 kg.       |
+| Climber's kit                | 2500 credits    | 12 kg.       |
 | Clothes, common              | 500 credits    | 3 kg.        |
 | Clothes, costume             | 800 credits     | 4 kg.        |
 | Clothes, fine                | 1500 credits    | 6 kg.        |
-| Clothes, traveler’s          | 750 credits     | 4 kg.        |
+| Clothes, traveler's          | 750 credits     | 4 kg.        |
 | Crowbar                      | 200 credits     | 5 kg.        |
 | Fishing tackle               | 100 credits     | 4 kg.        |
 | Flask or tankard             | 50 credits     | 1 kg.        |

@@ -29,7 +29,7 @@ As a cybernetic, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 * *(a)* a scorcher and 20 clips of ammunition or (*b*) any simple weapon
-* *(a)* a scholar’s pack or (*b*) an incursion kit
+* *(a)* a scholar's pack or (*b*) an incursion kit
 * a tekcaster
 * Flak armor, and two ion daggers
 
@@ -62,7 +62,7 @@ For example, when you are 5th level, you have two 3rd-level tek skill slots. To 
 
 At 1st level, you know two 1st-level tek skills of your choice from the cybernetic tek skill list.
 
-The Tek Skills Known column of the Cybernetic table shows when you learn more cybernetic tek skills of your choice of 1st level and higher. A tek skill you choose must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach 6th level, for example, you learn a new cybernetic tek skill, which can be 1st, 2nd, or 3rd level.
+The Tek Skills Known column of the Cybernetic table shows when you learn more cybernetic tek skills of your choice of 1st level and higher. A tek skill you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new cybernetic tek skill, which can be 1st, 2nd, or 3rd level.
 
 Additionally, when you gain a level in this class, you can choose one of the cybernetic tek skills you know and replace it with another tek skill from the cybernetic tek skill list, which also must be of a level for which you have tek skill slots.
 
@@ -122,7 +122,7 @@ At 3rd level, your Symbiote gives you one of the following features of your choi
 
 ### Link of the Drone
 
-You learn the *find familiar* tek skill and can cast it as a ritual. The tek skill doesn’t count against your number of tek skills known.
+You learn the *find familiar* tek skill and can cast it as a ritual. The tek skill doesn't count against your number of tek skills known.
 
 When you cast the tek skill, the form of your familiar is a recon drone with a fly speed of 60, 13 AC, 7 HP, Perception +3, Stealth +4, 60ft of darkvision, 10ft of blindsight.
 
@@ -138,15 +138,15 @@ Your Nanoblade disappears if it is more than 5 feet away from you for 1 minute o
 
 \page
 
-You can transform one tek weapon into your Nanoblade by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your Nanoblade thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your Nanoblade if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform one tek weapon into your Nanoblade by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your Nanoblade thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your Nanoblade if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 ### Link of the Tome
 
-Your Symbiote gives you access to more tekskills. When you gain this feature, choose three cantrips from any class’s tek skill list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the cybernetic tek skill list, they are nonetheless cybernetic tek skills for you.
+Your Symbiote gives you access to more tekskills. When you gain this feature, choose three cantrips from any class's tek skill list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the cybernetic tek skill list, they are nonetheless cybernetic tek skills for you.
 
 ## Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Mystic Arcanum
 
@@ -195,7 +195,7 @@ You gain proficiency in the Charm and Charm skills.
 
 *Prerequisite: 7th level*
 
-You can cast *compulsion* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *compulsion* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Nanotech Chains Module
 
@@ -211,7 +211,7 @@ You can see normally in darkness, both tek and nontek, to a distance of 120 feet
 
 *Prerequisite: 7th level*
 
-You can cast *confusion* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *confusion* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Alien Sight
 
@@ -235,7 +235,7 @@ You can cast *false life* on yourself at will as a 1st-level tek skill, without 
 
 ### Mindlink Module
 
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
 ### Lifedrinker Module
 
@@ -257,13 +257,13 @@ You can cast *alter self* at will, without expending a tek skill slot.
 
 *Prerequisite: 9th level*
 
-You can cast *conjure elemental* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *conjure elemental* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Mire the Mind Module
 
 *Prerequisite: 5th level*
 
-You can cast *slow* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *slow* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Hologram Module
 
@@ -294,17 +294,17 @@ When you hit a creature with *nanotech blast*, you can push the creature up to 1
 
 *Prerequisite: 7th level*
 
-You can cast *polymorph* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *polymorph* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Mind Hack Module
 
 *Prerequisite: 5th level*
 
-You can cast *bestow hack* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *bestow hack* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Thief of Five Fates Module
 
-You can cast *bane* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *bane* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Thirsting Nanoblade
 
@@ -322,7 +322,7 @@ You can cast *arcane eye* at will, without expending a tek skill slot.
 
 *Prerequisite: Link of the Chain feature*
 
-You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 ### Whispers of the Grave Module
 
@@ -360,15 +360,15 @@ The Fiend lets you choose from an expanded list of tek skills when you learn a c
 | 4th         | fire shield, wall of fire         |
 | 5th         | flame strike, hallow              |
 
-## Dark One’s Blessing
+## Dark One's Blessing
 
 Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your cybernetic level (minimum of 1).
 
-## Dark One’s Own Luck
+## Dark One's Own Luck
 
-Starting at 6th level, you can call on your Symbiote to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll’s effects occur.
+Starting at 6th level, you can call on your Symbiote to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Fiendish Resilience
 
@@ -405,7 +405,7 @@ Starting at 1st level, you gain the ability to place a baleful curse on someone.
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
 - Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.
 - If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).
-- You can’t use this feature again until you finish a short or long rest.
+- You can't use this feature again until you finish a short or long rest.
 
 \page
 
@@ -413,9 +413,9 @@ Starting at 1st level, you gain the ability to place a baleful curse on someone.
 
 At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.
 
-The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon’s type.
+The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Accursed Specter
 
@@ -423,10 +423,10 @@ Starting at 6th level, you can curse the soul of a person you slay, temporarily 
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 
-Once you bind a specter with this feature, you can’t use the feature again until you finish a long rest.
+Once you bind a specter with this feature, you can't use the feature again until you finish a long rest.
 
 ## Armor of Hexes
-At 10th level, your hex grows more powerful. If the target cursed by your Hexblade’s Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
+At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
 
 ## Master of Hexes
-Starting at 14th level, you can spread your Hexblade’s Curse from a slain creature to another creature. When the creature cursed by your Hexblade’s Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren’t incapacitated. When you apply the curse in this way, you don’t regain hit points from the death of the previously cursed creature.
+Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.

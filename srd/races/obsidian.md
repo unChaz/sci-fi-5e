@@ -25,4 +25,4 @@ You count as one size larger when determining your carrying capacity and the wei
 **_Languages._** You can speak, read, and write German, English, and one extra language of your choice.
 
 #### Savage Attacks
-When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.

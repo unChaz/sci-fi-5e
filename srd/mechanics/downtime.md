@@ -8,7 +8,7 @@ In some cases, the passage of time is something that occurs with little fanfare 
 
 Between adventures, you choose a particular quality of life and pay the cost of maintaining that lifestyle.
 
-Living a particular lifestyle doesn’t have a huge effect on your character, but your lifestyle can affect the way other individuals and groups react to you. For example, when you lead an aristocratic lifestyle, it might be easier for you to influence the nobles of the city than if you live in poverty.
+Living a particular lifestyle doesn't have a huge effect on your character, but your lifestyle can affect the way other individuals and groups react to you. For example, when you lead an aristocratic lifestyle, it might be easier for you to influence the nobles of the city than if you live in poverty.
 
 #### Downtime Activities
 
@@ -18,7 +18,7 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 ##### Crafting
 
-You can craft nontek objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it.
+You can craft nontek objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 500 credits, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 500 credits, you make progress every day in 500 credits increments until you reach the market value of the item. For example, a suit of plate armor (market value 150000 credits) takes 300 days to craft by yourself.
 
@@ -29,7 +29,7 @@ While crafting, you can maintain a modest lifestyle without having to pay 100 cr
 ##### Practicing a Profession
 
 You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 100 credits per day. This benefit lasts as long you continue to practice your profession.
-If you are a member of an organization that can provide gainful employment, such as a temple or a thieves’ guild, you earn enough to support a comfortable lifestyle instead.
+If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
 If you have proficiency in the Performance skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
 
 ##### Recuperating

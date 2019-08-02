@@ -10,7 +10,7 @@ The description of each race includes racial traits that are common to members o
 
 ##### Ability Score Increase
 
-Every race increases one or more of a character’s ability scores.
+Every race increases one or more of a character's ability scores.
 
 ##### Age
 

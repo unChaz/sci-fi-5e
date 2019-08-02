@@ -1,6 +1,6 @@
-#### Robotics
+# Constructs
 
-##### Android
+### Android
 _Medium construct, unaligned_
 
 **Armor Class** 18 (natural armor)
@@ -25,7 +25,7 @@ _Medium construct, unaligned_
 
 **_Antitek Susceptibility_**. The android is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the android must succeed on a
 
-Constitution saving throw against the caster’s tek skill save DC or fall unconscious for 1 minute.
+Constitution saving throw against the caster's tek skill save DC or fall unconscious for 1 minute.
 
 **Actions**
 
@@ -35,7 +35,7 @@ Constitution saving throw against the caster’s tek skill save DC or fall uncon
 
 **Androids** are synthetic sleeves. They are illegal when controlled by an AI instead of a human stack, but sometimes it can be difficult to tell the difference between a human and a good AI. Especially inside a metallic body.
 
-##### Blade Drone
+### Blade Drone
 
 _Small construct, unaligned_
 
@@ -61,9 +61,9 @@ _Small construct, unaligned_
 
 **Challenge** 1/4 (50 XP)
 
-**_Antitek Susceptibility_**. The sword is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the sword must succeed on a Constitution saving throw against the caster’s tek skill save DC or fall unconscious for 1 minute.
+**_Antitek Susceptibility_**. The sword is incapacitated while in the area of an _antitek field._ If targeted by _dispel tek_, the sword must succeed on a Constitution saving throw against the caster's tek skill save DC or fall unconscious for 1 minute.
 
-**_False Appearance_**. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
+**_False Appearance_**. While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 
 **Actions**
 
@@ -71,11 +71,11 @@ _Small construct, unaligned_
 
 **Blade Drones** are fast flyers remotely controlled by a human. They give vision to their controller, as well as use their spinning blades to attack foes.  
 
-#### Mechs
+## Mechs
 
 Mechs are large robotic machines controlled by a human operator, or remotely controlled via VR interface. If the operator can eject before it is destroyed, they can continue fighting out of mech.
 
-##### Ion Mech
+### Ion Mech
 
 _Large construct, unaligned_
 
@@ -89,13 +89,13 @@ _Large construct, unaligned_
 |---------|--------|---------|--------|--------|--------|
 | 20 (+5) | 9 (−1) | 18 (+4) | 3 (−4) | 8 (−1) | 1 (−5) |
 
-**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nontek attacks that aren’t tek powered or pulse powered.
+**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nontek attacks that aren't tek powered or pulse powered.
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 **Senses** darkvision 60 ft., passive Perception 9
 
-**Languages** understands the languages of its operator but can’t speak
+**Languages** understands the languages of its operator but can't speak
 
 **Challenge** 9 (5,000 XP)
 
@@ -107,7 +107,7 @@ _Large construct, unaligned_
 
 **_Tek Resistance_**. The Mech has advantage on saving throws against tek skills and other tek effects.
 
-**_Tek Weapons_**. The Mech’s weapon attacks are tek powered.
+**_Tek Weapons_**. The Mech's weapon attacks are tek powered.
 
 **Actions**
 
@@ -117,7 +117,9 @@ _Large construct, unaligned_
 
 **_Haste (Recharge 5–6)_**. Until the end of its next turn, the Mech gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 
-##### Tesla Mech
+\page
+
+### Tesla Mech
 
 _Medium construct, neutral_
 
@@ -131,19 +133,19 @@ _Medium construct, neutral_
 |---------|--------|---------|--------|---------|--------|
 | 19 (+4) | 9 (−1) | 18 (+4) | 6 (−2) | 10 (+0) | 5 (−3) |
 
-**Damage Immunities** shock, poison; bludgeoning, piercing, and slashing from nontek attacks that aren’t tek powered or ionic.
+**Damage Immunities** shock, poison; bludgeoning, piercing, and slashing from nontek attacks that aren't tek powered or ionic.
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 **Senses** darkvision 60 ft., passive Perception 10
 
-**Languages** understands the languages of its operator but can’t speak
+**Languages** understands the languages of its operator but can't speak
 
 **Challenge** 5 (1,800 XP)
 
 **_Berserk_**. Whenever the Mech starts its turn with 40 hit points or fewer, roll a d6. On a 6, the Mech goes berserk. On each of its turns while berserk, the Mech attacks the nearest creature it can see. If no creature is near enough to move to and attack, the Mech attacks an object, with preference for an object smaller than itself. Once the Mech goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 
-The Mech’s creator, if within 60 feet of the berserk Mech, can try to calm it by speaking firmly and persuasively. The Mech must be able to hear its creator, who must take an action to make a DC 15 Charisma (Charm) check. If the check succeeds, the Mech ceases being berserk. If it takes damage while still at 40 hit points or fewer, the Mech might go berserk again.
+The Mech's creator, if within 60 feet of the berserk Mech, can try to calm it by speaking firmly and persuasively. The Mech must be able to hear its creator, who must take an action to make a DC 15 Charisma (Charm) check. If the check succeeds, the Mech ceases being berserk. If it takes damage while still at 40 hit points or fewer, the Mech might go berserk again.
 
 **_Aversion of Fire_**. If the Mech takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
@@ -153,7 +155,7 @@ The Mech’s creator, if within 60 feet of the berserk Mech, can try to calm it 
 
 **_Tek Resistance_**. The Mech has advantage on saving throws against tek skills and other tek effects.
 
-**_Shock Weapons_**. The Mech’s weapon attacks do shock tek damage.
+**_Shock Weapons_**. The Mech's weapon attacks do shock tek damage.
 
 **Actions**
 
@@ -161,7 +163,7 @@ The Mech’s creator, if within 60 feet of the berserk Mech, can try to calm it 
 
 **_Slam_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) shock damage.
 
-##### Scorcher Mech
+### Scorcher Mech
 
 _Large construct, unaligned_
 
@@ -181,7 +183,7 @@ _Large construct, unaligned_
 
 **Senses** darkvision 120 ft., passive Perception 10
 
-**Languages** understands the languages of its operator but can’t speak
+**Languages** understands the languages of its operator but can't speak
 
 **Challenge** 16 (15,000 XP)
 
@@ -191,7 +193,7 @@ _Large construct, unaligned_
 
 **_Tek Resistance_**. The Mech has advantage on saving throws against tek skills and other tek effects.
 
-**_Tek Weapons_**. The Mech’s weapon attacks are tek.
+**_Tek Weapons_**. The Mech's weapon attacks are tek.
 
 **Actions**
 
@@ -203,7 +205,7 @@ _Large construct, unaligned_
 
 **_Poison Spray (Recharge 6)_**. The Mech exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
-##### Crusher Golem
+### Crusher Golem
 
 _Large construct, unaligned_
 
@@ -223,7 +225,7 @@ _Large construct, unaligned_
 
 **Senses** darkvision 120 ft., passive Perception 10
 
-**Languages** understands the languages of its operator but can’t speak
+**Languages** understands the languages of its operator but can't speak
 
 **Challenge** 10 (5,900 XP)
 
@@ -231,7 +233,7 @@ _Large construct, unaligned_
 
 **_Tek Resistance_**. The golem has advantage on saving throws against tek skills and other tek effects.
 
-**_Tek Weapons_**. The golem’s weapon attacks are tek.
+**_Tek Weapons_**. The golem's weapon attacks are tek.
 
 **Actions**
 
@@ -239,9 +241,11 @@ _Large construct, unaligned_
 
 **_Slam_**. _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.
 
-**_Slow (Recharge 5–6)_**. The golem stomps on the ground causing the ground to shake. Each target within 10 feet must make a DC 17 Wisdom saving throw against this tek. On a failed save, a target can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Slow (Recharge 5–6)_**. The golem stomps on the ground causing the ground to shake. Each target within 10 feet must make a DC 17 Wisdom saving throw against this tek. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### Scout Drone
+\page
+
+## Scout Drone
 
 _Tiny construct, neutral_
 
@@ -261,7 +265,7 @@ _Tiny construct, neutral_
 
 **Senses** darkvision 60 ft., passive Perception 10
 
-**Languages** understands the languages of its creator but can’t speak
+**Languages** understands the languages of its creator but can't speak
 
 **Challenge** 0 (10 XP)
 
@@ -271,7 +275,7 @@ _Tiny construct, neutral_
 
 **_Poison Injection_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 
-#### Shield Guardian
+## Shield Guardian
 
 _Large construct, unaligned_
 
@@ -291,7 +295,7 @@ _Large construct, unaligned_
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
-**Languages** understands commands given in any language but can’t speak
+**Languages** understands commands given in any language but can't speak
 
 **Challenge** 7 (2,900 XP)
 

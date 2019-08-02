@@ -6,10 +6,10 @@ class Compiler
   def run
     puts "Building Sci-fi SRD Version #{@version}"
     Dir.mkdir("versions/#{version}") unless File.exists?("versions/#{version}")
-    build_file('srd')
+    # build_file('srd')
     build_file('monster_manual')
-    build_file('tekcasting')
-    build_file('tek_items')
+    # build_file('tekcasting')
+    # build_file('tek_items')
   end
 
   def build_file(filename)

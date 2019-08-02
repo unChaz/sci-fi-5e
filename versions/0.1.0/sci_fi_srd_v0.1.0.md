@@ -31,7 +31,7 @@ You were not revived for one of the following reasons:
 - The contract on your revival designated a date after HL-3404-C53 went into effect.
 
 ### Designation
-At the time of emergence, all Cryo-Emergents, are given an eight digit alphanumeric designation beginning with ‘CE-’.
+At the time of emergence, all Cryo-Emergents, are given an eight digit alphanumeric designation beginning with ‘CE-'.
 
 ## Persona
 
@@ -42,7 +42,7 @@ Personality traits were the results of a two decades long psychological study at
 | Trait | Description|
 |:----:|:-------------|
 | Wit  | Mental sharpness and inventiveness; keen intelligence. |
-| Will  | Mental fortitude. This is the mind’s ability to resist tek effectrs, and mental stress. |
+| Will  | Mental fortitude. This is the mind's ability to resist tek effectrs, and mental stress. |
 | Intelligence | The ability to acquire and apply knowledge and skills. |
 | Wisdom | The soundness of an action or decision with regard to the application of experience, knowledge, and good judgment. |
 
@@ -140,7 +140,7 @@ A focus is a small device that through a series of voice, movements, and occasio
 ```
 
 ### Willpower
-Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s “tek” ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster's “tek” ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
@@ -191,11 +191,11 @@ The description of each race includes racial traits that are common to members o
 
 ##### Ability Score Increase
 
-Every race increases one or more of a character’s ability scores.
+Every race increases one or more of a character's ability scores.
 
 ##### Age
 
-The age entry notes the age when a member of the race is considered an adult, as well as the race’s expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
+The age entry notes the age when a member of the race is considered an adult, as well as the race's expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
 
 ##### Alignment
 
@@ -226,7 +226,7 @@ Some races have subraces. Members of a subrace have the traits of the parent rac
 
 #### Human Traits
 
-It’s hard to make generalizations about humans, but your human character has these traits.
+It's hard to make generalizations about humans, but your human character has these traits.
 
 **_Ability Score Increase._** Two ability scores each increase by 1.
 
@@ -242,9 +242,9 @@ Humans typically learn the languages of other peoples they deal with, including 
 \page
 ## Backgrounds
 
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous Lancer or a grizzled soldier. Your Arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
+Every story has a beginning. Your character's background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous Lancer or a grizzled soldier. Your Arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
-Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
+Choosing a background provides you with important story cues about your character's identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don't you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
@@ -270,7 +270,7 @@ A background contains suggested personal characteristics based on your backgroun
 
 ##### Customizing a Background
 
-You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
+You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can't also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can't find a feature that matches your desired background, work with your GM to create one.
 
 ```
 ```
@@ -290,7 +290,7 @@ Tool Proficiency: [Gaming Set, Musical Instrument]
 You are more comfortable in null gravity and in a confined metal cockpit than you are planetside.
 
 Skill Proficiencies: Acrobatics. Choose 1 from [Tinker, Computers, Pilot].
-Tool Proficiency: Choose 1 from [Navigator’s Kit, Tinker’s Kit]
+Tool Proficiency: Choose 1 from [Navigator's Kit, Tinker's Kit]
 
 **Spacewalker**: You do not have to roll ability check to move through null gravity.
 
@@ -299,48 +299,48 @@ Tool Proficiency: Choose 1 from [Navigator’s Kit, Tinker’s Kit]
 You have risen in the ranks of duelists, and have earned your respect amongst the elite pretorians.
 
 Skill Proficiencies: Physique, Charm. Choose 1 from [Acrobatics, Performance, Intimidation]
-Tool Proficiency: Choose 1 from [Musical Instrument, Navigator’s Kit, Medkit]
+Tool Proficiency: Choose 1 from [Musical Instrument, Navigator's Kit, Medkit]
 Weapon Proficiency: Pulse Rapier, Pulse Whip
 
 ## Hacker
 
-Since childhood you’ve retreated to the comfortable world of cyberspace.
+Since childhood you've retreated to the comfortable world of cyberspace.
 
 Skill Proficiencies: Computers, Tinker. Choose 1 from [Stealth, Investigate, Trickery]
-Tool Proficiency: Choose one: [Slicer’s Kit, Forgery Kit]
+Tool Proficiency: Choose one: [Slicer's Kit, Forgery Kit]
 
 **Stealthy Slicer**: You have advantage on Stealth checks when trying to hack a system unnoticed.
 
 ## Criminal/Spy
-You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You’re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
+You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
 
 Skill Proficiencies: Stealth. Choose 1 from [Trickery, Charm, Intimidation]
-Tool Proficiencies: Thieve’s Tools. Choose 1 from [Forgery Kit, Poisoner’s Kit, Disguise Kit]
+Tool Proficiencies: Thieve's Tools. Choose 1 from [Forgery Kit, Poisoner's Kit, Disguise Kit]
 
 Criminal Contact: You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact.
 \page
 
 
 ## Smuggler
-You make your living sneaking illegal goods past Authority checkpoints. You’re good with your tongue, and even better in a cockpit.
+You make your living sneaking illegal goods past Authority checkpoints. You're good with your tongue, and even better in a cockpit.
 
 Skill Proficiencies: Pilot. Choose 1 from [Stealth, Charm, Diplomacy]
-Tool Proficiencies: Navigator’s Tools
+Tool Proficiencies: Navigator's Tools
 
 **Skills of the Trade**. You know how to hide things on a ship so they cannot be found. You also know where to look when trying to find hidden contraband.
 
 ## Detective
 
-You’ve had a successful career in law enforcement. You’ve decided to go freelance since the private sector tends to pay better.
+You've had a successful career in law enforcement. You've decided to go freelance since the private sector tends to pay better.
 
 Skill Proficiencies: Investigation. Choose 1 from [Insight, Perception, History]
-Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker’s Tools, Medkit]
+Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker's Tools, Medkit]
 
 **Well Connected**. You still have contacts in CommSec, and your reputation usually helps you get out of tight spots. CommSec officers are more likely to share privileged information not available to most civilians.
 
 ## Marine
 
-You’ve spent some time in the military. You have been trained by the best of the best, and are a war hardened veteran.
+You've spent some time in the military. You have been trained by the best of the best, and are a war hardened veteran.
 
 Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
 Tool Proficiencies: Medkit
@@ -353,7 +353,7 @@ Armor Proficiencies: Scarab Skin
 You come from one of the elite houses that owns a large corporation, or you have been honored as a lancer of one of these elite houses. You maintain the rank of Lancer. As a member or lancer of an elite house you always have your house in the best interest.
 
 Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
-Tool Proficiencies: Choose 1 from [Botanist’s Kit, Musical Instrument, Disguise Kit]
+Tool Proficiencies: Choose 1 from [Botanist's Kit, Musical Instrument, Disguise Kit]
 Weapon Proficiencies: Pulse Rapier/Pulse Whip
 
 **House Resources**: Depending on your social standing with your house, you might be able to persuade (Charm check) them to get you out of sticky situations, as well as provide you with resources. Be careful not to abuse this privilege, as the greedy pretorian leaders will likely ask for something in return.
@@ -363,24 +363,24 @@ Weapon Proficiencies: Pulse Rapier/Pulse Whip
 You have been trained to fly any kind of spacecraft. Your expertise makes you a valuable asset to any spacefaring venture.
 
 Skill Proficiencies: Pilot. Choose 1 from [Tinker, Perception, Computers]
-Tool Proficiencies: Navigator’s Tools
+Tool Proficiencies: Navigator's Tools
 
-**Frame Jack**: You have been surgically modified with hardware that allows you to jack into a ship’s navigation systems. When frame jacked in you always know the status of ship systems and can simultaneously control navigation and weapon systems on smaller ships.
+**Frame Jack**: You have been surgically modified with hardware that allows you to jack into a ship's navigation systems. When frame jacked in you always know the status of ship systems and can simultaneously control navigation and weapon systems on smaller ships.
 
 ## Viral Star
-You’ve become famous on the net for something. Whether it’s your singing, acting, social commentator, or just a famous praetorian whose internet videos went viral. You tend to livestream your shenanigans, and take advertisement money. Like most internet celebrities, you might have a secret alter-ego.
+You've become famous on the net for something. Whether it's your singing, acting, social commentator, or just a famous praetorian whose internet videos went viral. You tend to livestream your shenanigans, and take advertisement money. Like most internet celebrities, you might have a secret alter-ego.
 
 Skill Proficiencies: Performance. Choose 1 from [Charm, Diplomacy, Insight]
 Tool Proficiencies: Choose 1 from [Musical Instrument, Gaming Set, Disguise Kit]
 
-**Universal Influence**: It’s easy to get your voice out. Rallying supporters via the internet comes naturally to you. When you aren’t incognito, there are perks to being famous, such as free drinks and lodging. These perks rarely come without strings, however.
+**Universal Influence**: It's easy to get your voice out. Rallying supporters via the internet comes naturally to you. When you aren't incognito, there are perks to being famous, such as free drinks and lodging. These perks rarely come without strings, however.
 
 ## Scientist
 
 You have spent most of your life being educated, and now you are going out there to make a difference. Whether that is to discover, invent, or cure, you want to change the universe for better or for worse. You might be a researcher, doctor, inventor, chemist, physicist, or biologist.
 
 Skill Proficiencies: History. Choose 2 from [Nature, Medic, Investigation]
-Tool Proficiencies: Choose 2 from [Botanist’s Kit, MedKit, Poisoner’s Kit]
+Tool Proficiencies: Choose 2 from [Botanist's Kit, MedKit, Poisoner's Kit]
 
 **Field of Study**: You specialize in a specific field. You have advantage when rolling History checks involving that field of study.
 
@@ -388,18 +388,18 @@ Tool Proficiencies: Choose 2 from [Botanist’s Kit, MedKit, Poisoner’s Kit]
 You know the ins and outs of most ships and devices.
 
 Skill Proficiencies: Tinker. Choose 1 from [Computers, Investigate, Pilot]
-Tool Proficiencies: Tinker’s Tools
+Tool Proficiencies: Tinker's Tools
 
 **Choose 1:**
 
-**Inventor**: You’ve invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Tinkering with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
+**Inventor**: You've invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Tinkering with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
 **Improvised Engineerin**: You can macgyver tools together for any situation using the objects available to you. Gain advantage on Tinker checks when creating a tool for a specific situation.
 
 \page
 
 
 ## Capitalist
-You’ve gone from rags to riches, or at least that is the path you have set up for yourself. You’ve come a long way from your humble upbringing, and you are ambitious to rise to the top.
+You've gone from rags to riches, or at least that is the path you have set up for yourself. You've come a long way from your humble upbringing, and you are ambitious to rise to the top.
 
 Skill Proficiencies: Diplomacy. Choose 1 from [Insight, History, Charm]
 

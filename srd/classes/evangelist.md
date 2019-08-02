@@ -29,7 +29,7 @@ As a evangelist, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 * (*a*) an ion blade, (*b*) a pulse blade, or (*c*) any simple weapon
-* (*a*) a diplomat’s pack or (*b*) an entertainer’s pack
+* (*a*) a diplomat's pack or (*b*) an entertainer's pack
 * (*a*) a ukulele or (*b*) any other musical instrument
 * Flak armor and an ion dagger
 
@@ -46,7 +46,7 @@ You know two cantrips of your choice from the evangelist tek skill list. You lea
 
 #### Tek Slots
 
-The Evangelist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Evangelist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 For example, if you know the 1st-level tek skill *cure wounds* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *cure wounds* using either slot.
 
@@ -117,7 +117,7 @@ Your Evangelistic Inspiration die changes when you reach certain levels in this 
 
 ### Jack of All Trades
 
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus.
+Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
 ### Song of Rest
 
@@ -142,7 +142,7 @@ At 10th level, you can choose another two skill proficiencies to gain this benef
 
 ### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Font of Inspiration
 
@@ -174,7 +174,7 @@ Evangelists of the College of Lore know something about most things, collecting 
 
 The loyalty of these evangelists lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a sect. A noble who keeps such a evangelist as a herald or advisor knows that the evangelist would rather be honest than politic.
 
-The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
+The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
 
 #### Bonus Proficiencies
 
@@ -185,11 +185,11 @@ When you join the College of Lore at 3rd level, you gain proficiency with three 
 
 #### Cutting Words
 
-Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Evangelistic Inspiration, rolling a Evangelistic Inspiration die and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
+Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Evangelistic Inspiration, rolling a Evangelistic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.
 
 #### Additional Tek Secrets
 
-At 6th level, you learn two tek skills of your choice from any class. A tek skill you choose must be of a level you can cast, as shown on the Evangelist table, or a cantrip. The chosen tek skills count as evangelist tek skills for you but don’t count against the number of evangelist tek skills you know.
+At 6th level, you learn two tek skills of your choice from any class. A tek skill you choose must be of a level you can cast, as shown on the Evangelist table, or a cantrip. The chosen tek skills count as evangelist tek skills for you but don't count against the number of evangelist tek skills you know.
 
 #### Peerless Skill
 

@@ -8,8 +8,8 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 > #### Combat Step by Step
 >
 > 1.  **Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
-> 2.  **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers’ marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
-> 3.  **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants’ turns.
+> 2.  **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
+> 3.  **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
 > 4.  **Take turns.** Each participant in the battle takes a turn in initiative order.
 > 5.  **Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
@@ -17,9 +17,9 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 
 A band of adventurers Stealths up on a Space Pirate camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
-The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn’t notice a threat is surprised at the start of the encounter.
+The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
 
-If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a reaction until that turn ends. A member of a group can be surprised even if the other members aren’t.
+If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.
 
 #### Initiative
 
@@ -37,15 +37,15 @@ The most common actions you can take are described in the “Actions in Combat�
 
 The “Movement and Position” section later in this chapter gives the rules for your move.
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
+You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
 
 ##### Bonus Actions
 
-Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a scoundrel to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
+Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a scoundrel to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.
 
 You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
 
-You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
+You choose when to take a bonus action during your turn, unless the bonus action's timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
 
 ##### Other Activity on Your Turn
 
@@ -63,9 +63,9 @@ The GM might require you to use an action for any of these activities when it ne
 
 #### Reactions
 
-Certain special abilities, tek skills, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The opportunity attack, described later in this chapter, is the most common type of reaction.
+Certain special abilities, tek skills, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's. The opportunity attack, described later in this chapter, is the most common type of reaction.
 
-When you take a reaction, you can’t take another one until the start of your next turn. If the reaction interrupts another creature’s turn, that creature can continue its turn right after the reaction.
+When you take a reaction, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the reaction.
 
 ### Movement and Position
 
@@ -73,7 +73,7 @@ In combat, characters and monsters are in constant motion, often using movement 
 
 On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like on your turn, following the rules here.
 
-Your movement can include jumping, climbing, and swimming. These different modes of movement can be combined with walking, or they can constitute your entire move. However you’re moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.
+Your movement can include jumping, climbing, and swimming. These different modes of movement can be combined with walking, or they can constitute your entire move. However you're moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.
 
 #### Breaking Up Your Move
 
@@ -85,7 +85,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 ##### Using Different Speeds
 
-If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
+If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
 For example, if you have a speed of 30 and a flying speed of 60 because an arcanist cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
@@ -103,7 +103,7 @@ Combatants often find themselves lying on the ground, either because they are kn
 
 You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend
 
-15 feet of movement to stand up. You can’t stand up if you don’t have enough movement left or if your speed is 0.
+15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
 
 To move while prone, you must **crawl** or use tek such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
@@ -135,11 +135,11 @@ Here are a few examples of the sorts of thing you can do in tandem with your mov
 
 #### Moving Around Other Creatures
 
-You can move through a nonhostile creature’s space. In contrast, you can move through a hostile creature’s space only if the creature is at least two sizes larger or smaller than you. Remember that another creature’s space is difficult terrain for you.
+You can move through a nonhostile creature's space. In contrast, you can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you. Remember that another creature's space is difficult terrain for you.
 
-Whether a creature is a friend or an enemy, you can’t willingly end your move in its space.
+Whether a creature is a friend or an enemy, you can't willingly end your move in its space.
 
-If you leave a hostile creature’s reach during your move, you provoke an opportunity attack, as explained later in the chapter.
+If you leave a hostile creature's reach during your move, you provoke an opportunity attack, as explained later in the chapter.
 
 
 \page
@@ -169,15 +169,15 @@ Each creature takes up a different amount of space. The Size Categories table sh
 
 ##### Space
 
-A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5* foot-wide doorway, other creatures can’t get through unless the hobgoblin lets them.
+A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5* foot-wide doorway, other creatures can't get through unless the hobgoblin lets them.
 
-A creature’s space also reflects the area it needs to fight effectively. For that reason, there’s a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
+A creature's space also reflects the area it needs to fight effectively. For that reason, there's a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
 
-Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there’s little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
+Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there's little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
 
 ##### Squeezing into a Smaller Space
 
-A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that’s only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it’s in the smaller space.
+A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
 
 ### Actions in Combat
 
@@ -205,7 +205,7 @@ Any increase or decrease to your speed changes this additional movement by the s
 
 #### Disengage
 
-If you take the Disengage action, your movement doesn’t provoke opportunity attacks for the rest of the turn.
+If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.
 
 #### Dodge
 
@@ -217,7 +217,7 @@ When you take the Dodge action, you focus entirely on avoiding attacks. Until th
 
 You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
 
-Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally’s attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
+Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
 #### Hide
 
@@ -227,11 +227,11 @@ When you take the Hide action, you make a Dexterity (Stealth) check in an attemp
 
 Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
 
-First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
+First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include “If the cultist steps on the trapdoor, I'll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-When you ready a tek skill, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a tek skill must have a casting time of 1 action, and holding onto the tek skill’s tek requires concentration. If your concentration is broken, the tek skill dissipates without taking effect. For example, if you are concentrating on the _web_ tek skill and ready _tek missile_, your _web_ tek skill ends, and if you take damage before you release _tek missile_ with your reaction, your concentration might be broken.
+When you ready a tek skill, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a tek skill must have a casting time of 1 action, and holding onto the tek skill's tek requires concentration. If your concentration is broken, the tek skill dissipates without taking effect. For example, if you are concentrating on the _web_ tek skill and ready _tek missile_, your _web_ tek skill ends, and if you take damage before you release _tek missile_ with your reaction, your concentration might be broken.
 
 #### Search
 
@@ -243,21 +243,21 @@ You normally interact with an object while doing something else, such as when yo
 
 ### Making an Attack
 
-Whether you’re striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a tek skill, an attack has a simple structure.
+Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a tek skill, an attack has a simple structure.
 
-1. **Choose a target.** Pick a target within your attack’s range: a creature, an object, or a location.
+1. **Choose a target.** Pick a target within your attack's range: a creature, an object, or a location.
 2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, tek skills, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 3. **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
-If there’s ever any question whether something you’re doing counts as an attack, the rule is simple: if you’re making an attack roll, you’re making an attack.
+If there's ever any question whether something you're doing counts as an attack, the rule is simple: if you're making an attack roll, you're making an attack.
 
 #### Attack Rolls
 
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
 
 ##### Modifiers to the Roll
 
-When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character’s proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
+When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
 
 **_Ability Modifier_** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
 
@@ -269,19 +269,19 @@ Some tek skills also require an attack roll. The ability modifier used for a tek
 
 Sometimes fate blesses or hacks a combatant, causing the novice to hit and the veteran to miss.
 
-If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit, which is explained later in this chapter.
+If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit, which is explained later in this chapter.
 
-If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s AC.
+If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.
 
 #### Unseen Attackers and Targets
 
-Combatants often try to escape their foes’ notice by hiding, casting the invisibility tek skill, or lurking in darkness.
+Combatants often try to escape their foes' notice by hiding, casting the invisibility tek skill, or lurking in darkness.
 
-When you attack a target that you can’t see, you have disadvantage on the attack roll. This is true whether you’re guessing the target’s location or you’re targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target’s location correctly.
+When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
 \page
 
-When a creature can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
+When a creature can't see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 
 #### Ranged Attacks
 
@@ -291,13 +291,13 @@ When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or 
 
 You can make ranged attacks only against targets within a specified range.
 
-If a ranged attack, such as one made with a tek skill, has a single range, you can’t attack a target beyond this range.
+If a ranged attack, such as one made with a tek skill, has a single range, you can't attack a target beyond this range.
 
-Some ranged attacks, such as those made with a railrifle or a scorcher, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can’t attack a target beyond the long range.
+Some ranged attacks, such as those made with a railrifle or a scorcher, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can't attack a target beyond the long range.
 
 ##### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a tek skill, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t incapacitated.
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a tek skill, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.
 
 #### Melee Attacks
 
@@ -313,19 +313,19 @@ In a fight, everyone is constantly watching for a chance to strike an enemy who 
 
 You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
 
-You can avoid provoking an opportunity attack by taking the Disengage action. You also don’t provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don’t provoke an opportunity attack if an explosion hurls you out of a foe’s reach or if gravity causes you to fall past an enemy.
+You can avoid provoking an opportunity attack by taking the Disengage action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
 
 ##### Two-Weapon Fighting
 
-When you take the Attack action and attack with a light melee weapon that you’re holding in one hand, you can use a bonus action to attack with a different light melee weapon that you’re holding in the other hand. You don’t add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
 ##### Grappling
 
-When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
+When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Physique) check contested by the target’s Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Physique) check contested by the target's Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 **_Escaping a Grapple_** A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Physique) or Dexterity (Acrobatics) check contested by your Strength
 (Physique) check.
@@ -338,23 +338,23 @@ The target of your grapple must be no more than one size larger than you and mus
 
 ##### Shoving a Creature
 
-Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
+Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
 \page
 
-The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Physique) check contested by the target’s Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
+The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Physique) check contested by the target's Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
 
 ### Cover
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
 
-There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
+There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
 
 A target with **half cover** has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a nbullet tree trunk, or a creature, whether that creature is an enemy or a friend.
 
 A target with **three-quarters cover** has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an bullet slit, or a thick tree trunk.
 
-A target with **total cover** can’t be targeted directly by an attack or a tek skill, although some tek skills can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+A target with **total cover** can't be targeted directly by an attack or a tek skill, although some tek skills can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
 ### Damage and Healing
 
@@ -364,9 +364,9 @@ Injury and the risk of death are constant companions of those who explore futuri
 
 Hit points represent a combination of physical and mental durability, the will to live, and luck. Creatures with more hit points are more difficult to kill. Those with fewer hit points are more fragile.
 
-A creature’s current hit points (usually just called hit points) can be any number from the creature’s hit point maximum down to 0. This number changes frequently as a creature takes damage or receives healing.
+A creature's current hit points (usually just called hit points) can be any number from the creature's hit point maximum down to 0. This number changes frequently as a creature takes damage or receives healing.
 
-Whenever a creature takes damage, that damage is subtracted from its hit points. The loss of hit points has no effect on a creature’s capabilities until the creature drops to 0 hit points.
+Whenever a creature takes damage, that damage is subtracted from its hit points. The loss of hit points has no effect on a creature's capabilities until the creature drops to 0 hit points.
 
 #### Damage Rolls
 
@@ -374,13 +374,13 @@ Each weapon, tek skill, and harmful monster ability specifies the damage it deal
 
 When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **tek skill** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when an arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
+If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when an arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill's damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
-When you score a critical hit, you get to roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
+When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
 
-For example, if you score a critical hit with an ion dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the scoundrel’s Stealth Attack feature, you roll those dice twice as well.
+For example, if you score a critical hit with an ion dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the scoundrel's Sneak Attack feature, you roll those dice twice as well.
 
 ##### Damage Types
 
@@ -388,29 +388,29 @@ Different attacks, damaging tek skills, and other harmful effects deal different
 
 The damage types follow, with examples to help a GM assign a damage type to a new effect.
 
-**_Acid_** The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage.
+**_Acid_** The corrosive spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal acid damage.
 
 **_Bludgeoning_** Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
 
-**_Cold_** The infernal chill radiating from an ice devil’s Pulse Dagger and the frigid blast of a white dragon’s breath deal cold damage.
+**_Cold_** The infernal chill radiating from an ice devil's Pulse Dagger and the frigid blast of a white dragon's breath deal cold damage.
 
 **_Fire_** Red dragons breathe fire, and many tek skills conjure flames to deal fire damage.
 
 **_Force_** Force is pure tek energy focused into a damaging form. Most effects that deal force damage are tek skills, including _tek missile_ and _spiritual weapon_.
 
-**_Shock_** A _lightning bolt_ tek skill and a blue dragon’s breath deal lightning damage.
+**_Shock_** A _lightning bolt_ tek skill and a blue dragon's breath deal lightning damage.
 
 **_Radiation_** Radiation damage, dealt by certain undead and a tek skill such as _chill touch_, withers matter and even the soul.
 
-**_Piercing_** Puncturing and impaling attacks, including Pulse Daggers and monsters’ bites, deal piercing damage.
+**_Piercing_** Puncturing and impaling attacks, including Pulse Daggers and monsters' bites, deal piercing damage.
 
-**_Poison_** Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
+**_Poison_** Venomous stings and the toxic gas of a green dragon's breath deal poison damage.
 
-**_Psychic_** Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
+**_Psychic_** Mental abilities such as a mind flayer's psionic blast deal psychic damage.
 
-**_Radiant_** Radiant damage, dealt by a priest’s _flame strike_ tek skill or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+**_Radiant_** Radiant damage, dealt by a priest's _flame strike_ tek skill or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
-**_Slashing_** Swords, axes, and monsters’ claws deal slashing damage.
+**_Slashing_** Swords, axes, and monsters' claws deal slashing damage.
 
 **_Concussive_** A concussive burst of sound, such as the effect of the _shockwave_ tek skill, deals concussive damage.
 
@@ -428,11 +428,11 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 #### Healing
 
-Unless it results in death, damage isn’t permanent. Even death is reversible through powerful tek. Rest can restore a creature’s hit points, and tek methods such as a _cure wounds_ tek skill or a _potion of healing_ can remove damage in an instant.
+Unless it results in death, damage isn't permanent. Even death is reversible through powerful tek. Rest can restore a creature's hit points, and tek methods such as a _cure wounds_ tek skill or a _potion of healing_ can remove damage in an instant.
 
-When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a morph grants a scout 8 hit points of healing. If the scout has 14 current hit points and has a hit point maximum of 20, the scout regains 6 hit points from the morph, not 8.
+When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a morph grants a scout 8 hit points of healing. If the scout has 14 current hit points and has a hit point maximum of 20, the scout regains 6 hit points from the morph, not 8.
 
-A creature that has died can’t regain hit points until tek such as the _revivify_ tek skill has restored it to life.
+A creature that has died can't regain hit points until tek such as the _revivify_ tek skill has restored it to life.
 
 #### Dropping to 0 Hit Points
 
@@ -450,9 +450,9 @@ If damage reduces you to 0 hit points and fails to kill you, you fall unconsciou
 
 ##### Death Saving Throws
 
-Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by tek skills and features that improve your chances of succeeding on a saving throw.
+Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn't tied to any ability score. You are in the hands of fate now, aided only by tek skills and features that improve your chances of succeeding on a saving throw.
 
-Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
+Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
 
 **_Rolling 1 or 20_** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point.
 
@@ -460,11 +460,11 @@ Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A suc
 
 ##### Stabilizing a Creature
 
-The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn’t killed by a failed death saving throw.
+The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.
 
 You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 Wisdom (Medicine) check.
 
-A **stable** creature doesn’t make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn’t healed regains 1 hit point after 1d4 hours.
+A **stable** creature doesn't make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after 1d4 hours.
 
 ##### Monsters and Death
 
@@ -478,7 +478,7 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a killing bl
 
 #### Temporary Hit Points
 
-Some tek skills and special abilities confer temporary hit points to a creature. Temporary hit points aren’t actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
+Some tek skills and special abilities confer temporary hit points to a creature. Temporary hit points aren't actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
 
 When you have temporary hit points and take damage, the temporary hit points are lost first, and any leftover damage carries over to your normal hit points. For example, if you have 5 temporary hit points and take 7 damage, you lose the temporary hit points and then take 2 damage.
 
@@ -486,11 +486,11 @@ When you have temporary hit points and take damage, the temporary hit points are
 
 Because temporary hit points are separate from your actual hit points, they can exceed your hit point maximum. A character can, therefore, be at full hit points and receive temporary hit points.
 
-Healing can’t restore temporary hit points, and they can’t be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a tek skill grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
+Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a tek skill grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
 
-If you have 0 hit points, receiving temporary hit points doesn’t restore you to consciousness or stabilize you. They can still absorb damage directed at you while you’re in that state, but only true healing can save you.
+If you have 0 hit points, receiving temporary hit points doesn't restore you to consciousness or stabilize you. They can still absorb damage directed at you while you're in that state, but only true healing can save you.
 
-Unless a feature that grants you temporary hit points has a duration, they last until they’re depleted or you finish a long rest.
+Unless a feature that grants you temporary hit points has a duration, they last until they're depleted or you finish a long rest.
 
 ### Mounted Combat
 
@@ -500,9 +500,9 @@ A willing creature that is at least one size larger than you and that has an app
 
 #### Mounting and Dismounting
 
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can’t mount it if you don’t have 15 feet of movement left or if your speed is 0.
+Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
 
-If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you’re knocked prone while mounted, you must make the same saving throw.
+If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw.
 
 If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
 
@@ -512,7 +512,7 @@ You can control a mount only if it has been trained to accept a rider. Domestica
 
 An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
 
-In either case, if the mount provokes an opportunity attack while you’re on it, the attacker can target you or the mount.
+In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
 
 ### Mechanical Mounts
 Mechanical mounts move on your turn, and some have certain restrictions for what actions you can take.
@@ -521,8 +521,8 @@ Mechanical mounts move on your turn, and some have certain restrictions for what
 
 When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
 
-When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by tek) has disadvantage on the attack roll unless the weapon is an ion dagger, javelin, ion blade, Pulse Dagger, or trident.
+When making a **melee weapon attack**, a creature that doesn't have a swimming speed (either natural or granted by tek) has disadvantage on the attack roll unless the weapon is an ion dagger, javelin, ion blade, Pulse Dagger, or trident.
 
-A **ranged weapon attack** automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a Pulse Dagger, trident, or dart).
+A **ranged weapon attack** automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a Pulse Dagger, trident, or dart).
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.

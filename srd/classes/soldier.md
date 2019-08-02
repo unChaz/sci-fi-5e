@@ -36,7 +36,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ##  Fighting Style
 
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 ###  Gunnery
 
@@ -81,7 +81,7 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 
 ##  Ability Score Improvement
 
-When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 \page
 
@@ -121,13 +121,13 @@ The number of attacks increases to three when you reach 11th level in this class
 
 ##  Indomitable
 
-Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
+Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
 ##  Martial Archetypes
 
-Different soldiers choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
+Different soldiers choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach. There are three archetypes: Champion, Assault Specialist, and Duelist.
 
 ###  Champion
 
@@ -139,7 +139,7 @@ Beginning when you choose this archetype at 3rd level, your weapon attacks score
 
 ####  Remarkable Athlete
 
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus.
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 
 In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
 
@@ -153,7 +153,7 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 
 ####  Survivor
 
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution Modifier + Will modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution Modifier + Will modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 
 ###  Assault Specialist
 
@@ -171,7 +171,7 @@ You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. 
 
 You gain another superiority die at 7th level and one more at 15th level.
 
-**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver’s effects. The saving throw DC is calculated as follows:
+**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
@@ -184,14 +184,14 @@ When you use your Second Wind feature, you can choose up to three creatures with
 
 ####  Maneuvers
 
-**Commander’s Strike**
-When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack’s damage roll.
+**Commander's Strike**
+When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
 
 **Evasive Footwork**
 When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
 
 **Menacing Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
 
 **Sweeping Attack**
 When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
@@ -203,7 +203,7 @@ When you take the Attack action on your turn to make a ranged attack, you can fo
 When you take the Attack action on your turn to make a ranged attack, you can use your bonus action to call out a target to your allies. When you do so, choose an ally and expend one superiority die. The next time that ally attacks the target creature, roll your superiority die and add it to the attack roll.
 
 **Maneuvering Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack’s damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
+When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
 
 ####  Inspiring Surge
 Starting at 7th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.
@@ -235,37 +235,37 @@ You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. 
 
 You gain another superiority die at 7th level and one more at 15th level.
 
-**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver’s effects. The saving throw DC is calculated as follows:
+**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
 ####  Student of War
-At 3rd level, you gain proficiency with one type of artisan’s tools of your choice.
+At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
 
 \page
 
 ###  Maneuvers
 
 **Disarming Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. You add the superiority die to the attack’s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 
 **Feinting Attack**
-You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack’s damage roll.
+You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack's damage roll.
 
 **Lunging Attack**
-When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack’s damage roll.
+When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
 
 **Parry**
 When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
 
 **Riposte**
-When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack’s damage roll.
+When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
 
 **Trip Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack’s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
 **Goading Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
 
 ####  Know Thy Enemy
 Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
@@ -286,63 +286,3 @@ Starting at 15th level, when you roll initiative and have no superiority dice re
 
 ####  Improved Combat Superiority
 At 18th level, your superiority dice turn into d12s.
-
-###  Gunslinger
-The Gunslinger has lightning fast reflexes, and always keeps a scorcher on their hip.
-
-####  Adept Marksman
-When you choose this archetype at 3rd level, you learn to perform powerful trick shots to disable or damage your opponents using your firearms.
-
-**Trick Shots.** You learn two trick shots of your choice, which are detailed under “Trick Shots” below. Many maneuvers enhance an attack in some way. Each use of a trick shot must be declared before the attack roll is made. You can use only one trick shot per attack.
-
-You learn an additional trick shot of your choice at 7th, 10th, 15th, and 18th level. Each time you learn a new trick shot, you can also replace one trick shot you know with a different one.
-
-**Grit.** You gain a number of grit points equal to your Wisdom modifier (minimum of 1). You regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM’s discretion). You regain all expended grit points after a short or long rest.
-
-**Saving Throws.** Some of your trick shots require your targets to make a saving throw to resist the trick shot’s effects. The saving throw DC is calculated as follows:
-
-   **Trick Shot save DC** = 8 + your proficiency bonus + your Dexterity modifier
-
-####  Quickdraw
-When you reach 7th level, you add your proficiency bonus to your initiative. You can also stow a firearm, then draw another firearm as a single object interaction on your turn.
-
-####  Rapid Reload
-Starting at 10th level, you can reload any firearm as a bonus action.
-
-Lightning Reload
-Starting at 15th level, you can reload any firearm as a bonus action.
-
-####  Vicious Intent
-At 18th level, your firearm attacks score a critical hit on a roll of 19-20, and you regain a grit point on a roll of 19 or 20 on a d20 attack roll.
-
-####  Hemorrhaging Critical
-Upon reaching 18th level, whenever you score a critical hit on an attack with a firearm, the target additionally suffers half of the damage from the attack at the end of its next turn.
-
-\page
-
-####  Trick Shots
-These trick shots are presented in alphabetical order.
-
-**Bullying Shot**
-You can use the powerful blast and thundering sound of your firearm to shake the resolve of a creature. You can expend one grit point while making a Charisma (Intimidation) check to gain advantage on the roll.
-
-**Dazing Shot**
-When you make a firearm attack against a creature, you can expend one grit point to attempt to dizzy your opponent. On a hit, the creature suffers normal damage and must make a Constitution saving throw or suffer disadvantage on attacks until the end of their next turn.
-
-**Deadeye Shot**
-When you make a firearm attack against a creature, you can expend one grit point to gain advantage on the attack roll.
-
-**Disarming Shot**
-When you make a firearm attack against a creature, you can expend one grit point to attempt to shoot an object from their hands. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or drop 1 held object of your choice and have that object be pushed 10 feet away from you.
-
-**Forceful Shot**
-When you make a firearm attack against a creature, you can expend one grit point to attempt to trip them up and force them back. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or be pushed 15 feet away from you.
-
-**Piercing Shot**
-When you make a firearm attack against a creature, you can expend one grit point to attempt to fire through multiple opponents. The initial attack gains a +1 to the firearm’s misfire score. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind the target within your first range increment. Only the initial attack can misfire.
-
-**Violent Shot**
-When you make a firearm attack against a creature, you can expend one or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains a +2 to the firearm’s misfire score. If the attack hits, you can roll one additional weapon damage die per grit point spent when determining the damage.
-
-**Winging Shot**
-When you make a firearm attack against a creature, you can expend one grit point to attempt to topple a moving target. On a hit, the creature suffers normal damage and must make a Strength saving throw or be knocked prone.

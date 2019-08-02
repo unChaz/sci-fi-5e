@@ -12,7 +12,7 @@ Spliced are the gene spliced creations of mad scientists or their decedents. Spl
 #### Gene Shifting
 As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Toughness modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
 
-Once you shift, you can’t do so again until you finish a short or long rest.
+Once you shift, you can't do so again until you finish a short or long rest.
 
 ### Stack Traits
 
@@ -64,7 +64,7 @@ You have proficiency with the Acrobatics skill.
 Your walking speed increases by 5 feet.
 
 ##### Shifting Feature
-While shifted, your walking speed increases by an additional 5 feet. Additionally, you can move up to 10 feet as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
+While shifted, your walking speed increases by an additional 5 feet. Additionally, you can move up to 10 feet as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.
 
 ### Wildhunt
 Wildhunt shifters are sharp and insightful. Some are constantly alert, ever wary for possible threats. Others focus on their intuition, searching within. Wildhunt shifters are excellent hunters, and they also tend to become the spiritual leaders of shifter communities.
@@ -76,7 +76,7 @@ Your Wisdom score increases by 2.
 You have proficiency with the Survival skill.
 
 ##### Mark the Scent
-As a bonus action, you can mark one creature you can see within 10 feet of you. Until the end of your next long rest, your proficiency bonus is doubled for any ability check you make to find the marked creature, and you always know the location of that creature if it is within 60 feet of you. You can’t use this trait again until you finish a short or long rest.
+As a bonus action, you can mark one creature you can see within 10 feet of you. Until the end of your next long rest, your proficiency bonus is doubled for any ability check you make to find the marked creature, and you always know the location of that creature if it is within 60 feet of you. You can't use this trait again until you finish a short or long rest.
 
 ##### Shifting feature
 While shifted, you have advantage on Wisdom checks.

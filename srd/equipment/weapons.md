@@ -1,6 +1,6 @@
 ### Weapons
 
-Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a pulse blade or a rail rifle, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
+Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a pulse blade or a rail rifle, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
 The Weapons table shows the most common weapons used in the futuristic gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
@@ -30,17 +30,17 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 **_Finesse._** When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-**_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+**_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
 **_Burst-Fire._** Weapons with this trait fire multiple rounds of ammunition per round. You roll once to hit, but roll damage separately for each round of ammunition.
 
 **_Loading._** Weapons with this trait need to be reloaded after firing a certain number of times. For example a Rail Rifle fires 3 rounds of ammunition per round, and requires to be reloaded every 10 attacks, meaning its clips hold 30 rounds of ammunition.
 
-**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
 
 **_Reach._** This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
 
-**_Special._** A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
+**_Special._** A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see “Special Weapons” later in this section).
 
 **_Thrown._** If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw an ion dagger, you can use either your Strength or your Dexterity, since the ion dagger has the finesse property.
 
@@ -52,9 +52,9 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 ##### Improvised Weapons
 
-Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
+Sometimes characters don't have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
-Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
+Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM's option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
 
 An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
@@ -74,24 +74,28 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 <div class='wide'>
 ##### Weapons Table
-| Name                         | Cost  | Damage          | Weight  | Properties                                             |
-|------------------------------|-------|-----------------|---------|--------------------------------------------------------|
-| **_Simple Melee Weapons_**   |       |                 |         |                                                        |
-| Knife Ring | 200 credits  | 1d4 piercing | 1 kg. | Hidden, Light |
-| Ion Dagger | 200 credits  | 1d4 piercing | 1 kg. | Finesse, light, thrown (range 20/60) |
+| Name | Cost | Damage | Weight | Properties |
+|-------|-------|--------|---------|------------|
+| **_Simple Melee Weapons_** | | | | |
+| Knife Ring | 200 credits | 1d4 piercing | 1 kg. | Hidden, Light |
+| Ion Dagger | 200 credits | 1d4 piercing | 1 kg. | Finesse, light, thrown (range 20/60) |
 | Katana | 800 credits | 1d6 piercing | 4 kg. | Finesse |
+| Light Hammer | 200 credits | 1d4 bludgeoning | 8kg | Light, thrown (range 20/60) |
 | Bowstaff | 2000 credits | 1d6 bludgeoning | 4 kg. | Versatile (1d8) |
-| **_Simple Ranged Weapons_**  | | | | |
-| Scorcher | 2500 credits | 1d8 piercing    | 5 kg.   | Ammunition (range 80/320), loading(10), two-handed |
-| Dart | 50 credits  | 1d4 piercing    | 1/4 kg. | Finesse, thrown (range 20/60) |
-| **_Martial Melee Weapons_**  | | | | |
-| Stun Fist | 1000 credits | 1d6 concussive | 4 kg.   | Reach |
-| Ion Blade | 1000 credits | 1d6 piercing | 2 kg.   | Finesse, light |
-| Pulse blade | 1500 credits | 1d8 slashing | 3 kg.   | Versatile (1d10) |
-| Razer | 3000 credits | 1d8 piercing (rapier), 1d4 slashing (whip)   | 7 kg.   | Finesse, Special, Reach (whip only) |
+| **_Simple Ranged Weapons_** | | | | |
+| Scorcher | 2500 credits | 1d8 piercing | 5 kg. | Ammunition (range 80/320), loading(10), two-handed |
+| Dart | 50 credits | 1d4 piercing | 1/4 kg. | Finesse, thrown (range 20/60) |
+| **_Martial Melee Weapons_** | | | | |
+| Stun Fist | 1000 credits | 1d6 concussive | 4 kg. | Reach |
+| Ion Blade | 1000 credits | 1d6 piercing | 2 kg. | Finesse, light |
+| Pulse blade | 1500 credits | 1d8 slashing | 3 kg. | Versatile (1d10) |
+| Warhammer | 2000 credits | 1d8 bludgeoning | 20kg | Versatile (1d10) |
+| Pulseaxe | 2500 credits | 1d12 slashing | 40kg | Heavy, two-handed |
+| Ion Halberd | 2500 credits | 1d10 slashing | 30kg | Heavy, reach, two-handed |
+| Razer | 3000 credits | 1d8 piercing (rapier), 1d4 slashing (whip) | 7 kg. | Finesse, Special, Reach (whip only) |
 | **_Martial Ranged Weapons_** | | | | |
 | Pulse Fist | 1000 credits | 1d6 incendiary | 1 kg. | Ammunition (range 25/100), loading(4), Special |
 | Rail Rifle | 7500 credits | 1d4 piercing | 3 kg. | Ammunition (range 30/120), light, loading(10), Burst-Fire(3) |
-| Recoil Rifle | 5000 credits | 2d12 piercing | 18 kg.  | Ammunition (range 100/400), heavy, loading(1), two-handed |
-| Pulse Net | 100 credits  | — | 3 kg. | Special, thrown (range 5/15) |
+| Recoil Rifle | 5000 credits | 2d12 piercing | 18 kg. | Ammunition (range 100/400), heavy, loading(1), two-handed |
+| Pulse Net | 100 credits | — | 3 kg. | Special, thrown (range 5/15) |
 </div>

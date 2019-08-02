@@ -57,7 +57,7 @@ This feature has no effect on undead and constructs.
 
 ## Fighting Style
 
-At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 ### Defense
 
@@ -83,11 +83,11 @@ By 2nd level, you have learned to draw on Alien tek through meditation and praye
 
 ### Preparing and Casting Tek Skills
 
-The Guardian table shows how many tek skill slots you have to cast your tek skills. To cast one of your guardian tek skills of 1st level or higher, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Guardian table shows how many tek skill slots you have to cast your tek skills. To cast one of your guardian tek skills of 1st level or higher, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 You prepare the list of guardian tek skills that are available for you to cast, choosing from the guardian tek skill list. When you do so, choose a number of guardian tek skills equal to your Charisma modifier + half your guardian level, rounded down (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
-For example, if you are a 5th-level guardian, you have four 1st-level and two 2nd-level tek skill slots. With a Charisma of 14, your list of prepared tek skills can include four tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
+For example, if you are a 5th-level guardian, you have four 1st-level and two 2nd-level tek skill slots. With a Charisma of 14, your list of prepared tek skills can include four tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the tek skill doesn't remove it from your list of prepared tek skills.
 
 You can change your list of prepared tek skills when you finish a long rest. Preparing a new list of guardian tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
 
@@ -105,7 +105,7 @@ You can use a holy symbol as a Tekcasting focus for your guardian tek skills.
 
 ## Alien Smite
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one tek skill slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level tek skill slot, plus 1d8 for each tek skill level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one tek skill slot to deal kinetic damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level tek skill slot, plus 1d8 for each tek skill level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
 
 ## Alien Health
 
@@ -122,9 +122,9 @@ Your choice grants you features at 3rd level and again at 7th, 15th, and 20th le
 
 ### Oath Tek Skills
 
-Each oath has a list of associated tek skills. You gain access to these tek skills at the levels specified in the oath description. Once you gain access to an oath tek skill, you always have it prepared. Oath tek skills don’t count against the number of tek skills you can prepare each day.
+Each oath has a list of associated tek skills. You gain access to these tek skills at the levels specified in the oath description. Once you gain access to an oath tek skill, you always have it prepared. Oath tek skills don't count against the number of tek skills you can prepare each day.
 
-If you gain an oath tek skill that doesn’t appear on the guardian tek skill list, the tek skill is nonetheless a guardian tek skill for you.
+If you gain an oath tek skill that doesn't appear on the guardian tek skill list, the tek skill is nonetheless a guardian tek skill for you.
 
 ### Channel Divinity
 
@@ -136,7 +136,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 
 ## Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Extra Attack
 
@@ -179,13 +179,13 @@ At 18th level, the range of this aura increases to 30 feet.
 </div>
 ## Aura of Courage
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ## Improved Alien Smite
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry Alien power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Alien Smite with an attack, you add this damage to the extra damage of your Alien Smite.
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry Alien power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 kinetic damage. If you also use your Alien Smite with an attack, you add this damage to the extra damage of your Alien Smite.
 
 ## Cleansing Touch
 
@@ -197,11 +197,11 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 ```
 ## Sacred Oaths
 
-Becoming a guardian involves taking vows that commit the guardian to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the guardian’s training. Some characters with this class don’t consider themselves true guardians until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the guardian’s heart.
+Becoming a guardian involves taking vows that commit the guardian to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the guardian's training. Some characters with this class don't consider themselves true guardians until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the guardian's heart.
 
 ### Oath of Devotion
 
-The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white Lancers, or holy warriors, these guardians meet the ideal of the Lancer in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white Lancers, or holy warriors, these guardians meet the ideal of the Lancer in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
 \page
 
@@ -209,7 +209,7 @@ The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue,
 
 Though the exact words and strictures of the Oath of Devotion vary, guardians of this oath share these tenets.
 
-**_Honesty._** Don’t lie or cheat. Let your word be your promise.
+**_Honesty._** Don't lie or cheat. Let your word be your promise.
 
 **_Courage._** Never fear to act, though caution is wise.
 
@@ -243,14 +243,14 @@ You can end this effect on your turn as part of any other action. If you are no 
 
 **_Turn the Unholy._** As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ```
 ```
 
 ## Aura of Devotion
 
-Starting at 7th level, you and friendly creatures within 10 feet of you can’t be charmed while you are conscious.
+Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -262,11 +262,11 @@ Beginning at 15th level, you are always under the effects of a *protection from 
 
 At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
 
-Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.
+Whenever an enemy creature starts its turn in the bright light, the creature takes 10 kinetic damage.
 
 In addition, for the duration, you have advantage on saving throws against tek skills cast by fiends or undead.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 > ## Breaking Your Oath
 >
@@ -274,4 +274,4 @@ Once you use this feature, you can’t use it again until you finish a long rest
 >
 > A guardian who has broken a vow typically seeks absolution from a priest who shares his or her faith or from another guardian of the same order. The guardian might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the guardian starts fresh.
 >
-> If a guardian willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent guardian might be forced to abandon this class and adopt another.
+> If a guardian willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent guardian might be forced to abandon this class and adopt another.

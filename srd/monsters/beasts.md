@@ -1,6 +1,4 @@
-## Miscellaneous Creatures
-
----
+# Miscellaneous Creatures
 
 This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
 
@@ -146,11 +144,13 @@ _Small beast, unaligned_
 
 **Challenge** 0 (10 XP)
 
-**_Pack Tactics_**. The baboon has advantage on an attack roll against a creature if at least one of the baboon’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 
 **_Bite_**. _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) piercing damage.
+
+\page
 
 #### Badger
 
@@ -198,7 +198,7 @@ _Tiny beast, unaligned_
 
 **Challenge** 0 (10 XP)
 
-**_Echolocation_**. The bat can’t use its blindsight while deafened.
+**_Echolocation_**. The bat can't use its blindsight while deafened.
 
 **_Keen Hearing_**. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
@@ -256,7 +256,7 @@ _Medium fey, lawful good_
 
 **Senses** passive Perception 13
 
-**Languages** Blink Dog, understands Sylvan but can’t speak it
+**Languages** Blink Dog, understands Sylvan but can't speak it
 
 **Challenge** 1/4 (50 XP)
 
@@ -294,13 +294,15 @@ _Small beast, unaligned_
 
 **_Keen Sight_**. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-**_Pack Tactics_**. The hawk has advantage on an attack roll against a creature if at least one of the hawk’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 
 **_Beak_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
 Taking its name from its crimson feathers and aggressive nature, the **blood hawk** fearlessly attacks almost any animal, stabbing it with its ion daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
+
+\page
 
 #### Boar
 
@@ -438,7 +440,7 @@ _Large beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-**_Constrict_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
+**_Constrict_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
 #### Crab
 
@@ -468,6 +470,8 @@ _Tiny beast, unaligned_
 
 **_Claw_**. _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage.
 
+\page
+
 #### Crocodile
 
 _Large beast, unaligned_
@@ -494,7 +498,7 @@ _Large beast, unaligned_
 
 **Actions**
 
-**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can’t bite another target.
+**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 
 ### Creatures (D-F)
 
@@ -528,7 +532,7 @@ _Medium monstrosity, neutral evil_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 
-A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog’s heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim’s flesh to slowly rot off the bone.
+A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone.
 
 #### Deer
 
@@ -578,7 +582,7 @@ _Large beast, unaligned_
 
 **_Keen Hearing and Smell_**. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-**_Pack Tactics_**. The wolf has advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 
@@ -607,6 +611,8 @@ _Large beast, unaligned_
 **Actions**
 
 **_Hooves_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) bludgeoning damage.
+
+\page
 
 #### Eagle
 
@@ -712,7 +718,7 @@ _Tiny beast, unaligned_
 
 **Challenge** 1/8 (25 XP)
 
-**_Flyby_**. The snake doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+**_Flyby_**. The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 **Actions**
 
@@ -744,9 +750,11 @@ _Tiny beast, unaligned_
 
 **_Amphibious_**. The frog can breathe air and water.
 
-**_Standing Leap_**. The frog’s long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.
+**_Standing Leap_**. The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.
 
-A **frog** has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a **toad**.
+A **frog** has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a **toad**.
+
+\page
 
 ### Creatures (G-I)
 
@@ -830,7 +838,7 @@ _Large beast, unaligned_
 
 **Challenge** 1/4 (50 XP)
 
-**_Echolocation_**. The bat can’t use its blindsight while deafened.
+**_Echolocation_**. The bat can't use its blindsight while deafened.
 
 **_Keen Hearing_**. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
@@ -919,7 +927,9 @@ _Huge beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one creature. _Hit:_ 11 (2d6 + 4) piercing damage.
 
-**_Constrict_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
+\page
+
+**_Constrict_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
 #### Giant Crab
 
@@ -975,7 +985,7 @@ _Huge beast, unaligned_
 
 **_Multiattack_**. The crocodile makes two attacks: one with its bite and one with its tail.
 
-**_Bite_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can’t bite another target.
+**_Bite_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 
 **_Tail_**. _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target not grappled by the crocodile. _Hit:_ 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 
@@ -997,7 +1007,7 @@ _Large beast, neutral good_
 
 **Senses** passive Perception 14
 
-**Languages** Giant Eagle, understands Common and Auran but can’t speak them
+**Languages** Giant Eagle, understands Common and Auran but can't speak them
 
 **Challenge** 1 (200 XP)
 
@@ -1032,7 +1042,7 @@ _Huge beast, unaligned_
 
 **Senses** passive Perception 14
 
-**Languages** Giant Elk, understands Common, Elvish, and Sylvan but can’t speak them
+**Languages** Giant Elk, understands Common, Elvish, and Sylvan but can't speak them
 
 **Challenge** 2 (450 XP)
 
@@ -1068,11 +1078,13 @@ _Small beast, unaligned_
 
 **_Illumination_**. The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
+\page
+
 **Actions**
 
 **_Bite_**. _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 2 (1d6 − 1) slashing damage.
 
-A **giant fire beetle** is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
+A **giant fire beetle** is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
 #### Giant Frog
 
@@ -1098,13 +1110,13 @@ _Medium beast, unaligned_
 
 **_Amphibious_**. The frog can breathe air and water.
 
-**_Standing Leap_**. The frog’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+**_Standing Leap_**. The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 **Actions**
 
-**_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can’t bite another target.
+**_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 
-**_Swallow_**. The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog’s turns. The frog can have only one target swallowed at a time.
+**_Swallow_**. The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time.
 
 If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
@@ -1218,9 +1230,11 @@ _Large beast, unaligned_
 
 **_Water Breathing_**. The octopus can breathe only underwater.
 
+\page
+
 **Actions**
 
-**_Tentacles_**. _Melee Weapon Attack:_ +5 to hit, reach 15 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can’t use its tentacles on another target.
+**_Tentacles_**. _Melee Weapon Attack:_ +5 to hit, reach 15 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
 
 **_Ink Cloud (Recharges after a Short or Long Rest)_**. A 20- foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
@@ -1242,11 +1256,11 @@ _Large beast, neutral_
 
 **Senses** darkvision 120 ft., passive Perception 15
 
-**Languages** Giant Owl, understands Common, Elvish, and Sylvan but can’t speak them
+**Languages** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them
 
 **Challenge** 1/4 (50 XP)
 
-**_Flyby_**. The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+**_Flyby_**. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 **_Keen Hearing and Sight_**. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
@@ -1304,7 +1318,7 @@ _Small beast, unaligned_
 
 **_Keen Smell_**. The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
-**_Pack Tactics_**. The rat has advantage on an attack roll against a creature if at least one of the rat’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 
@@ -1314,7 +1328,7 @@ _Small beast, unaligned_
 
 Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.
 
-**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by tek means, and the target’s hit point maximum decreases by 3 (1d6) every 24 hours. If the target’s hit point maximum drops to 0 as a result of this disease, the target dies.
+**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by tek means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies.
 
 #### Giant Scorpion
 
@@ -1343,6 +1357,8 @@ _Large beast, unaligned_
 **_Claw_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
 
 **_Sting_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+
+\page
 
 #### Giant Sea Horse
 
@@ -1396,7 +1412,7 @@ _Huge beast, unaligned_
 
 **Challenge** 5 (1,800 XP)
 
-**_Blood Frenzy_**. The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+**_Blood Frenzy_**. The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 **_Water Breathing_**. The shark can breathe only underwater.
 
@@ -1464,15 +1480,17 @@ _Large beast, unaligned_
 
 **_Amphibious_**. The toad can breathe air and water.
 
-**_Standing Leap_**. The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+**_Standing Leap_**. The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 **Actions**
 
-**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can’t bite another target.
+**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 
-**_Swallow_**. The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad’s turns. The toad can have only one target swallowed at a time.
+**_Swallow_**. The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.
 
 If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+
+\page
 
 #### Giant Vulture
 
@@ -1492,13 +1510,13 @@ _Large beast, neutral evil_
 
 **Senses** passive Perception 13
 
-**Languages** understands Common but can’t speak
+**Languages** understands Common but can't speak
 
 **Challenge** 1 (200 XP)
 
 **_Keen Sight and Smell_**. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-**_Pack Tactics_**. The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 
@@ -1596,6 +1614,8 @@ _Medium beast, unaligned_
 
 Smaller than a giant spider, a **giant wolf spider** hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 
+\page
+
 #### Goat
 
 _Medium beast, unaligned_
@@ -1674,7 +1694,7 @@ _Large beast, unaligned_
 
 **Challenge** 2 (450 XP)
 
-**_Blood Frenzy_**. The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+**_Blood Frenzy_**. The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 **_Water Breathing_**. The shark can breathe only underwater.
 
@@ -1706,7 +1726,7 @@ _Medium beast, unaligned_
 
 **Challenge** 0 (10 XP)
 
-**_Pack Tactics_**. The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 
@@ -1739,11 +1759,13 @@ _Small beast, unaligned_
 
 **_Keen Hearing and Smell_**. The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-**_Pack Tactics_**. The jackal has advantage on an attack roll against a creature if at least one of the jackal’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 
 **_Bite_**. _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 – 1) piercing damage.
+
+\page
 
 #### Killer Whale
 
@@ -1767,7 +1789,7 @@ _Huge beast, unaligned_
 
 **Challenge** 3 (700 XP)
 
-**_Echolocation_**. The whale can’t use its blindsight while deafened.
+**_Echolocation_**. The whale can't use its blindsight while deafened.
 
 **_Hold Breath_**. The whale can hold its breath for 30 minutes.
 
@@ -1801,7 +1823,7 @@ _Large beast, unaligned_
 
 **_Keen Smell_**. The lion has advantage on Wisdom (Perception) checks that rely on smell.
 
-**_Pack Tactics_**. The lion has advantage on an attack roll against a creature if at least one of the lion’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **_Pounce_**. If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.
 
@@ -1899,6 +1921,8 @@ _Medium beast, unaligned_
 
 **Mastiffs** are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
 
+\page
+
 #### Mule
 
 _Medium beast, unaligned_
@@ -1957,7 +1981,7 @@ _Small beast, unaligned_
 
 **Actions**
 
-**_Tentacles_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can’t use its tentacles on another target.
+**_Tentacles_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
 
 **_Ink Cloud (Recharges after a Short or Long Rest)_**. A 5- foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
@@ -1983,7 +2007,7 @@ _Tiny beast, unaligned_
 
 **Challenge** 0 (10 XP)
 
-**_Flyby_**. The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+**_Flyby_**. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 **_Keen Hearing and Sight_**. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
@@ -2052,6 +2076,8 @@ _Large monstrosity, unaligned_
 **_Spider Climb_**. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 **_Web Walker_**. The spider ignores movement restrictions caused by webbing.
+
+\page
 
 **Actions**
 
@@ -2159,7 +2185,7 @@ _Tiny beast, unaligned_
 
 **Challenge** 0 (10 XP)
 
-**_Blood Frenzy_**. The quipper has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+**_Blood Frenzy_**. The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 **_Water Breathing_**. The quipper can breathe only underwater.
 
@@ -2213,6 +2239,8 @@ _Tiny beast, unaligned_
 
 **Senses** passive Perception 13
 
+\page
+
 **Languages** —
 
 **Challenge** 0 (10 XP)
@@ -2245,7 +2273,7 @@ _Medium beast, unaligned_
 
 **Challenge** 1/2 (100 XP)
 
-**_Pack Tactics_**. The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **_Water Breathing_**. The shark can breathe only underwater.
 
@@ -2363,6 +2391,8 @@ _Tiny beast, unaligned_
 
 **_Sting_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
+\page
+
 #### Sea Horse
 
 _Tiny beast, unaligned_
@@ -2441,15 +2471,15 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **Challenge** 1/4 (50 XP)
 
-**_Echolocation_**. The swarm can’t use its blindsight while deafened.
+**_Echolocation_**. The swarm can't use its blindsight while deafened.
 
 **_Keen Hearing_**. The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
 
-**_Swarm_**. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can’t regain hit points or gain temporary hit points.
+**_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 
 **Actions**
 
-**_Bites_**. _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+**_Bites_**. _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
 #### Swarm of Insects
 
@@ -2475,11 +2505,11 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **Challenge** 1/2 (100 XP)
 
-**_Swarm_**. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+**_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 
 **Actions**
 
-**_Bites_**. _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the swarm’s space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+**_Bites_**. _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 ###### Variant: Insect Swarms
 
@@ -2499,6 +2529,8 @@ _Web Walker._ The swarm ignores movement restrictions caused by webbing.
 
 **_Swarm of Wasps_**. A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
 
+
+\page
 
 #### Swarm of Poisonous Snakes
 
@@ -2524,11 +2556,11 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **Challenge** 2 (450 XP)
 
-**_Swarm_**. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can’t regain hit points or gain temporary hit points.
+**_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
 
 **Actions**
 
-**_Bites_**. _Melee Weapon Attack:_ +6 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+**_Bites_**. _Melee Weapon Attack:_ +6 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
 #### Swarm of Quippers
 
@@ -2554,15 +2586,15 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **Challenge** 1 (200 XP)
 
-**_Blood Frenzy_**. The swarm has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+**_Blood Frenzy_**. The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
-**_Swarm_**. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can’t regain hit points or gain temporary hit points.
+**_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.
 
 **_Water Breathing_**. The swarm can breathe only underwater.
 
 **Actions**
 
-**_Bites_**. _Melee Weapon Attack:_ +5 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
+**_Bites_**. _Melee Weapon Attack:_ +5 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
 #### Swarm of Rats
 
@@ -2590,11 +2622,11 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **_Keen Smell_**. The swarm has advantage on Wisdom (Perception) checks that rely on smell.
 
-**_Swarm_**. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can’t regain hit points or gain temporary hit points.
+**_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 
 **Actions**
 
-**_Bites_**. _Melee Weapon Attack:_ +2 to hit, reach 0 ft., one target in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+**_Bites_**. _Melee Weapon Attack:_ +2 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
 #### Swarm of Ravens
 
@@ -2622,11 +2654,11 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **Challenge** 1/4 (50 XP)
 
-**_Swarm_**. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can’t regain hit points or gain temporary hit points.
+**_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 
 **Actions**
 
-**_Beaks_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+**_Beaks_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
 #### Tiger
 
@@ -2651,6 +2683,8 @@ _Large beast, unaligned_
 **Challenge** 1 (200 XP)
 
 **_Keen Smell_**. The tiger has advantage on Wisdom (Perception) checks that rely on smell.
+
+\page
 
 **_Pounce_**. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
@@ -2686,7 +2720,7 @@ _Medium beast, unaligned_
 
 **_Keen Sight and Smell_**. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-**_Pack Tactics_**. The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 
@@ -2768,7 +2802,7 @@ _Large monstrosity, neutral evil_
 
 **_Keen Hearing and Smell_**. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-**_Pack Tactics_**. The wolf has advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **_Snow Camouflage_**. The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
@@ -2778,7 +2812,9 @@ _Large monstrosity, neutral evil_
 
 **_Cold Breath (Recharge 5–6)_**. The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 
-The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves’ deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
+The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
+
+\page
 
 #### Wolf
 
@@ -2804,7 +2840,7 @@ _Medium beast, unaligned_
 
 **_Keen Hearing and Smell_**. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-**_Pack Tactics_**. The wolf has advantage on attack rolls against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+**_Pack Tactics_**. The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **Actions**
 

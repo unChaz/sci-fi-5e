@@ -29,7 +29,7 @@ As an arcanist, you gain the following class features
 You start with the following equipment, in addition to the equipment granted by your background:
 * *(a)* a Bowstaff or (*b*) an ion dagger
 * *(a)* a component pouch or (*b*) an tekcaster
-* *(a)* a scholar’s pack or (*b*) a field survival kit
+* *(a)* a scholar's pack or (*b*) a field survival kit
 * A datapad
 
 ### Tekcasting
@@ -49,7 +49,7 @@ At 1st level, you have a tek skill datapad containing six 1st- level Arcanist te
 
 ### Preparing and Casting Tek Skills
 
-The Arcanist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Arcanist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 You prepare the list of Arcanist tek skills that are available for you to cast. To do so, choose a number of Arcanist tek skills from your tek skill datapad equal to your Intelligence modifier + your Arcanist level (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
@@ -65,7 +65,7 @@ Intelligence + Will is your Tekcasting ability for your Arcanist tek skills, sin
 
 ### Ritual Casting
 
-You can cast an arcanist tek skill as a ritual if that tek skill has the ritual tag and you have the tek skill in your tek skill datapad. You don’t need to have the tek skill prepared.
+You can cast an arcanist tek skill as a ritual if that tek skill has the ritual tag and you have the tek skill in your tek skill datapad. You don't need to have the tek skill prepared.
 
 ### Tekcasting Focus
 
@@ -110,7 +110,7 @@ Each time you gain an arcanist level, you can add two Arcanist tek skills of you
 
 You have learned to regain some of your tek energy by studying your tek skill datapad. Once per day when you finish a short rest, you can choose expended tek skill slots to recover. The tek skill slots can have a combined level that is equal to or less than half your Arcanist level (rounded up), and none of the slots can be 6th level or higher.
 
-For example, if you’re a 4th-level Arcanist, you can recover up to two levels worth of tek skill slots. You can recover either a 2nd-level tek skill slot or two 1st-level tek skill slots.
+For example, if you're a 4th-level Arcanist, you can recover up to two levels worth of tek skill slots. You can recover either a 2nd-level tek skill slot or two 1st-level tek skill slots.
 
 ### Arcane Tradition
 
@@ -120,7 +120,7 @@ Your choice grants you features at 2nd level and again at 6th, 10th, and 14th le
 
 ### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ```
 ```
@@ -133,7 +133,7 @@ By spending 8 hours in study, you can exchange one or both of the tek skills you
 
 ### Signature Tek Skills
 
-When you reach 20th level, you gain mastery over two powerful tek skills and can cast them with little effort. Choose two 3rd-level Arcanist tek skills in your tek skill datapad as your signature tek skills. You always have these tek skills prepared, they don’t count against the number of tek skills you have prepared, and you can cast each of them once at 3rd level without expending a tek skill slot. When you do so, you can’t do so again until you finish a short or long rest.
+When you reach 20th level, you gain mastery over two powerful tek skills and can cast them with little effort. Choose two 3rd-level Arcanist tek skills in your tek skill datapad as your signature tek skills. You always have these tek skills prepared, they don't count against the number of tek skills you have prepared, and you can cast each of them once at 3rd level without expending a tek skill slot. When you do so, you can't do so again until you finish a short or long rest.
 
 If you want to cast either tek skill at a higher level, you must expend a tek skill slot as normal.
 
@@ -155,11 +155,11 @@ Beginning when you select this school at 2nd level, the credits and time you mus
 
 ### Sculpt Tek Skills
 
-Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation tek skills. When you cast an evocation tek skill that affects other creatures that you can see, you can choose a number of them equal to 1 + the tek skill’s level. The chosen creatures automatically succeed on their saving throws against the tek skill, and they take no damage if they would normally take half damage on a successful save.
+Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation tek skills. When you cast an evocation tek skill that affects other creatures that you can see, you can choose a number of them equal to 1 + the tek skill's level. The chosen creatures automatically succeed on their saving throws against the tek skill, and they take no damage if they would normally take half damage on a successful save.
 
 ### Potent Cantrip
 
-Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip’s damage (if any) but suffers no additional effect from the cantrip.
+Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
 
 ### Empowered Evocation
 
@@ -178,7 +178,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 >
 > Arcanists use a datapad to compile all of the knowledge of the arcane arts.
 >
-> The tek skills that you add to your tek skill datapad as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other tek skills during your adventures. You could discover a tek skill recorded on a datacube in an evil Arcanist’s chest, for example, or in a dusty disk in an ancient library.
+> The tek skills that you add to your tek skill datapad as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other tek skills during your adventures. You could discover a tek skill recorded on a datacube in an evil Arcanist's chest, for example, or in a dusty disk in an ancient library.
 >
 > **_Copying a Tek into the Datapad._** When you find an arcanist tek skill of 1st level or higher, you can add it to your tek skill datapad if it is of a tek skill level you can prepare and if you can spare the time to decipher and copy it.
 >

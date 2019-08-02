@@ -53,7 +53,7 @@ Personality traits were the results of a two decades long psychological study at
 | Trait | Description|
 |:----:|:-------------|
 | Wit  | Mental sharpness and inventiveness; keen intelligence. |
-| Will  | Mental fortitude. This is the mind’s ability to resist tek effectrs, and mental stress. |
+| Will  | Mental fortitude. This is the mind's ability to resist tek effectrs, and mental stress. |
 | Intelligence | The ability to acquire and apply knowledge and skills. |
 | Wisdom | The soundness of an action or decision with regard to the application of experience, knowledge, and good judgment. |
 
@@ -159,7 +159,7 @@ The focus used by those casting tek skills is called a Tekcaster. The tekcaster 
 ```
 
 ### Willpower
-Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster's tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
@@ -215,7 +215,7 @@ The description of each race includes racial traits that are common to members o
 
 ##### Ability Score Increase
 
-Every race increases one or more of a character’s ability scores.
+Every race increases one or more of a character's ability scores.
 
 ##### Age
 
@@ -357,7 +357,7 @@ After they were conquered by the Authority, they were cast out to the icecaps of
 
 **_Size._** Obsidians are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet. 
+**_Speed._** Your base walking speed is 30 feet.
 
 #### Natural Athlete
 You have proficiency in the **Physique** skill.
@@ -374,7 +374,7 @@ You count as one size larger when determining your carrying capacity and the wei
 **_Languages._** You can speak, read, and write German, English, and one extra language of your choice.
 
 #### Savage Attacks
-When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 ```
 ```
 
@@ -387,7 +387,7 @@ Rusters are most commonly of Russian or Irish decent who worked the Helium3 mine
 
 **_Size._** Rusters are about 5 feet tall. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet. 
+**_Speed._** Your base walking speed is 30 feet.
 
 #### Ruster Cunning
 You have advantage on all Intelligence, Wisdom, and Charisma saving throws against tekcasting.
@@ -413,7 +413,7 @@ The floating cities of Venus are a paradise. Venus is known for it's thriving in
 
 **_Size._** Venusians are tall and muscular. Usually over 6 feet. Regardless of your position in that range, your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet. 
+**_Speed._** Your base walking speed is 30 feet.
 
 #### Tough Lungs
 Used to the harsh gasses in the Venusian atmosphere. You are immune to poison damage and the poisoned condition.
@@ -470,7 +470,7 @@ Spliced are the gene spliced creations of mad scientists or their decedents. Spl
 #### Gene Shifting
 As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Toughness modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.
 
-Once you shift, you can’t do so again until you finish a short or long rest.
+Once you shift, you can't do so again until you finish a short or long rest.
 
 ### Stack Traits
 
@@ -522,7 +522,7 @@ You have proficiency with the Acrobatics skill.
 Your walking speed increases by 5 feet.
 
 ##### Shifting Feature
-While shifted, your walking speed increases by an additional 5 feet. Additionally, you can move up to 10 feet as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
+While shifted, your walking speed increases by an additional 5 feet. Additionally, you can move up to 10 feet as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.
 
 ### Wildhunt
 Wildhunt shifters are sharp and insightful. Some are constantly alert, ever wary for possible threats. Others focus on their intuition, searching within. Wildhunt shifters are excellent hunters, and they also tend to become the spiritual leaders of shifter communities.
@@ -534,7 +534,7 @@ Your Wisdom score increases by 2.
 You have proficiency with the Survival skill.
 
 ##### Mark the Scent
-As a bonus action, you can mark one creature you can see within 10 feet of you. Until the end of your next long rest, your proficiency bonus is doubled for any ability check you make to find the marked creature, and you always know the location of that creature if it is within 60 feet of you. You can’t use this trait again until you finish a short or long rest.
+As a bonus action, you can mark one creature you can see within 10 feet of you. Until the end of your next long rest, your proficiency bonus is doubled for any ability check you make to find the marked creature, and you always know the location of that creature if it is within 60 feet of you. You can't use this trait again until you finish a short or long rest.
 
 ##### Shifting feature
 While shifted, you have advantage on Wisdom checks.
@@ -542,7 +542,7 @@ While shifted, you have advantage on Wisdom checks.
 \page
 
 ## Synthetic
-Synthetic sleeves are made from fabricated parts instead of flesh and blood. While in a synthetic sleeves, senses and abilities can be enhanced 
+Synthetic sleeves are made from fabricated parts instead of flesh and blood. While in a synthetic sleeves, senses and abilities can be enhanced
 
 ### Sleeve Traits
 
@@ -550,7 +550,7 @@ Synthetic sleeves are made from fabricated parts instead of flesh and blood. Whi
 
 **_Size._** Synthetics are usually built to be between 4 and 8 feet tall, and come in many shapes. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet. 
+**_Speed._** Your base walking speed is 30 feet.
 
 #### Integrated Tekcaster
 A tekcaster has been installed in the hand of the synth unit.
@@ -562,7 +562,7 @@ You do not sleep. Instead you go into a low power mode for 4 hours per day to re
 Choose one from below:
 
 ##### Electromagnetics
-Synths can activate electormagnets in their feet and walk on metal surfaces while in less than .2G without the need of GravBoots or MagBoots. 
+Synths can activate electormagnets in their feet and walk on metal surfaces while in less than .2G without the need of GravBoots or MagBoots.
 
 In addition, if you are within 10 feet of a metal object, you can point your electromagnets to it. If it weighs less than you it comes to you at the rate of 30 feet per round. If you weigh less than the object, you move towards it at the rate of 30 feet per round.
 
@@ -573,8 +573,8 @@ Enhanced epidermis allows the synth to permenantly change their appearance at wi
 You learn the cantrips **Shocking Grasp**, **Ray of Frost**, and **Firebolt**.
 
 ##### Medical Bot
-- You learn the cantrip **Spare the Dying**. 
-- Once per short rest you can cast the tek skill **Cure Wounds**. 
+- You learn the cantrip **Spare the Dying**.
+- Once per short rest you can cast the tek skill **Cure Wounds**.
 - You can cast the tek skill **Lesser Restoration** with a casting time of 1 hour. You must finish a long rest before casting again.
 
 <!-- Classes -->
@@ -612,7 +612,7 @@ As an arcanist, you gain the following class features
 You start with the following equipment, in addition to the equipment granted by your background:
 * *(a)* a Bowstaff or (*b*) an ion dagger
 * *(a)* a component pouch or (*b*) an tekcaster
-* *(a)* a scholar’s pack or (*b*) a field survival kit
+* *(a)* a scholar's pack or (*b*) a field survival kit
 * A datapad
 
 ### Tekcasting
@@ -632,7 +632,7 @@ At 1st level, you have a tek skill datapad containing six 1st- level Arcanist te
 
 ### Preparing and Casting Tek Skills
 
-The Arcanist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Arcanist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 You prepare the list of Arcanist tek skills that are available for you to cast. To do so, choose a number of Arcanist tek skills from your tek skill datapad equal to your Intelligence modifier + your Arcanist level (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
@@ -648,7 +648,7 @@ Intelligence + Will is your Tekcasting ability for your Arcanist tek skills, sin
 
 ### Ritual Casting
 
-You can cast an arcanist tek skill as a ritual if that tek skill has the ritual tag and you have the tek skill in your tek skill datapad. You don’t need to have the tek skill prepared.
+You can cast an arcanist tek skill as a ritual if that tek skill has the ritual tag and you have the tek skill in your tek skill datapad. You don't need to have the tek skill prepared.
 
 ### Tekcasting Focus
 
@@ -693,7 +693,7 @@ Each time you gain an arcanist level, you can add two Arcanist tek skills of you
 
 You have learned to regain some of your tek energy by studying your tek skill datapad. Once per day when you finish a short rest, you can choose expended tek skill slots to recover. The tek skill slots can have a combined level that is equal to or less than half your Arcanist level (rounded up), and none of the slots can be 6th level or higher.
 
-For example, if you’re a 4th-level Arcanist, you can recover up to two levels worth of tek skill slots. You can recover either a 2nd-level tek skill slot or two 1st-level tek skill slots.
+For example, if you're a 4th-level Arcanist, you can recover up to two levels worth of tek skill slots. You can recover either a 2nd-level tek skill slot or two 1st-level tek skill slots.
 
 ### Arcane Tradition
 
@@ -703,7 +703,7 @@ Your choice grants you features at 2nd level and again at 6th, 10th, and 14th le
 
 ### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ```
 ```
@@ -716,7 +716,7 @@ By spending 8 hours in study, you can exchange one or both of the tek skills you
 
 ### Signature Tek Skills
 
-When you reach 20th level, you gain mastery over two powerful tek skills and can cast them with little effort. Choose two 3rd-level Arcanist tek skills in your tek skill datapad as your signature tek skills. You always have these tek skills prepared, they don’t count against the number of tek skills you have prepared, and you can cast each of them once at 3rd level without expending a tek skill slot. When you do so, you can’t do so again until you finish a short or long rest.
+When you reach 20th level, you gain mastery over two powerful tek skills and can cast them with little effort. Choose two 3rd-level Arcanist tek skills in your tek skill datapad as your signature tek skills. You always have these tek skills prepared, they don't count against the number of tek skills you have prepared, and you can cast each of them once at 3rd level without expending a tek skill slot. When you do so, you can't do so again until you finish a short or long rest.
 
 If you want to cast either tek skill at a higher level, you must expend a tek skill slot as normal.
 
@@ -738,11 +738,11 @@ Beginning when you select this school at 2nd level, the credits and time you mus
 
 ### Sculpt Tek Skills
 
-Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation tek skills. When you cast an evocation tek skill that affects other creatures that you can see, you can choose a number of them equal to 1 + the tek skill’s level. The chosen creatures automatically succeed on their saving throws against the tek skill, and they take no damage if they would normally take half damage on a successful save.
+Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation tek skills. When you cast an evocation tek skill that affects other creatures that you can see, you can choose a number of them equal to 1 + the tek skill's level. The chosen creatures automatically succeed on their saving throws against the tek skill, and they take no damage if they would normally take half damage on a successful save.
 
 ### Potent Cantrip
 
-Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip’s damage (if any) but suffers no additional effect from the cantrip.
+Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
 
 ### Empowered Evocation
 
@@ -761,7 +761,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 >
 > Arcanists use a datapad to compile all of the knowledge of the arcane arts.
 >
-> The tek skills that you add to your tek skill datapad as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other tek skills during your adventures. You could discover a tek skill recorded on a datacube in an evil Arcanist’s chest, for example, or in a dusty disk in an ancient library.
+> The tek skills that you add to your tek skill datapad as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other tek skills during your adventures. You could discover a tek skill recorded on a datacube in an evil Arcanist's chest, for example, or in a dusty disk in an ancient library.
 >
 > **_Copying a Tek into the Datapad._** When you find an arcanist tek skill of 1st level or higher, you can add it to your tek skill datapad if it is of a tek skill level you can prepare and if you can spare the time to decipher and copy it.
 >
@@ -811,15 +811,15 @@ You start with the following equipment, in addition to the equipment granted by 
 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
 
-While raging, you gain the following benefits if you aren’t wearing heavy armor:
+While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 * You have advantage on Strength checks and Strength saving throws.
 * When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a brute, as shown in the Rage Damage column of the Brute table.
 * You have resistance to bludgeoning, piercing, and slashing damage.
 
-If you are able to cast tek skills, you can’t cast them or concentrate on them while raging.
+If you are able to cast tek skills, you can't cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
 Once you have raged the number of times shown for your brute level in the Rages column of the Brute table, you must finish a long rest before you can rage again.
 
@@ -833,9 +833,9 @@ Starting at 2nd level, you can throw aside all concern for defense to attack wit
 
 ### Danger Sense
 
-At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
+At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
 
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and tek skills. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and tek skills. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 
 ### Primal Path
 
@@ -872,7 +872,7 @@ At 3rd level, you choose a path that shapes the nature of your rage. Choose the 
 
 ### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Extra Attack
 
@@ -880,7 +880,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### Fast Movement
 
-Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor.
+Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
 
 ### Heavily Armored
 
@@ -890,7 +890,7 @@ Starting at 5th level, you gain proficiency with heavy armor.
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
-Additionally, if you are surprised at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ```
 ```
@@ -902,7 +902,7 @@ This increases to two additional dice at 13th level and three additional dice at
 
 ### Relentless Rage
 
-Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
@@ -924,7 +924,7 @@ At 20th level, you embody the power of the wilds. Your Strength and Constitution
 
 ### Path of the Berserker
 
-For some brutes, rage is a means to an end— that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-being.
+For some brutes, rage is a means to an end— that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
 #### Frenzy
 
@@ -932,13 +932,13 @@ Starting when you choose this path at 3rd level, you can go into a frenzy when y
 
 #### Mindless Rage
 
-Beginning at 6th level, you can’t be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 
 #### Intimidating Presence
 
 Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
 
-If the creature succeeds on its saving throw, you can’t use this feature on that creature again for 24 hours.
+If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
 
 #### Retaliation
 
@@ -976,7 +976,7 @@ As a cybernetic, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 * *(a)* a scorcher and 20 clips of ammunition or (*b*) any simple weapon
-* *(a)* a scholar’s pack or (*b*) an incursion kit
+* *(a)* a scholar's pack or (*b*) an incursion kit
 * a tekcaster
 * Flak armor, and two ion daggers
 
@@ -1009,7 +1009,7 @@ For example, when you are 5th level, you have two 3rd-level tek skill slots. To 
 
 At 1st level, you know two 1st-level tek skills of your choice from the cybernetic tek skill list.
 
-The Tek Skills Known column of the Cybernetic table shows when you learn more cybernetic tek skills of your choice of 1st level and higher. A tek skill you choose must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach 6th level, for example, you learn a new cybernetic tek skill, which can be 1st, 2nd, or 3rd level.
+The Tek Skills Known column of the Cybernetic table shows when you learn more cybernetic tek skills of your choice of 1st level and higher. A tek skill you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new cybernetic tek skill, which can be 1st, 2nd, or 3rd level.
 
 Additionally, when you gain a level in this class, you can choose one of the cybernetic tek skills you know and replace it with another tek skill from the cybernetic tek skill list, which also must be of a level for which you have tek skill slots.
 
@@ -1069,7 +1069,7 @@ At 3rd level, your Symbiote gives you one of the following features of your choi
 
 ### Link of the Drone
 
-You learn the *find familiar* tek skill and can cast it as a ritual. The tek skill doesn’t count against your number of tek skills known.
+You learn the *find familiar* tek skill and can cast it as a ritual. The tek skill doesn't count against your number of tek skills known.
 
 When you cast the tek skill, the form of your familiar is a recon drone with a fly speed of 60, 13 AC, 7 HP, Perception +3, Stealth +4, 60ft of darkvision, 10ft of blindsight.
 
@@ -1085,15 +1085,15 @@ Your Nanoblade disappears if it is more than 5 feet away from you for 1 minute o
 
 \page
 
-You can transform one tek weapon into your Nanoblade by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your Nanoblade thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your Nanoblade if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform one tek weapon into your Nanoblade by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your Nanoblade thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your Nanoblade if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 ### Link of the Tome
 
-Your Symbiote gives you access to more tekskills. When you gain this feature, choose three cantrips from any class’s tek skill list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the cybernetic tek skill list, they are nonetheless cybernetic tek skills for you.
+Your Symbiote gives you access to more tekskills. When you gain this feature, choose three cantrips from any class's tek skill list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the cybernetic tek skill list, they are nonetheless cybernetic tek skills for you.
 
 ## Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Mystic Arcanum
 
@@ -1142,7 +1142,7 @@ You gain proficiency in the Charm and Charm skills.
 
 *Prerequisite: 7th level*
 
-You can cast *compulsion* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *compulsion* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Nanotech Chains Module
 
@@ -1158,7 +1158,7 @@ You can see normally in darkness, both tek and nontek, to a distance of 120 feet
 
 *Prerequisite: 7th level*
 
-You can cast *confusion* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *confusion* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Alien Sight
 
@@ -1182,7 +1182,7 @@ You can cast *false life* on yourself at will as a 1st-level tek skill, without 
 
 ### Mindlink Module
 
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
 ### Lifedrinker Module
 
@@ -1204,13 +1204,13 @@ You can cast *alter self* at will, without expending a tek skill slot.
 
 *Prerequisite: 9th level*
 
-You can cast *conjure elemental* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *conjure elemental* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Mire the Mind Module
 
 *Prerequisite: 5th level*
 
-You can cast *slow* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *slow* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Hologram Module
 
@@ -1241,17 +1241,17 @@ When you hit a creature with *nanotech blast*, you can push the creature up to 1
 
 *Prerequisite: 7th level*
 
-You can cast *polymorph* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *polymorph* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Mind Hack Module
 
 *Prerequisite: 5th level*
 
-You can cast *bestow hack* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *bestow hack* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Thief of Five Fates Module
 
-You can cast *bane* once using a cybernetic tek skill slot. You can’t do so again until you finish a long rest.
+You can cast *bane* once using a cybernetic tek skill slot. You can't do so again until you finish a long rest.
 
 ### Thirsting Nanoblade
 
@@ -1269,7 +1269,7 @@ You can cast *arcane eye* at will, without expending a tek skill slot.
 
 *Prerequisite: Link of the Chain feature*
 
-You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 ### Whispers of the Grave Module
 
@@ -1307,15 +1307,15 @@ The Fiend lets you choose from an expanded list of tek skills when you learn a c
 | 4th         | fire shield, wall of fire         |
 | 5th         | flame strike, hallow              |
 
-## Dark One’s Blessing
+## Dark One's Blessing
 
 Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your cybernetic level (minimum of 1).
 
-## Dark One’s Own Luck
+## Dark One's Own Luck
 
-Starting at 6th level, you can call on your Symbiote to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll’s effects occur.
+Starting at 6th level, you can call on your Symbiote to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Fiendish Resilience
 
@@ -1352,7 +1352,7 @@ Starting at 1st level, you gain the ability to place a baleful curse on someone.
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
 - Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.
 - If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).
-- You can’t use this feature again until you finish a short or long rest.
+- You can't use this feature again until you finish a short or long rest.
 
 \page
 
@@ -1360,9 +1360,9 @@ Starting at 1st level, you gain the ability to place a baleful curse on someone.
 
 At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.
 
-The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon’s type.
+The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Accursed Specter
 
@@ -1370,13 +1370,13 @@ Starting at 6th level, you can curse the soul of a person you slay, temporarily 
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 
-Once you bind a specter with this feature, you can’t use the feature again until you finish a long rest.
+Once you bind a specter with this feature, you can't use the feature again until you finish a long rest.
 
 ## Armor of Hexes
-At 10th level, your hex grows more powerful. If the target cursed by your Hexblade’s Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
+At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
 
 ## Master of Hexes
-Starting at 14th level, you can spread your Hexblade’s Curse from a slain creature to another creature. When the creature cursed by your Hexblade’s Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren’t incapacitated. When you apply the curse in this way, you don’t regain hit points from the death of the previously cursed creature.
+Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
 
 \page
 # Evangelist
@@ -1410,7 +1410,7 @@ As a evangelist, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 * (*a*) an ion blade, (*b*) a pulse blade, or (*c*) any simple weapon
-* (*a*) a diplomat’s pack or (*b*) an entertainer’s pack
+* (*a*) a diplomat's pack or (*b*) an entertainer's pack
 * (*a*) a ukulele or (*b*) any other musical instrument
 * Flak armor and an ion dagger
 
@@ -1427,7 +1427,7 @@ You know two cantrips of your choice from the evangelist tek skill list. You lea
 
 #### Tek Slots
 
-The Evangelist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Evangelist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 For example, if you know the 1st-level tek skill *cure wounds* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *cure wounds* using either slot.
 
@@ -1498,7 +1498,7 @@ Your Evangelistic Inspiration die changes when you reach certain levels in this 
 
 ### Jack of All Trades
 
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus.
+Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
 ### Song of Rest
 
@@ -1523,7 +1523,7 @@ At 10th level, you can choose another two skill proficiencies to gain this benef
 
 ### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ### Font of Inspiration
 
@@ -1555,7 +1555,7 @@ Evangelists of the College of Lore know something about most things, collecting 
 
 The loyalty of these evangelists lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a sect. A noble who keeps such a evangelist as a herald or advisor knows that the evangelist would rather be honest than politic.
 
-The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
+The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
 
 #### Bonus Proficiencies
 
@@ -1566,11 +1566,11 @@ When you join the College of Lore at 3rd level, you gain proficiency with three 
 
 #### Cutting Words
 
-Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Evangelistic Inspiration, rolling a Evangelistic Inspiration die and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
+Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Evangelistic Inspiration, rolling a Evangelistic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.
 
 #### Additional Tek Secrets
 
-At 6th level, you learn two tek skills of your choice from any class. A tek skill you choose must be of a level you can cast, as shown on the Evangelist table, or a cantrip. The chosen tek skills count as evangelist tek skills for you but don’t count against the number of evangelist tek skills you know.
+At 6th level, you learn two tek skills of your choice from any class. A tek skill you choose must be of a level you can cast, as shown on the Evangelist table, or a cantrip. The chosen tek skills count as evangelist tek skills for you but don't count against the number of evangelist tek skills you know.
 
 #### Peerless Skill
 
@@ -1636,7 +1636,7 @@ This feature has no effect on undead and constructs.
 
 ## Fighting Style
 
-At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 ### Defense
 
@@ -1662,11 +1662,11 @@ By 2nd level, you have learned to draw on Alien tek through meditation and praye
 
 ### Preparing and Casting Tek Skills
 
-The Guardian table shows how many tek skill slots you have to cast your tek skills. To cast one of your guardian tek skills of 1st level or higher, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Guardian table shows how many tek skill slots you have to cast your tek skills. To cast one of your guardian tek skills of 1st level or higher, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 You prepare the list of guardian tek skills that are available for you to cast, choosing from the guardian tek skill list. When you do so, choose a number of guardian tek skills equal to your Charisma modifier + half your guardian level, rounded down (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
-For example, if you are a 5th-level guardian, you have four 1st-level and two 2nd-level tek skill slots. With a Charisma of 14, your list of prepared tek skills can include four tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
+For example, if you are a 5th-level guardian, you have four 1st-level and two 2nd-level tek skill slots. With a Charisma of 14, your list of prepared tek skills can include four tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the tek skill doesn't remove it from your list of prepared tek skills.
 
 You can change your list of prepared tek skills when you finish a long rest. Preparing a new list of guardian tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
 
@@ -1684,7 +1684,7 @@ You can use a holy symbol as a Tekcasting focus for your guardian tek skills.
 
 ## Alien Smite
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one tek skill slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level tek skill slot, plus 1d8 for each tek skill level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one tek skill slot to deal kinetic damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level tek skill slot, plus 1d8 for each tek skill level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
 
 ## Alien Health
 
@@ -1701,9 +1701,9 @@ Your choice grants you features at 3rd level and again at 7th, 15th, and 20th le
 
 ### Oath Tek Skills
 
-Each oath has a list of associated tek skills. You gain access to these tek skills at the levels specified in the oath description. Once you gain access to an oath tek skill, you always have it prepared. Oath tek skills don’t count against the number of tek skills you can prepare each day.
+Each oath has a list of associated tek skills. You gain access to these tek skills at the levels specified in the oath description. Once you gain access to an oath tek skill, you always have it prepared. Oath tek skills don't count against the number of tek skills you can prepare each day.
 
-If you gain an oath tek skill that doesn’t appear on the guardian tek skill list, the tek skill is nonetheless a guardian tek skill for you.
+If you gain an oath tek skill that doesn't appear on the guardian tek skill list, the tek skill is nonetheless a guardian tek skill for you.
 
 ### Channel Divinity
 
@@ -1715,7 +1715,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 
 ## Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Extra Attack
 
@@ -1758,13 +1758,13 @@ At 18th level, the range of this aura increases to 30 feet.
 </div>
 ## Aura of Courage
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ## Improved Alien Smite
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry Alien power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Alien Smite with an attack, you add this damage to the extra damage of your Alien Smite.
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry Alien power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 kinetic damage. If you also use your Alien Smite with an attack, you add this damage to the extra damage of your Alien Smite.
 
 ## Cleansing Touch
 
@@ -1776,11 +1776,11 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 ```
 ## Sacred Oaths
 
-Becoming a guardian involves taking vows that commit the guardian to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the guardian’s training. Some characters with this class don’t consider themselves true guardians until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the guardian’s heart.
+Becoming a guardian involves taking vows that commit the guardian to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the guardian's training. Some characters with this class don't consider themselves true guardians until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the guardian's heart.
 
 ### Oath of Devotion
 
-The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white Lancers, or holy warriors, these guardians meet the ideal of the Lancer in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white Lancers, or holy warriors, these guardians meet the ideal of the Lancer in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
 \page
 
@@ -1788,7 +1788,7 @@ The Oath of Devotion binds a guardian to the loftiest ideals of justice, virtue,
 
 Though the exact words and strictures of the Oath of Devotion vary, guardians of this oath share these tenets.
 
-**_Honesty._** Don’t lie or cheat. Let your word be your promise.
+**_Honesty._** Don't lie or cheat. Let your word be your promise.
 
 **_Courage._** Never fear to act, though caution is wise.
 
@@ -1822,14 +1822,14 @@ You can end this effect on your turn as part of any other action. If you are no 
 
 **_Turn the Unholy._** As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ```
 ```
 
 ## Aura of Devotion
 
-Starting at 7th level, you and friendly creatures within 10 feet of you can’t be charmed while you are conscious.
+Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -1841,11 +1841,11 @@ Beginning at 15th level, you are always under the effects of a *protection from 
 
 At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
 
-Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.
+Whenever an enemy creature starts its turn in the bright light, the creature takes 10 kinetic damage.
 
 In addition, for the duration, you have advantage on saving throws against tek skills cast by fiends or undead.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 > ## Breaking Your Oath
 >
@@ -1853,7 +1853,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 >
 > A guardian who has broken a vow typically seeks absolution from a priest who shares his or her faith or from another guardian of the same order. The guardian might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the guardian starts fresh.
 >
-> If a guardian willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent guardian might be forced to abandon this class and adopt another.
+> If a guardian willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent guardian might be forced to abandon this class and adopt another.
 
 \page
 #  Monk
@@ -1876,7 +1876,7 @@ As a monk, you gain the following class features.
 
 **Weapons:** Simple weapons, ion blades
 
-**Tools:** Choose one type of artisan’s tools or one musical instrument
+**Tools:** Choose one type of artisan's tools or one musical instrument
 
 **Saving Throws:** Strength, Dexterity
 
@@ -1899,13 +1899,13 @@ Beginning at 1st level, while you are wearing no armor and not wielding A medkit
 
 ##  Martial Arts
 
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are ion blades and any simple melee weapons that don’t have the two- handed or heavy property.
+At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are ion blades and any simple melee weapons that don't have the two- handed or heavy property.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding A medkit:
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding A medkit:
 
 * You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
 * You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-* When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a Bowstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+* When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a Bowstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
@@ -1917,7 +1917,7 @@ You can spend these points to fuel various ki features. You start knowing three 
 
 When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
 
-Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
+Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
 
 **Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
@@ -1985,7 +1985,7 @@ If you reduce the damage to 0, you can catch the missile if it is small enough f
 
 ##  Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ##  Slow Fall
 
@@ -1997,7 +1997,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ##  Stunning Strike
 
-Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
 ##  Ki-Empowered Strikes
 
@@ -2005,7 +2005,7 @@ Starting at 6th level, your unarmed strikes count as tek for the purpose of over
 
 ##  Evasion
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a *fireball* tek skill. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a *fireball* tek skill. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##  Stillness of Mind
 
@@ -2030,13 +2030,13 @@ Additionally, whenever you make a saving throw and fail, you can spend 1 ki poin
 
 ##  Timeless Body
 
-At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can’t be aged. You can still die of old age, however. In addition, you no longer need food or water.
+At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged. You can still die of old age, however. In addition, you no longer need food or water.
 
 ##  Empty Body
 
 Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the *astral projection* tek skill, without needing material components. When you do so, you can’t take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the *astral projection* tek skill, without needing material components. When you do so, you can't take any other creatures with you.
 
 ##  Perfect Self
 
@@ -2052,10 +2052,10 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 ####  Open Hand Technique
 
-Starting when you choose this tradition at 3rd level, you can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+Starting when you choose this tradition at 3rd level, you can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
 * It must succeed on a Dexterity saving throw or be knocked prone.
 * It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
-* It can’t take reactions until the end of your next turn.
+* It can't take reactions until the end of your next turn.
 
 \page
 
@@ -2069,7 +2069,7 @@ Beginning at 11th level, you can enter a special meditation that surrounds you w
 
 ####  Quivering Palm
 
-At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 radiation damage.
+At 17th level, you gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 radiation damage.
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
@@ -2112,7 +2112,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ##  Morphic cant
 
-You know Morphic, the secret language of morphs. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful DC 15 Wisdom (Perception) check but can’t decipher it without tek.
+You know Morphic, the secret language of morphs. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without tek.
 
 ##  Tekcasting
 
@@ -2127,11 +2127,11 @@ At 1st level, you know two cantrips of your choice from the morph tek skill list
 
 ###  Preparing and Casting Tek Skills
 
-The Morph table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these morph tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Morph table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these morph tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 You prepare the list of morph tek skills that are available for you to cast, choosing from the morph tek skill list. When you do so, choose a number of morph tek skills equal to your Wisdom modifier + your morph level (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
-For example, if you are a 3rd-level morph, you have four 1st-level and two 2nd-level tek skill slots. With a Wisdom of 16, your list of prepared tek skills can include six tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or 2nd-level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
+For example, if you are a 3rd-level morph, you have four 1st-level and two 2nd-level tek skill slots. With a Wisdom of 16, your list of prepared tek skills can include six tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds,* you can cast it using a 1st-level or 2nd-level slot. Casting the tek skill doesn't remove it from your list of prepared tek skills.
 
 You can also change your list of prepared tek skills when you finish a long rest. Preparing a new list of morph tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
 
@@ -2185,7 +2185,7 @@ You can use a tekcaster as a focus for your morph tek skills.
 
 Starting at 2nd level, you can use your action to assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
-Your morph level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn’t have a flying or swimming speed.
+Your morph level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
 **Beast Shapes (table)**
 
@@ -2199,14 +2199,14 @@ You can stay in a beast shape for a number of hours equal to half your morph lev
 
 While you are transformed, the following rules apply:
 
-* Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
-* When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
+* Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
+* When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
 
 \page
 
-* You can’t cast tek skills, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a tek skill you’ve already cast, however, or prevent you from taking actions that are part of a tek skill, such as *call lightning*, that you’ve already cast.
-* You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
-* You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+* You can't cast tek skills, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a tek skill you've already cast, however, or prevent you from taking actions that are part of a tek skill, such as *call lightning*, that you've already cast.
+* You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
+* You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ##  Morph Circle
 
@@ -2216,7 +2216,7 @@ At 2nd level, you choose to identify with a circle of morphs: the Circle of the 
 
 ##  Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ##  Timeless Body
 
@@ -2224,19 +2224,19 @@ Starting at 18th level, the nature shifting tek that you wield causes you to age
 
 ##  Beast Tek Skills
 
-Beginning at 18th level, you can cast many of your morph tek skills in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a morph tek skill while in a beast shape, but you aren’t able to provide material components.
+Beginning at 18th level, you can cast many of your morph tek skills in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a morph tek skill while in a beast shape, but you aren't able to provide material components.
 
 ##  Archmorph
 
 At 20th level, you can use your Wild Shape an unlimited number of times.
 
-Additionally, you can ignore the verbal and somatic components of your morph tek skills, as well as any material components that lack a cost and aren’t consumed by a tek skill. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
+Additionally, you can ignore the verbal and somatic components of your morph tek skills, as well as any material components that lack a cost and aren't consumed by a tek skill. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
 
 ##  Morph Circles
 
 ###  Circle of the Land
 
-The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These morphs meet within sacred circles of trees or standing stones to whisper primal secrets in Morphic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your tek is influenced by the land where you were initiated into the circle’s mysterious rites.
+The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These morphs meet within sacred circles of trees or standing stones to whisper primal secrets in Morphic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your tek is influenced by the land where you were initiated into the circle's mysterious rites.
 
 ####  Bonus Cantrip
 
@@ -2245,7 +2245,7 @@ When you choose this circle at 2nd level, you learn one additional morph cantrip
 ####  Natural Recovery
 
 Starting at 2nd level, you can regain some of your tek energy by sitting in meditation and communing with nature. During a short rest, you choose expended tek skill slots to recover. The tek skill slots can have a combined level that is equal to or less than half your morph level
-(rounded up), and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
+(rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level morph, you can recover up to two levels worth of tek skill slots. You can recover either a 2nd-level slot or two 1st-level slots.
 
@@ -2253,7 +2253,7 @@ For example, when you are a 4th-level morph, you can recover up to two levels wo
 
 Your mystical connection to the land infuses you with the ability to cast certain tek skills. At 3rd, 5th, 7th, and 9th level you gain access to circle tek skills connected to the land where you became a morph. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of tek skills.
 
-Once you gain access to a circle tek skill, you always have it prepared, and it doesn’t count against the number of tek skills you can prepare each day. If you gain access to a tek skill that doesn’t appear on the morph tek skill list, the tek skill is nonetheless a morph tek skill for you.
+Once you gain access to a circle tek skill, you always have it prepared, and it doesn't count against the number of tek skills you can prepare each day. If you gain access to a tek skill that doesn't appear on the morph tek skill list, the tek skill is nonetheless a morph tek skill for you.
 
 
 **Arctic (table)**
@@ -2321,17 +2321,17 @@ Once you gain access to a circle tek skill, you always have it prepared, and it 
 | 7th         | freedom of movement, locate creature |
 | 9th         | insect plague, scrying               |
 
-####  Land’s Stride
+####  Land's Stride
 
 Starting at 6th level, moving through nontek difficult terrain costs you no extra movement. You can also pass through nontek plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are created or manipulated to impede movement, such those created by the *entangle* tek skill.
 
-####  Nature’s Ward
+####  Nature's Ward
 
-When you reach 10th level, you can’t be charmed or frightened by elementals or fey, and you are immune to poison and disease.
+When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.
 
-####  Nature’s Sanctuary
+####  Nature's Sanctuary
 
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your morph tek skill save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
 
@@ -2398,12 +2398,12 @@ At 1st level, you know three cantrips of your choice from the priest tek skill l
 
 ###  Preparing and Casting Tek Skills
 
-The Priest table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Priest table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 You prepare the list of priest tek skills that are available for you to cast, choosing from the priest tek skill list. When you do so, choose a number of priest tek skills equal to your Wisdom modifier + your priest level (minimum of one tek skill). The tek skills must be of a level for which you have tek skill slots.
 
 For example, if you are a 3rd-level priest, you have four
-1st-level and two 2nd-level tek skill slots. With a Wisdom of 16, your list of prepared tek skills can include six tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the tek skill doesn’t remove it from your list of prepared tek skills.
+1st-level and two 2nd-level tek skill slots. With a Wisdom of 16, your list of prepared tek skills can include six tek skills of 1st or 2nd level, in any combination. If you prepare the 1st-level tek skill *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the tek skill doesn't remove it from your list of prepared tek skills.
 
 You can change your list of prepared tek skills when you finish a long rest. Preparing a new list of priest tek skills requires time spent in prayer and meditation: at least 1 minute per tek skill level for each tek skill on your list.
 
@@ -2459,9 +2459,9 @@ Choose one domain related to your sect: Knowledge, Life, Light, Nature, Tempest,
 
 ###  Domain Tek Skills
 
-Each domain has a list of tek skills—its domain tek skills— that you gain at the priest levels noted in the domain description. Once you gain a domain tek skill, you always have it prepared, and it doesn’t count against the number of tek skills you can prepare each day.
+Each domain has a list of tek skills—its domain tek skills— that you gain at the priest levels noted in the domain description. Once you gain a domain tek skill, you always have it prepared, and it doesn't count against the number of tek skills you can prepare each day.
 
-If you have a domain tek skill that doesn’t appear on the priest tek skill list, the tek skill is nonetheless a priest tek skill for you.
+If you have a domain tek skill that doesn't appear on the priest tek skill list, the tek skill is nonetheless a priest tek skill for you.
 
 ```
 ```
@@ -2484,11 +2484,11 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 
 \page
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ##  Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ##  Destroy Undead
 
@@ -2509,9 +2509,9 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 
 Beginning at 10th level, you can call on your sect to intervene on your behalf when your need is great.
 
-Imploring your sect’s aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your priest level, your sect intervenes. The GM chooses the nature of the intervention; the effect of any priest tek skill or priest domain tek skill would be appropriate.
+Imploring your sect's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your priest level, your sect intervenes. The GM chooses the nature of the intervention; the effect of any priest tek skill or priest domain tek skill would be appropriate.
 
-If your sect intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+If your sect intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
@@ -2537,22 +2537,22 @@ When you choose this domain at 1st level, you gain proficiency with heavy armor.
 
 ####  Disciple of Life
 
-Also starting at 1st level, your healing tek skills are more effective. Whenever you use a tek skill of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the tek skill’s level.
+Also starting at 1st level, your healing tek skills are more effective. Whenever you use a tek skill of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the tek skill's level.
 
 
 ####  Channel Divinity: Preserve Life
 
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
 
-As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your priest level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can’t use this feature on an undead or a construct.
+As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your priest level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
 
 ####  Blessed Healer
 
-Beginning at 6th level, the healing tek skills you cast on others heal you as well. When you cast a tek skill of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the tek skill’s level.
+Beginning at 6th level, the healing tek skills you cast on others heal you as well. When you cast a tek skill of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the tek skill's level.
 
 ####  Alien Strike
 
-At 8th level, you gain the ability to infuse your weapon strikes with Alien energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+At 8th level, you gain the ability to infuse your weapon strikes with Alien energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 kinetic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ####  Supreme Healing
 
@@ -2603,7 +2603,7 @@ At 1st level, you know four cantrips of your choice from the scion tek skill lis
 
 ###  Tek Slots
 
-The Scion table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these scion tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Scion table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these scion tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 For example, if you know the 1st-level tek skill *burning hands* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *burning hands* using either slot.
 
@@ -2632,7 +2632,7 @@ You can use an tekcaster as a Tekcasting focus for your scion tek skills.
 
 ##  Sorcerous Origin
 
-Choose a sorcerous origin, which describes the source of your innate tek power: Draconic Bloodline or Wild Tek, both detailed at the end of the class description.
+Choose a sorcerous origin, which describes the source of your innate tek power: Alien Bloodline or Wild Tek, both detailed at the end of the class description.
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
@@ -2693,7 +2693,7 @@ Any tek skill slot you create with this feature vanishes when you finish a long 
 | 4th              | 6                  |
 | 5th              | 7                  |
 
-**_Converting a Tek Slot to Sorcery Points._** As a bonus action on your turn, you can expend one tek skill slot and gain a number of sorcery points equal to the slot’s level.
+**_Converting a Tek Slot to Sorcery Points._** As a bonus action on your turn, you can expend one tek skill slot and gain a number of sorcery points equal to the slot's level.
 
 \page
 
@@ -2705,7 +2705,7 @@ You can use only one Metatek option on a tek skill when you cast it, unless othe
 
 ###  Careful Tek
 
-When you cast a tek skill that forces other creatures to make a saving throw, you can protect some of those creatures from the tek skill’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the tek skill.
+When you cast a tek skill that forces other creatures to make a saving throw, you can protect some of those creatures from the tek skill's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the tek skill.
 
 ###  Distant Tek
 
@@ -2740,13 +2740,13 @@ When you cast a tek skill, you can spend 1 sorcery point to cast it without any 
 
 ###  Twinned Tek
 
-When you cast a tek skill that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the tek skill’s level to target a second creature in range with the same tek skill (1 sorcery point if the tek skill is a cantrip).
+When you cast a tek skill that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the tek skill's level to target a second creature in range with the same tek skill (1 sorcery point if the tek skill is a cantrip).
 
-To be eligible, a tek skill must be incapable of targeting more than one creature at the tek skill’s current level. For example, *tek missile* and *scorching ray* aren’t eligible, but *ray of frost* and *chromatic orb* are.
+To be eligible, a tek skill must be incapable of targeting more than one creature at the tek skill's current level. For example, *tek missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
 
 ##  Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ##  Sorcerous Restoration
 
@@ -2756,7 +2756,7 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 
 Different scions claim different origins for their innate tek. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild tek.
 
-###  Draconic Bloodline
+###  Alien Bloodline
 
 Your innate tek comes from draconic tek that was mingled with your blood or that of your ancestors. Most often, scions with this origin trace their descent back to a mighty scion of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given scion could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
@@ -2764,7 +2764,7 @@ Your innate tek comes from draconic tek that was mingled with your blood or that
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
-**Draconic Ancestry (table)**
+**Alien Ancestry (table)**
 
 | Dragon | Damage Type |
 |--------|-------------|
@@ -2781,13 +2781,13 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 
 \page
 
-You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
+You can speak, read, and write Alien. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
-####  Draconic Resilience
+####  Alien Resilience
 
 As tek flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
-Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier.
+Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.
 
 ####  Elemental Affinity
 
@@ -2797,9 +2797,9 @@ Starting at 6th level, when you cast a tek skill that deals damage of the type a
 
 At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.
 
-You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
-####  Draconic Presence
+####  Alien Presence
 
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration tek skill), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
@@ -2824,7 +2824,7 @@ As a scoundrel, you have the following class features.
 
 **Weapons:** Simple weapons, scorchers, ion blades, pulse blades
 
-**Tools:** Thieves’ tools
+**Tools:** Thieves' tools
 
 **Saving Throws:** Dexterity, Intelligence
 
@@ -2836,30 +2836,30 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) an ion blade or (*b*) a ion blade
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) a ion blade
 * (*a*) a slicer's kit, (*b*) an incursion kit, or (*c*) a field survival kit
-* (*a*) Flak armor, two ion daggers, and thieves’ tools
+* (*a*) Flak armor, two ion daggers, and thieves' tools
 
 ##  Expertise
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves’ tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with thieves’ tools) to gain this benefit.
+At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
 
-##  Stealth Attack
+##  Sneak Attack
 
-Beginning at 1st level, you know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
-You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
 
-The amount of the extra damage increases as you gain levels in this class, as shown in the Stealth Attack column of the Scoundrel table.
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Scoundrel table.
 
 ```
 ```
 
-##  Thieves’ Cant
+##  Thieves' Cant
 
-During your scoundrel training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+During your scoundrel training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 ##  Cunning Action
 
@@ -2871,15 +2871,15 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your s
 
 ##  Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ##  Uncanny Dodge
 
-Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
+Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
 ##  Evasion
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an *ice storm* tek skill. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* tek skill. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##  Reliable Talent
 
@@ -2890,9 +2890,9 @@ By 11th level, you have refined your chosen skills until they approach perfectio
 
 **The Scoundrel (table)**
 
-| Level | Proficiency Bonus | Stealth Attack | Features                               |
+| Level | Proficiency Bonus | Sneak Attack | Features                               |
 |-------|-------------------|--------------|----------------------------------------|
-| 1st   | +2                | 1d6          | Expertise, Stealth Attack, Thieves’ Cant |
+| 1st   | +2                | 1d6          | Expertise, Sneak Attack, Thieves' Cant |
 | 2nd   | +2                | 1d6          | Cunning Action                         |
 | 3rd   | +2                | 2d6          | Roguish Archetype                      |
 | 4th   | +2                | 2d6          | Ability Score Improvement              |
@@ -2924,13 +2924,13 @@ By 15th level, you have acquired greater mental strength. You gain proficiency i
 
 ##  Elusive
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren’t incapacitated.
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
 
 ##  Stroke of Luck
 
 At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ```
 ```
@@ -2941,11 +2941,11 @@ Scoundrels have many features in common, including their emphasis on perfecting 
 
 ###  Thief
 
-You hone your skills in the larcenous arts. Burglars, Space Pirates, cutpurses, and other criminals typically follow this archetype, but so do scoundrels who prefer to think of themselves as professional loot seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using alien artifacts you normally couldn’t employ.
+You hone your skills in the larcenous arts. Burglars, Space Pirates, cutpurses, and other criminals typically follow this archetype, but so do scoundrels who prefer to think of themselves as professional loot seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using alien artifacts you normally couldn't employ.
 
 ####  Fast Hands
 
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Trickery) check, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Trickery) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
 
 \page
 
@@ -2963,9 +2963,9 @@ Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you 
 
 By 13th level, you have learned enough about the workings of tek that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of alien artifacts.
 
-####  Thief’s Reflexes
+####  Thief's Reflexes
 
-When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
+When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
 
 \page
 #  Scout
@@ -3017,11 +3017,11 @@ You choose one additional favored enemy, as well as an associated language, at 6
 
 ##  Natural Explorer
 
-You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: null-g, arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
+You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: null-g, arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
-* Difficult terrain doesn’t slow your group’s travel.
-* Your group can’t become lost except by tek means.
+* Difficult terrain doesn't slow your group's travel.
+* Your group can't become lost except by tek means.
 * Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
 * If you are traveling alone, you can move stealthily at a normal pace.
 * When you forage, you find twice as much food as you normally would.
@@ -3031,7 +3031,7 @@ You choose additional favored terrain types at 6th and 10th level.
 
 ##  Fighting Style
 
-At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 ###  Gunnery
 
@@ -3068,7 +3068,7 @@ By the time you reach 2nd level, you have trained to use a tekcaster to cast tek
 | 5th   | +3                | Extra Attack                                      | 4            | 4   | 2   | -   | -   | -   |
 | 6th   | +3                | Favored Enemy and Natural Explorer improvements   | 4            | 4   | 2   | -   | -   | -   |
 | 7th   | +3                | Scout Archetype feature                          | 5            | 4   | 3   | -   | -   | -   |
-| 8th   | +3                | Ability Score Improvement, Land’s Stride          | 5            | 4   | 3   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement, Land's Stride          | 5            | 4   | 3   | -   | -   | -   |
 | 9th   | +4                | -                                                 | 6            | 4   | 3   | 2   | -   | -   |
 | 10th  | +4                | Natural Explorer improvement, Hide in Plain Sight | 6            | 4   | 3   | 2   | -   | -   |
 | 11th  | +4                | Scout Archetype feature                          | 7            | 4   | 3   | 3   | -   | -   |
@@ -3085,7 +3085,7 @@ By the time you reach 2nd level, you have trained to use a tekcaster to cast tek
 </div>
 ###  Tek Slots
 
-The Scout table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill’s level or higher. You regain all expended tek skill slots when you finish a long rest.
+The Scout table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 For example, if you know the 1st-level tek skill *animal friendship* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *animal friendship* using either slot.
 
@@ -3120,7 +3120,7 @@ Beginning at 3rd level, you can deploy a Scout Drone that lasts 10 minutes. It i
 
 ###  Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ###  Extra Attack
 
@@ -3138,13 +3138,13 @@ Starting at 10th level, your scouting drone lasts 1 hour, and can be repaired ov
 
 ###  Vanish
 
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nontek means, unless you choose to leave a trail.
+Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nontek means, unless you choose to leave a trail.
 
 ###  Feral Senses
 
-At 18th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it.
+At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
 
-You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn’t hidden from you and you aren’t blinded or deafened.
+You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
 
 ###  Foe Slayer
 
@@ -3159,11 +3159,11 @@ The ideal of the scout has two classic expressions: the Hunter and the Beast Mas
 
 ####  Sharpshooter
 
-####  Hunter’s Prey
+####  Hunter's Prey
 
 At 3rd level, you gain one of the following features of your choice.
 
-**_Assassin._** Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+**_Assassin._** Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.
 
 **_Giant Killer._** When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
 
@@ -3183,11 +3183,11 @@ At 7th level, you gain one of the following features of your choice.
 
 At 11th level, you gain one of the following features of your choice.
 
-**_Volley._** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+**_Volley._** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 
 **_Whirlwind Attack._** You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
-####  Superior Hunter’s Defense
+####  Superior Hunter's Defense
 
 At 15th level, you gain one of the following features of your choice.
 
@@ -3195,7 +3195,7 @@ At 15th level, you gain one of the following features of your choice.
 
 **_Stand Against the Tide._** When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
 
-**_Uncanny Dodge._** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
+**_Uncanny Dodge._** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
 \page
 #  Soldier
@@ -3236,7 +3236,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ##  Fighting Style
 
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 ###  Gunnery
 
@@ -3281,7 +3281,7 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 
 ##  Ability Score Improvement
 
-When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 \page
 
@@ -3321,7 +3321,7 @@ The number of attacks increases to three when you reach 11th level in this class
 
 ##  Indomitable
 
-Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
+Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
@@ -3339,7 +3339,7 @@ Beginning when you choose this archetype at 3rd level, your weapon attacks score
 
 ####  Remarkable Athlete
 
-Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus.
+Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 
 In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
 
@@ -3353,7 +3353,7 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 
 ####  Survivor
 
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution Modifier + Will modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution Modifier + Will modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 
 ###  Assault Specialist
 
@@ -3371,7 +3371,7 @@ You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. 
 
 You gain another superiority die at 7th level and one more at 15th level.
 
-**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver’s effects. The saving throw DC is calculated as follows:
+**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
@@ -3384,14 +3384,14 @@ When you use your Second Wind feature, you can choose up to three creatures with
 
 ####  Maneuvers
 
-**Commander’s Strike**
-When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack’s damage roll.
+**Commander's Strike**
+When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
 
 **Evasive Footwork**
 When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
 
 **Menacing Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
 
 **Sweeping Attack**
 When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
@@ -3403,7 +3403,7 @@ When you take the Attack action on your turn to make a ranged attack, you can fo
 When you take the Attack action on your turn to make a ranged attack, you can use your bonus action to call out a target to your allies. When you do so, choose an ally and expend one superiority die. The next time that ally attacks the target creature, roll your superiority die and add it to the attack roll.
 
 **Maneuvering Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack’s damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
+When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
 
 ####  Inspiring Surge
 Starting at 7th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.
@@ -3435,37 +3435,37 @@ You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. 
 
 You gain another superiority die at 7th level and one more at 15th level.
 
-**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver’s effects. The saving throw DC is calculated as follows:
+**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
 ####  Student of War
-At 3rd level, you gain proficiency with one type of artisan’s tools of your choice.
+At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
 
 \page
 
 ###  Maneuvers
 
 **Disarming Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. You add the superiority die to the attack’s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 
 **Feinting Attack**
-You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack’s damage roll.
+You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack's damage roll.
 
 **Lunging Attack**
-When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack’s damage roll.
+When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
 
 **Parry**
 When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
 
 **Riposte**
-When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack’s damage roll.
+When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
 
 **Trip Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack’s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
 **Goading Attack**
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
 
 ####  Know Thy Enemy
 Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
@@ -3497,9 +3497,9 @@ When you choose this archetype at 3rd level, you learn to perform powerful trick
 
 You learn an additional trick shot of your choice at 7th, 10th, 15th, and 18th level. Each time you learn a new trick shot, you can also replace one trick shot you know with a different one.
 
-**Grit.** You gain a number of grit points equal to your Wisdom modifier (minimum of 1). You regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM’s discretion). You regain all expended grit points after a short or long rest.
+**Grit.** You gain a number of grit points equal to your Wisdom modifier (minimum of 1). You regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM's discretion). You regain all expended grit points after a short or long rest.
 
-**Saving Throws.** Some of your trick shots require your targets to make a saving throw to resist the trick shot’s effects. The saving throw DC is calculated as follows:
+**Saving Throws.** Some of your trick shots require your targets to make a saving throw to resist the trick shot's effects. The saving throw DC is calculated as follows:
 
    **Trick Shot save DC** = 8 + your proficiency bonus + your Dexterity modifier
 
@@ -3539,10 +3539,10 @@ When you make a firearm attack against a creature, you can expend one grit point
 When you make a firearm attack against a creature, you can expend one grit point to attempt to trip them up and force them back. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or be pushed 15 feet away from you.
 
 **Piercing Shot**
-When you make a firearm attack against a creature, you can expend one grit point to attempt to fire through multiple opponents. The initial attack gains a +1 to the firearm’s misfire score. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind the target within your first range increment. Only the initial attack can misfire.
+When you make a firearm attack against a creature, you can expend one grit point to attempt to fire through multiple opponents. The initial attack gains a +1 to the firearm's misfire score. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind the target within your first range increment. Only the initial attack can misfire.
 
 **Violent Shot**
-When you make a firearm attack against a creature, you can expend one or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains a +2 to the firearm’s misfire score. If the attack hits, you can roll one additional weapon damage die per grit point spent when determining the damage.
+When you make a firearm attack against a creature, you can expend one or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains a +2 to the firearm's misfire score. If the attack hits, you can roll one additional weapon damage die per grit point spent when determining the damage.
 
 **Winging Shot**
 When you make a firearm attack against a creature, you can expend one grit point to attempt to topple a moving target. On a hit, the creature suffers normal damage and must make a Strength saving throw or be knocked prone.
@@ -3552,9 +3552,9 @@ When you make a firearm attack against a creature, you can expend one grit point
 ```
 ### Backgrounds
 
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous Lancer or a grizzled soldier. Your Arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
+Every story has a beginning. Your character's background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous Lancer or a grizzled soldier. Your Arcanist could have been a sage or an artisan. Your scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
-Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
+Choosing a background provides you with important story cues about your character's identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don't you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
@@ -3580,7 +3580,7 @@ A background contains suggested personal characteristics based on your backgroun
 
 ##### Customizing a Background
 
-You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
+You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can't also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can't find a feature that matches your desired background, work with your GM to create one.
 
 \page
 
@@ -3598,7 +3598,7 @@ Tool Proficiency: [Gaming Set, Musical Instrument]
 You are more comfortable in null gravity and in a confined metal cockpit than you are planetside.
 
 Skill Proficiencies: Acrobatics. Choose 1 from [Tinker, Computers, Pilot].
-Tool Proficiency: Choose 1 from [Navigator’s Kit, Tinker’s Kit]
+Tool Proficiency: Choose 1 from [Navigator's Kit, Tinker's Kit]
 
 **Spacewalker**: You do not have to roll ability check to move through null gravity.
 
@@ -3607,23 +3607,23 @@ Tool Proficiency: Choose 1 from [Navigator’s Kit, Tinker’s Kit]
 You have risen in the ranks of duelists, and have earned your respect among the elite praetorians.
 
 Skill Proficiencies: Physique. Choose 1 from [Acrobatics, Charm, Intimidation]
-Tool Proficiency: Choose 1 from [Musical Instrument, Navigator’s Kit, Medkit]
+Tool Proficiency: Choose 1 from [Musical Instrument, Navigator's Kit, Medkit]
 Weapon Proficiency: Pulse Rapier, Pulse Whip
 
 ## Hacker
 
-Since childhood you’ve retreated to the comfortable world of cyberspace.
+Since childhood you've retreated to the comfortable world of cyberspace.
 
 Skill Proficiencies: Computers. Choose 1 from [Stealth, Investigate, Tinker]
-Tool Proficiency: Choose one: [Slicer’s Kit, Forgery Kit]
+Tool Proficiency: Choose one: [Slicer's Kit, Forgery Kit]
 
 **Stealthy Slicer**: You have advantage on Stealth checks when trying to hack a system unnoticed.
 
 ## Criminal/Spy
-You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You’re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
+You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
 
 Skill Proficiencies: Stealth. Choose 1 from [Trickery, Tinker, Intimidation]
-Tool Proficiencies: Thieve’s Tools. Choose 1 from [Forgery Kit, Poisoner’s Kit, Disguise Kit]
+Tool Proficiencies: Thieve's Tools. Choose 1 from [Forgery Kit, Poisoner's Kit, Disguise Kit]
 
 Criminal Contact: You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact.
 
@@ -3631,25 +3631,25 @@ Criminal Contact: You have a reliable and trustworthy contact who acts as your l
 ```
 
 ## Smuggler
-You make your living sneaking illegal goods past Authority checkpoints. You’re good with your tongue, and even better in a cockpit.
+You make your living sneaking illegal goods past Authority checkpoints. You're good with your tongue, and even better in a cockpit.
 
 Skill Proficiencies: Pilot. Choose 1 from [Stealth, Charm, Diplomacy]
-Tool Proficiencies: Navigator’s Tools
+Tool Proficiencies: Navigator's Tools
 
 **Skills of the Trade**. You know how to hide things on a ship so they cannot be found. You also know where to look when trying to find hidden contraband.
 
 ## Detective
 
-You’ve had a successful career in law enforcement. You’ve decided to go freelance since the private sector tends to pay better.
+You've had a successful career in law enforcement. You've decided to go freelance since the private sector tends to pay better.
 
 Skill Proficiencies: Investigation. Choose 1 from [Insight, Perception, History]
-Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker’s Tools, Medkit]
+Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker's Tools, Medkit]
 
 **Well Connected**. You still have contacts in CommSec, and your reputation usually helps you get out of tight spots. CommSec officers are more likely to share privileged information not available to most civilians.
 
 ## Marine
 
-You’ve spent some time in the military. You have been trained by the best of the best, and are a war hardened veteran.
+You've spent some time in the military. You have been trained by the best of the best, and are a war hardened veteran.
 
 Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
 Tool Proficiencies: Medkit
@@ -3662,7 +3662,7 @@ Armor Proficiencies: Scarab Skin
 You come from one of the elite houses that owns a large corporation, or you have been honored as a lancer of one of these elite houses. You maintain the rank and privileges of Lancer. As a member or lancer of an elite house you always have your house in the best interest.
 
 Skill Proficiencies: Diplomacy. Choose 1 from [Charm, History , Medic]
-Tool Proficiencies: Choose 1 from [Botanist’s Kit, Musical Instrument, Disguise Kit]
+Tool Proficiencies: Choose 1 from [Botanist's Kit, Musical Instrument, Disguise Kit]
 Weapon Proficiencies: Pulse Rapier/Pulse Whip
 
 **House Resources**: Depending on your social standing with your house, you might be able to persuade (Charm check) them to get you out of sticky situations, as well as provide you with resources. Be careful not to abuse this privilege, as the greedy pretorian leaders will likely ask for something in return.
@@ -3674,24 +3674,24 @@ Weapon Proficiencies: Pulse Rapier/Pulse Whip
 You have been trained to fly any kind of spacecraft. Your expertise makes you a valuable asset to any spacefaring venture.
 
 Skill Proficiencies: Pilot. Choose 1 from [Tinker, Perception, Computers]
-Tool Proficiencies: Navigator’s Tools
+Tool Proficiencies: Navigator's Tools
 
-**Frame Jack**: You have been surgically modified with hardware that allows you to jack into a ship’s navigation systems. When frame jacked in you always know the status of ship systems and can simultaneously control navigation and weapon systems on smaller ships.
+**Frame Jack**: You have been surgically modified with hardware that allows you to jack into a ship's navigation systems. When frame jacked in you always know the status of ship systems and can simultaneously control navigation and weapon systems on smaller ships.
 
 ## Viral Star
-You’ve become famous on the net for something. Whether it’s your singing, acting, social commentator, or just a famous praetorian whose internet videos went viral. You tend to livestream your shenanigans, and take advertisement money. Like most internet celebrities, you might have a secret alter-ego.
+You've become famous on the net for something. Whether it's your singing, acting, social commentator, or just a famous praetorian whose internet videos went viral. You tend to livestream your shenanigans, and take advertisement money. Like most internet celebrities, you might have a secret alter-ego.
 
 Skill Proficiencies: Performance. Choose 1 from [Charm, Diplomacy, Insight]
 Tool Proficiencies: Choose 1 from [Musical Instrument, Gaming Set, Disguise Kit]
 
-**Universal Influence**: It’s easy to get your voice out. Rallying supporters via the internet comes naturally to you. When you aren’t incognito, there are perks to being famous, such as free drinks and lodging. These perks rarely come without strings, however.
+**Universal Influence**: It's easy to get your voice out. Rallying supporters via the internet comes naturally to you. When you aren't incognito, there are perks to being famous, such as free drinks and lodging. These perks rarely come without strings, however.
 
 ## Scientist
 
 You have spent most of your life being educated, and now you are going out there to make a difference. Whether that is to discover, invent, or cure, you want to change the universe for better or for worse. You might be a researcher, doctor, inventor, chemist, physicist, or biologist.
 
 Skill Proficiencies: Arcana. Choose 2 from [Nature, Medic, Investigation, History]
-Tool Proficiencies: Choose 1 from [Botanist’s Kit, MedKit, Poisoner’s Kit]
+Tool Proficiencies: Choose 1 from [Botanist's Kit, MedKit, Poisoner's Kit]
 
 **Field of Study**: You specialize in a specific field. You have advantage when rolling History checks involving that field of study.
 
@@ -3699,11 +3699,11 @@ Tool Proficiencies: Choose 1 from [Botanist’s Kit, MedKit, Poisoner’s Kit]
 You know the ins and outs of most ships and devices.
 
 Skill Proficiencies: Tinker. Choose 1 from [Computers, Investigate, Pilot]
-Tool Proficiencies: Tinker’s Tools
+Tool Proficiencies: Tinker's Tools
 
 **Choose 1:**
 
-**Inventor**: You’ve invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Tinkering with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
+**Inventor**: You've invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Tinkering with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
 
 **Improvised Engineerin**: You can macgyver tools together for any situation using the objects available to you. Gain advantage on Tinker checks when creating a tool for a specific situation.
 
@@ -3711,7 +3711,7 @@ Tool Proficiencies: Tinker’s Tools
 ```
 
 ## Capitalist
-You’ve gone from rags to riches, or at least that is the path you have set up for yourself. You’ve come a long way from your humble upbringing, and you are ambitious to rise to the top.
+You've gone from rags to riches, or at least that is the path you have set up for yourself. You've come a long way from your humble upbringing, and you are ambitious to rise to the top.
 
 Skill Proficiencies: Diplomacy. Choose 1 from [Insight, History, Charm]
 
@@ -3723,9 +3723,9 @@ Skill Proficiencies: Diplomacy. Choose 1 from [Insight, History, Charm]
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
-With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in Arcanist and two in soldier, you’re a 5th-level character.
+With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in Arcanist and two in soldier, you're a 5th-level character.
 
-As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you’ll sacrifice some focus in exchange for versatility.
+As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you'll sacrifice some focus in exchange for versatility.
 
 #### Prerequisites
 
@@ -3764,7 +3764,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 ### Proficiencies
 
-When you gain your first level in a class other than your initial class, you gain only some of new class’s starting proficiencies, as shown in the Multiclassing Proficiencies table.
+When you gain your first level in a class other than your initial class, you gain only some of new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
 **Multiclassing Proficiencies (table)**
 
@@ -3777,29 +3777,29 @@ When you gain your first level in a class other than your initial class, you gai
 | Soldier   | Light armor, medium armor, pulse shields, simple weapons, martial weapons                                        |
 | Monk      | Simple weapons, ion blades                                                                                |
 | Guardian   | Light armor, medium armor, pulse shields, simple weapons, martial weapons                                        |
-| Scout    | Light armor, medium armor, pulse shields, simple weapons, martial weapons, one skill from the class’s skill list |
-| Scoundrel     | Light armor, one skill from the class’s skill list, thieves’ tools                                         |
+| Scout    | Light armor, medium armor, pulse shields, simple weapons, martial weapons, one skill from the class's skill list |
+| Scoundrel     | Light armor, one skill from the class's skill list, thieves' tools                                         |
 | Scion  | —                                                                                                          |
 | Cybernetic   | Light armor, simple weapons                                                                                |
 | Arcanist    | —                                                                                                          |
 
 #### Class Features
 
-When you gain a new level in a class, you get its features for that level. You don’t, however, receive the class’s starting equipment, and a few features have additional rules when you’re multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Tekcasting.
+When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Tekcasting.
 
 \page
 
 ##### Channel Divinity
 
-If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn’t give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a priest 6/guardian 4, you can use Channel Divinity twice between rests because you are high enough level in the priest class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
+If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn't give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a priest 6/guardian 4, you can use Channel Divinity twice between rests because you are high enough level in the priest class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
 
 ##### Extra Attack
 
-If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the soldier’s version of Extra Attack does). Similarly, the cybernetic’s nanotech invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
+If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the soldier's version of Extra Attack does). Similarly, the cybernetic's nanotech invocation Thirsting Blade doesn't give you additional attacks if you also have Extra Attack.
 
 ##### Unarmored Defense
 
-If you already have the Unarmored Defense feature, you can’t gain it again from another class.
+If you already have the Unarmored Defense feature, you can't gain it again from another class.
 
 ##### Tekcasting
 
@@ -3811,9 +3811,9 @@ Each tek skill you know and prepare is associated with one of your classes, and 
 
 **_Tek Slots._** You determine your available tek skill slots by adding together all your levels in the evangelist, priest, morph, scion, and Arcanist classes, and half your levels (rounded down) in the guardian and scout classes. Use this total to determine your tek skill slots by consulting the Multiclass Tekcaster table.
 
-If you have more than one Tekcasting class, this table might give you tek skill slots of a level that is higher than the tek skills you know or can prepare. You can use those slots, but only to cast your lower-level tek skills. If a lower-level tek skill that you cast, like _burning hands_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any tek skills of that higher level.
+If you have more than one Tekcasting class, this table might give you tek skill slots of a level that is higher than the tek skills you know or can prepare. You can use those slots, but only to cast your lower-level tek skills. If a lower-level tek skill that you cast, like _burning hands_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any tek skills of that higher level.
 
-For example, if you are the aforementioned scout 4/Arcanist 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level tek skills, nor do you know any 2nd-level scout tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
+For example, if you are the aforementioned scout 4/Arcanist 3, you count as a 5th-level character when determining your tek skill slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level tek skills, nor do you know any 2nd-level scout tek skills. You can use the tek skill slots of those levels to cast the tek skills you do know—and potentially enhance their effects.
 
 **_Link Tek._** If you have both the Tekcasting class feature and the Link Tek class feature from the cybernetic class, you can use the tek skill slots you gain from the Link Tek feature to cast tek skills you know or have prepared from classes with the Tekcasting class feature, and you can use the tek skill slots you gain from the Tekcasting class feature to cast cybernetic tek skills you know.
 
@@ -3851,13 +3851,13 @@ For example, if you are the aforementioned scout 4/Arcanist 3, you count as a 5t
 <div class="wide">
 As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.
 
-When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can’t increase an ability score above 20. In addition, every character’s proficiency bonus increases at certain levels.
+When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can't increase an ability score above 20. In addition, every character's proficiency bonus increases at certain levels.
 
 Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
 
 When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level soldier has a Constitution score of 18, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
 
-The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character’s class description to see what other improvements you gain at each level.
+The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
 
 ## Character Advancement
 
@@ -3897,7 +3897,7 @@ Currency is mostly dealt with in digital credits, however coins are still in cir
 
 With one 100 credits, a character can buy a bedroll, 50 carbon fiber rope, or a low end datapad. A skilled (but not exceptional) worker can earn 100 credits a day.
 
-50 credits buys a laborer’s work for half a day, a night in a low end hostel, or a few rounds of drinks at a pub.
+50 credits buys a laborer's work for half a day, a night in a low end hostel, or a few rounds of drinks at a pub.
 
 A single credit buys a pack of gum, small flashlight, or a bottle of water.
 
@@ -3918,7 +3918,7 @@ Opportunities abound to find loot, equipment, weapons, armor, and more in the du
 
 **_Arms, Armor, and Other Equipment._** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by raiders are rarely in good enough condition to sell.
 
-**_Alien Artifacts._** Selling alien artifacts is problematic. Finding someone to buy a potion or a datacube isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common alien artifacts, you won’t normally come across alien artifacts or tek skills to purchase. The value of tek is far beyond simple gold and should always be treated as such.
+**_Alien Artifacts._** Selling alien artifacts is problematic. Finding someone to buy a potion or a datacube isn't too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common alien artifacts, you won't normally come across alien artifacts or tek skills to purchase. The value of tek is far beyond simple gold and should always be treated as such.
 
 **_Gems, Jewelry, and Art Objects._** These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable loot, the GM might require you to find a buyer in a large town or larger community first.
 
@@ -3932,11 +3932,11 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in futuristic gaming worlds.
 
-**_Armor Proficiency._** Anyone can put on a suit of armor or strap A Pulse Shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast tek skills.
+**_Armor Proficiency._** Anyone can put on a suit of armor or strap A Pulse Shield to an arm. Only those proficient in the armor's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast tek skills.
 
 **_Armor Class (AC)._** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
 
-**_Heavy Armor._** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str 13” or “Str 15” in the Strength column for an armor type, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+**_Heavy Armor._** Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armor table shows “Str 13” or “Str 15” in the Strength column for an armor type, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
 **_Stealth._** If the Armor table shows “Disadvantage” in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
 
@@ -3954,7 +3954,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
-**_Scarab Skin._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+**_Scarab Skin._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 **_Kevlar._** Basic military issue combat armor.
 
@@ -3962,7 +3962,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 
 Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
 
-Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative.
+Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but it also doesn't penalize you if your Dexterity modifier is negative.
 
 **_Power Shell._** Heavy and cumbersome, this powered mech armor gives the wearer enhanced strength, and a tough shell more resistant to damage than the standard pulse armor. However it makes it very difficult to be stealthy. This armor gives the wearer +2 Strength.
 
@@ -3985,9 +3985,9 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 
 #### Getting Into and Out of Armor
 
-The time it takes to don or doff armor depends on the armor’s category.
+The time it takes to don or doff armor depends on the armor's category.
 
-**_Don._** This is the time it takes to put on armor. You benefit from the armor’s AC only if you take the full time to don the suit of armor.
+**_Don._** This is the time it takes to put on armor. You benefit from the armor's AC only if you take the full time to don the suit of armor.
 
 **_Doff._** This is the time it takes to take off armor. If you have help, reduce this time by half.
 
@@ -3997,7 +3997,7 @@ The time it takes to don or doff armor depends on the armor’s category.
 \page
 ### Weapons
 
-Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a pulse blade or a rail rifle, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
+Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a pulse blade or a rail rifle, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
 The Weapons table shows the most common weapons used in the futuristic gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
@@ -4027,17 +4027,17 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 **_Finesse._** When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-**_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+**_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
 **_Burst-Fire._** Weapons with this trait fire multiple rounds of ammunition per round. You roll once to hit, but roll damage separately for each round of ammunition.
 
 **_Loading._** Weapons with this trait need to be reloaded after firing a certain number of times. For example a Rail Rifle fires 3 rounds of ammunition per round, and requires to be reloaded every 10 attacks, meaning its clips hold 30 rounds of ammunition.
 
-**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
 
 **_Reach._** This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
 
-**_Special._** A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
+**_Special._** A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see “Special Weapons” later in this section).
 
 **_Thrown._** If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw an ion dagger, you can use either your Strength or your Dexterity, since the ion dagger has the finesse property.
 
@@ -4049,9 +4049,9 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 ##### Improvised Weapons
 
-Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
+Sometimes characters don't have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
-Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
+Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM's option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
 
 An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
@@ -4105,11 +4105,11 @@ This section describes items that have special rules or require further explanat
 
 **_Datacube._** A cube 1 inch on each side that can store up to 1 zettabyte of information.
 
-**_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
+**_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.
 
 **_Chain._** A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
 
-**_Climber’s Kit._** A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself; when you do, you can’t fall more than 25 feet from the point where you anchored yourself, and you can’t climb more than 25 feet away from that point without undoing the anchor.
+**_Climber's Kit._** A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
 
 **_Datapad._** An all purpose personal digital assistant. Used for storing information, and accessing data networks. Also a required tool for slicers. A datapad can last up to 2 weeks before it needs to be charged over a long rest.
 
@@ -4125,9 +4125,9 @@ This section describes items that have special rules or require further explanat
 
 **_Flashlight Attachment._** A flashlight attachment can be attached to the side of most firearms.
 
-**_Mechanical Lock._** A key is provided with the lock. Without the key, a creature proficient with thieves’ tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.
+**_Mechanical Lock._** A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.
 
-**_Handcuffs_** These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves’ tools can pick the manacles’ lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+**_Handcuffs_** These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
 
 **_Mess Kit._** This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 
@@ -4158,11 +4158,11 @@ This section describes items that have special rules or require further explanat
 | Backpack                     | 200 credits     | 5 kg.        |
 | Sleeping Bag                 | 300 credits     | 7 kg.        |
 | Blanket                      | 150 credits    | 3 kg.        |
-| Climber’s kit                | 2500 credits    | 12 kg.       |
+| Climber's kit                | 2500 credits    | 12 kg.       |
 | Clothes, common              | 500 credits    | 3 kg.        |
 | Clothes, costume             | 800 credits     | 4 kg.        |
 | Clothes, fine                | 1500 credits    | 6 kg.        |
-| Clothes, traveler’s          | 750 credits     | 4 kg.        |
+| Clothes, traveler's          | 750 credits     | 4 kg.        |
 | Crowbar                      | 200 credits     | 5 kg.        |
 | Fishing tackle               | 100 credits     | 4 kg.        |
 | Flask or tankard             | 50 credits     | 1 kg.        |
@@ -4214,29 +4214,29 @@ This section describes items that have special rules or require further explanat
 >
 > The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 >
-> **_Burglar’s Pack (1600 credits)._**  Includes a backpack, a bag of 1,000 ball bearings, 10 feet of micro fiber optic cable, a smoke-can, 5 flares, a crowbar, a hammer, mag-gloves, night-vision goggles, 2 multi-use batteries, 5 days rations, a datapad, and a canteen. The pack also has 50 feet of microfiber rope strapped to the side of it.
+> **_Burglar's Pack (1600 credits)._**  Includes a backpack, a bag of 1,000 ball bearings, 10 feet of micro fiber optic cable, a smoke-can, 5 flares, a crowbar, a hammer, mag-gloves, night-vision goggles, 2 multi-use batteries, 5 days rations, a datapad, and a canteen. The pack also has 50 feet of microfiber rope strapped to the side of it.
 >
-> **_Diplomat’s Pack (3900 credits)._** Includes a footlocker, 2 cases for maps and datacubes, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+> **_Diplomat's Pack (3900 credits)._** Includes a footlocker, 2 cases for maps and datacubes, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 >
 > **_Incursion Pack (1200 credits)._** Includes a backpack, a crowbar, a hammer, mag-gloves, a flashlight, a datapad, 10 days of rations, and a canteen. The backpack also has 50 feet of microfiber rope strapped to the side of it.
 >
-> **_Entertainer’s Pack (4000 credits)._** Includes a backpack, a bedroll, 2 costumes, 5 flares, 5 days of rations, a canteen, and a disguise kit.
+> **_Entertainer's Pack (4000 credits)._** Includes a backpack, a bedroll, 2 costumes, 5 flares, 5 days of rations, a canteen, and a disguise kit.
 >
 > **_field survival kit (1000 credits)._** Includes a backpack, a bedroll, a mess kit, a datapad, a flashlight, 10 days of rations, and a canteen. The pack also has 50 feet of microfiber rope strapped to the side of it.
 >
 > **_Chaplin's Pack (1900 credits)._** Includes a backpack, a blanket, 10 flares, a datapad, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a canteen.
 >
-> **_Scholar’s Pack (4000 credits)._** Includes a backpack, a datapad, a scholar’s access card, a flashlight, and a translator implant (programmed with 3 languages of your choice).
+> **_Scholar's Pack (4000 credits)._** Includes a backpack, a datapad, a scholar's access card, a flashlight, and a translator implant (programmed with 3 languages of your choice).
 
 ### Tools
 
-A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver’s tools, or a Strength check to make something out of particularly hard wood.
+A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
 ```
 ```
-## Tinker’s Tools
+## Tinker's Tools
 
-These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency. Using Tinker’s tools you can repair electronic and mechanical devices with an ability check.
+These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency. Using Tinker's tools you can repair electronic and mechanical devices with an ability check.
 
 ## Disguise Kit
 
@@ -4247,7 +4247,7 @@ A device in the shape of a mask that injects gel into your face to change your a
 This small box contains a plastics fabricator, network slicing kit, and other supplies necessary to create convincing forgeries of physical and virtual documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical or virtual forgery of a document.
 Gaming Set. A small box containing VR optics and haptic gloves for non-immersive VR gaming. It also contains either a set of dice, deck of playing cards, or a chess set.
 
-## Botanist’s Kit
+## Botanist's Kit
 This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. It also contains a specialized datapad that can be used to identify plants. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.
 
 ## Musical Instrument
@@ -4256,7 +4256,7 @@ Several of the most common types of musical instruments are shown on the table a
 
 ## Navigator's Kit
 
-This specialized datapad is used for navigation in space. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, it allows you to add your proficiency bonus to any ability check you make to avoid getting lost in space. In the event that a ship’s navigation data is out of date or offline, you can override the navigation controls from the ship’s helm using this device. You can update the star charts on your Navigator’s Datapad at most colonies and stations.
+This specialized datapad is used for navigation in space. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, it allows you to add your proficiency bonus to any ability check you make to avoid getting lost in space. In the event that a ship's navigation data is out of date or offline, you can override the navigation controls from the ship's helm using this device. You can update the star charts on your Navigator's Datapad at most colonies and stations.
 
 \page
 
@@ -4265,7 +4265,7 @@ A poisoner's kit includes the vials, chemicals, and other equipment necessary fo
 
 ## Thieves' Tools
 This set of tools includes a datapad, a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or pick physical locks as well as hack electronic locks.
-Slicer’s Kit. This set of devices allows you to hack into computer systems using a Slicing check.
+Slicer's Kit. This set of devices allows you to hack into computer systems using a Slicing check.
 
 <!-- Commerce  -->
 \page
@@ -4277,7 +4277,7 @@ When not descending into the depths of space, exploring ruins for lost loot, or 
 
 Lifestyle expenses provide you with a simple way to account for the cost of living in a futuristic world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
 
-At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career.
+At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character's career.
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
@@ -4299,7 +4299,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 **_Poor._** A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
 
-**_Modest._** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge Arcanists, and the like.
+**_Modest._** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don't go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge Arcanists, and the like.
 
 **_Comfortable._** Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
 
@@ -4311,13 +4311,13 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 >
 > The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
 >
-> Maintaining this kind of lifestyle doesn’t require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Nature skill lets you live at the equivalent of a comfortable lifestyle.
+> Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Nature skill lets you live at the equivalent of a comfortable lifestyle.
 
 \page
 
 #### Food, Drink, and Lodging
 
-The Food, Drink, and Lodging table gives prices for individual food items and a single night’s lodging. These prices are included in your total lifestyle expenses.
+The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
 **Food, Drink, and Lodging (table)**
 
@@ -4370,11 +4370,11 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 | - Untrained       | 2000 credits per day  |
 | Messenger         | 20 credits per mile |
 | Road or gate toll | 10 credits          |
-| Ship’s passage    | 10,000 credits per day |
+| Ship's passage    | 10,000 credits per day |
 
 #### Tekcasting Services
 
-People who are able to cast tek skills don’t fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a tek skill in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired tek skill, the harder it is to find someone who can cast it and the more it costs.
+People who are able to cast tek skills don't fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a tek skill in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired tek skill, the harder it is to find someone who can cast it and the more it costs.
 
 Hiring someone to cast a relatively common tek skill of 1st or 2nd level, such as *cure wounds* or *identify*, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level tek skill might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the tekcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant colony.
 
@@ -4386,15 +4386,15 @@ Hiring someone to cast a relatively common tek skill of 1st or 2nd level, such a
 
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 
-At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat’s description says otherwise.
+At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering hack—you can’t benefit from the Grappler feat until your Strength is restored.
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering hack—you can't benefit from the Grappler feat until your Strength is restored.
 
 #### ATHLETE
 You have undergone extensive physical training to gain the following benefits:
 - Increase your Physique or Dexterity score by 1, to a maximum of 20.
 - When you are prone, standing up uses only 5 feet of your movement.
-- Climbing doesn’t halve your speed.
+- Climbing doesn't halve your speed.
 - -You have advantages in moving through null gravity.
 - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
@@ -4405,7 +4405,7 @@ Skilled at mimicry and dramatics, you gain the following benefits:
 - You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Trickery check allows a listener to determine that the effect is faked.
 
 #### CHARGER
-When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature. If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
+When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature. If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
 ```
 ```
@@ -4424,7 +4424,7 @@ When you are wielding a finesse weapon with which you are proficient and another
 #### DUAL WIELDER
 You master fighting with two weapons, gaining the following benefits:
 - You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
-- You can use two-weapon fighting even when the one handed melee weapons you are wielding aren’t light.
+- You can use two-weapon fighting even when the one handed melee weapons you are wielding aren't light.
 - You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
 #### DURABLE
@@ -4439,22 +4439,22 @@ When you gain this feat, choose one o f the following damage types: acid, cold, 
 #### GRAPPLER
 *Prerequisite: Physique 13 or higher*
 
-You’ve developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
+You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
-- Creatures that are one size larger than you don’t automatically succeed on checks to escape your grapple.
+- Creatures that are one size larger than you don't automatically succeed on checks to escape your grapple.
 
 \page
 
 #### GREAT WEAPON MASTER
-You’ve learned to put the weight of a weapon to you advantage, letting its momentum empower your strikes. You gain the following benefits:
+You've learned to put the weight of a weapon to you advantage, letting its momentum empower your strikes. You gain the following benefits:
 - On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
-- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
+- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
 #### HEALER
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 - When you use a medic kit to stabilize a dying creature, that creature also regains 1 hit point.
-- As an action, you can spend one use of a medic kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest.
+- As an action, you can spend one use of a medic kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
 
 #### HEAVILY ARMORED
 *Prerequisite: Proficiency with medium armor*
@@ -4473,7 +4473,7 @@ You can use your arm or to deflect strikes that would kill others. You gain the 
 #### INSPIRING LEADER
 *Prerequisite: Charisma 13 or higher*
 
-You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.
+You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 
 In addition, any mercenaries under your command receive +2 to initiative and armor class.
 
@@ -4489,14 +4489,14 @@ You gain proficiency with light armor.
 You have studied languages and codes, gaining the following benefits:
 - Increase your Intelligence score by 1, to a maximum of 20.
 - You learn three languages of your choice.
-- You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use tek to decipher it.
+- You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use tek to decipher it.
 
 #### LUCKY
 You have inexplicable luck that seems to kick in at just the right moment.
 
 You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.
 
-You can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker’s roll or yours.
+You can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours.
 
 If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
 
@@ -4509,7 +4509,7 @@ You have practiced techniques useful in melee combat against tekcasters, gaining
 You have advantage on saving throws against tek skills cast by creatures within 5 feet of you.
 
 #### MAGIC INITIATE
-Choose a class: evangelist, priest, morph, scion, cybernetic, or Arcanist. You learn two cantrips of your choice from that class’s tek skill list.
+Choose a class: evangelist, priest, morph, scion, cybernetic, or Arcanist. You learn two cantrips of your choice from that class's tek skill list.
 
 In addition, choose one 1st-level tek skill from that same list. You learn that tek skill and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
 
@@ -4519,14 +4519,14 @@ Your tek skillcasting ability for these tek skills depends on the class you chos
 
 #### MARTIAL ADEPT
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
-- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the soldier class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Physique or Dexterity modifier (your choice).
+- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the soldier class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Physique or Dexterity modifier (your choice).
 - If you already have superiority dice, you gain one m ore; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 #### MEDIUM ARMOR MASTER
 *Prerequisite: Proficiency with medium armor*
 
 You have practiced moving in medium arm or to gain the following benefits:
-- Wearing medium armor doesn’t impose disadvantage on your Dexterity (Stealth) checks.
+- Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
 - When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
 #### MISSION SPECIALIST
@@ -4540,8 +4540,8 @@ Alert to the hidden traps and secret doors, you gain the following benefits:
 #### MOBILE
 You are exceptionally speedy and agile. You gain the following benefits:
 - Your speed increases by 10 feet.
-- When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn.
-- When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+- When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
+- When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
 
 
 #### MODERATELY ARMORED
@@ -4555,7 +4555,7 @@ You have trained to master the use of medium armor and shields, gaining the foll
 ```
 
 #### MOUNTED COMBATANT
-You are a dangerous foe to face while mounted. While you are mounted and aren’t incapacitated, you gain the following benefits:
+You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
 - You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
 - You can force an attack targeted at your mount to target you instead.
 - If your mount is subjected to an effect that allows it to take a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
@@ -4564,7 +4564,7 @@ Mounts include Grav Boots, and Hover Bikes.
 #### OBSERVANT
 Quick to notice details of your environment, you gain the following benefits:
 - Increase your Intelligence, Will or Wisdom score by 1, to a maximum of 20.
-- If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.
+- If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
 You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
 
 #### RESILIENT
@@ -4577,32 +4577,32 @@ Choose one ability score. You gain the following benefits:
 
 You have learned a number of tek skills that you can cast as rituals. These tek skills are written in a ritual book, which you must have in hand while casting one of them.
 
-When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: evangelist, priest, morph, scion, cybernetic, or Arcanist. You must choose your tek skills from that class’s tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for Arcanist.
+When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: evangelist, priest, morph, scion, cybernetic, or Arcanist. You must choose your tek skills from that class's tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for Arcanist.
 
-If you come across a tek skill in written form, such as a tek tek skill datacube or an arcanist’s tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
+If you come across a tek skill in written form, such as a tek tek skill datacube or an arcanist's tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
 
 #### SAVAGE ATTACKER
-Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
+Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
 
 \page
 
 #### SCORCHER EXPERT
 Thanks to extensive practice with the scorcher , you gain the following benefits:
-- You can use the scorcher’s “create ammunition” property without using an action.
-- Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
+- You can use the scorcher's “create ammunition” property without using an action.
+- Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.
 - When you use the Attack action and attack with a one handed weapon, you can use a bonus action to attack with a loaded hand scorcher you are holding.
 
 #### SENTINEL
-You have mastered techniques to take advantage of every drop in any enemy’s guard, gaining the following benefits:
-- When you hit a creature with an opportunity attack, the creature’s speed becomes 0 for the rest of the turn.
+You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits:
+- When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
 - Creatures within 5 feet of you provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
-- When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn’t have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
+- When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
 #### SHARPSHOOTER
 You have mastered ranged weapons and can make shots that others find im possible. You gain the following benefits:
 - Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
 - Your ranged weapon attacks ignore half cover and three-quarters cover.
-- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
+- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
 #### SKILLED
 You gain proficiency in any combination of three skills or tools of your choice.
@@ -4614,19 +4614,19 @@ You gain proficiency in any combination of three skills or tools of your choice.
 You are expert at slinking through shadows. You gain the following benefits:
 - You can try to hide when you are lightly obscured from the creature from which you are hiding.
 - When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
-- Dim light doesn’t impose disadvantage on your Wisdom (Perception) checks relying on sight.
+- Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
 
 #### SPACER
 You understand spacecraft architecture with uncanny precision. You gain the following benefits:
 - Increase your Intelligence score by 1, to a maximum of 20.
 - You have advantage on Intelligence (Investigation) checks to navigate an unfamiliar ship.
-- You can accurately recall the layout of any ship or space station you’ve been on.
+- You can accurately recall the layout of any ship or space station you've been on.
 
 #### SPELL SNIPER
 *Prerequisite: The ability to cast at least one tek skill*
 
 You have learned techniques to enhance your attacks with certain kinds o f tek skills, gaining the following benefits:
-- When you cast a tek skill that requires you to make an attack roll, the tek skill’s range is doubled.
+- When you cast a tek skill that requires you to make an attack roll, the tek skill's range is doubled.
 - Your ranged tek skill attacks ignore half cover and three-quarters cover.
 - You learn one cantrip that requires an attack roll. Choose the cantrip from the evangelist, priest, morph, scion, cybernetic, or Arcanist tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for Arcanist.
 
@@ -4646,7 +4646,7 @@ increases by an additional 2 hit points.
 You have practiced casting tek skills in the midst of combat, learning techniques that grant you the following benefits:
 You have advantage on Constitution saving throws that you make to maintain your concentration on a tek skill when you take damage.
 You can perform the somatic components of tek skills even when you have weapons or a shield in one or both hands.
-When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a tek skill at the creature, rather than making
+When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a tek skill at the creature, rather than making
 an opportunity attack. The tek skill must have a casting time of 1 action and must target only that creature.
 
 #### WEAPON MASTER
@@ -4660,7 +4660,7 @@ You gain proficiency with four weapons of your choice
 
 Sometimes a special ability or tek skill tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
-If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don’t roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
 
 If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
 
@@ -4672,17 +4672,17 @@ GM can also decide that circumstances influence a roll in one direction or the o
 
 Characters have a proficiency bonus determined by level. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
 
-Your proficiency bonus can’t be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
+Your proficiency bonus can't be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
 
-Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the scoundrel’s Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
+Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved, for example) before you apply it. For example, the scoundrel's Expertise feature doubles the proficiency bonus for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
 
-By the same token, if a feature or effect allows you to multiply your proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (History) checks.
+By the same token, if a feature or effect allows you to multiply your proficiency bonus when making an ability check that wouldn't normally benefit from your proficiency bonus, you still don't add the bonus to the check. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (History) checks.
 
-In general, you don’t multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
+In general, you don't multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
 
 #### Contests
 
-Sometimes one character’s or monster’s efforts are directly opposed to another’s. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a tek ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal— for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a tek ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal— for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
 
 Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
 
@@ -4696,11 +4696,11 @@ You add your Strength modifier to your attack roll and your damage roll when att
 
 Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 
-**_Carrying Capacity._** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don’t usually have to worry about it.
+**_Carrying Capacity._** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.
 
 **_Push, Drag, or Lift._** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
 
-**_Size and Strength._** Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
+**_Size and Strength._** Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
 
 ##### Variant: Encumbrance
 
@@ -4719,19 +4719,19 @@ Depending on the armor you wear, you might add some or all of your Dexterity mod
 
 ##### Initiative
 
-At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures’ turns in combat.
+At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat.
 
 > #### Hiding
 >
-> The DM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
+> The DM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
 >
->You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
+>You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
 >
 >An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
 >
 >In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
 >
-> **_Passive Perception._** When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature’s passive Wisdom (Perception) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
+> **_Passive Perception._** When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
 >
 > **_What Can You See?**_ One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in chapter 8, “Adventuring.”
 
@@ -4747,7 +4747,7 @@ Evangelists, guardians, scions, and cybernetics use Charisma and Will as their T
 
 ### Saving Throws
 
-A saving throw—also called a save—represents an attempt to resist a tek skill, a trap, a poison, a disease, or a similar threat. You don’t normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+A saving throw—also called a save—represents an attempt to resist a tek skill, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
 
 To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw.
 
@@ -4755,19 +4755,19 @@ A saving throw can be modified by a situational bonus or penalty and can be affe
 
 Each class gives proficiency in at least two saving throws. The Arcanist, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
 
-The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a tek skill is determined by the caster’s Tekcasting ability and proficiency bonus.
+The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a tek skill is determined by the caster's Tekcasting ability and proficiency bonus.
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
 ### Time
 
-In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers’ movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
+In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
 
-In a city or wilderness, a scale of **hours** is often more appropriate. Adventurers eager to reach the lonely tower at the heart of the forest hurry across those fifteen miles in just under four hours’ time.
+In a city or wilderness, a scale of **hours** is often more appropriate. Adventurers eager to reach the lonely tower at the heart of the forest hurry across those fifteen miles in just under four hours' time.
 
 For long journeys, a scale of **days** works best.
 
-Following the road from Baldur’s Gate to Waterdeep, the adventurers spend four uneventful days before a goblin ambush interrupts their journey.
+Following the road from Baldur's Gate to Waterdeep, the adventurers spend four uneventful days before a goblin ambush interrupts their journey.
 
 In combat and other fast-paced situations, the game relies on **rounds**, a 6-second span of time.
 
@@ -4777,9 +4777,9 @@ In combat and other fast-paced situations, the game relies on **rounds**, a 6-se
 
 Swimming across a rushing river, Stealthing down a dungeon corridor, scaling a treacherous mountain slope—all sorts of movement play a key role in futuristic gaming adventures.
 
-The GM can summarize the adventurers’ movement without calculating exact distances or travel times: “You travel through the forest and find the dungeon entrance late in the evening of the third day.” Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: “After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a nbullet stone arch.”
+The GM can summarize the adventurers' movement without calculating exact distances or travel times: “You travel through the forest and find the dungeon entrance late in the evening of the third day.” Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: “After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a nbullet stone arch.”
 
-Sometimes it’s important, though, to know how long it takes to get from one spot to another, whether the answer is in days, hours, or minutes. The rules for determining travel time depend on two factors: the speed and travel pace of the creatures moving and the terrain they’re moving over.
+Sometimes it's important, though, to know how long it takes to get from one spot to another, whether the answer is in days, hours, or minutes. The rules for determining travel time depend on two factors: the speed and travel pace of the creatures moving and the terrain they're moving over.
 
 #### Speed
 
@@ -4797,7 +4797,7 @@ For each additional hour of travel beyond 8 hours, the characters cover the dist
 
 **_Mounts and Vehicles._** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
-Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don’t suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
+Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a *carpet of flying*, allow you to travel more swiftly.
 
@@ -4821,7 +4821,7 @@ Movement through dangerous dungeons or wilderness areas often involves more than
 
 ##### Climbing, Swimming, and Crawling
 
-While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Physique) check. Similarly, gaining any distance in rough water might require a successful Strength (Physique) check.
+While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Physique) check. Similarly, gaining any distance in rough water might require a successful Strength (Physique) check.
 
 ##### Jumping
 
@@ -4829,7 +4829,7 @@ Your Strength determines how far you can jump.
 
 **_Long Jump._** When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
 
-This rule assumes that the height of your jump doesn’t matter, such as a jump across a stream or chasm. At your GM’s option, you must succeed on a DC 10 Strength (Physique) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit it.
+This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your GM's option, you must succeed on a DC 10 Strength (Physique) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
 
 When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
 
@@ -4852,13 +4852,13 @@ A fall from a great height is one of the most common hazards facing an adventure
 
 A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
 
-When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can’t regain hit points or be stabilized until it can breathe again.
+When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can't regain hit points or be stabilized until it can breathe again.
 
 For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before it drops to 0 hit points.
 
 #### Vision and Light
 
-The most fundamental tasks of adventuring— noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a tek skill, to name just a few—rely heavily on a character’s ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
+The most fundamental tasks of adventuring— noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a tek skill, to name just a few—rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 
@@ -4885,7 +4885,7 @@ A creature with blindsight can perceive its surroundings without relying on sigh
 
 ##### Darkvision
 
-Many creatures in futuristic gaming worlds, especially those that dwell underground, have darkvision. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can’t discern color in darkness, only shades of gray.
+Many creatures in futuristic gaming worlds, especially those that dwell underground, have darkvision. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray.
 
 ##### Truesight
 
@@ -4893,7 +4893,7 @@ A creature with truesight can, out to a specific range, see in normal and tek da
 
 #### Food and Water
 
-Characters who don’t eat or drink suffer the effects of exhaustion (see appendix A). Exhaustion caused by lack of food or water can’t be removed until the character eats and drinks the full required amount.
+Characters who don't eat or drink suffer the effects of exhaustion (see appendix A). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 
 ##### Food
 
@@ -4912,12 +4912,12 @@ If the character already has one or more levels of exhaustion, the character tak
 \page
 #### Interacting with Objects
 
-A character’s interaction with objects in an environment is often simple to resolve in the game. The player tells the GM that his or her character is doing something, such as moving a lever, and the GM describes what, if anything, happens.
+A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the GM that his or her character is doing something, such as moving a lever, and the GM describes what, if anything, happens.
 
 
 For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the GM might call for a Strength check to see whether the character can wrench the lever into place. The GM sets the DC for any such check based on the difficulty of the task.
 
-Characters can also damage objects with their weapons and tek skills. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and tek attacks much like creatures can. The GM determines an object’s Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It’s hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
+Characters can also damage objects with their weapons and tek skills. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and tek attacks much like creatures can. The GM determines an object's Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It's hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
 
 A character can also attempt a Strength check to break an object. The GM sets the DC for any such check.
 
@@ -4926,7 +4926,7 @@ A character can also attempt a Strength check to break an object. The GM sets th
 
 ### Resting
 
-Heroic though they might be, adventurers can’t spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for Tekcasting, and brace themselves for further adventure.
+Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for Tekcasting, and brace themselves for further adventure.
 
 Adventurers can take short rests in the midst of an adventuring day and a long rest to end the day.
 
@@ -4934,15 +4934,15 @@ Adventurers can take short rests in the midst of an adventuring day and a long r
 
 A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
 
-A character can spend one or more Hit Dice at the end of a short rest, up to the character’s maximum number of Hit Dice, which is equal to the character’s level. For each Hit Die spent in this way, the player rolls the die and adds the character’s Constitution modifier to it. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.
+A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.
 
 #### Long Rest
 
 A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting tek skills, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.
 
-At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character’s total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
+At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
 
-A character can’t benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
+A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
 
 <!-- Downtime -->
 \page
@@ -4956,7 +4956,7 @@ In some cases, the passage of time is something that occurs with little fanfare 
 
 Between adventures, you choose a particular quality of life and pay the cost of maintaining that lifestyle.
 
-Living a particular lifestyle doesn’t have a huge effect on your character, but your lifestyle can affect the way other individuals and groups react to you. For example, when you lead an aristocratic lifestyle, it might be easier for you to influence the nobles of the city than if you live in poverty.
+Living a particular lifestyle doesn't have a huge effect on your character, but your lifestyle can affect the way other individuals and groups react to you. For example, when you lead an aristocratic lifestyle, it might be easier for you to influence the nobles of the city than if you live in poverty.
 
 #### Downtime Activities
 
@@ -4966,7 +4966,7 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 ##### Crafting
 
-You can craft nontek objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it.
+You can craft nontek objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 500 credits, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 500 credits, you make progress every day in 500 credits increments until you reach the market value of the item. For example, a suit of plate armor (market value 150000 credits) takes 300 days to craft by yourself.
 
@@ -4977,7 +4977,7 @@ While crafting, you can maintain a modest lifestyle without having to pay 100 cr
 ##### Practicing a Profession
 
 You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 100 credits per day. This benefit lasts as long you continue to practice your profession.
-If you are a member of an organization that can provide gainful employment, such as a temple or a thieves’ guild, you earn enough to support a comfortable lifestyle instead.
+If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
 If you have proficiency in the Performance skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
 
 ##### Recuperating
@@ -5015,8 +5015,8 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 > #### Combat Step by Step
 >
 > 1.  **Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
-> 2.  **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers’ marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
-> 3.  **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants’ turns.
+> 2.  **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
+> 3.  **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
 > 4.  **Take turns.** Each participant in the battle takes a turn in initiative order.
 > 5.  **Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
@@ -5024,9 +5024,9 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 
 A band of adventurers Stealths up on a Space Pirate camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
-The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn’t notice a threat is surprised at the start of the encounter.
+The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
 
-If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a reaction until that turn ends. A member of a group can be surprised even if the other members aren’t.
+If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.
 
 #### Initiative
 
@@ -5044,15 +5044,15 @@ The most common actions you can take are described in the “Actions in Combat�
 
 The “Movement and Position” section later in this chapter gives the rules for your move.
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
+You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
 
 ##### Bonus Actions
 
-Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a scoundrel to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
+Various class features, tek skills, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a scoundrel to take a bonus action. You can take a bonus action only when a special ability, tek skill, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.
 
 You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
 
-You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
+You choose when to take a bonus action during your turn, unless the bonus action's timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
 
 ##### Other Activity on Your Turn
 
@@ -5070,9 +5070,9 @@ The GM might require you to use an action for any of these activities when it ne
 
 #### Reactions
 
-Certain special abilities, tek skills, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s. The opportunity attack, described later in this chapter, is the most common type of reaction.
+Certain special abilities, tek skills, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's. The opportunity attack, described later in this chapter, is the most common type of reaction.
 
-When you take a reaction, you can’t take another one until the start of your next turn. If the reaction interrupts another creature’s turn, that creature can continue its turn right after the reaction.
+When you take a reaction, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the reaction.
 
 ### Movement and Position
 
@@ -5080,7 +5080,7 @@ In combat, characters and monsters are in constant motion, often using movement 
 
 On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like on your turn, following the rules here.
 
-Your movement can include jumping, climbing, and swimming. These different modes of movement can be combined with walking, or they can constitute your entire move. However you’re moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.
+Your movement can include jumping, climbing, and swimming. These different modes of movement can be combined with walking, or they can constitute your entire move. However you're moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.
 
 #### Breaking Up Your Move
 
@@ -5092,7 +5092,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 ##### Using Different Speeds
 
-If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
+If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
 For example, if you have a speed of 30 and a flying speed of 60 because an arcanist cast the *fly* tek skill on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
@@ -5110,7 +5110,7 @@ Combatants often find themselves lying on the ground, either because they are kn
 
 You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend
 
-15 feet of movement to stand up. You can’t stand up if you don’t have enough movement left or if your speed is 0.
+15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
 
 To move while prone, you must **crawl** or use tek such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
@@ -5142,11 +5142,11 @@ Here are a few examples of the sorts of thing you can do in tandem with your mov
 
 #### Moving Around Other Creatures
 
-You can move through a nonhostile creature’s space. In contrast, you can move through a hostile creature’s space only if the creature is at least two sizes larger or smaller than you. Remember that another creature’s space is difficult terrain for you.
+You can move through a nonhostile creature's space. In contrast, you can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you. Remember that another creature's space is difficult terrain for you.
 
-Whether a creature is a friend or an enemy, you can’t willingly end your move in its space.
+Whether a creature is a friend or an enemy, you can't willingly end your move in its space.
 
-If you leave a hostile creature’s reach during your move, you provoke an opportunity attack, as explained later in the chapter.
+If you leave a hostile creature's reach during your move, you provoke an opportunity attack, as explained later in the chapter.
 
 
 \page
@@ -5176,15 +5176,15 @@ Each creature takes up a different amount of space. The Size Categories table sh
 
 ##### Space
 
-A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5* foot-wide doorway, other creatures can’t get through unless the hobgoblin lets them.
+A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5* foot-wide doorway, other creatures can't get through unless the hobgoblin lets them.
 
-A creature’s space also reflects the area it needs to fight effectively. For that reason, there’s a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
+A creature's space also reflects the area it needs to fight effectively. For that reason, there's a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
 
-Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there’s little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
+Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there's little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
 
 ##### Squeezing into a Smaller Space
 
-A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that’s only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it’s in the smaller space.
+A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
 
 ### Actions in Combat
 
@@ -5212,7 +5212,7 @@ Any increase or decrease to your speed changes this additional movement by the s
 
 #### Disengage
 
-If you take the Disengage action, your movement doesn’t provoke opportunity attacks for the rest of the turn.
+If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.
 
 #### Dodge
 
@@ -5224,7 +5224,7 @@ When you take the Dodge action, you focus entirely on avoiding attacks. Until th
 
 You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
 
-Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally’s attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
+Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
 #### Hide
 
@@ -5234,11 +5234,11 @@ When you take the Hide action, you make a Dexterity (Stealth) check in an attemp
 
 Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
 
-First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
+First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include “If the cultist steps on the trapdoor, I'll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-When you ready a tek skill, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a tek skill must have a casting time of 1 action, and holding onto the tek skill’s tek requires concentration. If your concentration is broken, the tek skill dissipates without taking effect. For example, if you are concentrating on the _web_ tek skill and ready _tek missile_, your _web_ tek skill ends, and if you take damage before you release _tek missile_ with your reaction, your concentration might be broken.
+When you ready a tek skill, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a tek skill must have a casting time of 1 action, and holding onto the tek skill's tek requires concentration. If your concentration is broken, the tek skill dissipates without taking effect. For example, if you are concentrating on the _web_ tek skill and ready _tek missile_, your _web_ tek skill ends, and if you take damage before you release _tek missile_ with your reaction, your concentration might be broken.
 
 #### Search
 
@@ -5250,21 +5250,21 @@ You normally interact with an object while doing something else, such as when yo
 
 ### Making an Attack
 
-Whether you’re striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a tek skill, an attack has a simple structure.
+Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a tek skill, an attack has a simple structure.
 
-1. **Choose a target.** Pick a target within your attack’s range: a creature, an object, or a location.
+1. **Choose a target.** Pick a target within your attack's range: a creature, an object, or a location.
 2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, tek skills, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 3. **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
-If there’s ever any question whether something you’re doing counts as an attack, the rule is simple: if you’re making an attack roll, you’re making an attack.
+If there's ever any question whether something you're doing counts as an attack, the rule is simple: if you're making an attack roll, you're making an attack.
 
 #### Attack Rolls
 
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
 
 ##### Modifiers to the Roll
 
-When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character’s proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
+When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
 
 **_Ability Modifier_** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
 
@@ -5276,19 +5276,19 @@ Some tek skills also require an attack roll. The ability modifier used for a tek
 
 Sometimes fate blesses or hacks a combatant, causing the novice to hit and the veteran to miss.
 
-If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit, which is explained later in this chapter.
+If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit, which is explained later in this chapter.
 
-If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s AC.
+If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC.
 
 #### Unseen Attackers and Targets
 
-Combatants often try to escape their foes’ notice by hiding, casting the invisibility tek skill, or lurking in darkness.
+Combatants often try to escape their foes' notice by hiding, casting the invisibility tek skill, or lurking in darkness.
 
-When you attack a target that you can’t see, you have disadvantage on the attack roll. This is true whether you’re guessing the target’s location or you’re targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target’s location correctly.
+When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
 \page
 
-When a creature can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
+When a creature can't see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 
 #### Ranged Attacks
 
@@ -5298,13 +5298,13 @@ When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or 
 
 You can make ranged attacks only against targets within a specified range.
 
-If a ranged attack, such as one made with a tek skill, has a single range, you can’t attack a target beyond this range.
+If a ranged attack, such as one made with a tek skill, has a single range, you can't attack a target beyond this range.
 
-Some ranged attacks, such as those made with a railrifle or a scorcher, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can’t attack a target beyond the long range.
+Some ranged attacks, such as those made with a railrifle or a scorcher, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can't attack a target beyond the long range.
 
 ##### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a tek skill, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t incapacitated.
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a tek skill, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.
 
 #### Melee Attacks
 
@@ -5320,19 +5320,19 @@ In a fight, everyone is constantly watching for a chance to strike an enemy who 
 
 You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
 
-You can avoid provoking an opportunity attack by taking the Disengage action. You also don’t provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don’t provoke an opportunity attack if an explosion hurls you out of a foe’s reach or if gravity causes you to fall past an enemy.
+You can avoid provoking an opportunity attack by taking the Disengage action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
 
 ##### Two-Weapon Fighting
 
-When you take the Attack action and attack with a light melee weapon that you’re holding in one hand, you can use a bonus action to attack with a different light melee weapon that you’re holding in the other hand. You don’t add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
 ##### Grappling
 
-When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
+When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Physique) check contested by the target’s Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Physique) check contested by the target's Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 **_Escaping a Grapple_** A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Physique) or Dexterity (Acrobatics) check contested by your Strength
 (Physique) check.
@@ -5345,23 +5345,23 @@ The target of your grapple must be no more than one size larger than you and mus
 
 ##### Shoving a Creature
 
-Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
+Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
 \page
 
-The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Physique) check contested by the target’s Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
+The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Physique) check contested by the target's Strength (Physique) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
 
 ### Cover
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
 
-There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
+There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
 
 A target with **half cover** has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a nbullet tree trunk, or a creature, whether that creature is an enemy or a friend.
 
 A target with **three-quarters cover** has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an bullet slit, or a thick tree trunk.
 
-A target with **total cover** can’t be targeted directly by an attack or a tek skill, although some tek skills can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+A target with **total cover** can't be targeted directly by an attack or a tek skill, although some tek skills can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
 ### Damage and Healing
 
@@ -5371,9 +5371,9 @@ Injury and the risk of death are constant companions of those who explore futuri
 
 Hit points represent a combination of physical and mental durability, the will to live, and luck. Creatures with more hit points are more difficult to kill. Those with fewer hit points are more fragile.
 
-A creature’s current hit points (usually just called hit points) can be any number from the creature’s hit point maximum down to 0. This number changes frequently as a creature takes damage or receives healing.
+A creature's current hit points (usually just called hit points) can be any number from the creature's hit point maximum down to 0. This number changes frequently as a creature takes damage or receives healing.
 
-Whenever a creature takes damage, that damage is subtracted from its hit points. The loss of hit points has no effect on a creature’s capabilities until the creature drops to 0 hit points.
+Whenever a creature takes damage, that damage is subtracted from its hit points. The loss of hit points has no effect on a creature's capabilities until the creature drops to 0 hit points.
 
 #### Damage Rolls
 
@@ -5381,13 +5381,13 @@ Each weapon, tek skill, and harmful monster ability specifies the damage it deal
 
 When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **tek skill** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when an arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill’s damage is rolled once for all creatures caught in the blast.
+If a tek skill or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when an arcanist casts _fireball_ or a priest casts _flame strike_, the tek skill's damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
-When you score a critical hit, you get to roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
+When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
 
-For example, if you score a critical hit with an ion dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the scoundrel’s Stealth Attack feature, you roll those dice twice as well.
+For example, if you score a critical hit with an ion dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the scoundrel's Sneak Attack feature, you roll those dice twice as well.
 
 ##### Damage Types
 
@@ -5395,29 +5395,29 @@ Different attacks, damaging tek skills, and other harmful effects deal different
 
 The damage types follow, with examples to help a GM assign a damage type to a new effect.
 
-**_Acid_** The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage.
+**_Acid_** The corrosive spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal acid damage.
 
 **_Bludgeoning_** Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
 
-**_Cold_** The infernal chill radiating from an ice devil’s Pulse Dagger and the frigid blast of a white dragon’s breath deal cold damage.
+**_Cold_** The infernal chill radiating from an ice devil's Pulse Dagger and the frigid blast of a white dragon's breath deal cold damage.
 
 **_Fire_** Red dragons breathe fire, and many tek skills conjure flames to deal fire damage.
 
 **_Force_** Force is pure tek energy focused into a damaging form. Most effects that deal force damage are tek skills, including _tek missile_ and _spiritual weapon_.
 
-**_Shock_** A _lightning bolt_ tek skill and a blue dragon’s breath deal lightning damage.
+**_Shock_** A _lightning bolt_ tek skill and a blue dragon's breath deal lightning damage.
 
 **_Radiation_** Radiation damage, dealt by certain undead and a tek skill such as _chill touch_, withers matter and even the soul.
 
-**_Piercing_** Puncturing and impaling attacks, including Pulse Daggers and monsters’ bites, deal piercing damage.
+**_Piercing_** Puncturing and impaling attacks, including Pulse Daggers and monsters' bites, deal piercing damage.
 
-**_Poison_** Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
+**_Poison_** Venomous stings and the toxic gas of a green dragon's breath deal poison damage.
 
-**_Psychic_** Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
+**_Psychic_** Mental abilities such as a mind flayer's psionic blast deal psychic damage.
 
-**_Radiant_** Radiant damage, dealt by a priest’s _flame strike_ tek skill or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+**_Radiant_** Radiant damage, dealt by a priest's _flame strike_ tek skill or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
-**_Slashing_** Swords, axes, and monsters’ claws deal slashing damage.
+**_Slashing_** Swords, axes, and monsters' claws deal slashing damage.
 
 **_Concussive_** A concussive burst of sound, such as the effect of the _shockwave_ tek skill, deals concussive damage.
 
@@ -5435,11 +5435,11 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 #### Healing
 
-Unless it results in death, damage isn’t permanent. Even death is reversible through powerful tek. Rest can restore a creature’s hit points, and tek methods such as a _cure wounds_ tek skill or a _potion of healing_ can remove damage in an instant.
+Unless it results in death, damage isn't permanent. Even death is reversible through powerful tek. Rest can restore a creature's hit points, and tek methods such as a _cure wounds_ tek skill or a _potion of healing_ can remove damage in an instant.
 
-When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a morph grants a scout 8 hit points of healing. If the scout has 14 current hit points and has a hit point maximum of 20, the scout regains 6 hit points from the morph, not 8.
+When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a morph grants a scout 8 hit points of healing. If the scout has 14 current hit points and has a hit point maximum of 20, the scout regains 6 hit points from the morph, not 8.
 
-A creature that has died can’t regain hit points until tek such as the _revivify_ tek skill has restored it to life.
+A creature that has died can't regain hit points until tek such as the _revivify_ tek skill has restored it to life.
 
 #### Dropping to 0 Hit Points
 
@@ -5457,9 +5457,9 @@ If damage reduces you to 0 hit points and fails to kill you, you fall unconsciou
 
 ##### Death Saving Throws
 
-Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by tek skills and features that improve your chances of succeeding on a saving throw.
+Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn't tied to any ability score. You are in the hands of fate now, aided only by tek skills and features that improve your chances of succeeding on a saving throw.
 
-Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
+Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
 
 **_Rolling 1 or 20_** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point.
 
@@ -5467,11 +5467,11 @@ Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A suc
 
 ##### Stabilizing a Creature
 
-The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn’t killed by a failed death saving throw.
+The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.
 
 You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 Wisdom (Medicine) check.
 
-A **stable** creature doesn’t make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn’t healed regains 1 hit point after 1d4 hours.
+A **stable** creature doesn't make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after 1d4 hours.
 
 ##### Monsters and Death
 
@@ -5485,7 +5485,7 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a killing bl
 
 #### Temporary Hit Points
 
-Some tek skills and special abilities confer temporary hit points to a creature. Temporary hit points aren’t actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
+Some tek skills and special abilities confer temporary hit points to a creature. Temporary hit points aren't actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
 
 When you have temporary hit points and take damage, the temporary hit points are lost first, and any leftover damage carries over to your normal hit points. For example, if you have 5 temporary hit points and take 7 damage, you lose the temporary hit points and then take 2 damage.
 
@@ -5493,11 +5493,11 @@ When you have temporary hit points and take damage, the temporary hit points are
 
 Because temporary hit points are separate from your actual hit points, they can exceed your hit point maximum. A character can, therefore, be at full hit points and receive temporary hit points.
 
-Healing can’t restore temporary hit points, and they can’t be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a tek skill grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
+Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a tek skill grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
 
-If you have 0 hit points, receiving temporary hit points doesn’t restore you to consciousness or stabilize you. They can still absorb damage directed at you while you’re in that state, but only true healing can save you.
+If you have 0 hit points, receiving temporary hit points doesn't restore you to consciousness or stabilize you. They can still absorb damage directed at you while you're in that state, but only true healing can save you.
 
-Unless a feature that grants you temporary hit points has a duration, they last until they’re depleted or you finish a long rest.
+Unless a feature that grants you temporary hit points has a duration, they last until they're depleted or you finish a long rest.
 
 ### Mounted Combat
 
@@ -5507,9 +5507,9 @@ A willing creature that is at least one size larger than you and that has an app
 
 #### Mounting and Dismounting
 
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can’t mount it if you don’t have 15 feet of movement left or if your speed is 0.
+Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
 
-If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you’re knocked prone while mounted, you must make the same saving throw.
+If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw.
 
 If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
 
@@ -5519,7 +5519,7 @@ You can control a mount only if it has been trained to accept a rider. Domestica
 
 An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
 
-In either case, if the mount provokes an opportunity attack while you’re on it, the attacker can target you or the mount.
+In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
 
 ### Mechanical Mounts
 Mechanical mounts move on your turn, and some have certain restrictions for what actions you can take.
@@ -5528,9 +5528,9 @@ Mechanical mounts move on your turn, and some have certain restrictions for what
 
 When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
 
-When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by tek) has disadvantage on the attack roll unless the weapon is an ion dagger, javelin, ion blade, Pulse Dagger, or trident.
+When making a **melee weapon attack**, a creature that doesn't have a swimming speed (either natural or granted by tek) has disadvantage on the attack roll unless the weapon is an ion dagger, javelin, ion blade, Pulse Dagger, or trident.
 
-A **ranged weapon attack** automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a Pulse Dagger, trident, or dart).
+A **ranged weapon attack** automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a Pulse Dagger, trident, or dart).
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.
 
@@ -5575,7 +5575,7 @@ Armor Class: 10
 
 Speed: 35
 
-Attack: Pulse Axe. +2 to hit, 1d10 slashing damage.
+Attack: Pulseaxe. +2 to hit, 1d10 slashing damage.
 
 #### Leadership Inspiration
 
@@ -5614,7 +5614,7 @@ A small but fast warship.
 
 #### LeechCraft
 *400m credits*
-A medium sized spacecraft that can carry a squadron of marines. It attaches to the hull of enemy ships to forcefully deploy troops by ripping a hole in the ship’s hull. This is the largest ship capable of atmospheric travel.
+A medium sized spacecraft that can carry a squadron of marines. It attaches to the hull of enemy ships to forcefully deploy troops by ripping a hole in the ship's hull. This is the largest ship capable of atmospheric travel.
 
 #### Corvette
 A medium sized spacecraft specializing in heavy artillery.
@@ -5643,28 +5643,28 @@ A large ship measuring at least 8 km in length is essentially a floating city.
 
 ---
 
-Conditions alter a creature’s capabilities in a variety of ways and can arise as a result of a tek skill, a class feature, a monster’s attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a tek skill, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
 
 A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
 
-If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition’s effects don’t get worse. A creature either has a condition or doesn’t.
+If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
 
 The following definitions specify what happens to a creature while it is subjected to a condition.
 
 ### Blinded
-* A blinded creature can’t see and automatically fails any ability check that requires sight.
-* Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+* A blinded creature can't see and automatically fails any ability check that requires sight.
+* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
 ### Charmed
-* A charmed creature can’t attack the charmer or target the charmer with harmful abilities or tek effects.
+* A charmed creature can't attack the charmer or target the charmer with harmful abilities or tek effects.
 * The charmer has advantage on any ability check to interact socially with the creature.
 
 ### Deafened
-* A deafened creature can’t hear and automatically fails any ability check that requires hearing.
+* A deafened creature can't hear and automatically fails any ability check that requires hearing.
 
 ### Exhaustion
 
-Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.
+Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 
 | Level | Effect                                         |
 |-------|------------------------------------------------|
@@ -5675,39 +5675,39 @@ Some special abilities and environmental hazards, such as starvation and the lon
 | 5     | Speed reduced to 0                             |
 | 6     | Death                                          |
 
-If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect’s description.
+If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
 
 A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
 
-An effect that removes exhaustion reduces its level as specified in the effect’s description, with all exhaustion effects ending if a creature’s exhaustion level is reduced below 1.
+An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
 
-Finishing a long rest reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.
+Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
 
 ### Frightened
 * A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-* The creature can’t willingly move closer to the source of its fear.
+* The creature can't willingly move closer to the source of its fear.
 
 ### Grappled
-* A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
+* A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 * The condition ends if the grappler is incapacitated (see the condition).
 * The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the *concussive-wave* tek skill.
 
 ### Incapacitated
-* An incapacitated creature can’t take actions or reactions.
+* An incapacitated creature can't take actions or reactions.
 
 ### Invisible
-* An invisible creature is impossible to see without the aid of tek or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature’s location can be detected by any noise it makes or any tracks it leaves.
-* Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
+* An invisible creature is impossible to see without the aid of tek or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
+* Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
 ### Paralyzed
-* A paralyzed creature is incapacitated (see the condition) and can’t move or speak.
+* A paralyzed creature is incapacitated (see the condition) and can't move or speak.
 * The creature automatically fails Strength and Dexterity saving throws.
 * Attack rolls against the creature have advantage.
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 ### Petrified
 * A petrified creature is transformed, along with any nontek object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
-* The creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings.
+* The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
 * Attack rolls against the creature have advantage.
 * The creature automatically fails Strength and Dexterity saving throws.
 * The creature has resistance to all damage.
@@ -5719,23 +5719,23 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 \page
 
 ### Prone
-* A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
+* A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
 * The creature has disadvantage on attack rolls.
 * An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
 ### Restrained
-* A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-* Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+* A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 * The creature has disadvantage on Dexterity saving throws.
 
 ### Stunned
-* A stunned creature is incapacitated (see the condition), can’t move, and can speak only falteringly.
+* A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
 * The creature automatically fails Strength and Dexterity saving throws.
 * Attack rolls against the creature have advantage.
 
 ### Unconscious
-* An unconscious creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings
-* The creature drops whatever it’s holding and falls prone.
+* An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
+* The creature drops whatever it's holding and falls prone.
 * The creature automatically fails Strength and Dexterity saving throws.
 * Attack rolls against the creature have advantage.
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.

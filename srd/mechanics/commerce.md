@@ -6,7 +6,7 @@ When not descending into the depths of space, exploring ruins for lost loot, or 
 
 Lifestyle expenses provide you with a simple way to account for the cost of living in a futuristic world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
 
-At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career.
+At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character's career.
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
@@ -28,7 +28,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 **_Poor._** A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
 
-**_Modest._** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge Arcanists, and the like.
+**_Modest._** A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don't go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge Arcanists, and the like.
 
 **_Comfortable._** Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
 
@@ -40,13 +40,13 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 >
 > The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
 >
-> Maintaining this kind of lifestyle doesn’t require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Nature skill lets you live at the equivalent of a comfortable lifestyle.
+> Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Nature skill lets you live at the equivalent of a comfortable lifestyle.
 
 \page
 
 #### Food, Drink, and Lodging
 
-The Food, Drink, and Lodging table gives prices for individual food items and a single night’s lodging. These prices are included in your total lifestyle expenses.
+The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
 **Food, Drink, and Lodging (table)**
 
@@ -99,10 +99,10 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 | - Untrained       | 2000 credits per day  |
 | Messenger         | 20 credits per mile |
 | Road or gate toll | 10 credits          |
-| Ship’s passage    | 10,000 credits per day |
+| Ship's passage    | 10,000 credits per day |
 
 #### Tekcasting Services
 
-People who are able to cast tek skills don’t fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a tek skill in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired tek skill, the harder it is to find someone who can cast it and the more it costs.
+People who are able to cast tek skills don't fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a tek skill in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired tek skill, the harder it is to find someone who can cast it and the more it costs.
 
 Hiring someone to cast a relatively common tek skill of 1st or 2nd level, such as *cure wounds* or *identify*, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level tek skill might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the tekcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant colony.

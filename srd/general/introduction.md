@@ -23,7 +23,7 @@ Personality traits were the results of a two decades long psychological study at
 | Trait | Description|
 |:----:|:-------------|
 | Wit  | Mental sharpness and inventiveness; keen intelligence. |
-| Will  | Mental fortitude. This is the mind’s ability to resist tek effectrs, and mental stress. |
+| Will  | Mental fortitude. This is the mind's ability to resist tek effectrs, and mental stress. |
 | Intelligence | The ability to acquire and apply knowledge and skills. |
 | Wisdom | The soundness of an action or decision with regard to the application of experience, knowledge, and good judgment. |
 
@@ -124,12 +124,11 @@ The focus used by those casting tek skills is called a Tekcaster. The tekcaster 
 >
 > Classes that use this type of tek are Evangelists, Guardians, and Scions.
 
-
 ```
 ```
 
 ### Willpower
-Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster’s tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
+Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster's tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
 
 Sleeve Market
 All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
