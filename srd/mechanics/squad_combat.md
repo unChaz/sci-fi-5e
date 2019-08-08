@@ -4,6 +4,8 @@ Whether you employ a squad of mercenaries, or your family/corporation have marin
 
 Mercenaries are expendable soldiers that can make or break any combat engagement. Many mercenaries have stack insurance ensuring that if they are killed in battle, they will receive a new sleeve. Real death is rare among mercenaries, and most will avoid aiming for the stack of a fellow mercenary as honor demands.
 
+Mercenaries do well against other mercenaries and weaker foes, but against a more formidable foe, such as a razor wielding lancer, they will be torn apart.
+
 ### Mercenary Salary
 A single mercenary can be employed for 100 credits per day. A mercenary squad of 10 marines can be conscripted for 600 credits per day for a minimum of 1 week, or 1000 credits per day otherwise.
 

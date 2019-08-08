@@ -1,5 +1,7 @@
 # Cybernetic
+*requires bionic or synthetic sleeve*
 
+A tekcaster integrated with an alien AI.
 
 ## Class Features
 
