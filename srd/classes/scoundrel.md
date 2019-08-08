@@ -8,9 +8,9 @@ As a scoundrel, you have the following class features.
 
 **Hit Dice:** 1d8 per scoundrel level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per scoundrel level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per scoundrel level after 1st
 
 ###  Proficiencies
 
@@ -218,7 +218,7 @@ When you make a firearm attack against a creature, you can expend one grit point
 When you make a firearm attack against a creature, you can expend one grit point to attempt to fire through multiple opponents. The initial attack gains a +1 to the firearm's misfire score. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind the target within your first range increment. Only the initial attack can misfire.
 
 **Violent Shot**
-When you make a firearm attack against a creature, you can expend one or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains a +2 to the firearm's misfire score. If the attack hits, you can roll one additional weapon damage die per grit point spent when determining the damage.
+When you make a firearm attack against a creature, you can expend one or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains a +2 to the firearms attack bonus. If the attack hits, you can roll one additional weapon damage die per grit point spent when determining the damage.
 
 **Winging Shot**
 When you make a firearm attack against a creature, you can expend one grit point to attempt to topple a moving target. On a hit, the creature suffers normal damage and must make a Strength saving throw or be knocked prone.

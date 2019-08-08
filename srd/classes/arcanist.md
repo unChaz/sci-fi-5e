@@ -8,9 +8,9 @@ As an arcanist, you gain the following class features
 
 **Hit Dice:** 1d6 per Arcanist level
 
-**Hit Points at 1st Level:** 6 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 6 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier + Will modifier per Arcanist level after 1st
+**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier per Arcanist level after 1st
 
 ### Proficiencies
 

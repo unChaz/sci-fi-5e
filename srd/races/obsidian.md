@@ -8,7 +8,7 @@ After they were conquered by the Authority, they were cast out to the icecaps of
 
 **_Size._** Obsidians are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet. 
+**_Speed._** Your base walking speed is 30 feet.
 
 #### Natural Athlete
 You have proficiency in the **Physique** skill.
@@ -22,7 +22,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 **_Alignment._** Despite their ruthless demeanor, Obsidians tend toward no particular alignment.
 
-**_Languages._** You can speak, read, and write German, English, and one extra language of your choice.
+**_Languages._** You can speak, read, and write German and English.
 
 #### Savage Attacks
 When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.

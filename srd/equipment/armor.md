@@ -41,18 +41,18 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 <div class='wide'>
 ##### Armor Table
 
-| Armor              | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight | Don/Doff |
+| Armor | Cost | Armor Class (AC) | Strength | Stealth | Weight | Don/Doff |
 |--------------------|----------|---------------------------|----------|--------------|--------|----------|
-| **_Light Armor_**  |          |                           |          |              |        |  |
-| flak armor    | 4500 credits    | 12 + Dex modifier         | —        | —            | 13 kg.| 1 minute|
-| pulse armor    | 4500 credits    | 13 + Dex modifier         | —        | —            | 13 kg. | 1 action       |
-| **_Medium Armor_** |          |                           |          |              |        ||
-| scarab skin        | 5000 credits    | 13 + Dex modifier (max 2) | —        | —            | 20 kg. |5/1 minutes|
-| kevlar         | 5000 credits    | 14 + Dex modifier (max 2) | —        | Disadvantage | 45 kg. | 5/1 minutes|
-| **_Heavy Armor_**  |          |                           |          |              |        ||
-| Power Shell              | 1,50000 credits | 18                        | Str 15   | Disadvantage | 650 kg. |10/5 minutes |
-| **_Shield_**       |          |                           |          |              |        ||
-| Pulse Shield             | 10000 credits    | +2                        | —        | —            | 6 kg.  |1 action|
+| **_Light Armor_** | | | | | | |
+| flak armor | 4500 credits | 12 + Dex modifier | — | — | 13 kg.| 1 minute|
+| pulse armor | 4500 credits | 13 + Dex modifier | — | — | 13 kg. | 1 action |
+| **_Medium Armor_** | | | | | ||
+| scarab skin | 5000 credits | 13 + Dex modifier (max 2) | — | — | 20 kg. |5/1 minutes|
+| kevlar | 5000 credits | 14 + Dex modifier (max 2) | — | Disadvantage | 45 kg. | 5/1 minutes|
+| **_Heavy Armor_** | | | | | ||
+| Power Shell | 1,50000 credits | 18 | Str 5 | Disadvantage | 650 kg. |10/5 minutes |
+| **_Shield_** | | | | | ||
+| Pulse Shield | 10000 credits | +2 | — | — | 6 kg. |1 action|
 
 
 #### Getting Into and Out of Armor

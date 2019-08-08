@@ -13,15 +13,15 @@ Mercenary squads roll initiative as a group with no initiative bonus. If a merce
 
 1-5: Instantly Dead.
 
-6-10: Gravely injured. The mercenary is unconscious and must be stabilized before the end of combat.
+6-10: Gravely injured. The mercenary is unconscious and must be stabilized within 1 minute of going unconscious.
 
-11-15: Slightly injured. The mercenary can continue the fight, but must retreat at the end of the encounter.
+11-15: Slightly injured. The mercenary can continue the fight, but must retreat at the end of the encounter until a full rest.
 
-16-20: Flesh wound. The mercenary can continue fighting.
+16+: Flesh wound. The mercenary can continue fighting.
 
 Cover: If hit while behind cover, mercenaries gain +5 to damage saving throws.
 
-Saving Throws: If an attack requires a saving throw, the mercenary gets +2 to the roll.
+Saving Throws: If an attack requires a saving throw, the base modifier the mercenary gets is +2.
 
 #### Marine
 
@@ -41,4 +41,4 @@ Attack: Pulse Axe. +2 to hit, 1d10 slashing damage.
 
 #### Leadership Inspiration
 
-With the Inspiring Leader feat, your squad of marines gain +2 to initiative rolles, and +2 to Armor Class. This bonus only applies to marines directly under your command.
+With the Inspiring Leader feat, your squad of marines gain +2 to initiative rolls, and +2 to Armor Class. This bonus only applies to marines directly under your command.

@@ -10,9 +10,9 @@ As a guardian, you gain the following class features.
 
 **Hit Dice:** 1d10 per guardian level
 
-**Hit Points at 1st Level:** 10 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 10 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per guardian level after 1st
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier per guardian level after 1st
 
 ### Proficiencies
 

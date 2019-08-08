@@ -8,9 +8,9 @@ As a priest, you gain the following class features.
 
 **Hit Dice:** 1d8 per priest level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per priest level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per priest level after 1st
 
 ###  Proficiencies
 
@@ -62,9 +62,9 @@ You can change your list of prepared tek skills when you finish a long rest. Pre
 
 Wisdom + Will is your Tekcasting ability for your priest tek skills. The power of your tek skills comes from your devotion to your host. You use your Wisdom whenever a priest tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a priest tek skill you cast and when making an attack roll with one.
 
-**Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
+**Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
-**Tek attack modifier** = your proficiency bonus + your Wisdom modifier + your Will modifier
+**Tek attack modifier** = your proficiency bonus + your Wisdom modifier
 
 ###  Ritual Casting
 
