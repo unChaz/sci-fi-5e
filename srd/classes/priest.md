@@ -62,9 +62,9 @@ You can change your list of prepared tek skills when you finish a long rest. Pre
 
 Wisdom + Will is your Tekcasting ability for your priest tek skills. The power of your tek skills comes from your devotion to your host. You use your Wisdom whenever a priest tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a priest tek skill you cast and when making an attack roll with one.
 
-**Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
+**Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
-**Tek attack modifier** = your proficiency bonus + your Wisdom modifier + your Will modifier
+**Tek attack modifier** = your proficiency bonus + your Wisdom modifier
 
 ###  Ritual Casting
 

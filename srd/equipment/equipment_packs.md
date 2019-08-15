@@ -6,7 +6,7 @@
 >
 > **_Diplomat's Pack (3900 credits)._** Includes a footlocker, 2 cases for maps and datacubes, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 >
-> **_Incursion Pack (1200 credits)._** Includes a backpack, a crowbar, a hammer, mag-gloves, a flashlight, a datapad, 10 days of rations, and a canteen. The backpack also has 50 feet of microfiber rope strapped to the side of it.
+> **_Incursion Pack (1200 credits)._** Includes a backpack, a crowbar, a hammer, spidergloves, a flashlight, a datapad, 10 days of rations, and a canteen. The backpack also has 50 feet of microfiber rope strapped to the side of it.
 >
 > **_Entertainer's Pack (4000 credits)._** Includes a backpack, a bedroll, 2 costumes, 5 flares, 5 days of rations, a canteen, and a disguise kit.
 >

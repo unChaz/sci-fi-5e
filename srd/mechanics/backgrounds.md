@@ -124,6 +124,8 @@ You have been trained to fly any kind of spacecraft. Your expertise makes you a 
 Skill Proficiencies: Pilot. Choose 1 from [Tinker, Perception, Computers]
 Tool Proficiencies: Navigator's Tools
 
+If you already have the Pilot skill, you gain expertise in the Pilot skill.
+
 **Frame Jack**: You have been surgically modified with hardware that allows you to jack into a ship's navigation systems. When frame jacked in you always know the status of ship systems and can simultaneously control navigation and weapon systems on smaller ships.
 
 ## Viral Star

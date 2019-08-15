@@ -63,9 +63,9 @@ You can also change your list of prepared tek skills when you finish a long rest
 
 Wisdom + Will is your Tekcasting ability for your morph tek skills, since your tek draws upon your devotion and attunement to nature. You use your Wisdom whenever a tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a morph tek skill you cast and when making an attack roll with one.
 
-**Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier + your Will modifier
+**Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
-**Tek attack modifier** = your proficiency bonus + your Wisdom modifier + your Will modifier
+**Tek attack modifier** = your proficiency bonus + your Wisdom modifier
 
 \page
 

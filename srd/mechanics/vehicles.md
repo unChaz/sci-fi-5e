@@ -23,24 +23,28 @@ Small atmospheric vehicle that can carry up to 6 passengers.
 #### Stork Shuttle
 *50m credits*
 
-Can carry up to 40 passengers. Requires 2 pilots and a flight engineer to operate.
+Can carry up to 40 passengers.
 
 #### RipWing
 *250m credits*
 
-A small but fast warship.
+A small but fast warship. Has large rail cannons and missiles.
 
 #### LeechCraft
 *400m credits*
-A medium sized spacecraft that can carry a squadron of marines. It attaches to the hull of enemy ships to forcefully deploy troops by ripping a hole in the ship's hull. This is the largest ship capable of atmospheric travel.
+A medium sized spacecraft that can carry a squadron of marines. It attaches to the hull of enemy ships to forcefully deploy troops by ripping a hole in the ship's hull.
+
+#### Frigate
+
+A large spacecraft similar in size to the 21st century naval battleship. It has large rail guns, missiles, cargo bay, and living quarters for around a dozen or so crew depending on interior design.
+
+#### Assault Frigate
+
+A large military issue spacecraft similar in size to the 21st century naval battleship. It has large rail guns and missiles. It can deploy small shuttles and RipWings.
 
 #### Corvette
 
 A medium sized spacecraft specializing in heavy artillery.
-
-#### Frigate
-
-A large spacecraft similar in size to the 21st century naval battleship. It can deploy small shuttles and RipWings.
 
 #### Torchship
 
@@ -48,7 +52,7 @@ A large transport ship capable of deploying direct munitions as well as RipWing 
 
 #### Cruiser
 
-A large all purpose ship, frequently owned by private citizens, but can also be outfitted with weapons.
+A large all purpose ship, frequently owned by corporations and wealthy citizens, but can also be outfitted with weapons.
 
 #### Battlecruiser
 

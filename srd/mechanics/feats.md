@@ -32,7 +32,7 @@ When you use your action to Dash, you can use a bonus action to make one melee w
 You have studied languages of computers, gaining the following benefits:
 - Increase your Wit score by 1, to a maximum of 20.
 - You can read any computer code and understand its purpose.
-- You can with a Science or Tinker check (your choice) alter the code of a machine that you have control over to a reasonable degree. For example you can recode a defensive turret to attack your enemies, or reprogram a hostile robot act a butler droid. The amount of time and check DC is to the discretion of the DM.
+- You can with a Knowledge or Tinker check (your choice) alter the code of a machine that you have control over to a reasonable degree. For example you can recode a defensive turret to attack your enemies, or reprogram a hostile robot act a butler droid. The amount of time and check DC is to the discretion of the DM.
 
 #### DEFENSIVE DUELIST
 *Prerequisite: Dexterity 13 or higher*
@@ -89,7 +89,7 @@ You can use your arm or to deflect strikes that would kill others. You gain the 
 - While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from non tek weapons is reduced by 3.
 
 #### INSPIRING LEADER
-*Prerequisite: Charisma 13 or higher*
+*Prerequisite: Charisma 2 or higher*
 
 You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 

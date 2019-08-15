@@ -6,7 +6,7 @@ Some humans go the way of bionic enhancement. That is installing computer hardwa
 
 **_Ability Score Increase._** Two ability scores increase by 1. One must come from your base race.
 
-**_Size._** Bionics don't differ much from Earthborn and range between 5 and 6 feet. Regardless of your position in that range, your size is Medium.
+**_Size._** Bionics don't differ much from Terran and range between 5 and 6 feet. Regardless of your position in that range, your size is Medium.
 
 **_Speed._** Your base walking speed is 30 feet.
 

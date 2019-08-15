@@ -32,7 +32,7 @@ Your speed determines how far you can move when traveling (“Adventuring”) an
 
 By virtue of your race, your character can speak, read, and write certain languages.
 
-[[races/earthborn]]
+[[races/terran]]
 
 [[races/belter]]
 

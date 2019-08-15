@@ -226,17 +226,17 @@ Your speed determines how far you can move when traveling (“Adventuring”) an
 
 By virtue of your race, your character can speak, read, and write certain languages.
 
-## Earthborn
+## Terran
 
-Those born of Earth and Luna share the privilege of living in the most developed of the worlds. Many Earthborn that are lucky enough to become adventurers grew up healthy and well educated.
+Those born of Earth and Luna share the privilege of living in the most developed of the worlds. Many Terran that are lucky enough to become adventurers grew up healthy and well educated.
 
 ### Sleeve Traits
 
 **_Ability Score Increase._** Your Charisma increases by 1.
 
-**_Age._** Earthborn reach adulthood in their late teens and live just over a century.
+**_Age._** Terran reach adulthood in their late teens and live just over a century.
 
-**_Size._** Earthborn vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+**_Size._** Terran vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 
 **_Speed._** Your base walking speed is 30 feet.
 
@@ -247,7 +247,7 @@ You have advantage on saving throws against spells and other magical effects.
 
 **_Ability Score Increase._** Your Intelligence increases by 1
 
-**_Alignment._** Earthborn tend toward no particular alignment. The best and the worst are found among them.
+**_Alignment._** Terran tend toward no particular alignment. The best and the worst are found among them.
 
 **_Languages._** You can speak, read, and write English and two extra languages of your choice.
 
@@ -428,7 +428,7 @@ Some humans go the way of bionic enhancement. That is installing computer hardwa
 
 **_Ability Score Increase._** Two ability scores increase by 1. One must come from your base race.
 
-**_Size._** Bionics don't differ much from Earthborn and range between 5 and 6 feet. Regardless of your position in that range, your size is Medium.
+**_Size._** Bionics don't differ much from Terran and range between 5 and 6 feet. Regardless of your position in that range, your size is Medium.
 
 **_Speed._** Your base walking speed is 30 feet.
 

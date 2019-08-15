@@ -1,5 +1,7 @@
 # Cybernetic
+*requires bionic or synthetic sleeve*
 
+A tekcaster integrated with an alien AI.
 
 ## Class Features
 
@@ -21,9 +23,9 @@ As a cybernetic, you gain the following class features.
 
 **Tools:** None
 
-**Saving Throws:** Wisdom, Charisma
+**Saving Throws:** Wisdom, Wit
 
-**Skills:** Choose two skills from History, Charm, History, Intimidation, Investigation, and Nature
+**Skills:** Choose two skills from History, Charm, Intimidation, Investigation, and Nature
 
 ### Equipment
 
@@ -72,37 +74,37 @@ Additionally, when you gain a level in this class, you can choose one of the cyb
 
 **The Cybernetic (table)**
 
-| Level | Proficiency Bonus | Features                        | Cantrips Known | Tek Skills Known | Tek Slots | Slot Level | Modules Known |
+| Level | Proficiency Bonus | Features | Cantrips Known | Tek Skills Known | Tek Slots | Slot Level | Modules Known |
 |-------|-------------------|---------------------------------|----------------|--------------|-------------|------------|-------------------|
-| 1st   | +2                | AI Patron, Link Tek | 2              | 2            | 1           | 1st        | -                 |
-| 2nd   | +2                | Symbiote Modules            | 2              | 3            | 2           | 1st        | 2                 |
-| 3rd   | +2                | Symbiote                       | 2              | 4            | 2           | 2nd        | 2                 |
-| 4th   | +2                | Ability Score Improvement       | 3              | 5            | 2           | 2nd        | 2                 |
-| 5th   | +3                | -                               | 3              | 6            | 2           | 3rd        | 3                 |
-| 6th   | +3                | AI Patron feature     | 3              | 7            | 2           | 3rd        | 3                 |
-| 7th   | +3                | -                               | 3              | 8            | 2           | 4th        | 4                 |
-| 8th   | +3                | Ability Score Improvement       | 3              | 9            | 2           | 4th        | 4                 |
-| 9th   | +4                | -                               | 3              | 10           | 2           | 5th        | 5                 |
-| 10th  | +4                | AI Patron feature     | 4              | 10           | 2           | 5th        | 5                 |
-| 11th  | +4                | Mystic Arcanum (6th level)      | 4              | 11           | 3           | 5th        | 5                 |
-| 12th  | +4                | Ability Score Improvement       | 4              | 11           | 3           | 5th        | 6                 |
-| 13th  | +5                | Mystic Arcanum (7th level)      | 4              | 12           | 3           | 5th        | 6                 |
-| 14th  | +5                | AI Patron feature     | 4              | 12           | 3           | 5th        | 6                 |
-| 15th  | +5                | Mystic Arcanum (8th level)      | 4              | 13           | 3           | 5th        | 7                 |
-| 16th  | +5                | Ability Score Improvement       | 4              | 13           | 3           | 5th        | 7                 |
-| 17th  | +6                | Mystic Arcanum (9th level)      | 4              | 14           | 4           | 5th        | 7                 |
-| 18th  | +6                | -                               | 4              | 14           | 4           | 5th        | 8                 |
-| 19th  | +6                | Ability Score Improvement       | 4              | 15           | 4           | 5th        | 8                 |
-| 20th  | +6                | Symbiote Master                 | 4              | 15           | 4           | 5th        | 8                 |
+| 1st | +2 | AI Patron, Link Tek | 2 | 2 | 1 | 1st | - |
+| 2nd | +2 | Symbiote Modules | 2 | 3 | 2 | 1st | 2 |
+| 3rd | +2 | Symbiote | 2 | 4 | 2 | 2nd | 2 |
+| 4th | +2 | Ability Score Improvement | 3 | 5 | 2 | 2nd | 2 |
+| 5th | +3 | - | 3 | 6 | 2 | 3rd | 3 |
+| 6th | +3 | AI Patron feature | 3 | 7 | 2 | 3rd | 3 |
+| 7th | +3 | - | 3 | 8 | 2 | 4th | 4 |
+| 8th | +3 | Ability Score Improvement | 3 | 9 | 2 | 4th | 4 |
+| 9th | +4 | - | 3 | 10 | 2 | 5th | 5 |
+| 10th | +4 | AI Patron feature | 4 | 10 | 2 | 5th | 5 |
+| 11th | +4 | Mystic Arcanum (6th level) | 4 | 11 | 3 | 5th | 5 |
+| 12th | +4 | Ability Score Improvement | 4 | 11 | 3 | 5th | 6 |
+| 13th | +5 | Mystic Arcanum (7th level) | 4 | 12 | 3 | 5th | 6 |
+| 14th | +5 | AI Patron feature | 4 | 12 | 3 | 5th | 6 |
+| 15th | +5 | Mystic Arcanum (8th level) | 4 | 13 | 3 | 5th | 7 |
+| 16th | +5 | Ability Score Improvement | 4 | 13 | 3 | 5th | 7 |
+| 17th | +6 | Mystic Arcanum (9th level) | 4 | 14 | 4 | 5th | 7 |
+| 18th | +6 | - | 4 | 14 | 4 | 5th | 8 |
+| 19th | +6 | Ability Score Improvement | 4 | 15 | 4 | 5th | 8 |
+| 20th | +6 | Symbiote Master | 4 | 15 | 4 | 5th | 8 |
 
 </div>
 ### Tekcasting Ability
 
-Charisma + Will is your Tekcasting ability for your cybernetic tek skills, so you use your Charisma whenever a tek skill refers to your Tekcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a cybernetic tek skill you cast and when making an attack roll with one.
+Wit + Will is your Tekcasting ability for your cybernetic tek skills, so you use your Wit whenever a tek skill refers to your Tekcasting ability. In addition, you use your Wit modifier when setting the saving throw DC for a cybernetic tek skill you cast and when making an attack roll with one.
 
-**Tek save DC** = 8 + your proficiency bonus + your Charisma modifier + your Will modifier
+**Tek save DC** = 8 + your proficiency bonus + your Wit modifier
 
-**Tek attack modifier** = your proficiency bonus + your Charisma modifier + your Will modifier + your Wit modifier
+**Tek attack modifier** = your proficiency bonus + your Wit modifier
 
 ### Tekcasting Focus
 
@@ -171,7 +173,7 @@ If a nanotech module has prerequisites, you must meet them to learn it. You can 
 
 *Prerequisite:* nanotech blast *cantrip*
 
-When you cast *nanotech blast*, add your Charisma modifier to the damage it deals on a hit.
+When you cast *nanotech blast*, add your Wit modifier to the damage it deals on a hit.
 
 ### Armor Module
 
@@ -189,7 +191,7 @@ You can cast *speak with animals* at will, without expending a tek skill slot.
 
 ### Charm Module
 
-You gain proficiency in the Charm and Charm skills.
+You gain proficiency in the Charm and Diplomacy skills.
 
 ### Bewitching Whispers Module
 
@@ -241,7 +243,7 @@ You can use your action to touch a willing humanoid and perceive through its sen
 
 *Prerequisite: 12th level, Nanoblade feature*
 
-When you hit a creature with your Nanoblade, the creature takes extra radiation damage equal to your Charisma modifier (minimum 1).
+When you hit a creature with your Nanoblade, the creature takes extra radiation damage equal to your Wit modifier (minimum 1).
 
 ### Disguise Module
 
@@ -352,29 +354,29 @@ The Fiend lets you choose from an expanded list of tek skills when you learn a c
 
 **Fiend Expanded Tek Skills (table)**
 
-| Tek Level | Tek Skills                            |
+| Tek Level | Tek Skills |
 |-------------|-----------------------------------|
-| 1st         | burning hands, command            |
-| 2nd         | blindness/deafness, scorching ray |
-| 3rd         | fireball, stinking cloud          |
-| 4th         | fire shield, wall of fire         |
-| 5th         | flame strike, hallow              |
+| 1st | burning hands, command |
+| 2nd | blindness/deafness, scorching ray |
+| 3rd | fireball, stinking cloud |
+| 4th | fire shield, wall of fire |
+| 5th | flame strike, hallow |
 
-## Dark One's Blessing
+## Alien's Blessing
 
-Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your cybernetic level (minimum of 1).
+Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Wit modifier + your cybernetic level (minimum of 1).
 
-## Dark One's Own Luck
+## Alien's Own Luck
 
 Starting at 6th level, you can call on your Symbiote to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
-## Fiendish Resilience
+## Alien Resilience
 
 Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from tek weapons or silver weapons ignores this resistance.
 
-## Hurl Through Hell
+## Hurl Through Dimensions
 
 Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.
 
@@ -390,13 +392,13 @@ The Fiend lets you choose from an expanded list of tek skills when you learn a c
 
 **Fiend Expanded Tek Skills (table)**
 
-| Tek Level | Tek Skills                            |
+| Tek Level | Tek Skills |
 |-------------|-----------------------------------|
-| 1st         | shield, wrathful smite          |
-| 2nd         | blur, branding smite |
-| 3rd         | blink, elemental weapon          |
-| 4th         | phantasmal killer, staggering smite |
-| 5th         | banishing smite, cone of cold |
+| 1st | shield, wrathful smite |
+| 2nd | blur, branding smite |
+| 3rd | blink, elemental weapon |
+| 4th | phantasmal killer, staggering smite |
+| 5th | banishing smite, cone of cold |
 
 ## Blade Hex
 
@@ -404,22 +406,22 @@ Starting at 1st level, you gain the ability to place a baleful curse on someone.
 
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
 - Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.
-- If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).
+- If the cursed target dies, you regain hit points equal to your warlock level + your Wit modifier (minimum of 1 hit point).
 - You can't use this feature again until you finish a short or long rest.
 
 \page
 
 ## Hex Warrior
 
-At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.
+At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, and martial weapons.
 
-The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.
+The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Wit modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Accursed Specter
 
-Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a specter, the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
+Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a specter, the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Wit modifier (minimum of +0).
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 
