@@ -50,20 +50,7 @@ A single mercenary can be employed for 100 credits per day. A mercenary squad of
 
 ### Combat Mechanics
 
-Mercenary squads roll initiative as a group with no initiative bonus. If a mercenary takes damage they must make a damage saving throw:
-
-1-5: Instantly Dead.
-
-6-10: Gravely injured. The mercenary is unconscious and must be stabilized within 1 minute of going unconscious.
-
-11-15: Slightly injured. The mercenary can continue the fight, but must retreat at the end of the encounter until a full rest.
-
-16+: Flesh wound. The mercenary can continue fighting.
-
-Cover: If hit while behind cover, mercenaries gain +5 to damage saving throws.
-
-Saving Throws: If an attack requires a saving throw, the base modifier the mercenary gets is +2.
-
+Mercenary squads roll initiative as a group with no initiative bonus. A PC squad leader can give orders to their squad with a bonus action. The squad will continue to follow that order until told differently. You can specify specific members of the squad with the order. Other squad members will continue with their previous orders.
 
 ### Leadership Inspiration
 
