@@ -1,6 +1,6 @@
 ## Belter
 
-Belter's have developed unique biology living in the low gravity of the asteroid belt. The lucky onces live in the mysterious derilict alien citadel, Krelavilla. The unlucky ones forced to work in the mines of the belt; providing the rest of the solar system with the metals to build the great armadas of the Solar system.
+Belter's have developed unique biology living in the low gravity of the asteroid belt. The lucky onces live in the mysterious derilict alien spaceship, now a city called Krelavilla. The unlucky ones forced to work in the mines of the belt; providing the rest of the solar system with the metals to build the great armadas of the Solar system.
 
 ### Sleeve Traits
 

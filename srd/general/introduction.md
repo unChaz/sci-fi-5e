@@ -106,7 +106,7 @@ In order to be successful at the given task, you roll the die, and add your skil
 The person determining the difficulty might increment the number on the table based on environmental conditions that might make the task easier or more difficult.
 
 ## Tekcasting
- Major advancements in technology have enabled the use of seemingly supernatural powers. Some humans have the ability to use tekcasters, devices discovered from a derelict alien spacestation.
+ Major advancements in technology have enabled the use of seemingly supernatural powers. Some humans have the ability to use tekcasters, devices discovered from a derelict alien ship.
 
 ### Focus
 The focus used by those casting tek skills is called a Tekcaster. The tekcaster is a device worn on the wrist and is connected to the fingers. Using a combination of hand movements, vocal commands, and material components, the tekcaster can be used to cast tek skills. One can wield a weapon while wearing a tekcaster, but the hand must be free to use it.

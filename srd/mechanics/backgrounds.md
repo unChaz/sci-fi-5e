@@ -97,7 +97,7 @@ Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker's Tools, Medkit]
 
 ## Marine
 
-
+You've spent some time in the military. You have been trained by the best of the best, and are a war hardened veteran.
 
 Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
 Tool Proficiencies: Medkit
