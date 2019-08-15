@@ -1,4 +1,4 @@
-#  Scoundrel
+# Scoundrel
 
 ##  Class Features
 
@@ -8,9 +8,9 @@ As a scoundrel, you have the following class features.
 
 **Hit Dice:** 1d8 per scoundrel level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per scoundrel level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per scoundrel level after 1st
 
 ###  Proficiencies
 
@@ -200,7 +200,7 @@ Upon reaching 18th level, whenever you score a critical hit on an attack with a 
 These trick shots are presented in alphabetical order.
 
 **Bullying Shot**
-You can use the powerful blast and thundering sound of your firearm to shake the resolve of a creature. You can expend one grit point while making a Charisma (Intimidation) check to gain advantage on the roll.
+You can use the powerful blast and thundering sound of your firearm to shake the resolve of a creature. You can expend one grit point while making a Intimidation check to gain advantage on the roll.
 
 **Dazing Shot**
 When you make a firearm attack against a creature, you can expend one grit point to attempt to dizzy your opponent. On a hit, the creature suffers normal damage and must make a Constitution saving throw or suffer disadvantage on attacks until the end of their next turn.
@@ -242,7 +242,7 @@ Starting at 9th level, if you spend at least 1 minute observing or interacting w
 
 - Intelligence score
 - Wisdom score
-- Charisma score
+- Wit score
 - Class levels (if any)
 
 At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.
@@ -251,6 +251,6 @@ At the DM's option, you might also realize you know a piece of the creature's hi
 Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you.
 
 #### Soul of Deceit
-Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma (Deception) check contested by the mind reader's Wisdom (Insight) check.
+Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Deception check contested by the mind reader's Wisdom (Insight) check.
 
 Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.

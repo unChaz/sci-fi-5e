@@ -9,9 +9,9 @@ As a soldier, you gain the following class features.
 
 **Hit Dice:** 1d10 per soldier level
 
-**Hit Points at 1st Level:** 10 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 10 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per soldier level after 1st
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier per soldier level after 1st
 
 ###  Proficiencies
 
@@ -153,7 +153,7 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 
 ####  Survivor
 
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution Modifier + Will modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution Modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 
 ###  Assault Specialist
 

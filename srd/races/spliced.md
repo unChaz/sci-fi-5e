@@ -51,7 +51,7 @@ You have proficiency with the Intimidation skill.
 ##### Shifting Feature
 While shifted, you can use your elongated fangs to make an unarmed strike as a bonus action. If you hit with your fangs, you can deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
-####Swiftstride
+#### Swiftstride
 Swiftstride shifters are graceful and quick. Typically feline in nature, swiftstride shifters are often aloof and difficult to pin down physically or socially.
 
 ##### Ability Score Increase

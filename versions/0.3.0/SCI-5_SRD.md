@@ -591,9 +591,9 @@ As an arcanist, you gain the following class features
 
 **Hit Dice:** 1d6 per Arcanist level
 
-**Hit Points at 1st Level:** 6 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 6 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier + Will modifier per Arcanist level after 1st
+**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier per Arcanist level after 1st
 
 ### Proficiencies
 
@@ -780,9 +780,9 @@ As a brute, you gain the following class features.
 
 **Hit Dice:** 1d12 per brute level
 
-**Hit Points at 1st Level:** 12 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 12 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution Modifier + Will modifier per brute level after 1st
+**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution Modifier per brute level after 1st
 
 ### Proficiencies
 
@@ -825,7 +825,7 @@ Once you have raged the number of times shown for your brute level in the Rages 
 
 ### Unarmored Defense
 
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution Modifier + Will modifier. You can use A medkit and still gain this benefit.
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution Modifier. You can use A medkit and still gain this benefit.
 
 ### Reckless Attack
 
@@ -956,9 +956,9 @@ As a cybernetic, you gain the following class features.
 
 **Hit Dice:** 1d8 per cybernetic level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per cybernetic level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per cybernetic level after 1st
 
 ### Proficiencies
 
@@ -1389,9 +1389,9 @@ As a evangelist, you gain the following class features.
 
 **Hit Dice:** 1d8 per evangelist level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per evangelist level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per evangelist level after 1st
 
 #### Proficiencies
 
@@ -1589,9 +1589,9 @@ As a guardian, you gain the following class features.
 
 **Hit Dice:** 1d10 per guardian level
 
-**Hit Points at 1st Level:** 10 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 10 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per guardian level after 1st
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier per guardian level after 1st
 
 ### Proficiencies
 
@@ -1866,9 +1866,9 @@ As a monk, you gain the following class features.
 
 **Hit Dice:** 1d8 per monk level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per monk level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per monk level after 1st
 
 ###  Proficiencies
 
@@ -2086,9 +2086,9 @@ As a morph, you gain the following class features.
 
 **Hit Dice:** 1d8 per morph level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per morph level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per morph level after 1st
 
 ###  Proficiencies
 
@@ -2358,9 +2358,9 @@ As a priest, you gain the following class features.
 
 **Hit Dice:** 1d8 per priest level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per priest level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per priest level after 1st
 
 ###  Proficiencies
 
@@ -2569,9 +2569,9 @@ As a scion, you gain the following class features.
 
 **Hit Dice:** 1d6 per scion level
 
-**Hit Points at 1st Level:** 6 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 6 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier + Will modifier per scion level after 1st
+**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution Modifier per scion level after 1st
 
 ###  Proficiencies
 
@@ -2814,9 +2814,9 @@ As a scoundrel, you have the following class features.
 
 **Hit Dice:** 1d8 per scoundrel level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per scoundrel level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per scoundrel level after 1st
 
 ###  Proficiencies
 
@@ -2979,9 +2979,9 @@ As a scout, you gain the following class features.
 
 **Hit Dice:** 1d10 per scout level
 
-**Hit Points at 1st Level:** 10 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 10 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per scout level after 1st
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier per scout level after 1st
 
 ###  Proficiencies
 
@@ -3209,9 +3209,9 @@ As a soldier, you gain the following class features.
 
 **Hit Dice:** 1d10 per soldier level
 
-**Hit Points at 1st Level:** 10 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 10 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier + Will modifier per soldier level after 1st
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution Modifier per soldier level after 1st
 
 ###  Proficiencies
 
@@ -3353,7 +3353,7 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 
 ####  Survivor
 
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution Modifier + Will modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution Modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 
 ###  Assault Specialist
 

@@ -8,9 +8,9 @@ As a brute, you gain the following class features.
 
 **Hit Dice:** 1d12 per brute level
 
-**Hit Points at 1st Level:** 12 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 12 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution Modifier + Will modifier per brute level after 1st
+**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution Modifier per brute level after 1st
 
 ### Proficiencies
 
@@ -53,7 +53,7 @@ Once you have raged the number of times shown for your brute level in the Rages 
 
 ### Unarmored Defense
 
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution Modifier + Will modifier. You can use A medkit and still gain this benefit.
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution Modifier. You can use A medkit and still gain this benefit.
 
 ### Reckless Attack
 

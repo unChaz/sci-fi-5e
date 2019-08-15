@@ -8,9 +8,9 @@ As a evangelist, you gain the following class features.
 
 **Hit Dice:** 1d8 per evangelist level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per evangelist level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per evangelist level after 1st
 
 #### Proficiencies
 

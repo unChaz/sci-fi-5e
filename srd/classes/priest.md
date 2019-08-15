@@ -8,9 +8,9 @@ As a priest, you gain the following class features.
 
 **Hit Dice:** 1d8 per priest level
 
-**Hit Points at 1st Level:** 8 + your Constitution Modifier + Will modifier
+**Hit Points at 1st Level:** 8 + your Constitution Modifier
 
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier + Will modifier per priest level after 1st
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution Modifier per priest level after 1st
 
 ###  Proficiencies
 
