@@ -102,7 +102,7 @@ Average skill levels can be derived from these core Sleeve Traits, and Persona T
 |Perception | Wisdom + Wit|
 |Computers | Wit + Intelligence|
 |Performance | Dexterity + Charisma|
-|Tinker | Dexterity + Intelligence|
+|Engineering | Dexterity + Intelligence|
 |Piloting | Dexterity + Intelligence|
 |History | Wisdom + Intelligence |
 |Trickery | Dexterity + Wit|
@@ -283,7 +283,7 @@ Accustom to the dark of space and the deep asteroid mines, Belters have develope
 **_Languages._** You can speak, read, and write Creole, English, and one extra language of your choice.
 
 #### Scavengers
-Belters are used to getting by without much resources. You gain proficiency with **Tinker**.
+Belters are used to getting by without much resources. You gain proficiency with **Engineering**.
 \page
 
 ## Galilean
@@ -339,15 +339,15 @@ Martian Pilots are the best of the best, and are all taught at a young age. You 
 
 \page
 
-## Obsidian
-The Obsidian were once space explorers who got carried away with genetic modification. The obsidian were designed to be the perfect soldier. They terrorized the solar system for centuries.
-After they were conquered by the Authority, they were cast out to the icecaps of Mars and Earth, and kept under close watch. Though free now, Obsidian mostly take jobs as soldiers or body guards.
+## Orcs
+The Orcs were once space explorers who got carried away with genetic modification. The orcs were designed to be the perfect soldier. They terrorized the solar system for centuries.
+After they were conquered by the Authority, they were cast out to the icecaps of Mars and Earth, and kept under close watch. Though free now, Orcs mostly take jobs as soldiers or body guards.
 
 ### Sleeve Traits
 
 **_Ability Score Increase._** Your Strength increases by 1.
 
-**_Size._** Obsidians are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.
+**_Size._** Orcs are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.
 
 **_Speed._** Your base walking speed is 30 feet. 
 
@@ -361,7 +361,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 **_Ability Score Increase._** Your Wisdom increases by 1.
 
-**_Alignment._** Despite their ruthless demeanor, Obsidians tend toward no particular alignment.
+**_Alignment._** Despite their ruthless demeanor, Orcs tend toward no particular alignment.
 
 **_Languages._** You can speak, read, and write German, English, and one extra language of your choice.
 
@@ -468,7 +468,7 @@ Once you shift, you can't do so again until you finish a short or long rest.
 
 **_Ability Score Increase._** Your Wisdom increases by 1.
 
-**_Alignment._** Despite their ruthless demeanor, Obsidians tend toward no particular alignment.
+**_Alignment._** Despite their ruthless demeanor, Orcs tend toward no particular alignment.
 
 **_Languages._** You can speak, read, and write English, and one extra language of your choice.
 
@@ -622,8 +622,8 @@ Tool Proficiency: [Gaming Set, Musical Instrument]
 
 You are more comfortable in null gravity and in a confined metal cockpit than you are planetside.
 
-Skill Proficiencies: Acrobatics. Choose 1 from [Tinker, Computers, Pilot].
-Tool Proficiency: Choose 1 from [Navigator's Kit, Tinker's Kit]
+Skill Proficiencies: Acrobatics. Choose 1 from [Engineering, Computers, Pilot].
+Tool Proficiency: Choose 1 from [Navigator's Kit, Engineering's Kit]
 
 **Spacewalker**: You do not have to roll ability check to move through null gravity.
 
@@ -639,10 +639,10 @@ Weapon Proficiency: Pulse Rapier, Pulse Whip
 
 Since childhood you've retreated to the comfortable world of cyberspace.
 
-Skill Proficiencies: Computers, Tinker. Choose 1 from [Stealth, Investigate, Trickery]
-Tool Proficiency: Choose one: [Slicer's Kit, Forgery Kit]
+Skill Proficiencies: Computers, Engineering. Choose 1 from [Stealth, Investigate, Trickery]
+Tool Proficiency: Choose one: [Hacker's Kit, Forgery Kit]
 
-**Stealthy Slicer**: You have advantage on Stealth checks when trying to hack a system unnoticed.
+**Stealthy Hacker**: You have advantage on Stealth checks when trying to hack a system unnoticed.
 
 ## Criminal/Spy
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
@@ -669,7 +669,7 @@ Tool Proficiencies: Navigator's Tools
 You've had a successful career in law enforcement. You've decided to go freelance since the private sector tends to pay better.
 
 Skill Proficiencies: Investigation. Choose 1 from [Insight, Perception, History]
-Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker's Tools, Medkit]
+Tool Proficiencies: Choose 1 from [Disguise Kit, Engineering's Tools, Medkit]
 
 **Well Connected**. You still have contacts in CommSec, and your reputation usually helps you get out of tight spots. CommSec officers are more likely to share privileged information not available to most civilians.
 
@@ -699,7 +699,7 @@ Weapon Proficiencies: Pulse Rapier/Pulse Whip
 
 You have been trained to fly any kind of spacecraft. Your expertise makes you a valuable asset to any spacefaring venture.
 
-Skill Proficiencies: Pilot. Choose 1 from [Tinker, Perception, Computers]
+Skill Proficiencies: Pilot. Choose 1 from [Engineering, Perception, Computers]
 Tool Proficiencies: Navigator's Tools
 
 **Frame Jack**: You have been surgically modified with hardware that allows you to jack into a ship's navigation systems. When frame jacked in you always know the status of ship systems and can simultaneously control navigation and weapon systems on smaller ships.
@@ -724,13 +724,13 @@ Tool Proficiencies: Choose 2 from [Botanist's Kit, MedKit, Poisoner's Kit]
 ## Engineer
 You know the ins and outs of most ships and devices.
 
-Skill Proficiencies: Tinker. Choose 1 from [Computers, Investigate, Pilot]
-Tool Proficiencies: Tinker's Tools
+Skill Proficiencies: Engineering. Choose 1 from [Computers, Investigate, Pilot]
+Tool Proficiencies: Engineering's Tools
 
 **Choose 1:**
 
-**Inventor**: You've invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Tinkering with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
-**Improvised Engineerin**: You can macgyver tools together for any situation using the objects available to you. Gain advantage on Tinker checks when creating a tool for a specific situation.
+**Inventor**: You've invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Engineeringing with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
+**Improvised Engineerin**: You can macgyver tools together for any situation using the objects available to you. Gain advantage on Engineering checks when creating a tool for a specific situation.
 
 ```
 ```
@@ -1262,9 +1262,9 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 ```
 ```
-## Tinker's Tools
+## Engineering's Tools
 
-These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency. Using Tinker's tools you can repair electronic and mechanical devices with an ability check.
+These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency. Using Engineering's tools you can repair electronic and mechanical devices with an ability check.
 
 ## Disguise Kit
 
@@ -1293,7 +1293,7 @@ A poisoner's kit includes the vials, chemicals, and other equipment necessary fo
 
 ## Thieves' Tools
 This set of tools includes a datapad, a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or pick physical locks as well as hack electronic locks.
-Slicer's Kit. This set of devices allows you to hack into computer systems using a Slicing check.
+Hacker's Kit. This set of devices allows you to hack into computer systems using a Slicing check.
 
 ## Medkit
 This is a simple medic's toolkit to perform any basic field treatment.
@@ -1445,7 +1445,7 @@ When you use your action to Dash, you can use a bonus action to make one melee w
 You have studied languages of computers, gaining the following benefits:
 - Increase your Wit score by 1, to a maximum of 20.
 - You can read any computer code and understand its purpose.
-- You can with a Science or Tinker check (your choice) alter the code of a machine that you have control over to a reasonable degree. For example you can recode a defensive turret to attack your enemies, or reprogram a hostile robot act a butler droid. The amount of time and check DC is to the discretion of the DM.
+- You can with a Science or Engineering check (your choice) alter the code of a machine that you have control over to a reasonable degree. For example you can recode a defensive turret to attack your enemies, or reprogram a hostile robot act a butler droid. The amount of time and check DC is to the discretion of the DM.
 
 #### DEFENSIVE DUELIST
 *Prerequisite: Dexterity 13 or higher*

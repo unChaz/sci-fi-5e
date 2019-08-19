@@ -1,21 +1,19 @@
 class Compiler
-  def initialize(version)
+  def initialize(filename, version)
+    @filename = filename
     @version = version
   end
 
   def run
-    puts "Building Sci-fi SRD Version #{@version}"
+    puts "Building Sci-fi #{@filename} Version #{@version}"
     Dir.mkdir("versions/#{version}") unless File.exists?("versions/#{version}")
-    # build_file('srd')
-    build_file('monster_manual')
-    # build_file('tekcasting')
-    # build_file('tek_items')
+    build_file(@filename)
   end
 
   def build_file(filename)
     File.open(file_name(filename.upcase), 'w+') do | write_file |
       @write_file = write_file
-      append_template(load_sub_template('srd/styles.html'))
+      append_template(load_sub_template('docs/styles.html'))
       append_template(main_template(filename))
     end
   end
@@ -46,7 +44,7 @@ class Compiler
   end
 
   def main_template(filename)
-    @main_template ||= File.open("srd/#{filename}.html")
+    @main_template ||= File.open("docs/#{filename}.html")
   end
 
   def load_sub_template(name)
@@ -59,14 +57,18 @@ class Compiler
 
   def template_file_name(merge_tag)
     unless merge_tag.nil?
-      file_name = merge_tag.sub('[[', 'srd/')
+      file_name = merge_tag.sub('[[', 'docs/')
       file_name.sub!(']]', '.md')
     end
   end
 end
 
 def version
+  ARGV[1]
+end
+
+def file
   ARGV.first
 end
 
-Compiler.new(version).run
+Compiler.new(file, version).run

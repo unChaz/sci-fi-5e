@@ -87,7 +87,7 @@ Average skill levels can be derived from these core Sleeve Traits, and Persona T
 |Perception | Wisdom + Wit|
 |Computers | Wit + Intelligence|
 |Performance | Dexterity + Charisma|
-|Tinker | Dexterity + Intelligence|
+|Engineering | Dexterity + Intelligence|
 |Pilot | Dexterity + Intelligence|
 |History | Wisdom + Intelligence |
 |Trickery | Dexterity + Wit|
@@ -289,8 +289,8 @@ Tool Proficiency: [Gaming Set, Musical Instrument]
 
 You are more comfortable in null gravity and in a confined metal cockpit than you are planetside.
 
-Skill Proficiencies: Acrobatics. Choose 1 from [Tinker, Computers, Pilot].
-Tool Proficiency: Choose 1 from [Navigator's Kit, Tinker's Kit]
+Skill Proficiencies: Acrobatics. Choose 1 from [Engineering, Computers, Pilot].
+Tool Proficiency: Choose 1 from [Navigator's Kit, Engineering's Kit]
 
 **Spacewalker**: You do not have to roll ability check to move through null gravity.
 
@@ -306,10 +306,10 @@ Weapon Proficiency: Pulse Rapier, Pulse Whip
 
 Since childhood you've retreated to the comfortable world of cyberspace.
 
-Skill Proficiencies: Computers, Tinker. Choose 1 from [Stealth, Investigate, Trickery]
-Tool Proficiency: Choose one: [Slicer's Kit, Forgery Kit]
+Skill Proficiencies: Computers, Engineering. Choose 1 from [Stealth, Investigate, Trickery]
+Tool Proficiency: Choose one: [Hacker's Kit, Forgery Kit]
 
-**Stealthy Slicer**: You have advantage on Stealth checks when trying to hack a system unnoticed.
+**Stealthy Hacker**: You have advantage on Stealth checks when trying to hack a system unnoticed.
 
 ## Criminal/Spy
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
@@ -334,7 +334,7 @@ Tool Proficiencies: Navigator's Tools
 You've had a successful career in law enforcement. You've decided to go freelance since the private sector tends to pay better.
 
 Skill Proficiencies: Investigation. Choose 1 from [Insight, Perception, History]
-Tool Proficiencies: Choose 1 from [Disguise Kit, Tinker's Tools, Medkit]
+Tool Proficiencies: Choose 1 from [Disguise Kit, Engineering's Tools, Medkit]
 
 **Well Connected**. You still have contacts in CommSec, and your reputation usually helps you get out of tight spots. CommSec officers are more likely to share privileged information not available to most civilians.
 
@@ -362,7 +362,7 @@ Weapon Proficiencies: Pulse Rapier/Pulse Whip
 
 You have been trained to fly any kind of spacecraft. Your expertise makes you a valuable asset to any spacefaring venture.
 
-Skill Proficiencies: Pilot. Choose 1 from [Tinker, Perception, Computers]
+Skill Proficiencies: Pilot. Choose 1 from [Engineering, Perception, Computers]
 Tool Proficiencies: Navigator's Tools
 
 **Frame Jack**: You have been surgically modified with hardware that allows you to jack into a ship's navigation systems. When frame jacked in you always know the status of ship systems and can simultaneously control navigation and weapon systems on smaller ships.
@@ -387,13 +387,13 @@ Tool Proficiencies: Choose 2 from [Botanist's Kit, MedKit, Poisoner's Kit]
 ## Engineer
 You know the ins and outs of most ships and devices.
 
-Skill Proficiencies: Tinker. Choose 1 from [Computers, Investigate, Pilot]
-Tool Proficiencies: Tinker's Tools
+Skill Proficiencies: Engineering. Choose 1 from [Computers, Investigate, Pilot]
+Tool Proficiencies: Engineering's Tools
 
 **Choose 1:**
 
-**Inventor**: You've invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Tinkering with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
-**Improvised Engineerin**: You can macgyver tools together for any situation using the objects available to you. Gain advantage on Tinker checks when creating a tool for a specific situation.
+**Inventor**: You've invented something that is a component of a commonly used technology (And you love to  mention that fact). Because of this, you know that piece of technology exceptionally well. Gain advantage when Engineeringing with that specific technology. For example you might have invented the intake flux regulator on ship propulsion systems. You would have advantage on fixing or operating such systems.
+**Improvised Engineerin**: You can macgyver tools together for any situation using the objects available to you. Gain advantage on Engineering checks when creating a tool for a specific situation.
 
 \page
 
