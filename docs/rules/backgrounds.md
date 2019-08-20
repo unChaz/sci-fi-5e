@@ -20,7 +20,7 @@ Tool Proficiency: Choose 1 from [Navigator's Kit, Engineering's Kit]
 
 ### Duelist
 
-You have risen in the ranks of duelists, and have earned your respect among the elite praetorians.
+You have risen in the ranks of duelists, and have earned your respect among the elite praetorian.
 
 Skill Proficiencies: Physique. Choose 1 from [Acrobatics, Charm, Intimidation]
 Tool Proficiency: Choose 1 from [Musical Instrument, Navigator's Kit, Medkit]

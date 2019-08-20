@@ -156,6 +156,8 @@ Below is a list of common freelancer gear.
 
 **_Handcuffs_** These mechanical restraints can bind a Small or Medium creature. Escaping the handcuffs requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of handcuffs is linked to a secured datapad. This can be bypassed with a successful DC 15 hacking check. Handcuffs have 15 hit points.
 
+**_Magboots._** Boots that magnetize to surface improving mobility in null-g environments. They must be activated with an action.
+
 **Med Kit._** This kit is a pouch containing synthetic flesh, salves, splints, antibiotics, and a defibrillator. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check. Med Kit can also be used to triage an injured character if a character has the ability to do so.
 
 **_Mess Kit._** This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.

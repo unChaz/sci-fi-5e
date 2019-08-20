@@ -18,13 +18,13 @@ You do not sleep. Instead you go into a low power mode for 4 hours per day to re
 #### Upgrades
 Choose one from below:
 
-##### Electromagnetics
-Synths can activate electormagnets in their feet and walk on metal surfaces in null-G as if in 1G  without the need of GravBoots or MagBoots.
+##### Electromagnetic
+Synths can activate electromagnets in their feet and walk on metal surfaces in null-G as if in 1G  without the need of GravBoots or MagBoots. This feature can be activated at will without the use of an action.
 
 In addition, if you are within 10 feet of a metal object, you can point your electromagnets to it. If it weighs less than you it comes to you at the rate of 30 feet per round. If you weigh less than the object, you move towards it at the rate of 30 feet per round.
 
 ##### Facechanger
-Enhanced epidermis allows the synth to permenantly change their appearance at will. You must complete long rest before using this feature again.
+Enhanced epidermis allows the synth to permanently change their appearance at will. You must complete long rest before using this feature again.
 
 ##### Defense Systems
 You learn the cantrips **Shocking Grasp**, **Ray of Frost**, and **Firebolt**.

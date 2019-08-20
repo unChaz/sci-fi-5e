@@ -1,5 +1,5 @@
 ## Martian
-The Martian Navy is known for it's disciplined marines. The Martian children are taught from a young age. The Helium3 deep under the surface of Mars is a valuable asset throughout the system. Mars is also known for its ancient Roman style of educating their youth in the institutes across the planet. Situated between the core and the rim, the Martians have been exposed to both cultures, and the people from Mars are very diverse.
+Martians refer to upper class human citizens that live on the surface of Mars. The Martian Navy is known for it's disciplined marines. The Martian children are taught from a young age. The Helium3 deep under the surface of Mars is a valuable asset throughout the system. Mars is also known for its ancient Roman style of educating their youth in the institutes across the planet. Situated between the core and the rim, the Martians have been exposed to both cultures, and the people from Mars are very diverse.
 
 ### Sleeve Traits
 
