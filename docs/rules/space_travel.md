@@ -14,7 +14,7 @@ Space encounters should be kept simple, and contained in the theater of the mind
 ### Available Maneuvers
 
 ##### Match Velocity
-Whether engaging an enemy vessel, rendevouzing with an ally, or just docking at a space station, you always have to match velocity first. This can be done in most cases without a roll, but if you are attempting to match velocity with a fleeing ship, you must make a (dexterity) piloting check.
+Whether engaging an enemy vessel, rendevouzing with an ally, or just docking at a space station, you always have to match velocity first. This can be done in most cases without a roll, but if you are attempting to match velocity with a fleeing ship, you must make a (dexterity) piloting check. If a ship is actively evading you, your ship must be able to match the max thrust of the ship you are pursuing.
 
 ##### Rendevouz
 Once you have matched velocity with another vessel, you must close the distance before docking. This can be done without a piloting check unless approaching an enemy, or alien vessel. The result of a successful rendevous is to be within range of a vessel or station to dock or fire weapons.
@@ -87,7 +87,7 @@ A small personal interplanetary spacecraft. Roughly 100 meters in length.
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 200
-> - **Speed** 3G
+> - **Speed** 10G
 > - **Hit Dice** 1d10
 > - **Perception** +4 (Basic Scanners)
 > - **Stealth** +4
@@ -110,7 +110,7 @@ A very fast, but small ship designed for racing in the Venusian Ship Racing Circ
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 200
-> - **Speed** 6G
+> - **Speed** 15G
 > - **Hit Dice** 1d10
 > - **Perception** +4 (Basic Scanners)
 > - **Stealth** +4
@@ -130,7 +130,7 @@ A very fast, but small stealth ship outfitted with the latest in Quicksilver Cor
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 200
-> - **Speed** 5G
+> - **Speed** 10G
 > - **Hit Dice** 1d10
 > - **Perception** +4 (Basic Scanners)
 > - **Stealth** +6 (advantage when cloaked)
@@ -151,7 +151,7 @@ Military shuttle that can carry up to 40 passengers. Heavily armored. Armed with
 > ___
 > - **Armor Class** 18
 > - **Hit Points** 250
-> - **Speed** 1G
+> - **Speed** 2G
 > - **Hit Dice** 1d10
 > - **Perception** +4 (Basic Scanners)
 > - **Stealth** +3
@@ -173,7 +173,7 @@ A small but fast warship. Has large rail cannons and missiles. 600m long.
 > ___
 > - **Armor Class** 18
 > - **Hit Points** 300
-> - **Speed** 4G
+> - **Speed** 8G
 > - **Hit Dice** 1d10
 > - **Perception** +6 (Advanced Scanners)
 > - **Crew Capacity** 60
@@ -196,7 +196,7 @@ A medium sized spacecraft that attaches to the hull of enemy ships to forcefully
 > ___
 > - **Armor Class** 20
 > - **Hit Points** 200
-> - **Speed** 2G
+> - **Speed** 4G
 > - **Hit Dice** 1d10
 > - **Perception** +4 (Basic Scanners)
 > - **Crew Capacity** 60
@@ -218,7 +218,7 @@ A large spacecraft similar in size to the 21st century naval battleship.
 > ___
 > - **Armor Class** 20
 > - **Hit Points** 400
-> - **Speed** 3G
+> - **Speed** 8G
 > - **Hit Dice** 2d10
 > - **Perception** +6 (Advanced Scanners)
 > - **Crew Capacity** 600
@@ -243,7 +243,7 @@ A medium sized spacecraft specializing in heavy artillery.
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 150
-> - **Speed** 4G
+> - **Speed** 10G
 > - **Hit Dice** 2d10
 > - **Perception** +6 (Advanced Scanners)
 > - **Crew Capacity** 20
@@ -326,7 +326,7 @@ ___
 > ___
 > - **Armor Class** 22
 > - **Hit Points** 800
-> - **Speed** 3G
+> - **Speed** 2G
 > - **Hit Dice** 3d10
 > - **Perception** +10 (Advanced Scanners)
 > - **Crew Capacity** 5,000
@@ -362,7 +362,7 @@ ___
 > ___
 > - **Armor Class** 24
 > - **Hit Points** 1200
-> - **Speed** 2G
+> - **Speed** 1G
 > - **Hit Dice** 3d10
 > - **Perception** +12 (Advanced Scanners)
 > - **Crew Capacity** 10,000
