@@ -83,7 +83,7 @@ Small atmospheric vehicle that can carry up to 6 passengers.
 ### Spacecraft
 ___
 > ## Star Skiff
-A small personal interplanetary spacecraft. Roughly 100 meters in length.
+A small personal interplanetary spacecraft. Roughly 20 meters in length.
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 200
@@ -126,7 +126,7 @@ A very fast, but small ship designed for racing in the Venusian Ship Racing Circ
 
 ___
 > ## Stealth Skiff
-A very fast, but small stealth ship outfitted with the latest in Quicksilver Corporation stealth tech.
+A very fast, but small stealth ship outfitted with the latest in Quicksilver Corporation stealth tech. 20m long, 8m in diameter.
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 200
@@ -147,7 +147,7 @@ A very fast, but small stealth ship outfitted with the latest in Quicksilver Cor
 \page
 ___
 > ## Shuttle
-Military shuttle that can carry up to 40 passengers. Heavily armored. Armed with light rail guns. 400m.
+Military shuttle that can carry up to 40 passengers. Heavily armored. Armed with light rail guns. 40m long, 30m in diameter.
 > ___
 > - **Armor Class** 18
 > - **Hit Points** 250
@@ -169,7 +169,7 @@ Military shuttle that can carry up to 40 passengers. Heavily armored. Armed with
 
 ___
 > ## Destroyer
-A small but fast warship. Has large rail cannons and missiles. 600m long.
+A small but fast warship. Has large rail cannons and missiles. 40m long, 10m wide
 > ___
 > - **Armor Class** 18
 > - **Hit Points** 300
@@ -214,7 +214,7 @@ A medium sized spacecraft that attaches to the hull of enemy ships to forcefully
 
 ___
 > ## Frigate
-A large spacecraft similar in size to the 21st century naval battleship.
+A large military spacecraft 150m long, 50m in diameter.
 > ___
 > - **Armor Class** 20
 > - **Hit Points** 400
@@ -239,7 +239,7 @@ A large spacecraft similar in size to the 21st century naval battleship.
 
 ___
 > ## Corvette
-A medium sized spacecraft specializing in heavy artillery.
+A medium sized spacecraft specializing in heavy artillery. 60m long, 20m in diameter.
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 150
@@ -262,7 +262,7 @@ A medium sized spacecraft specializing in heavy artillery.
 
 ___
 > ## Carrier
-A large transport ship capable of deploying direct munitions as well as Destroyers and Assault Shuttles. About the size of a cruise ship.
+A large transport ship capable of deploying direct munitions as well as Destroyers and Assault Shuttles. 200m wide, 1km in length.
 > ___
 > - **Armor Class** 18
 > - **Hit Points** 500
@@ -287,7 +287,7 @@ A large transport ship capable of deploying direct munitions as well as Destroye
 ```
 ___
 > ## Battlecruiser
-The military issue cruiser. Usually in the vanguard of any major naval engagement.
+The military issue cruiser. Usually in the vanguard of any major naval engagement 1km i length.
 > ___
 > - **Armor Class** 20
 > - **Hit Points** 600
