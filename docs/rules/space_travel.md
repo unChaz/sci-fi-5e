@@ -81,6 +81,7 @@ While mounted, your speed is 60ft. Can carry 1 additional passenger.
 Small atmospheric vehicle that can carry up to 6 passengers.
 
 ### Spacecraft
+
 ___
 > ## Star Skiff
 A small personal interplanetary spacecraft. Roughly 20 meters in length.
@@ -167,6 +168,11 @@ Military shuttle that can carry up to 40 passengers. Heavily armored. Armed with
 >
 > ***Rail Guns.*** *Ranged Weapon Attack:* +6 to hit, range 1km/5km., one target. *Hit* 40 (6d10 + 10)
 
+#### Cargo Vessels
+
+Cargo vessels are usually categorized by size: small, medium, large. Cargo ships can range from 40m, to the massive 1km long ships. Cargo vesseles are also categorized by type. The most common types you will find are gas, ice, and container. Gas vessels often have massive gas tanks attached to the side. Ice haulers are usually a giant warehouse size box, with the crew cabins along the outside and the thrusters arranged around a single massive cargo bay door. Container vessels are either a long cylyndrical ship that attaches huge containers of goods on the outsides. Some cargo container ships have a large pressurized cargo housing, and cargo is loaded through docking ports.
+
+#### Military Spacecraft
 ___
 > ## Destroyer
 A small but fast warship. Has large rail cannons and missiles. 40m long, 10m wide
