@@ -148,7 +148,7 @@ A very fast, but small stealth ship outfitted with the latest in Quicksilver Cor
 \page
 ___
 > ## Shuttle
-Military shuttle that can carry up to 40 passengers. Heavily armored. Armed with light rail guns. 40m long, 30m in diameter.
+Military shuttle that can carry up to 400 passengers. Heavily armored. Armed with light rail guns. 40m long, 30m in diameter.
 > ___
 > - **Armor Class** 18
 > - **Hit Points** 250
