@@ -168,11 +168,6 @@ Military shuttle that can carry up to 400 passengers. Heavily armored. Armed wit
 >
 > ***Rail Guns.*** *Ranged Weapon Attack:* +6 to hit, range 1km/5km., one target. *Hit* 40 (6d10 + 10)
 
-#### Cargo Vessels
-
-Cargo vessels are usually categorized by size: small, medium, large. Cargo ships can range from 40m, to the massive 1km long ships. Cargo vesseles are also categorized by type. The most common types you will find are gas, ice, and container. Gas vessels often have massive gas tanks attached to the side. Ice haulers are usually a giant warehouse size box, with the crew cabins along the outside and the thrusters arranged around a single massive cargo bay door. Container vessels are either a long cylyndrical ship that attaches huge containers of goods on the outsides. Some cargo container ships have a large pressurized cargo housing, and cargo is loaded through docking ports.
-
-#### Military Spacecraft
 ___
 > ## Destroyer
 A small but fast warship. Has large rail cannons and missiles. 40m long, 10m wide
@@ -196,6 +191,7 @@ A small but fast warship. Has large rail cannons and missiles. 40m long, 10m wid
 >
 > ***Missile*** *Ranged Weapon Attack:* +6 to hit, range 5km/10km., one target. *Hit* (8d10 + 10)
 
+\page
 ___
 > ## Assault Shuttle
 A medium sized spacecraft that attaches to the hull of enemy ships to forcefully deploy troops by ripping a hole in the ship's hull.
@@ -289,8 +285,7 @@ A large transport ship capable of deploying direct munitions as well as Destroye
 >
 > ***Missile*** *Ranged Weapon Attack:* +6 to hit, range 5km/10km., one target. *Hit* (d10 + 10)
 
-```
-```
+\page
 ___
 > ## Battlecruiser
 The military issue cruiser. Usually in the vanguard of any major naval engagement 1km i length.
@@ -323,8 +318,6 @@ The military issue cruiser. Usually in the vanguard of any major naval engagemen
 > ***Deploy Flares*** *(reaction)* **(Costs 1 action):** The Battlecruiser deploys flairs at oncoming missiles giving disadvantage to the attacker.
 >
 > ***Fire Rail Guns*** **(Costs 1 action):** The Battlecruiser fires 2 of its railguns at an enemy ship.
-
-\page
 
 ___
 > ## Dreadnought
@@ -360,8 +353,7 @@ ___
 > ***Fire Rail Guns*** **(Costs 1 action):** The Dreadnought fires 4 of its railguns at an enemy ship.
 >
 
-```
-```
+\page
 ___
 > ## Moonbreaker
 > An incredibly rare and incredibly enormous ship measuring 8 km in length, and is essentially a floating city.
@@ -394,3 +386,38 @@ ___
 > ***Deploy Flares*** *(reaction)* **(Costs 1 action):** The Dreadnought deploys flairs at oncoming missiles giving disadvantage to the attacker.
 >
 > ***Fire Rail Guns*** **(Costs 1 action):** The Moonbreaker fires 6 of its railguns at an enemy ship.
+
+\page
+
+### Cargo Vessels
+
+Cargo vessels are usually categorized by size: small, medium, large. Cargo ships can range from 40m, to the massive 1km long ships. Cargo vesseles are also categorized by type. The most common types you will find are gas, ice, and container. Gas vessels often have massive gas tanks attached to the side. Ice haulers are usually a giant warehouse size box, with the crew cabins along the outside and the thrusters arranged around a single massive cargo bay door. Container vessels are either a long cylyndrical ship that attaches huge containers of goods on the outsides. Some cargo container ships have a large pressurized cargo housing, and cargo is loaded through docking ports.
+
+### Effects of Acceleration
+The human body was not made to handle high gravity acceleration. Prolongued exposure to high g can result in blacking out, physical injury, or even death. To determine how your body handles high gravity acceleration, you must make a Constitution saving throw.
+
+The saving throw DC is equal to 10 plus the amount of excess gravity rounded up. For example, if the ship is moving at 2G, the DC would be 11.
+
+If you fail, you fall unconscious for 10 minutes. You also might take damage based on how badly you failed.
+
+##### Acceleration Damage
+| Fail by | Damage Per Round |
+|:----:|:-------------|
+| 0-4  | 0 |
+| 5-9  | 1d4 |
+| 10-14 | 2d4 |
+| 15-19 | 3d4 |
+| 20+ | 4d4 |
+
+Drugs may also be administered to protect you from prolongued exposure to high gravity acceleration.
+
+<div class='wide'>
+| Drug | Saving Throw Bonus | Bonus Effect | Withdrawl | Cost |
+|:----:|:-------------|:--:|:--:|:--:|
+| G-Serum  | +5 | none | none | 500c |
+| Pilot Juice | +10 | Advantage on Pilot Checks for 10 minutes. | Disadvantage on Wisdom Ability Checks until you take a long rest.| 1,000c|
+</div>
+
+
+
+If you are not strapped into a proper seat or "crash couch", you make this roll with disadvantage as your body is thrown against the nearest bulkhead. You also take fall damage multiplied by the number of Gs. For example, if you are 10 feet away from the nearest bulkhead, and your pilot makes a maneuver at 4G, you take 4d6 fall damage.
