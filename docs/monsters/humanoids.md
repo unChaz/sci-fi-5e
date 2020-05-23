@@ -146,7 +146,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 _Medium humanoid (any race), any non-lawful alignment_
 
-**Armor Class** 12 (Flak armor)
+**Armor Class** 12 (scarab skin)
 
 **Hit Points** 11 (2d8 + 2)
 
@@ -268,7 +268,7 @@ _Medium humanoid (any race), any alignment_
 
 _Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 12 (Flak armor)
+**Armor Class** 12 (scarab skin)
 
 **Hit Points** 9 (2d8)
 
@@ -298,7 +298,7 @@ _Medium humanoid (any race), any non-good alignment_
 
 _Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 13 (Flak armor)
+**Armor Class** 13 (scarab skin)
 
 **Hit Points** 33 (6d8 + 6)
 
@@ -594,7 +594,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 13 (Flak armor)
+**Armor Class** 13 (scarab skin)
 
 **Hit Points** 16 (3d8 + 3)
 
@@ -664,7 +664,7 @@ Governments, corporations, evil organizations, and other wealthy individuals use
 
 _Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 11 (Flak armor)
+**Armor Class** 11 (scarab skin)
 
 **Hit Points** 32 (5d8 + 10)
 

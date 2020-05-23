@@ -22,7 +22,7 @@
 </div>
 
 <div style='margin-top:25px'></div>
-<div class='wide'>
+<div class='wide' style="text-align:center">
 #####  Version 0.3.0
 </div>
 
@@ -36,13 +36,13 @@ Welcome to your new life! The Sol Commerce Authority (SCA) is responsible for re
 
 Centuries ago it was common practice for terminally ill humans, or those with vast resources to facilitate the cryogenic preservation of their bodies to be revived when scientific advancement allowed.
 
-SCA legislation HL-3404-C53 dictates that all cryogenically preserved pre-stack natural humans that have not been revived to be confiscated by the SCA. Your consciousness has been legally conscripted into indentured servitude to the SCA until you have paid off your contract.
+SCA legislation HL-3404-C53 dictates that all cryogenically preserved pre-EGO natural humans that have not been revived to be confiscated by the SCA. Your consciousness has been legally conscripted into indentured servitude to the SCA until you have paid off your contract.
 
 You were not revived for one of the following reasons:
 
-- Your sleeve was damaged and unsuitable to be revived.
-- Your cryo insurance coverage was not comprehensive enough to cover the cost of sleeve repair.
-- Your cryo insurance agency was waiting for your sleeve repair costs to become lower.
+- Your Skin was damaged and unsuitable to be revived.
+- Your cryo insurance coverage was not comprehensive enough to cover the cost of Skin repair.
+- Your cryo insurance agency was waiting for your Skin repair costs to become lower.
 - The contract on your revival designated a date after HL-3404-C53 went into effect.
 
 ## Persona
@@ -63,26 +63,26 @@ Personality traits were the results of a two decades long psychological study at
 ```
 ```
 
-### Stack
+### EGO
 
 Thanks to modern cloning techniques, and the availability of confiscated human bodies, death no longer needs to be permanent.
 
-Each human is given a Stack that is installed at the base of the neck connected to your spinal cord. The Stack contains a complete record of your conscious mind. In the event of your death you can be given a new body. Additionally traveling across the solar system has never been faster with the ability to stream your stack backup to a new body. If you have the funds, you can even have a cloned body ready for you on the other side.
+Each human is given an EGO that is installed at the base of the neck connected to your spinal cord. The EGO contains a complete record of your conscious mind. In the event of your death you can be given a new body. Additionally traveling across the solar system has never been faster with the ability to stream your EGO backup to a new body. If you have the funds, you can even have a cloned body ready for you on the other side.
 
-If your stack is destroyed however, there is no bringing you back. That is called "true death". The punishment for murder has been lessened with the exception of those who have religious encoding specifying they do not wish to be spun back up.
+If your EGO is destroyed however, there is no bringing you back. That is called "true death". The punishment for murder has been lessened with the exception of those who have religious encoding specifying they do not wish to be spun back up.
 
-Having two copies or more of the same stack is illegal, and punishable by the true death of all copies.
+Having two copies or more of the same EGO is illegal, and punishable by the true death of all copies.
 
-It is also possible to enter into a totally virtual environment via the stack. Using this method we can spin up a virtual instance of a person in VR to question them about thier death, or keep prisoners sedated inside a virtual environment which we control.
+It is also possible to enter into a totally virtual environment via the EGO. Using this method we can spin up a virtual instance of a person in VR to question them about thier death, or keep prisoners sedated inside a virtual environment which we control.
 
-## Sleeve
+## Skin
 
 Thanks to modern cloning techniques, and the availability of confiscated human bodies, death no longer needs to be permanent.
 
-Upon death, if your stack is recovered, you can purchase a new sleeve, or be provided one in the case of wrongful death, or if you are properly insured.
+Upon death, if your EGO is recovered, you can purchase a new Skin, or be provided one in the case of wrongful death, or if you are properly insured.
 
 ### Quality Control
-All sleeves must be appraised by the **Board of Quality Control** to ensure buyer protection. Sleeves are appraised with the following traits with a score between -2 and 2:
+All Skins must be appraised by the **Board of Quality Control** to ensure buyer protection. Skins are appraised with the following traits with a score between -2 and 2:
 
 
 | Trait | Description |
@@ -94,7 +94,7 @@ All sleeves must be appraised by the **Board of Quality Control** to ensure buye
 
 
 ## Skills
-Average skill levels can be derived from these core Sleeve Traits, and Persona Traits to give you a better idea of the effectiveness of a sleeve. Each skill is a combination of 2 traits.
+Average skill levels can be derived from these core Skin Traits, and Persona Traits to give you a better idea of the effectiveness of a Skin. Each skill is a combination of 2 traits.
 
 ##### Skill Definition
 | Skill | Trait Combinations |
@@ -143,14 +143,14 @@ The focus used by those casting tek skills is called a Tekcaster. The tekcaster 
 
 > ##### The two sources of Tek Skill
 > #### History
-> One method to cast tek skills is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting tek skills.
+> One method to cast tek skills is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the Skin you are in does not impact how effective you are at casting tek skills.
 >
 > Classes that use this type of tek are Priest , Morph, Scout, Cybernetic, and Arcanist.
 >
 > #### Genetic Alteration
-> Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize tek skills, but you must be equipped with an adequate sleeve that has been genetically modified.
+> Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize tek skills, but you must be equipped with an adequate Skin that has been genetically modified.
 >
-> Usually sleeves with above average Charisma or Constitution are better suited to this type of casting.
+> Usually Skins with above average Charisma or Constitution are better suited to this type of casting.
 >
 > Classes that use this type of tek are Evangelists, Guardians, and Scions.
 
@@ -161,8 +161,8 @@ The focus used by those casting tek skills is called a Tekcaster. The tekcaster 
 ### Willpower
 Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster's tek ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
 
-Sleeve Market
-All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
+Skin Market
+All tier 1 quality Skins are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of Skins is presented for you to choose from.
 
 Basic Genetic Alterations
 (Free Upgrades)
@@ -177,7 +177,7 @@ Thick Skinned: +1 CON
 Integrated Synapses: +1 DEX
 Curated Aesthetics: +1 CHA
 
-Basic sleeve insurance does not cover genetic enhancements. You can upgrade for a cost to a maximum of +2 per trait.
+Basic Skin insurance does not cover genetic enhancements. You can upgrade for a cost to a maximum of +2 per trait.
 
 |  Upgrades | Cost |
 |:----:|:-------------|
@@ -186,19 +186,19 @@ Basic sleeve insurance does not cover genetic enhancements. You can upgrade for 
 |3| 130,000c|
 |4| 160,000c|
 
-Upgrades can be retained when transferring to a new sleeve, or a return of 80% of the upgrade cost will be returned to you.
+Upgrades can be retained when transferring to a new Skin, or a return of 80% of the upgrade cost will be returned to you.
 
 ## Feats
-At every 4 stack levels the Board of Quality Control awards employees with a free stack or sleeve upgrade. These upgrades come in a form of a predefined “feat” or a genetic alteration or stack data upload.
+At every 4 EGO levels the Board of Quality Control awards employees with a free EGO or Skin upgrade. These upgrades come in a form of a predefined “feat” or a genetic alteration or EGO data upload.
 A list of available feats can be provided upon request.
 
-Alternatively, you can be awarded 2 points to be allocated towards a genetic sleeve upgrade, or a data upload to your stack.
+Alternatively, you can be awarded 2 points to be allocated towards a genetic Skin upgrade, or a data upload to your EGO.
 
 ### Genetic Upgrade Option
-Based on the type of genetic alteration (Physique, Constitution, Dexterity, Charisma), you will either be issued a new similar sleeve, or given genetic enhancements to your current sleeve. You may be given the option to choose.
+Based on the type of genetic alteration (Physique, Constitution, Dexterity, Charisma), you will either be issued a new similar Skin, or given genetic enhancements to your current Skin. You may be given the option to choose.
 
 ### Data Upload Option
-One unit of data uploaded to your stack will be guaranteed to be enough to increase your Wit, Will, Intelligence or Wisdom assessment score by 1 point.
+One unit of data uploaded to your EGO will be guaranteed to be enough to increase your Wit, Will, Intelligence or Wisdom assessment score by 1 point.
 
 <!-- Races -->
 <!-- TODO -->
@@ -219,7 +219,7 @@ Every race increases one or more of a character's ability scores.
 
 ##### Age
 
-All human races reach adulthood in their late teens and live just over a century. If you are not in your original sleeve, you can determine how old your stack is.
+All human races reach adulthood in their late teens and live just over a century. If you are not in your original Skin, you can determine how old your EGO is.
 
 ##### Alignment
 
@@ -241,7 +241,7 @@ By virtue of your race, your character can speak, read, and write certain langua
 
 Those born of Earth and Luna share the privilege of living in the most developed of the worlds. Many Terran that are lucky enough to become adventurers grew up healthy and well educated.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Charisma increases by 1.
 
@@ -254,7 +254,7 @@ Those born of Earth and Luna share the privilege of living in the most developed
 #### Magic Resistance
 You have advantage on saving throws against spells and other magical effects.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Intelligence increases by 1
 
@@ -271,7 +271,7 @@ You have proficiency in the **Nature** skill.
 
 Belter's have developed unique biology living in the low gravity of the asteroid belt. The lucky onces live in the mysterious derilict alien citadel, Krelavilla. The unlucky ones forced to work in the mines of the belt; providing the rest of the solar system with the metals to build the great armadas of the Solar system.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Dexterity increases by 1
 
@@ -282,7 +282,7 @@ Belter's have developed unique biology living in the low gravity of the asteroid
 #### Darkvision
 Accustom to the dark of space and the deep asteroid mines, Belters have developed sensitive eye sight.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Will increases by 1.
 
@@ -297,7 +297,7 @@ Belters are used to getting by without much resources. You gain proficiency with
 ## Galilean
 The Galilean refer those born on Io, Europa, Ganymede, and Callisto; the 4 largest moons of Jupiter, or in the great docks of Thebe. The Galilean moons are dry, harsh landscapes, and produce a hardened humorlous populous. The Galilean care more about honor than any other culture of humans, past or present. Chinese culture has had a great influence on the Galilean, but their people come in all variations of human. Galilean have a natural aptitude for tekcasting.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Constitution increases by 1.
 
@@ -306,9 +306,9 @@ The Galilean refer those born on Io, Europa, Ganymede, and Callisto; the 4 large
 **_Speed._** Your base walking speed is 30 feet.
 
 #### Survivalist
-Your sleeve has grown acustomed to living in harsh conditions. You have proficiency in the **Survival** skill.
+Your Skin has grown acustomed to living in harsh conditions. You have proficiency in the **Survival** skill.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Will increases by 1.
 
@@ -323,7 +323,7 @@ You know one cantrip of your choice from the Arcanist spell list. Your spellcast
 ## Martian
 The Martian Navy is known for it's disciplined marines. The Martian children are taught from a young age. The Helium3 deep under the surface of Mars is a valuable asset, and before the SCA was formed, they had to learn to defend it. Mars is also known for its ancient Roman style of educating their youth in the institutes across the planet. Situated between the core and the rim, the Martians have been exposed to both cultures, and the people from Mars are very diverse.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Dexterity increases by 1.
 
@@ -334,7 +334,7 @@ The Martian Navy is known for it's disciplined marines. The Martian children are
 #### Muscle Memory
 Martians are taught to use weapons from a young age. You have proficiency in **Simple Ion Weapons** and **Railrifles**.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Intelligence increases by 1.
 
@@ -351,7 +351,7 @@ Martian Pilots are the best of the best, and are all taught at a young age. You 
 The Orcs were once space explorers who got carried away with genetic modification. The orcs were designed to be the perfect soldier. They terrorized the solar system for centuries.
 After they were conquered by the Authority, they were cast out to the icecaps of Mars and Earth, and kept under close watch. Though free now, Orcs mostly take jobs as soldiers or body guards.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Strength increases by 1.
 
@@ -365,7 +365,7 @@ You have proficiency in the **Physique** skill.
 #### Powerful Build
 You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Wisdom increases by 1.
 
@@ -381,7 +381,7 @@ When you score a critical hit with a melee weapon attack, you can roll one of th
 ## Ruster
 Rusters are most commonly of Russian or Irish decent who worked the Helium3 mines deep under mars. They are a small scrappy bunch. They value family and freedom above all else.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Constitution increases by 1.
 
@@ -392,7 +392,7 @@ Rusters are most commonly of Russian or Irish decent who worked the Helium3 mine
 #### Ruster Cunning
 You have advantage on all Intelligence, Wisdom, and Charisma saving throws against tekcasting.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Wit increases by 1.
 
@@ -407,7 +407,7 @@ When you roll a 1 on the d20 for an attack roll, ability check, or saving throw,
 ## Venusian
 The floating cities of Venus are a paradise. Venus is known for it's thriving industry below the clouds, and beautiful tourist destinations above.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Charisma increases by 1.
 
@@ -418,7 +418,7 @@ The floating cities of Venus are a paradise. Venus is known for it's thriving in
 #### Tough Lungs
 Used to the harsh gasses in the Venusian atmosphere. You are immune to poison damage and the poisoned condition.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Wit increases by 1
 
@@ -433,9 +433,9 @@ You have proficiency in the **Charm** skill.
 
 ## Bionic
 
-Some humans go the way of bionic enhancement. That is installing computer hardware to enhance their sleeve. You can't be born Bionic, only made that way.
+Some humans go the way of bionic enhancement. That is installing computer hardware to enhance their Skin. You can't be born Bionic, only made that way.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Two ability scores increase by 1. One must come from your base race.
 
@@ -444,22 +444,22 @@ Some humans go the way of bionic enhancement. That is installing computer hardwa
 **_Speed._** Your base walking speed is 30 feet.
 
 #### Upgrades
-Your sleeve has been upgraded, and although you look the same, subtle enhancements have been made. Choose one:
+Your Skin has been upgraded, and although you look the same, subtle enhancements have been made. Choose one:
 
 - Darkvision: Your eyes have been replaced with bionic eyes. You have 60 feet of darkvision.
 - Digital Interface: You can interface directly with computers through connectors on your head. Interacting with computers takes a bonus action instead of an action.
 - Titanium Arm: You arm has been replaced with a mechanical arm. It appears and feels like a normal arm, but it is resistant to being damaged, and you gain +2 to Strength checks when using that arm.
 - Integrated Tekcaster: A tekcaster has been integrated into your hand. A hidden compartment in your wrist holds the gemstones. It is not noticable to the naked eye.
 
-#### Sleeve Origin
-Bionic sleeves were all born, or cloned. You must decide a base race, and inherit that ability score increase, and overall appearance.
+#### Skin Origin
+Bionic Skins were all born, or cloned. You must decide a base race, and inherit that ability score increase, and overall appearance.
 
 \page
 
 ## Spliced
 Spliced are the gene spliced creations of mad scientists or their decedents. Spliced have their DNA mixed with that of an animal. This mixed with tekcasters gives the spliced the mysterious ability to shapeshift into the form of the beast whose DNA they share.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Charisma increases by 1.
 
@@ -472,7 +472,7 @@ As a bonus action, you can assume a more bestial appearance. This transformation
 
 Once you shift, you can't do so again until you finish a short or long rest.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Wisdom increases by 1.
 
@@ -542,9 +542,9 @@ While shifted, you have advantage on Wisdom checks.
 \page
 
 ## Synthetic
-Synthetic sleeves are made from fabricated parts instead of flesh and blood. While in a synthetic sleeves, senses and abilities can be enhanced
+Synthetic Skins are made from fabricated parts instead of flesh and blood. While in a synthetic Skins, senses and abilities can be enhanced
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Two ability scores of your choice increase by 1.
 
@@ -978,11 +978,11 @@ You start with the following equipment, in addition to the equipment granted by 
 * *(a)* a scorcher and 20 clips of ammunition or (*b*) any simple weapon
 * *(a)* a scholar's pack or (*b*) an incursion kit
 * a tekcaster
-* Flak armor, and two ion daggers
+* scarab skin, and two ion daggers
 
 ## Bionic Enhancements
 
-At 1st level, to allow you to to seamlessly interface with computers, you have been upgraded with bionic enhancements. Your sleeve must be synthetic, bionic, or you have paid to have custom bionic enhancements installed.
+At 1st level, to allow you to to seamlessly interface with computers, you have been upgraded with bionic enhancements. Your Skin must be synthetic, bionic, or you have paid to have custom bionic enhancements installed.
 
 ## AI Patron
 
@@ -1412,7 +1412,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) an ion blade, (*b*) a pulse blade, or (*c*) any simple weapon
 * (*a*) a diplomat's pack or (*b*) an entertainer's pack
 * (*a*) a ukulele or (*b*) any other musical instrument
-* Flak armor and an ion dagger
+* scarab skin and an ion dagger
 
 
 #### Tekcasting
@@ -2108,7 +2108,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 * (*a*) a stun fist (*b*) any simple weapon
 * (*a*) an ion blade or (*b*) any simple melee weapon
-* Flak armor, a field survival kit, and a morphic focus
+* scarab skin, a field survival kit, and a morphic focus
 
 ##  Morphic cant
 
@@ -2379,7 +2379,7 @@ As a priest, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 * (*a*) a scorcher or (*b*) an ion slingblade (if proficient)
-* (*a*) kevlar, (*b*) Flak armor, or (*c*) scarab skin (if proficient)
+* (*a*) kevlar, (*b*) scarab skin, or (*c*) scarab skin (if proficient)
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) any simple weapon
 * (*a*) a chaplin's pack or (*b*) a field survival kit
 * A medkit and a religious symbol
@@ -2836,7 +2836,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) an ion blade or (*b*) a ion blade
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) a ion blade
 * (*a*) a hacker's kit, (*b*) an incursion kit, or (*c*) a field survival kit
-* (*a*) Flak armor, two ion daggers, and thieves' tools
+* (*a*) scarab skin, two ion daggers, and thieves' tools
 
 ##  Expertise
 
@@ -2998,7 +2998,7 @@ As a scout, you gain the following class features.
 ###  Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* (*a*) kevlar or (*b*) Flak armor
+* (*a*) kevlar or (*b*) scarab skin
 * (*a*) two ion blades or (*b*) two simple weapons
 * (*a*) an incursion kit or (*b*) a field survival kit
 * A martial ranged weapon and 20 clips of ammunition
@@ -3229,7 +3229,7 @@ As a soldier, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (*a*) scarab skin or (*b*) Flak armor, rail rifle, and 20 clips of ammunition
+* (*a*) scarab skin or (*b*) scarab skin, rail rifle, and 20 clips of ammunition
 * (*a*) a martial weapon and a medkit or (*b*) two martial weapons
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) a pulse fist
 * (*a*) an incursion kit or (*b*) a field survival kit
@@ -3586,7 +3586,7 @@ You might want to tweak some of the features of a background so it better fits y
 
 ## Cryo-Emergent
 
-You were born in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into a stack and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
+You were born in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into an EGO and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
 
 Skill Proficiencies: History. Choose 1 from [Diplomacy, Charm, Insight].
 Tool Proficiency: [Gaming Set, Musical Instrument]
@@ -3654,7 +3654,7 @@ You've spent some time in the military. You have been trained by the best of the
 Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
 Tool Proficiencies: Medkit
 Weapon Proficiencies: Rail Rifle
-Armor Proficiencies: Scarab Skin
+Armor Proficiencies: flak armor
 
 **Veteran** As a veteran you can use a Charm check to attempt to get a discount when hiring Mercenaries. You are better at using the marine lingo, and as a result, any marines under your command gain a +1 to Armor Class and attack rolls.
 
@@ -3928,7 +3928,7 @@ Opportunities abound to find loot, equipment, weapons, armor, and more in the du
 \page
 ### Armor
 
-Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from Flak armor to scarab skin to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with A Pulse Shields.
+Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from scarab skin to scarab skin to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with A Pulse Shields.
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in futuristic gaming worlds.
 
@@ -3946,7 +3946,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
 
-**_Flak Armor._** Lightweight metal lined combat armor.
+**_scarab skin._** Lightweight metal lined combat armor.
 
 **_Pulse Armor._** Powered by a small generator, this expensive shielding deflects projectiles. Once depleted it takes time to recharge. Pulse armor can be quite expensive, but ideal if you are trying to keep a low profile.
 
@@ -3954,7 +3954,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
-**_Scarab Skin._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+**_flak armor._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 **_Kevlar._** Basic military issue combat armor.
 
@@ -4117,7 +4117,7 @@ This section describes items that have special rules or require further explanat
 
 **_Fishing Tackle._** This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and netting.
 
-**Med Kit._** This kit is a pouch containing bandages, salves, splints, antibiotics, and a defibrillator. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check.
+**Medkit._** This kit is a pouch containing bandages, salves, splints, antibiotics, and a defibrillator. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check.
 
 **_Hunting Trap._** When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
 
@@ -5540,7 +5540,7 @@ Creatures and objects that are fully immersed in water have resistance to fire d
 
 Whether you employ a squad of mercenaries, or your family/corporation have marine retainers in their service, having a squad of marines at your back is essential for many types of incursions. A group of marines can be broken up into any number of squads, but each squad will only take orders from 1 PC leader.
 
-Mercenaries are expendable soldiers that can make or break any combat engagement. Many mercenaries have stack insurance ensuring that if they are killed in battle, they will receive a new sleeve. Real death is rare among mercenaries, and most will avoid aiming for the stack of a fellow mercenary as honor demands.
+Mercenaries are expendable soldiers that can make or break any combat engagement. Many mercenaries have EGO insurance ensuring that if they are killed in battle, they will receive a new Skin. Real death is rare among mercenaries, and most will avoid aiming for the EGO of a fellow mercenary as honor demands.
 
 ### Mercenary Salary
 A single mercenary can be employed for 100 credits per day. A mercenary squad of 10 marines can be conscripted for 600 credits per day for a minimum of 1 week, or 1000 credits per day otherwise.

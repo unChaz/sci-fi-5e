@@ -1,9 +1,3 @@
-## Rare and Tek Items
-
----
-
-Tek items are presented in alphabetical order. A alien artifact's description gives the item's name, its category, its rarity, and its tek properties.
-
 ### Adamantine Armor
 
 _Armor (medium or heavy, but not hide), uncommon_
@@ -28,17 +22,14 @@ _Wondrous item, uncommon (requires attunement)_
 
 While wearing this amulet, you are hidden from divination tek. You can't be targeted by such tek or perceived through tek scrying sensors.
 
-### Amulet of the Planes
-
-_Wondrous item, very rare (requires attunement)_
-
-While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the _plane shift_ tek skill. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1–60, you travel to a random location on the plane you named. On a 61–100, you travel to a randomly determined plane of existence.
-
 ### Levitating Shield
 
 _Armor (shield), very rare (requires attunement)_
 
 While holding this shield, you can speak its command word as a bonus action to cause it to levitate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.
+
+```
+```
 
 ### Crab Crawler
 
@@ -91,6 +82,8 @@ You have resistance to one type of damage while you wear this armor. The GM choo
 | 9   | Radiant     |
 | 10  | Concussive     |
 
+\page
+
 ### Armor of Vulnerability
 
 _Armor (plate), rare (requires attunement)_
@@ -114,28 +107,6 @@ An _bullet of slaying_ is a tek weapon meant to slay a particular kind of creatu
 Once an _bullet of slaying_ deals its extra damage to a creature, it becomes a nontek bullet.
 
 
-### Bag of Devouring
-
-_Wondrous item, very rare_
-
-This bag superficially resembles a _bag of holding_ but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
-
-The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn't pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.
-
-Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another dimension. The GM determines the time and dimension.
-
-If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
-
-### Bag of Holding
-
-_Wondrous item, uncommon_
-
-This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.
-
-If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.
-
-Placing a _bag of holding_ inside an extradimensional space created by a _handy haversack_, _portable hole_, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
-
 ### Grenade of Force
 
 _Wondrous item, rare_
@@ -145,7 +116,8 @@ This small black spherical device measures 3/4 of an inch in diameter and weighs
 You can use an action to throw the grenade up to 60 feet. The grenade explodes on impact and is destroyed. Each creature within a 10-foot radius of where the grenade landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.
 
 An enclosed creature can use its action to push against the sphere's wall, moving the sphere up to half the creature's walking speed. The sphere can be picked up, and its tek causes it to weigh only 1 pound, regardless of the weight of creatures inside.
-
+```
+```
 ### Exoskeleton
 
 _Wondrous item, rarity varies (requires attunement)_
@@ -179,6 +151,8 @@ _Wondrous item, rare (requires attunement)_
 While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.
 
 When the boots' property has been used for a total of 10 minutes, the tek ceases to function until you finish a long rest.
+
+\page
 
 ### Boots of Striding and Springing
 
@@ -266,7 +240,7 @@ This fine garment is made of black silk interwoven with faint silvery threads. T
 * You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 * You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.
 * You can use an action to cast the _web_ tek skill (save DC 13). The web created by the tek skill fills twice its normal area. Alternatively you can send a rope of webbing to a target within 30 feet that you can see. Until the rope is dismissed, as a bonus action you can reel in the web. If the target is smaller than you, it is pulled to you. If the target is larger, you are pulled to it up to a distance of 30 feet. Until the rope is dismissed, you cannot use the hand it is connected to for anything else. You can dismiss the rope with a free action. Once used, this property of the suit must recharge and can't be used again until the next dawn.
-
+\page
 ### Necklace of Displacement
 
 _Wondrous item, rare (requires attunement)_
@@ -337,7 +311,7 @@ _Weapon (ion dagger), rare_
 You gain a +1 bonus to attack and damage rolls made with this tek weapon.
 
 You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and become poisoned for 1 minute. The ion dagger can't be used this way again until the next dawn.
-
+\page
 ### Dancing Sword
 
 _Weapon (any sword), very rare (requires attunement)_
@@ -411,6 +385,8 @@ Someone can use an action to smash the pellet against a hard surface, causing th
 
 An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 Constitution saving throw, taking 10d6 radiation damage on a failed save, or half as much damage on a successful one.
 
+\page
+
 ### Dust of Sneezing and Choking
 
 _Wondrous item, uncommon_
@@ -419,9 +395,9 @@ Found in a small container, this powder resembles very fine sand. It appears to 
 
 When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe, while sneezing uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The _lesser restoration_ tek skill can also end the effect on a creature.
 
-### Light Scarab Skin
+### Light flak armor
 
-_Armor (scarab skin), rare_
+_Armor (flak armor), rare_
 
 You gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor.
 
@@ -448,7 +424,8 @@ You can use a bonus action to speak this tek sword's command word, causing flame
 _Wondrous item, rare_
 
 This is a box the size of a large suitcase. When activated it folds out into a miniature shuttle that can hold 2 passengers. It has enough oxygen for 10 hours, and a minor propulsion system that can accelerate up to .2g.
-
+```
+```
 ### Frost Brand
 
 _Weapon (any sword), very rare (requires attunement)_
@@ -467,9 +444,9 @@ You gain a +1 bonus to attack and damage rolls made with this tek weapon.
 
 When you hit a giant with it, large and huge creatures take an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone.
 
-### Glamoured flak armor
+### Glamoured scarab skin
 
-_Armor (flak armor), rare_
+_Armor (scarab skin), rare_
 
 While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus action to speak the armor's command word and cause the armor to project the image of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.
 
@@ -490,7 +467,7 @@ While wearing these gloves, climbing and swimming don't cost you extra movement,
 _Wondrous item, uncommon_
 
 While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.
-
+\page
 ### Collar of Disguise
 
 _Wondrous item, uncommon (requires attunement)_
@@ -529,14 +506,15 @@ You have advantage on saving throws against tek skills while you wear this jumps
 
 _Armor (medium or heavy), uncommon_
 
-Mithral is a light, flexible metal. Mithral scarab skin can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
+Mithral is a light, flexible metal. Mithral flak armor can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 ### Oil of Sharpness
 
 _Potion, very rare_
 
 This clear, gelatinous oil sparkles with tiny, ultra-thin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is tek and has a +3 bonus to attack and damage rolls.
-
+```
+```
 ### Oil of Slipperiness
 
 _Potion, uncommon_
@@ -556,20 +534,6 @@ While this pearl is on your person, you can use an action to insert it into your
 _Wondrous item, uncommon (requires attunement)_
 
 While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
-
-### Portable Hole
-
-_Wondrous item, rare_
-
-This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
-
-You can use an action to unfold a _portable hole_ and place it on or against a solid surface, whereupon the _portable hole_ creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can't be used to create open passages. Any creature inside an open _portable hole_ can exit the hole by climbing out of it.
-
-You can use an action to close a _portable hole_ by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.
-
-If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the _portable hole_ or the creature carrying it. A breathing creature within a closed _portable hole_ can survive for up to 10 minutes, after which time it begins to suffocate.
-
-Placing a _portable hole_ inside an extradimensional space created by a _bag of holding_, _handy haversack_, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ### Potion of Climbing
 
@@ -592,6 +556,7 @@ This potion's transparent liquid has floating in it a sliver of fingernail from 
 | Fire giant        | 25       | Rare      |
 | Cloud giant       | 27       | Very rare |
 | Storm giant       | 29       | Legendary |
+\page
 
 ### Potion of Healing
 
@@ -640,7 +605,8 @@ When you drink this potion, you gain resistance to one type of damage for 1 hour
 | 8   | Psychic     |
 | 9   | Radiant     |
 | 10  | Concussive     |
-
+```
+```
 ### Potion of Speed
 
 _Potion, very rare_
@@ -681,6 +647,8 @@ You can release the creature by using a bonus action to speak a second command w
 
 The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
 
+\page
+
 ### Pulse Shield, +1, +2, or +3
 
 _Armor (shield), uncommon (+1), rare (+2), or very rare (+3)_
@@ -718,7 +686,8 @@ When you attack an object with this tek sword and hit, maximize your weapon dama
 When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.
 
 In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10* foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
-
+```
+```
 ### Sword of Wounding
 
 _Weapon (any sword), rare (requires attunement)_
@@ -758,6 +727,8 @@ You have a bonus to attack and damage rolls made with this tek weapon. The bonus
 _Wondrous item, uncommon_
 
 While holding this fan, you can use an action to cast the _gust of wind_ tek skill (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nontek tatters.
+
+\page
 
 ### Grav Boots
 
@@ -825,6 +796,7 @@ A sentient alien artifact has an alignment. Its creator or nature might suggest 
 | 86–89  | Lawful evil     |
 | 90–96  | Neutral evil    |
 | 97–100 | Chaotic evil    |
+\page
 
 ### Special Purpose
 
@@ -842,7 +814,8 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 | 8   | _Lore Seeker:_ The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.             |
 | 9   | _Destiny Seeker:_ The item is convinced that it and its wielder have key roles to play in future events.                                 |
 | 10  | _Creator Seeker:_ The item seeks its creator and wants to understand why it was created.                                                 |
-
+```
+```
 ### Conflict
 
 A sentient item has a will of its own, shaped by its personality and alignment. If its wielder acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item makes a Charisma check contested by the wielder's Charisma check. If the item wins the contest, it makes one or more of the following demands:

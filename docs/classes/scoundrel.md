@@ -26,7 +26,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) an ion blade or (*b*) two ion daggers
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) a ion blade
 * (*a*) a hacker's kit, (*b*) an incursion kit, or (*c*) a field survival kit
-* (*a*) Flak armor, two ion daggers, and thieves' tools
+* (*a*) scarab skin, two ion daggers, and thieves' tools
 
 ###  Expertise
 

@@ -27,7 +27,7 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) an ion blade, (*b*) a pulse blade, or (*c*) any simple weapon
 * (*a*) a diplomat's pack or (*b*) an entertainer's pack
 * (*a*) a ukulele or (*b*) any other musical instrument
-* Flak armor and an ion dagger
+* scarab skin and an ion dagger
 
 
 ### Tekcasting

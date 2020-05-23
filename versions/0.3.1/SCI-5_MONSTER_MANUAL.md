@@ -20,7 +20,7 @@
 </div>
 
 <div style='margin-top:25px'></div>
-<div class='wide'>
+<div class='wide' style="text-align:center">
 #####  Version 0.3.1
 </div>
 
@@ -174,7 +174,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 _Medium humanoid (any race), any non-lawful alignment_
 
-**Armor Class** 12 (Flak armor)
+**Armor Class** 12 (scarab skin)
 
 **Hit Points** 11 (2d8 + 2)
 
@@ -296,7 +296,7 @@ _Medium humanoid (any race), any alignment_
 
 _Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 12 (Flak armor)
+**Armor Class** 12 (scarab skin)
 
 **Hit Points** 9 (2d8)
 
@@ -326,7 +326,7 @@ _Medium humanoid (any race), any non-good alignment_
 
 _Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 13 (Flak armor)
+**Armor Class** 13 (scarab skin)
 
 **Hit Points** 33 (6d8 + 6)
 
@@ -622,7 +622,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 _Medium humanoid (any race), any alignment_
 
-**Armor Class** 13 (Flak armor)
+**Armor Class** 13 (scarab skin)
 
 **Hit Points** 16 (3d8 + 3)
 
@@ -692,7 +692,7 @@ Governments, corporations, evil organizations, and other wealthy individuals use
 
 _Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 11 (Flak armor)
+**Armor Class** 11 (scarab skin)
 
 **Hit Points** 32 (5d8 + 10)
 
@@ -1253,7 +1253,7 @@ Constitution saving throw against the caster's tek skill save DC or fall unconsc
 
 **_Slam_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
 
-**Androids** are synthetic sleeves. They are illegal when controlled by an AI instead of a human stack, but sometimes it can be difficult to tell the difference between a human and a good AI. Especially inside a metallic body.
+**Androids** are synthetic Skins. They are illegal when controlled by an AI instead of a human EGO, but sometimes it can be difficult to tell the difference between a human and a good AI. Especially inside a metallic body.
 
 ### Blade Drone
 
@@ -3032,7 +3032,7 @@ At will: _nondetection_ (self only)
 
 _Small alien (traveler), neutral evil_
 
-**Armor Class** 15 (Flak armor, shield)
+**Armor Class** 15 (scarab skin, shield)
 
 **Hit Points** 7 (2d6)
 
@@ -3533,7 +3533,7 @@ _Medium alien (sahuagin), lawful evil_
 
 _Medium alien (pandoran), chaotic neutral_
 
-**Armor Class** 14 (Flak armor)
+**Armor Class** 14 (scarab skin)
 
 **Hit Points** 31 (7d8)
 
@@ -3568,7 +3568,7 @@ _Medium alien (pandoran), chaotic neutral_
 
 _Tiny alien (pandoran), neutral good_
 
-**Armor Class** 15 (Flak armor)
+**Armor Class** 15 (scarab skin)
 
 **Hit Points** 2 (1d4)
 

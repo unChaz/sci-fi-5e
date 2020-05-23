@@ -33,7 +33,7 @@ Constitution saving throw against the caster's tek skill save DC or fall unconsc
 
 **_Slam_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
 
-**Androids** are synthetic sleeves. They are illegal when controlled by an AI instead of a human stack, but sometimes it can be difficult to tell the difference between a human and a good AI. Especially inside a metallic body.
+**Androids** are synthetic Skins. They are illegal when controlled by an AI instead of a human EGO, but sometimes it can be difficult to tell the difference between a human and a good AI. Especially inside a metallic body.
 
 ### Blade Drone
 

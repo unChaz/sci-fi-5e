@@ -2,7 +2,7 @@
 
 ### Cryo-Emergent
 
-You were born in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into a stack and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
+You were born in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into an EGO and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
 
 Skill Proficiencies: History. Choose 1 from [Diplomacy, Charm, Insight].
 Tool Proficiency: [Gaming Set, Musical Instrument]
@@ -70,7 +70,7 @@ You've spent some time in the military. You have been trained by the best of the
 Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
 Tool Proficiencies: Medkit
 Weapon Proficiencies: Rail Rifle
-Armor Proficiencies: Scarab Skin
+Armor Proficiencies: flak armor
 
 **Veteran** As a veteran you can use a Charm check to attempt to get a discount when hiring Mercenaries. You are better at using the marine lingo, and as a result, any marines under your command gain a +1 to Armor Class and attack rolls.
 

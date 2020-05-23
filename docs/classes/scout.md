@@ -24,7 +24,7 @@ Modern scouts are very different from those of the past. Today scouts must be ve
 ### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* (*a*) kevlar or (*b*) Flak armor
+* (*a*) kevlar or (*b*) scarab skin
 * (*a*) two ion blades or (*b*) two simple weapons
 * (*a*) an incursion kit or (*b*) a field survival kit
 * A martial ranged weapon and 20 clips of ammunition
@@ -40,6 +40,9 @@ You have advantage on Knowledge checks to track your favored enemies, as well as
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
 You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
+
+```
+```
 
 ## Fighting Style
 
@@ -64,6 +67,11 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 ## Tekcasting
 
 By the time you reach 2nd level, you have trained to use a tekcaster to cast tek skills
+
+<img
+  src='https://i.imgur.com/n2HlQ4D.png'
+  style='position:absolute;right:100px;bottom:-91px;width:250px' />
+
 
 \page
 

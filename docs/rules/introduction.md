@@ -9,32 +9,30 @@ Sci-5 is a Weird West, Hard Science Fiction sci-fi mixed with the Science Fantas
 Space battles are meant to be more realistic than what you might see in Star Wars. Small fighters don't zip around each other as if in atmospheric flight. Space battles are short. They either end in a large silent explosion, or forced entry to a boarding party (the latter being the most desired outcome). Space battles are never huge fleet-on-fleet engagements. Space is big, ships are expensive, and sending a fleet away from home is foolish. Space wars are fought with subversion, manipulation, and politics. Freelancers are often the scalpel nations and corporations use to wage war on another, not in large battles, but through stealthy incursions, and hacked datacenters.
 
 ## Transhumanism
-Transhumanism is referring to the belief or theory that the human race can evolve beyond its current physical and mental limitations, especially by means of science and technology. It is applied in this setting to the existence of stack technology which allows humans to maintain a copy of their consciousness to be uploaded into a new body upon their death. It also opens up the possibilities for instantaneous interplanetary travel, and alternate mechanics for character resurrection. With the separation of stack and body ("sleeve"), you must consider ability scores. If a player were to have their stack uploaded to a new body, the new sleeve might not be as strong, agile, or as attractive as their original body. Therefore ability scores have been split into 2 categories, with the introduction of a few new ones.
+Transhumanism is referring to the belief or theory that the human race can evolve beyond its current physical and mental limitations, especially by means of science and technology. It is applied in this setting to the existence of EGO technology which allows humans to maintain a copy of their consciousness to be uploaded into a new body upon their death. It also opens up the possibilities for instantaneous interplanetary travel, and alternate mechanics for character resurrection. With the separation of EGO and body ("Skin"), you must consider ability scores. If a player were to have their EGO uploaded to a new body, the new Skin might not be as strong, agile, or as attractive as their original body. Therefore ability scores have been split into 2 categories, with the introduction of a few new ones.
 
-### Stack
-Each human is given a "stack" that is installed at the base of the neck connected to your spinal cord. The Stack contains a complete record of your conscious mind. In the event of your death you can obtain a new body. Additionally, traveling across the solar system has never been faster with the ability to stream your stack backup to a different body. If you have the funds, you can even have a cloned body ready for you on the other side.
+### EGO
+Each human is given an "EGO" that is installed at the base of the neck connected to your spinal cord. The EGO contains a complete record of your conscious mind. In the event of your death you can obtain a new body. Additionally, traveling across the solar system has never been faster with the ability to stream your EGO backup to a different body. If you have the funds, you can even have a cloned body ready for you on the other side.
 
-If your stack is destroyed however, there is no bringing you back. That is called "true death". The punishment for murder has been lessened with the exception of those who have religious encoding specifying they do not wish to be spun back up.
+If your EGO is destroyed however, there is no bringing you back. That is called "true death". The punishment for murder has been lessened with the exception of those who have religious encoding specifying they do not wish to be spun back up.
 
-Having two copies or more of the same stack is illegal under most governing bodies, and is punishable by true death.
+Having two copies or more of the same EGO is illegal under most governing bodies, and is punishable by true death.
 
-It is also possible to enter into a totally virtual environment via the stack. Using this method we can spin up a virtual instance of a person in VR to question them about their death, or keep prisoners inside a virtual environment indefinitely.
+It is also possible to enter into a totally virtual environment via the EGO. Using this method we can spin up a virtual instance of a person in VR to question them about their death, or keep prisoners inside a virtual environment indefinitely.
 
-**Stack Ability Scores**
-| Ability Score | Description|
+##### EGO Ability Scores
+| Ability Score | Description |
 |:----:|:-------------|
 | Wit  | Mental sharpness and inventiveness; keen intelligence. |
-| Fortitude | Courage in pain or adversity. This is the mind's ability to resist tek effects, and mental stress. |
+| Fortitude  | Courage in pain or adversity. This is the mind's ability to resist tek effects, and mental stress. |
 | Intelligence | The ability to acquire and apply knowledge and skills. |
-| Wisdom | The soundness of an action or decision with regard to the application of experience, knowledge, and good judgment. |
+| Wisdom | Experience, knowledge, and good judgment. |
 
-<br>
+### Skin
 
-### Sleeve
+A "Skin" is what the human body is now commonly referred to. Upon death, if your EGO is recovered, you can purchase a new Skin, or be provided a new one if you are properly insured. With the availability of Skin, age, gender, and physiology is just a temporary state. A mortal injury, or life threatening illness is just a financial concern to overcome.
 
-A "sleeve" is what the human body is now commonly referred to. Upon death, if your stack is recovered, you can purchase a new sleeve, or be provided a new one if you are properly insured. With the availability of sleeve, age, gender, and physiology is just a temporary state. A mortal injury, or life threatening illness is just a financial concern to overcome.
-
-**Sleeve Ability Scores**
+##### Skin Ability Scores
 | Ability Score | Description |
 |:----:|:-------------|
 |Strength |Physical strength |
@@ -50,14 +48,13 @@ Constitution is merely a physical attribute. Fortitude is its mental counterpart
 #### Charisma
 Charisma is split into Physique and Wit. Charisma is calculated as the highest of the two. Whichever ability is your highest-- wit or physique, determines how you use those abilities. Some skills require one or the other. For example, deception uses wit whereas charm uses physique.
 
-> ### Optional Mechanics
-> You can easily forego transhuman mechanics in your campaign. Wit and Physique become Charisma, and Fortitude is omitted.
-
 \page
 
 <div class="wide">
 ## Skills
 Skills have been updated to better fit a sci-fi campaign setting.
+  
+  
 
 | Skill | Ability Score | Descritption
 |:----:|:-------------|:-------------|
@@ -106,4 +103,4 @@ The tekcaster is a device worn on the wrist and is connected to the fingers. Usi
 <br><br>
 
 ### Built-in Tekcasting
-It is possible for one to cast tek skills without a conventional tekcaster. Synthetic sleeves can have built in tekcasters, however the requirement for a gem as a power source still stands. Humans can also be fitted with a bionic arm that has a built in tekcaster.
+It is possible for one to cast tek skills without a conventional tekcaster. Synthetic Skins can have built in tekcasters, however the requirement for a gem as a power source still stands. Humans can also be fitted with a bionic arm that has a built in tekcaster.

@@ -318,6 +318,8 @@ A monster carries enough ammunition to make its ranged attacks. You can assume t
 
 If a monster can do something special with its reaction, that information is contained here. If a creature has no special reaction, this section is absent.
 
+\page
+
 ## Limited Usage
 
 Some special abilities have restrictions on the number of times they can be used.
@@ -344,13 +346,15 @@ You can equip monsters with additional gear and trinkets however you like, and y
 
 If a Tekcasting monster needs material components to cast its tek skills, assume that it has the material components it needs to cast the tek skills in its stat block.
 
+```
+```
+
 ## Legendary Creatures
 
 A legendary creature can do things that ordinary creatures can't. It can take special actions outside its turn, and it might exert tek influence for miles around.
 
 If a creature assumes the form of a legendary creature, such as through a tek skill, it doesn't gain that form's legendary actions, lair actions, or regional effects.
 
-\page
 
 ## Legendary Actions
 
@@ -367,6 +371,8 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 ## Regional Effects
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
+
+\page
 
 ## Monstrosities
 
@@ -432,7 +438,8 @@ _Medium elemental, lawful neutral_
 
 **_Warhammer_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
-\page
+```
+```
 
 ## Basilisk
 
@@ -464,6 +471,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 **_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. H_it:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 
+\page
 
 ## Behir
 
@@ -502,6 +510,9 @@ _Huge monstrosity, neutral evil_
 **_Swallow_**. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
 
 If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+
+```
+```
 
 ## Bugbear
 
@@ -634,30 +645,8 @@ _Large monstrosity, chaotic evil_
 **_Claws_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 
 **_Fire Breath (Recharge 5–6)_**. The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
-
-## Cockatrice
-
-_Small monstrosity, unaligned_
-
-**Armor Class** 11
-
-**Hit Points** 27 (6d6 + 6)
-
-**Speed** 20 ft., fly 40 ft.
-
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 6 (−2) | 12 (+1) | 12 (+1) | 2 (−4) | 13 (+1) | 5 (−3) |
-
-**Senses** darkvision 60 ft., passive Perception 11
-
-**Languages** —
-
-**Challenge** 1/2 (100 XP)
-
-**Actions**
-
-**_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+```
+```
 
 ## Darkmantle
 

@@ -2,7 +2,7 @@
 
 Travelers are a small nomadic species originating from Krevilla before the fall. Travelers are scavengers that rely on existing technology to get by. They do not often travel between worlds, but when they do, their ships are usually flotillas jerry-rigged from multiple spacecraft, and move at a crawl. Most Travelers encountered in space are traders and explorers. Planetside Travelers are found in small tribes living off the junkyards of men.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Dexterity increases by 1.
 
@@ -15,7 +15,7 @@ Travelers are a small nomadic species originating from Krevilla before the fall.
 #### Magic Resistance
 You have advantage on saving throws against spells and other magical effects.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Intelligence increases by 1
 
@@ -25,3 +25,7 @@ You have advantage on saving throws against spells and other magical effects.
 
 ### Alien Knowledge
 You gain proficiency in the **Arcana** skill.
+
+<img
+  src='https://cdn.pixabay.com/photo/2018/01/25/09/49/star-wars-3105802_960_720.png'
+  style='position:absolute;left:50px;bottom:-91px;width:350px' />

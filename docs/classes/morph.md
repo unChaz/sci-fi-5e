@@ -28,7 +28,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 * (*a*) a stun fist (*b*) any simple weapon
 * (*a*) an ion blade or (*b*) any simple melee weapon
-* Flak armor, a field survival kit, and a morphic focus
+* scarab skin, a field survival kit, and a morphic focus
 
 ###  Morphic cant
 
@@ -63,6 +63,14 @@ Wisdom + Will is your Tekcasting ability for your morph tek skills, since your t
 
 **Tek attack modifier** = your proficiency bonus + your Wisdom modifier
 
+##  Ritual Casting
+
+You can cast a morph tek skill as a ritual if that tek skill has the ritual tag and you have the tek skill prepared.
+
+###  Tekcasting Focus
+You can use a tekcaster as a focus for your morph tek skills.
+
+
 \page
 
 <div class="wide">
@@ -93,13 +101,6 @@ Wisdom + Will is your Tekcasting ability for your morph tek skills, since your t
 | 20th  | +6                | Archmorph                                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 </div>
-##  Ritual Casting
-
-You can cast a morph tek skill as a ritual if that tek skill has the ritual tag and you have the tek skill prepared.
-
-###  Tekcasting Focus
-
-You can use a tekcaster as a focus for your morph tek skills.
 
 ##  Wild Shape
 
@@ -122,9 +123,11 @@ While you are transformed, the following rules apply:
 * Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
 * When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
 
-\page
 
 * You can't cast tek skills, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a tek skill you've already cast, however, or prevent you from taking actions that are part of a tek skill, such as *call lightning*, that you've already cast.
+
+\page
+
 * You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 * You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
@@ -151,6 +154,9 @@ Beginning at 18th level, you can cast many of your morph tek skills in any shape
 At 20th level, you can use your Wild Shape an unlimited number of times.
 
 Additionally, you can ignore the verbal and somatic components of your morph tek skills, as well as any material components that lack a cost and aren't consumed by a tek skill. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
+
+```
+```
 
 ##  Morph Circles
 

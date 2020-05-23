@@ -1,7 +1,7 @@
 ## Ruster
 Rusters are most commonly of Russian or Irish decent who worked the Helium3 mines deep under mars. They are a small scrappy bunch. They value family and freedom above all else. The Rusters have been forced into hard labor for centuries. The few who are lucky enough to escape the mines usually end up as mechanics, or construction workers. Many are forced into a life of crime, as it is nearly impossible for an unmistakable Ruster to climb the rungs of the Martian socioeconomic ladder.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Constitution increases by 1.
 
@@ -12,7 +12,7 @@ Rusters are most commonly of Russian or Irish decent who worked the Helium3 mine
 #### Ruster Engineering
 You gain proficiency in the ***Engineering*** skill.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Wit increases by 1.
 
@@ -22,3 +22,7 @@ You gain proficiency in the ***Engineering*** skill.
 
 ### Lucky
 When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+
+<img
+  src='https://vignette.wikia.nocookie.net/red-rising/images/e/e0/Lyria-of-lagalos-iron-gold.jpg'
+  style='position:absolute;right:60px;bottom:40px;width:300px;' />

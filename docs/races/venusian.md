@@ -2,7 +2,7 @@
 
 The floating cities of Venus are a paradise. Venus is known for its thriving industry below the clouds, and beautiful tourist destinations above.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Physique increases by 1.
 
@@ -13,7 +13,7 @@ The floating cities of Venus are a paradise. Venus is known for its thriving ind
 #### Tough Lungs
 Used to the harsh gasses in the Venusian atmosphere. You are immune to poison damage and the poisoned condition.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Wisdom increases by 1
 
@@ -23,3 +23,6 @@ Used to the harsh gasses in the Venusian atmosphere. You are immune to poison da
 
 #### Charming Appearance
 You have proficiency in the **Charm** skill.
+
+<img src='https://i.imgur.com/Zin27XG.png'
+  style='position:absolute;right:50px;bottom:50px;width:350px' />

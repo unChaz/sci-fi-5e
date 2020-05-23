@@ -1,8 +1,8 @@
 # Cybernetic
 _______
-***requires bionic or synthetic sleeve***
+***requires bionic or synthetic Skin***
 
-Cybernetics are tekcasters who have integrated with an alien AI via synthetic sleeve parts. At some point you encountered an Alien AI, and it copied itself into your circuits.
+Cybernetics are tekcasters who have integrated with an alien AI via synthetic Skin parts. At some point you encountered an Alien AI, and it copied itself into your circuits.
 
 ### Hit Points
 
@@ -30,11 +30,11 @@ You start with the following equipment, in addition to the equipment granted by 
 * *(a)* a scorcher and 20 clips of ammunition or (*b*) any simple weapon
 * *(a)* a scholar's pack or (*b*) an incursion kit
 * a tekcaster
-* Flak armor, and two ion daggers
+* scarab skin, and two ion daggers
 
 ### Bionic Enhancements
 
-At 1st level, to allow you to to seamlessly interface with computers, you have been upgraded with bionic enhancements. Your sleeve must be synthetic, bionic, or you have paid to have custom bionic enhancements installed.
+At 1st level, to allow you to to seamlessly interface with computers, you have been upgraded with bionic enhancements. Your Skin must be synthetic, bionic, or you have paid to have custom bionic enhancements installed.
 
 ### AI Patron
 

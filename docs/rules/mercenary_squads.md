@@ -4,7 +4,7 @@
 
 Whether you employ a squad of mercenaries, or your organization has mercenaries in their service, having a squad of marines at your back is essential for many types of incursions. A group of marines can be broken up into any number of squads, but each squad will only take orders from 1 PC leader.
 
-Mercenaries are expendable soldiers that can make or break any combat engagement. Many mercenaries have stack insurance ensuring that if they are killed in battle, they will receive a new sleeve. Real death is rare among mercenaries, and most will avoid aiming for the stack of a fellow mercenary as honor demands.
+Mercenaries are expendable soldiers that can make or break any combat engagement. Many mercenaries have EGO insurance ensuring that if they are killed in battle, they will receive a new Skin. Real death is rare among mercenaries, and most will avoid aiming for the EGO of a fellow mercenary as honor demands.
 
 Mercenaries do well against other mercenaries and weaker foes, but against a more formidable foe, such as a razor wielding lancer, they will be torn apart.
 
@@ -19,7 +19,7 @@ Mercenary squads roll initiative as a group with no initiative bonus. A PC squad
 When a mercenary takes damage from an attack, they must make a saving throw with a DC equal to the amount of damage taken. On a failed save, the mercenary is a casualty, and cannot continue fighting.
 
 ### Recovering Casualties
-If you are able to recover casualties after combat, for each mercenary casualty roll a d20. If the roll is 10 or higher, the mercenary can recover over a long rest. On a failure, the mercenary was not able to be saved, but their stack can be recovered. Some mercenary companies might charge a fee for lost or destroyed mercenary stacks, and expect you to recover stacks of those that fall in battle.
+If you are able to recover casualties after combat, for each mercenary casualty roll a d20. If the roll is 10 or higher, the mercenary can recover over a long rest. On a failure, the mercenary was not able to be saved, but their EGO can be recovered. Some mercenary companies might charge a fee for lost or destroyed mercenary EGOs, and expect you to recover EGOs of those that fall in battle.
 
 ### Leadership Inspiration
 

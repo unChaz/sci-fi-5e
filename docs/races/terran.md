@@ -2,7 +2,7 @@
 
 Those born on Earth and Luna share the privilege of living in the most developed of the worlds. Many Terran that are lucky enough to become adventurers grew up healthy and well educated.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Physique increases by 1.
 
@@ -15,7 +15,7 @@ Those born on Earth and Luna share the privilege of living in the most developed
 #### Tek Resistance
 You have advantage on saving throws against tek spells and other tek effects.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Intelligence increases by 1
 

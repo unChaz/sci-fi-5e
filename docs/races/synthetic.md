@@ -1,5 +1,5 @@
 ## Synthetic
-Synthetic sleeves are made from fabricated parts instead of flesh and blood. While in a synthetic sleeves, senses and abilities can be enhanced by hardware.
+Synthetic Skins are made from fabricated parts instead of flesh and blood. While in a synthetic Skins, senses and abilities can be enhanced by hardware.
 
 ### Traits
 

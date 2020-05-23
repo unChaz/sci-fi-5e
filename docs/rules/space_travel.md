@@ -9,9 +9,8 @@ Space encounters should be kept simple, and contained in the theater of the mind
 >### Short and Sweet
 >Ship encounters should be short, simple, and cinematic. In this universe, the point of ship to ship combat is not to destroy, but commandeer enemy vessels. These huge ships take trillions of credits of wealth, and years to build. Squandering all that for an easy victory is generally considered foolish, and dishonorable.
 
-<br>
 
-### Available Maneuvers
+#### Available Maneuvers
 
 ##### Match Velocity
 Whether engaging an enemy vessel, rendevouzing with an ally, or just docking at a space station, you always have to match velocity first. This can be done in most cases without a roll, but if you are attempting to match velocity with a fleeing ship, you must make a (dexterity) piloting check. If a ship is actively evading you, your ship must be able to match the max thrust of the ship you are pursuing.
@@ -191,7 +190,7 @@ A small but fast warship. Has large rail cannons and missiles. 40m long, 10m wid
 >
 > ***Missile*** *Ranged Weapon Attack:* +6 to hit, range 5km/10km., one target. *Hit* (8d10 + 10)
 
-\page
+
 ___
 > ## Assault Shuttle
 A medium sized spacecraft that attaches to the hull of enemy ships to forcefully deploy troops by ripping a hole in the ship's hull.
@@ -285,7 +284,6 @@ A large transport ship capable of deploying direct munitions as well as Destroye
 >
 > ***Missile*** *Ranged Weapon Attack:* +6 to hit, range 5km/10km., one target. *Hit* (d10 + 10)
 
-\page
 ___
 > ## Battlecruiser
 The military issue cruiser. Usually in the vanguard of any major naval engagement 1km i length.
@@ -319,6 +317,7 @@ The military issue cruiser. Usually in the vanguard of any major naval engagemen
 >
 > ***Fire Rail Guns*** **(Costs 1 action):** The Battlecruiser fires 2 of its railguns at an enemy ship.
 
+\page
 ___
 > ## Dreadnought
 > A large capital ship measuring around 5 km in length. These ships usually represent the core of a large fleet.
@@ -352,8 +351,6 @@ ___
 >
 > ***Fire Rail Guns*** **(Costs 1 action):** The Dreadnought fires 4 of its railguns at an enemy ship.
 >
-
-\page
 ___
 > ## Moonbreaker
 > An incredibly rare and incredibly enormous ship measuring 8 km in length, and is essentially a floating city.
@@ -417,7 +414,5 @@ Drugs may also be administered to protect you from prolongued exposure to high g
 | G-Serum  | +5 | none | none | 500c |
 | Pilot Juice | +10 | Advantage on Pilot Checks for 10 minutes. | Disadvantage on Wisdom Ability Checks until you take a long rest.| 1,000c|
 </div>
-
-
 
 If you are not strapped into a proper seat or "crash couch", you make this roll with disadvantage as your body is thrown against the nearest bulkhead. You also take fall damage multiplied by the number of Gs. For example, if you are 10 feet away from the nearest bulkhead, and your pilot makes a maneuver at 4G, you take 4d6 fall damage.

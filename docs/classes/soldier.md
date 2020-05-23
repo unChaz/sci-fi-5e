@@ -25,7 +25,7 @@ Whether a freedom fighter, mercenary, or enlisted soldier, and whether you carry
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (*a*) scarab skin or (*b*) Flak armor, rail rifle, and 20 clips of ammunition
+* (*a*) scarab skin or (*b*) scarab skin, rail rifle, and 20 clips of ammunition
 * (*a*) a martial weapon and a medkit or (*b*) two martial weapons
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) a pulse fist
 * (*a*) an incursion kit or (*b*) a field survival kit
@@ -262,6 +262,9 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 **Goading Attack**
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
+
+```
+```
 
 #### Know Thy Enemy
 Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:

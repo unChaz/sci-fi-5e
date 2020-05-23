@@ -7,7 +7,7 @@ This chapter provides the rules for casting tek skills. Different character clas
 ### What Is Tek?
 
 Centuries ago a derelict alien space station was discovered in the belt. All its inhabitants had long since disappeared, but much of the alien technology was uncovered.
-These mysterious devices became known as tekcasters. Specialized engineers known as Artificers learned how to use these devices, and reverse engineered them to create all sorts of tek items. Although the inner workings of tek led to a technological revolution for every field of science. The two largest impacts were the invention of Stacks, and the advancement of genetics. The latter led to the creation of hundreds of species of fantastic creatures brought to life and populated the wilds of the newly terraformed worlds.
+These mysterious devices became known as tekcasters. Specialized engineers known as Artificers learned how to use these devices, and reverse engineered them to create all sorts of tek items. Although the inner workings of tek led to a technological revolution for every field of science. The two largest impacts were the invention of EGOs, and the advancement of genetics. The latter led to the creation of hundreds of species of fantastic creatures brought to life and populated the wilds of the newly terraformed worlds.
 
 #### Tek Level
 
@@ -51,6 +51,8 @@ Certain tek skills have a special tag: ritual. Such a tek skill can be cast foll
 
 To cast a tek skill as a ritual, a tekcaster must have a feature that grants the ability to do so. The priest and the morph, for example, have such a feature. The caster must also have the tek skill prepared or on his or her list of tek skills known, unless the character's ritual feature specifies otherwise, as the Arcanist's does.
 
+\page
+
 ### Casting a Tek Skill
 
 When a character casts any tek skill, the same basic rules are followed, regardless of the character's class or the tek skill's effects.
@@ -87,6 +89,9 @@ Once a tek skill is cast, its effects aren't limited by its range, unless the te
 
 A tek skill's components are the physical requirements you must meet in order to cast it. Each tek skill's description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can't provide one or more of a tek skill's components, you are unable to cast the tek skill.
 
+```
+```
+
 ##### Verbal (V)
 
 Most tek skills require the chanting of mystic words. The words themselves aren't the source of the tek skill's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of tek in motion. Thus, a character who is gagged or in an area of silence, such as one created by the _silence_ tek skill, can't cast a tek skill with a verbal component.
@@ -120,6 +125,8 @@ Normal activity, such as moving and attacking, doesn't interfere with concentrat
 * **Being incapacitated or killed.** You lose concentration on a tek skill if you are incapacitated or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a tek skill.
+
+\page
 
 #### Targets
 
@@ -181,12 +188,14 @@ Many tek skills specify that a target can make a saving throw to avoid some or a
 
 The DC to resist one of your tek skills equals 8 + your Tekcasting ability modifier + your proficiency bonus + any special modifiers.
 
+
 #### Tek Attack Rolls
 
 Some tek skills require the caster to make an attack roll to determine whether the tek skill effect hits the intended target. Your attack bonus with a tek skill attack equals your Tekcasting ability modifier + your proficiency bonus.
 
 Most tek skills that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't incapacitated.
 
+\page
 > #### The Schools of Tek
 >
 > Academies of tek group tek skills into eight categories called schools of tek. Scholars, particularly Arcanists, apply these categories to all tek skills, believing that all tek functions in essentially the same way, whether it derives from rigorous study or is bestowed by a sect.
@@ -210,6 +219,9 @@ Most tek skills that require attack rolls involve ranged attacks. Remember that 
 > Creating the undead through the use of necromancy tek skills such as _animate dead_ is not a good act, and only evil casters use such tek skills frequently.
 >
 > **Transmutation** tek skills change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.
+
+```
+```
 
 #### Combining Tek Effects
 
@@ -275,7 +287,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Silence
 * Suggestion
 * Zone of Truth
-
+\page
 ##### 3rd Level
 
 * Bestow Hack
@@ -409,7 +421,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Spiritual Weapon
 * Warding Bond
 * Zone of Truth
-
+\page
 ##### 3rd Level
 
 * Animate Dead
@@ -542,6 +554,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Pass without Trace
 * Protection from Poison
 * Spike Growth
+\page
 
 ##### 3rd Level
 
@@ -675,7 +688,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Dispel Evil and Good
 * Geas
 * Raise Dead
-
+\page
 ### Scout Tek Skills
 
 ##### 1st Level
@@ -809,6 +822,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Tongues
 * Water Breathing
 * Water Walk
+\page
 
 ##### 4th Level
 
@@ -953,6 +967,8 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Forcecage
 * Plane Shift
 
+\page
+
 ##### 8th Level
 
 * Demiplane
@@ -1079,6 +1095,8 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Vampiric Touch
 * Water Breathing
 
+\page
+
 ##### 4th Level
 
 * Arcane Eye
@@ -1203,7 +1221,9 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Weird
 * Wish
 
-**Tek Descriptions**
+\page
+
+## Tek Descriptions
 
 ### Tek Skills (A)
 
@@ -1308,7 +1328,7 @@ _2nd-level enchantment (ritual)_
 By means of this tek skill, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as “a man or woman dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also speak a message of up to twenty-five words. The target beast travels for the duration of the tek skill toward the specified location, covering about 50 miles per 24 hours for a flying messenger, or 25 miles for other animals.
 
 When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the tek skill ends, the message is lost, and the beast makes its way back to where you cast this tek skill.
-
+\page
 **_At Higher Levels._** If you cast this tek skill using a tek skill slot of 3nd level or higher, the duration of the tek skill increases by 48 hours for each slot level above 2nd.
 
 ##### Animal Shapes
@@ -1378,7 +1398,7 @@ As a bonus action, you can mentally command any creature you made with this tek 
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is
 
 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
-
+\page
 If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The GM might rule that a specific object inflicts slashing or piercing damage based on its form.
 
 **_At Higher Levels._** If you cast this tek skill using a tek skill slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
@@ -1452,6 +1472,8 @@ This tek skill attracts or repels creatures of your choice. You target something
 **_Sympathy._** The enchantment causes the specified creatures to feel an intense urge to approach the target while within 60 feet of it or able to see it. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or use its movement on each of its turns to enter the area or move within reach of the target. When the creature has done so, it can't willingly move away from the target.
 
 If the target damages or otherwise harms an affected creature, the affected creature can make a Wisdom saving throw to end the effect, as described below.
+
+\page
 
 **_Ending the Effect._** If an affected creature ends its turn while not within 60 feet of the target or able to see it, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target and recognizes the feeling of repugnance or attraction as tek. In addition, a creature affected by the tek skill is allowed another Wisdom saving throw every 24 hours while the tek skill persists.
 
@@ -1537,6 +1559,8 @@ You create a sword-shaped plane of force that hovers within range. It lasts for 
 
 When the sword appears, you make a melee tek skill attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the tek skill ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
+\page
+
 ##### Arcanist's Tek Aura
 
 _2nd-level illusion_
@@ -1619,6 +1643,8 @@ _5th-level transmutation_
 After spending the casting time tracing tek pathways within a precious gemstone, you touch a Huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less. The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. Your GM chooses statistics appropriate for the awakened plant, such as the statistics for the awakened shrub or the awakened tree.
 
 The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
+
+\page
 
 ### Tek Skills (B)
 
@@ -1727,6 +1753,8 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your tek skill save DC. On a success, it frees itself.
 
+\page
+
 ##### Blade Barrier
 
 _6th-level evocation_
@@ -1825,6 +1853,8 @@ _2nd-level illusion_
 
 Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.
 
+\page
+
 ##### Burning Hands
 
 _1st-level evocation_
@@ -1916,6 +1946,8 @@ _1st-level enchantment_
 You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the tek skill ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the tek skill ends, the creature knows it was charmed by you.
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+
+\page
 
 ##### Chill Touch
 
@@ -2024,6 +2056,8 @@ A dazzling array of flashing, colored light springs from your hand. Roll 6d10; t
 Starting with the creature that has the lowest current hit points, each creature affected by this tek skill is blinded until the tek skill ends. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
+
+\page
 
 ##### Command
 
@@ -2145,6 +2179,8 @@ _4th-level enchantment_
 
 This tek skill assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this tek skill or be affected by it.
 
+\page
+
 An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
 | d10  | Behavior                                                                                                                                                                                        |
@@ -2237,6 +2273,8 @@ _6th-level conjuration_
 You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. It appears in an unoccupied space that you can see within range. The fey creature disappears when it drops to 0 hit points or when the tek skill ends.
 
 The fey creature is friendly to you and your companions for the duration. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
+
+\page
 
 If your concentration is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.
 
@@ -2338,6 +2376,8 @@ Since this tek skill induces a natural disease in its target, any effect that re
 
 **_Mindfire._** The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the _confusion_ tek skill during combat.
 
+\page
+
 **_Seizure._** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 
 **_Slimy Doom._** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
@@ -2419,6 +2459,7 @@ _8th-level transmutation_
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this tek skill. Moving to a place where you don't have a clear path to the sky ends the tek skill early.
 
 When you cast the tek skill, you change the current weather conditions, which are determined by the GM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the tek skill ends, the weather gradually returns to normal.
+\page
 
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
@@ -2506,6 +2547,8 @@ As a bonus action on each of your turns, you can mentally command any creature y
 The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this tek skill on the creature before the current 24-hour period ends. This use of the tek skill reasserts your control over up to three creatures you have animated with this tek skill, rather than animating new ones.
 
 **_At Higher Levels._** When you cast this tek skill using a 7th-level tek skill slot, you can animate or reassert control over four ghouls. When you cast this tek skill using an 8th-level tek skill slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this tek skill using a 9th-level tek skill slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
+
+\page
 
 ##### Creation
 
@@ -2637,6 +2680,8 @@ The first time the target would drop to 0 hit points as a result of taking damag
 
 If the tek skill is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the tek skill ends.
 
+\page
+
 ##### Delayed Blast Fireball
 
 _7th-level evocation_
@@ -2739,6 +2784,8 @@ For the duration, you can read the thoughts of certain creatures. When you cast 
 
 You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the tek skill ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the tek skill ends.
 
+\page
+
 Questions verbally directed at the target creature naturally shape the course of its thoughts, so this tek skill is particularly effective as part of an interrogation.
 
 You can also use this tek skill to detect the presence of thinking creatures you can't see. When you cast the tek skill or as your action during the duration, you can search for thoughts within 30 feet of you. The tek skill can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can't detect a creature with an Intelligence of 3 or lower or one that doesn't speak any language.
@@ -2824,6 +2871,8 @@ You can end the tek skill early by using either of the following special functio
 **_Break Enchantment._** As your action, you touch a creature you can reach that is charmed, frightened, or possessed by a Alien, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
 
 **_Dismissal._** As your action, make a melee tek skill attack against a Alien, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
+
+\page
 
 ##### Dispel Tek
 
@@ -2930,6 +2979,8 @@ You attempt to beguile a creature that you can see within range. It must succeed
 
 While the creature is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
 
+\page
+
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
 
 Each time the target takes damage, it makes a new Wisdom saving throw against the tek skill. If the saving throw succeeds, the tek skill ends.
@@ -3005,6 +3056,8 @@ This tek skill can have additional effects depending on the terrain in the area,
 **_Fissures._** Fissures open throughout the tek skill's area at the start of your next turn after you cast the tek skill. A total of 1d6 such fissures open in locations chosen by the GM. Each is 1d10 × 10 feet deep, 10 feet wide, and extends from one edge of the tek skill's area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure's edge as it opens.
 
 A fissure that opens beneath a structure causes it to automatically collapse (see below).
+
+\page
 
 **_Structures._** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the tek skill and at the start of each of your turns until the tek skill ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Physique) check as an action to escape. The GM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
 
@@ -3087,6 +3140,8 @@ _2nd-level enchantment_
 **Duration:** 1 minute
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the tek skill ends or until the target can no longer hear you. The tek skill ends if you are incapacitated or can no longer speak.
+
+\page
 
 ##### Etherealness
 
@@ -3181,6 +3236,8 @@ _1st-level evocation_
 Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the tek skill is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
 
 Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
+
+\page
 
 ##### Faithful Hound
 
@@ -3288,6 +3345,8 @@ While your steed is within 1 mile of you, you can communicate with it telepathic
 
 You can't have more than one steed bonded by this tek skill at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
 
+\page
+
 ##### Find the Path
 
 _6th-level divination_
@@ -3389,6 +3448,8 @@ _7th-level evocation_
 A storm made up of sheets of roaring flame appears in a location you choose within range. The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes 7d10 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. If you choose, plant life in the area is unaffected by this tek skill.
+
+\page
 
 ##### Flame Blade
 
@@ -3500,6 +3561,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
+\page
 ##### Fog Cloud
 
 _1st-level conjuration_
@@ -3606,6 +3668,8 @@ _6th-level evocation_
 
 A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
 
+\page
+
 If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your tek skill save DC to break free.
 
 You can refrain from firing the globe after completing the tek skill, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as the normal casting of the tek skill. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
@@ -3688,6 +3752,8 @@ You touch a corpse or other remains. For the duration, the target is protected f
 
 The tek skill also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this tek skill don't count against the time limit of tek skills such as _raise dead_.
 
+\page
+
 ##### Giant Insect
 
 _4th-level transmutation_
@@ -3767,6 +3833,8 @@ When you inscribe the glyph, choose _explosive runes_ or a _tek skill glyph_.
 **_Tek Glyph._** You can store a prepared tek skill of 3rd level or lower in the glyph by casting it as part of creating the glyph. The tek skill must target a single creature or an area. The tek skill being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored tek skill is cast. If the tek skill has a target, it targets the creature that triggered the glyph. If the tek skill affects an area, the area is centered on that creature. If the tek skill summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the tek skill requires concentration, it lasts until the end of its full duration.
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 4th level or higher, the damage of an _explosive runes_ glyph increases by 1d8 for each slot level above 3rd. If you create a _tek skill glyph_, you can store any tek skill of up to the same level as the slot you use for the _glyph of warding_.
+
+\page
 
 ##### Grease
 
@@ -3882,6 +3950,8 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
+\page
+
 ##### Gust of Wind
 
 _2nd-level evocation_
@@ -3971,6 +4041,8 @@ _6th-level necromancy_
 **Duration:** Instantaneous
 
 You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 radiation damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the radiation damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
+
+\page
 
 ##### Haste
 
@@ -4086,6 +4158,8 @@ A creature of your choice that you can see within range perceives everything as 
 
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the tek skill ends.
 
+\page
+
 ##### Hold Monster
 
 _5th-level enchantment_
@@ -4184,6 +4258,8 @@ You choose one object that you must touch throughout the casting of the tek skil
 
 If you instead touch a creature throughout the casting, you learn what tek skills, if any, are currently affecting it.
 
+\page
+
 ##### Illusory Script
 
 _1st-level illusion (ritual)_
@@ -4277,6 +4353,8 @@ _1st-level necromancy_
 Make a melee tek skill attack against a creature you can reach. On a hit, the target takes 3d10 radiation damage.
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+
+\page
 
 ##### Insect Plague
 
@@ -4385,6 +4463,8 @@ A target that is held shut by a mundane lock or that is stuck or barred becomes 
 If you choose a target that is held shut with _arcane lock_, that tek skill is suppressed for 10 minutes, during which time the target can be opened and shut normally.
 
 When you cast the tek skill, a loud knock, audible from as far away as 300 feet, emanates from the target object.
+
+\page
 
 ### Tek Skills (L)
 
@@ -4502,6 +4582,8 @@ The tek skill can locate a specific creature known to you, or the nearest creatu
 
 This tek skill can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 
+\page
+
 ##### Locate Object
 
 _2nd-level divination_
@@ -4594,32 +4676,6 @@ When you cast this tek skill, you can elect to cause its tek to operate in the r
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
-##### Tek Jar
-
-_6th-level necromancy_
-
-**Casting Time:** 1 minute
-
-**Range:** Self
-
-**Components:** V, S, M (a gem worth at least 50000 credits)
-
-**Duration:** Until ditek skilled
-
-Your body falls into a catatonic state as your soul leaves it and enters the container you used for the tek skill's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the tek skill) or attempting to possess a humanoids body.
-
-You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a _protection from evil and good_ or _tek circle_ tek skill can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
-
-Once you possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can't use any of its class features.
-
-Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all.
-
-While possessing a body, you can use your action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you must make a Charisma saving throw against your own Tekcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
-
-If the container is destroyed or the tek skill ends, your soul immediately returns to your body. If your body is more than 100 feet away from you or if your body is dead when you attempt to return to it, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
-
-When the tek skill ends, the container is destroyed.
-
 ##### Tek Missile
 
 _1st-level evocation_
@@ -4636,23 +4692,8 @@ You create three glowing darts of tek force. Each dart hits a creature of your c
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 2nd level or higher, the tek skill creates one more dart for each slot level above 1st.
 
-##### Tek Mouth
+\page
 
-_2nd-level illusion (ritual)_
-
-**Casting Time:** 1 minute
-
-**Range:** 30 feet
-
-**Components:** V, S, M (a gem worth at least 1000 credits, which the tek skill consumes)
-
-**Duration:** Until ditek skilled
-
-You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the tek skill to deliver your message.
-
-When that circumstance occurs, a tek mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the tek mouth appears there so that the words appear to come from the object's mouth. When you cast this tek skill, you can have the tek skill end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
-
-The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
 ##### Tek Weapon
 
@@ -4669,24 +4710,6 @@ _2nd-level transmutation_
 You touch a nontek weapon. Until the tek skill ends, that weapon becomes a tek weapon with a +1 bonus to attack rolls and damage rolls.
 
 **_At Higher Levels._** When you cast this tek skill using a tek skill slot of 4th level or higher, the bonus increases to +2. When you use a tek skill slot of 6th level or higher, the bonus increases to +3.
-
-##### Magnificent Mansion
-
-_7th-level conjuration_
-
-**Casting Time:** 1 minute
-
-**Range:** 300 feet
-
-**Components:** V, S, M (a gem worth at least 500 credits)
-
-**Duration:** 24 hours
-
-You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the tek skill can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is invisible.
-
-Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.
-
-You can create any floor plan you like, but the space can't exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can't leave it. Furnishings and other objects created by this tek skill dissipate into smoke if removed from the mansion. When the tek skill ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
 
 ##### Major Image
 
@@ -4776,6 +4799,8 @@ If you or any of your companions damage a creature affected by this tek skill, t
 
 **_At Higher Levels._** When you cast this tek skill using a 7th-level tek skill slot, the duration is 10 days. When you use an 8th-level tek skill slot, the duration is 30 days. When you use a 9th-level tek skill slot, the duration is a year and a day.
 
+\page
+
 ##### Maze
 
 _8th-level conjuration_
@@ -4788,7 +4813,7 @@ _8th-level conjuration_
 
 **Duration:** Concentration, up to 10 minutes
 
-You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
+You banish a creature that you can see within range into a VR labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
 
 The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the tek skill ends (a minotaur or goristro demon automatically succeeds).
 
@@ -4873,6 +4898,8 @@ _8th-level abjuration_
 **Duration:** 24 hours
 
 Until the tek skill ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination tek skills, and the charmed condition. The tek skill even foils _wish_ tek skills and tek skills or effects of similar power used to affect the target's mind or to gain information about the target.
+
+\page
 
 ##### Minor Illusion
 
@@ -4967,6 +4994,8 @@ _2nd-level conjuration_
 **Duration:** Instantaneous
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
+
+\page
 
 ##### Modify Memory
 
@@ -5070,6 +5099,8 @@ _2nd-level abjuration_
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by tek means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
+\page
+
 ##### Passwall
 
 _5th-level transmutation_
@@ -5155,6 +5186,8 @@ _5th-level abjuration_
 **Duration:** 24 hours
 
 With this tek skill, you attempt to bind a Alien, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the tek skill. (Typically, the creature is first summoned into the center of an inverted _tek circle_ in order to keep it trapped while this tek skill is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another tek skill, that tek skill's duration is extended to match the duration of this tek skill.
+
+\page
 
 A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the tek skill ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the tek skill ends.
 
@@ -5250,6 +5283,8 @@ You speak a word of power that can overwhelm the mind of one creature you can se
 
 The stunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
+\page
+
 ##### Prayer of Healing
 
 _2nd-level evocation_
@@ -5334,6 +5369,8 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 1.  **_Red._** The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nontek ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
 2.  **_Orange._** The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, tek ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
+\page
+
 3.  **_Yellow._** The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
 4.  **_Green._** The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A _passwall_ tek skill, or another tek skill of equal or greater level that can open a portal on a solid surface, destroys this layer.
 5.  **_Blue._** The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
@@ -5402,6 +5439,8 @@ When the condition you specify occurs, the illusion springs into existence and p
 The triggering condition can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the area. For example, you could create an illusion of yourself to appear and warn off others who attempt to open a trapped door, or you could set the illusion to trigger only when a creature says the correct word or phrase.
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your tek skill save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
+
+\page
 
 ##### Project Image
 
@@ -5525,6 +5564,8 @@ A black beam of enervating energy springs from your finger toward a creature wit
 
 At the end of each of the target's turns, it can make a Constitution saving throw against the tek skill. On a success, the tek skill ends.
 
+\page
+
 ##### Ray of Frost
 
 _Evocation cantrip_
@@ -5627,6 +5668,8 @@ Nothing—not physical objects, energy, or other tek skill effects—can pass th
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
 
 A _disintegrate_ tek skill targeting the globe destroys it without harming anything inside it.
+
+\page
 
 ##### Resistance
 
@@ -5750,6 +5793,8 @@ You ward a creature within range against attack. Until the tek skill ends, any c
 
 If the warded creature makes an attack or casts a tek skill that affects an enemy creature, this tek skill ends.
 
+\page
+
 ##### Scorching Ray
 
 _2nd-level evocation_
@@ -5852,6 +5897,8 @@ The changes wrought by this tek skill fail to hold up to physical inspection. Fo
 
 A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your tek skill save DC. If it succeeds, it becomes aware that the target is disguised.
 
+\page
+
 ##### Sending
 
 _3rd-level evocation_
@@ -5941,6 +5988,8 @@ _1st-level abjuration_
 **Duration:** 1 round
 
 An invisible barrier of tek force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _tek missile_.
+
+\page
 
 ##### Shield of Faith
 
@@ -6038,6 +6087,8 @@ If the simulacrum is damaged, you can repair it in an alchemical laboratory, usi
 
 If you cast this tek skill again, any currently active duplicates you created with this tek skill are instantly destroyed.
 
+\page
+
 ##### Sleep
 
 _1st-level enchantment_
@@ -6125,6 +6176,8 @@ _3rd-level necromancy_
 You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead. The tek skill fails if the corpse was the target of this tek skill within the last 10 days.
 
 Until the tek skill ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This tek skill doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
+
+\page
 
 ##### Speak with Plants
 
@@ -6234,6 +6287,8 @@ Each creature that is completely within the cloud at the start of its turn must 
 
 A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
 
+\page
+
 ##### Stone Shape
 
 _4th-level transmutation_
@@ -6324,6 +6379,8 @@ You can create a new line of radiance as your action on any turn until the tek s
 
 For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
 
+\page
+
 ##### Sunburst
 
 _8th-level evocation_
@@ -6402,6 +6459,8 @@ On subsequent rounds, you can use your action to attempt to maintain your teleki
 
 **_Object._** You can try to move an object that weighs up to 1,000 pounds. If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this tek skill.
 
+\page
+
 If the object is worn or carried by a creature, you must make an ability check with your Tekcasting ability contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this tek skill.
 
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
@@ -6421,64 +6480,6 @@ _5th-level divination (ritual)_
 You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren't affected by this tek skill.
 
 Until the tek skill ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
-
-##### Teleport
-
-_7th-level conjuration_
-
-**Casting Time:** 1 action
-
-**Range:** 10 feet
-
-**Components:** V
-
-**Duration:** Instantaneous
-
-This tek skill instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.
-
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
-
-| Familiarity       | Mishap | Similar Area | Off Target | On Target |
-|-------------------|--------|--------------|------------|-----------|
-| Permanent circle  | —      | —            | —          | 01–100    |
-| Associated object | —      | —            | —          | 01–100    |
-| Very familiar     | 01–05  | 06–13        | 14–24      | 25–100    |
-| Seen casually     | 01–33  | 34–43        | 44–53      | 54–100    |
-| Viewed once       | 01–43  | 44–53        | 54–73      | 74–100    |
-| Description       | 01–43  | 44–53        | 54–73      | 74–100    |
-| False destination | 01–50  | 51–100       | —          | —         |
-
-**_Familiarity._** “Permanent circle” means a permanent teleportation circle whose sigil sequence you know. “Associated object” means that you possess an object taken from the desired destination within the last six months, such as a book from an arcanist's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.
-
-“Very familiar” is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the tek skill. “Seen casually” is someplace you have seen more than once but with which you aren't very familiar. “Viewed once” is a place you have seen once, possibly using tek. “Description” is a place whose location and appearance you know through someone else's description, perhaps from a map.
-
-“False destination” is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or you are attempting to teleport to a familiar location that no longer exists.
-
-**_On Target._** You and your group (or the target object) appear where you want to.
-
-**_Off Target._** You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is 1d10 × 1d10 percent of the distance that was to be traveled. For example, if you tried to travel 120 miles, landed off target, and rolled a 5 and 3 on the two d10s, then you would be off target by 15 percent, or 18 miles. The GM determines the direction off target randomly by rolling a d8 and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.
-
-**_Similar Area._** You and your group (or the target object) wind up in a different area that's visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another Arcanist's laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the tek skill has no range limit, you could conceivably wind up anywhere on the plane.
-
-**_Mishap._** The tek skill's unpredictable tek results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
-
-##### Teleportation Circle
-
-_5th-level conjuration_
-
-**Casting Time:** 1 minute
-
-**Range:** 10 feet
-
-**Components:** V, M (a gem worth 5000 credits, which the tek skill consumes)
-
-**Duration:** 1 round
-
-As you cast the tek skill, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
-
-Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence—a string of tek runes arranged in a particular pattern. When you first gain the ability to cast this tek skill, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
-
-You can create a permanent teleportation circle by casting this tek skill in the same location every day for one year. You need not use the circle to teleport when you cast the tek skill in this way.
 
 ##### Thaumaturgy
 
@@ -6567,35 +6568,8 @@ _3rd-level divination_
 
 This tek skill grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
 
-##### Transport via Plants
+\page
 
-_6th-level conjuration_
-
-**Casting Time:** 1 action
-
-**Range:** 10 feet
-
-**Components:** V, S
-
-**Duration:** 1 round
-
-This tek skill creates a tek link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
-
-##### Tree Stride
-
-_5th-level conjuration_
-
-**Casting Time:** 1 action
-
-**Range:** Self
-
-**Components:** V, S
-
-**Duration:** Concentration, up to 1 minute
-
-You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
-
-You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
 ##### True Polymorph
 
@@ -6693,6 +6667,8 @@ Once on each of your turns as a bonus action, you can mentally command the serva
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the tek skill ends.
 
+\page
+
 ### Tek Skills (V)
 
 ##### Vampiric Touch
@@ -6786,6 +6762,8 @@ A nontek wall of solid stone springs into existence at a point you choose within
 If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
 
 The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this tek skill to bridge a chasm or create a ramp.
+
+\page
 
 If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create crenellations, battlements, and so on.
 
@@ -6883,6 +6861,8 @@ A creature restrained by the webs can use its action to make a Strength check ag
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
+\page
+
 ##### Weird
 
 _9th-level illusion_
@@ -6958,6 +6938,8 @@ Alternatively, you can create one of the following effects of your choice:
 You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This tek skill might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary alien artifact or artifact might instantly transport you to the presence of the item's current owner.
 
 The stress of casting this tek skill to produce any effect other than duplicating another tek skill weakens you. After enduring that stress, each time you cast a tek skill until you finish a long rest, you take 1d10 radiation damage per level of that tek skill. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast _wish_ ever again if you suffer this stress.
+
+\page
 
 ##### Word of Recall
 

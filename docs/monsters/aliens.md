@@ -698,7 +698,7 @@ _Large alien (prothean), chaotic evil_
 **_Stunning Screech (1/Day)_**. The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a prothean must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
 
 
-## Barbed Devil
+## Barbed Zabrak
 
 _Medium alien (zabrak), lawful evil_
 
@@ -744,7 +744,7 @@ _Medium alien (zabrak), lawful evil_
 
 **_Hurl Flame_**. Ranged Tek Attack:_ +5 to hit, range 150 ft., one target. _Hit:_ 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 
-## Bearded Devil
+## Bearded Zabrak
 
 _Medium alien (zabrak), lawful evil_
 
@@ -782,7 +782,6 @@ _Medium alien (zabrak), lawful evil_
 
 **_Multiattack_**. The zabrak makes two attacks: one with its beard and one with its glaive.
 
-**_Beard_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 **_Glaive_**. _Melee Weapon Attack:_ +5 to hit, reach 10 ft., one target. _Hit:_ 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the zabrak hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives tek healing.
 
@@ -1494,7 +1493,7 @@ At will: _nondetection_ (self only)
 
 _Small alien (traveler), neutral evil_
 
-**Armor Class** 15 (Flak armor, shield)
+**Armor Class** 15 (scarab skin, shield)
 
 **Hit Points** 7 (2d6)
 
@@ -1995,7 +1994,7 @@ _Medium alien (sahuagin), lawful evil_
 
 _Medium alien (pandoran), chaotic neutral_
 
-**Armor Class** 14 (Flak armor)
+**Armor Class** 14 (scarab skin)
 
 **Hit Points** 31 (7d8)
 
@@ -2030,7 +2029,7 @@ _Medium alien (pandoran), chaotic neutral_
 
 _Tiny alien (pandoran), neutral good_
 
-**Armor Class** 15 (Flak armor)
+**Armor Class** 15 (scarab skin)
 
 **Hit Points** 2 (1d4)
 

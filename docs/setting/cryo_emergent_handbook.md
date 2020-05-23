@@ -6,13 +6,13 @@ Welcome to your new life! The Sol Commerce Authority (SCA) is responsible for re
 
 Centuries ago it was common practice for terminally ill humans, or those with vast resources to facilitate the cryogenic preservation of their bodies to be revived when scientific advancement allowed.
 
-SCA legislation HL-3404-C53 dictates that all cryogenically preserved pre-stack natural humans that have not been revived to be confiscated by the SCA. Your consciousness has been legally conscripted into indentured servitude to the SCA until you have paid off your contract.
+SCA legislation HL-3404-C53 dictates that all cryogenically preserved pre-EGO natural humans that have not been revived to be confiscated by the SCA. Your consciousness has been legally conscripted into indentured servitude to the SCA until you have paid off your contract.
 
 You were not revived for one of the following reasons:
 
-- Your sleeve was damaged and unsuitable to be revived.
-- Your cryo insurance coverage was not comprehensive enough to cover the cost of sleeve repair.
-- Your cryo insurance agency was waiting for your sleeve repair costs to become lower.
+- Your Skin was damaged and unsuitable to be revived.
+- Your cryo insurance coverage was not comprehensive enough to cover the cost of Skin repair.
+- Your cryo insurance agency was waiting for your Skin repair costs to become lower.
 - The contract on your revival designated a date after HL-3404-C53 went into effect.
 
 ## Persona
@@ -33,22 +33,22 @@ SCA assesses each emergent, and determines a score for each of the four primary 
 ```
 ```
 
-### Stack
+### EGO
 
-Each human is given a "stack" that is installed at the base of the neck connected to your spinal cord. The Stack contains a complete record of your conscious mind. In the event of your death you can obtain a new body. Additionally, traveling across the solar system has never been faster with the ability to stream your stack backup to a different body. If you have the funds, you can even have a cloned body ready for you on the other side.
+Each human is given a "EGO" that is installed at the base of the neck connected to your spinal cord. The EGO contains a complete record of your conscious mind. In the event of your death you can obtain a new body. Additionally, traveling across the solar system has never been faster with the ability to stream your EGO backup to a different body. If you have the funds, you can even have a cloned body ready for you on the other side.
 
-If your stack is destroyed however, there is no bringing you back. That is called "true death". The punishment for murder has been lessened with the exception of those who have religious encoding specifying they do not wish to be spun back up.
+If your EGO is destroyed however, there is no bringing you back. That is called "true death". The punishment for murder has been lessened with the exception of those who have religious encoding specifying they do not wish to be spun back up.
 
-Having two copies or more of the same stack is illegal, and punishable by the true death of all copies.
+Having two copies or more of the same EGO is illegal, and punishable by the true death of all copies.
 
-It is also possible to enter into a totally virtual environment via the stack. Using this method we can spin up a virtual instance of a person in VR to question them about thier death, or keep prisoners inside a virtual environment indefinitely.
+It is also possible to enter into a totally virtual environment via the EGO. Using this method we can spin up a virtual instance of a person in VR to question them about thier death, or keep prisoners inside a virtual environment indefinitely.
 
-## Sleeve
+## Skin
 
-A "sleeve" is what the transhuman body is now referred to. Upon death, if your stack is recovered, you can purchase a new sleeve, or be provided one in the case of wrongful death, or if you are properly insured.
+A "Skin" is what the transhuman body is now referred to. Upon death, if your EGO is recovered, you can purchase a new Skin, or be provided one in the case of wrongful death, or if you are properly insured.
 
 ### Quality Control
-All sleeves must be appraised by the **Board of Quality Control** to ensure buyer protection. Sleeves are appraised with the following ability scores.
+All Skins must be appraised by the **Board of Quality Control** to ensure buyer protection. Skins are appraised with the following ability scores.
 
 
 | Ability Score | Description |

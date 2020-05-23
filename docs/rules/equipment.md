@@ -72,7 +72,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
 
-**_Flak Armor._** Lightweight metal lined combat armor.
+**_scarab skin._** Lightweight metal lined combat armor.
 
 **_Pulse Armor._** Powered by a small generator, this expensive shielding deflects projectiles. Once depleted it takes time to recharge. Pulse armor can be quite expensive, but ideal if you are trying to keep a low profile.
 
@@ -80,7 +80,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
-**_Scarab Skin._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+**_flak armor._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 **_Kevlar._** Basic military issue combat armor.
 
@@ -98,15 +98,15 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 | Name | Cost | Armor Class (AC) | Strength | Stealth | Weight | Don/Doff |
 |--------------------|----------|---------------------------|----------|--------------|--------|----------|
 | **_Light Armor_** | | | | | | |
-| flak armor | 4,500 credits | 12 + Dex modifier | — | — | 13 kg.| 1 minute|
-| pulse armor | 4,500 credits | 13 + Dex modifier | — | — | 13 kg. | 1 action |
+| scarab skin | 4,500 credits | 12 + Dex modifier | — | — | 13 kg.| 1 minute|
+| pulse armor | 20,000 credits | 13 + Dex modifier | — | — | 13 kg. | 1 action |
 | **_Medium Armor_** | | | | | ||
-| scarab skin | 5,000 credits | 13 + Dex modifier (max 2) | — | — | 20 kg. |5/1 minutes|
-| kevlar | 5,000 credits | 14 + Dex modifier (max 2) | — | Disadvantage | 45 kg. | 5/1 minutes|
+| flak armor | 5,000 credits | 13 + Dex modifier (max 2) | — | — | 20 kg. |5/1 minutes|
+| kevlar | 10,000 credits | 14 + Dex modifier (max 2) | — | Disadvantage | 45 kg. | 5/1 minutes|
 | **_Heavy Armor_** | | | | | ||
 | star shell | 150,000 credits | 18 | Str 5 | Disadvantage | 650 kg. |10/5 minutes |
 | **_Shield_** | | | | | ||
-| pulse shield | 10,000 credits | +2 | — | — | 6 kg. |1 action|
+| pulse shield | 50,000 credits | +2 | — | — | 6 kg. |1 action|
 
 
 #### Getting Into and Out of Armor
@@ -128,7 +128,9 @@ Below is a list of common freelancer gear.
 
 **_Acid (vial)._** A strong acid that can melt through biological and metalic material. Takes 1d4 hours per inch of metal. A vial can cover enough surface area to create a hole big enough for up to 1 medium creature to fit through. When thrown on a creature, the creature must make a DC 14 dexterity save or take 2d6 acid damage.
 
-**_Antitoxin._** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or synthetics.
+**_Antitoxin._** A creature that injects this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or synthetics.
+
+**_Biomed Injector_** 50,000 credits. A creature with a Biomed Injector can program this device to automatically inject antitoxins, or medkits in certain scenarios. For example, you might pogram your Biomed Injector to inject a Medkit if your Hit Points go below half. This automatically uses your reaction. 
 
 **_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save. Caltrops can be coated in poison to do additional damage.
 
@@ -158,7 +160,7 @@ Below is a list of common freelancer gear.
 
 **_Magboots._** Boots that magnetize to surface improving mobility in null-g environments. They must be activated with an action.
 
-**Med Kit._** This kit is a pouch containing synthetic flesh, salves, splints, antibiotics, and a defibrillator. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check. Med Kit can also be used to triage an injured character if a character has the ability to do so.
+**Medkit._** This kit is a pouch containing synthetic flesh, salves, splints, antibiotics, and a defibrillator. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check. Medkit can also be used to triage an injured character if a character has the ability to do so.
 
 **_Mess Kit._** This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 

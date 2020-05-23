@@ -117,15 +117,15 @@ Unless you are storing the large files below, generally a file server that is 1z
 |--------------------|---------------|
 | VR Quality Video   | .1zb per hour |
 | 1000 Intel         | 1zb           |
-| Stack Backup       | 10zb          |
+| EGO Backup       | 10zb          |
 |
   </div>
 
-##### Stack Backup
-A stack backup is the largest single data item. A single stack backup takes up 10zb of data. Backups must be processed through SIGNET to avoid packet loss which could lead to corrupted backups. Backing up also requires the highest speed SIGNET connection, and takes 10 minutes.
+##### EGO Backup
+an EGO backup is the largest single data item. A single EGO backup takes up 10zb of data. Backups must be processed through SIGNET to avoid packet loss which could lead to corrupted backups. Backing up also requires the highest speed SIGNET connection, and takes 10 minutes.
 
 ##### VR Video File
-VR video not only contains visual and audio, but all the components required to recreate a completely immersive VR experience. VR might either be captured directly from Stack memory, or a specialized VR capture device. Either way, the files created are quite large.
+VR video not only contains visual and audio, but all the components required to recreate a completely immersive VR experience. VR might either be captured directly from EGO memory, or a specialized VR capture device. Either way, the files created are quite large.
 
 >## Faction Intel
 >Faction Intel is encrypted data about the organization that you hacked. This can be sold annonymously on DARKNET for credits at a 1:1 ratio. You can also spend 1 day per 100 intel with a successsful DC 12 intelligence (hacking) check to decrypt the data. Decrypted intel will give you valuable information about the organization that you can leverage for a mission. The larger the amount of intel decrypted, the better the information is yielded. Alternatively you can trade intel with an opposing faction to make a point of contact within that faction, or increase your reputation within that faction.

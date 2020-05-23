@@ -21,13 +21,13 @@ Welcome to your new life! The Sol Commerce Authority (SCA) is responsible for re
 
 Centuries ago it was common practice for terminally ill humans, or those with vast resources to facilitate the cryogenic preservation of their bodies to be revived when scientific advancement allowed.
 
-SCA legislation HL-3404-C53 dictates that all cryogenically preserved pre-stack natural humans that have not been revived to be confiscated by the SCA. Your consciousness has been legally conscripted into indentured servitude to the SCA until you have paid off your contract.
+SCA legislation HL-3404-C53 dictates that all cryogenically preserved pre-EGO natural humans that have not been revived to be confiscated by the SCA. Your consciousness has been legally conscripted into indentured servitude to the SCA until you have paid off your contract.
 
 You were not revived for one of the following reasons:
 
-- Your sleeve was damaged and unsuitable to be revived.
-- Your cryo insurance coverage was not comprehensive enough to cover the cost of sleeve repair.
-- Your cryo insurance agency was waiting for your sleeve repair costs to become lower.
+- Your Skin was damaged and unsuitable to be revived.
+- Your cryo insurance coverage was not comprehensive enough to cover the cost of Skin repair.
+- Your cryo insurance agency was waiting for your Skin repair costs to become lower.
 - The contract on your revival designated a date after HL-3404-C53 went into effect.
 
 ### Designation
@@ -53,14 +53,14 @@ Personality traits were the results of a two decades long psychological study at
 ```
 ```
 
-## Sleeve
+## Skin
 
 Thanks to modern cloning techniques, and the availability of confiscated human bodies, death no longer needs to be permanent.
 
-Upon death, if your stack is recovered, you can purchase a new sleeve, or be provided one in the case of wrongful death, or if you are properly insured.
+Upon death, if your EGO is recovered, you can purchase a new Skin, or be provided one in the case of wrongful death, or if you are properly insured.
 
 ### Quality Control
-All sleeves must be appraised by the **Board of Quality Control** to ensure buyer protection. Sleeves are appraised with the following traits:
+All Skins must be appraised by the **Board of Quality Control** to ensure buyer protection. Skins are appraised with the following traits:
 
 
 | Trait | Description |
@@ -72,7 +72,7 @@ All sleeves must be appraised by the **Board of Quality Control** to ensure buye
 
 
 ## Skills
-Average skill levels can be derived from these core Sleeve Traits, and Persona Traits to give you a better idea of the effectiveness of a sleeve. Each skill is a combination of 2 traits.
+Average skill levels can be derived from these core Skin Traits, and Persona Traits to give you a better idea of the effectiveness of a Skin. Each skill is a combination of 2 traits.
 
 ##### Skill Definition
 | Skill | Trait Combinations |
@@ -124,14 +124,14 @@ A focus is a small device that through a series of voice, movements, and occasio
 
 > ##### The two sources of Tek
 > #### History
-> One method to cast “tek skills” is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the sleeve you are in does not impact how effective you are at casting “tek skills”.
+> One method to cast “tek skills” is to learn how to use them. This often involves lots of studying and  memorization. Using this method, the Skin you are in does not impact how effective you are at casting “tek skills”.
 >
 > Classes that use this type of “tek” are Priest , Morph, Scout, Cybernetic, and Arcanist.
 >
 > #### Genetic Alteration
-> Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize “tek skills”, but you must be equipped with an adequate sleeve that has been genetically modified.
+> Another way to cast tek skills is to be genetically modified to do so. This prevents you from having to memorize “tek skills”, but you must be equipped with an adequate Skin that has been genetically modified.
 >
-> Usually sleeves with above average Charisma or Constitution are better suited to this type of casting.
+> Usually Skins with above average Charisma or Constitution are better suited to this type of casting.
 >
 > Classes that use this type of “tek” are Evangelists, Guardians, and Scions.
 
@@ -142,8 +142,8 @@ A focus is a small device that through a series of voice, movements, and occasio
 ### Willpower
 Regardless of the method of tek casting, Willpower is always at the core of casting tek skills. When estimating a caster's “tek” ability, you add the relevant ability score to your Will score to determine your Tekcasting power. The only exception is Evangelist, which uses their Wit and Charisma score since their tek is a form of performance.
 
-Sleeve Market
-All tier 1 quality sleeves are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of sleeves is presented for you to choose from.
+Skin Market
+All tier 1 quality Skins are given basic genetic alterations. You merely need to specify which basic genetic alteration you desire, and a limited set of Skins is presented for you to choose from.
 
 Basic Genetic Alterations
 (Free Upgrades)
@@ -158,7 +158,7 @@ Thick Skinned: +1 CON
 Integrated Synapses: +1 DEX
 Curated Aesthetics: +1 CHA
 
-Basic sleeve insurance does not cover genetic enhancements. You can upgrade for a cost to a maximum of +2 per trait.
+Basic Skin insurance does not cover genetic enhancements. You can upgrade for a cost to a maximum of +2 per trait.
 
 |  Upgrades | Cost |
 |:----:|:-------------|
@@ -167,21 +167,21 @@ Basic sleeve insurance does not cover genetic enhancements. You can upgrade for 
 |3| 130,000c|
 |4| 160,000c|
 
-Upgrades can be retained when transferring to a new sleeve, or a return of 80% of the upgrade cost will be returned to you.
+Upgrades can be retained when transferring to a new Skin, or a return of 80% of the upgrade cost will be returned to you.
 
 ## Feats
-At every 4 stack levels the Board of Quality Control awards employees with a free stack or sleeve upgrade. These upgrades come in a form of a predefined “feat” or a genetic alteration or stack data upload.
+At every 4 EGO levels the Board of Quality Control awards employees with a free EGO or Skin upgrade. These upgrades come in a form of a predefined “feat” or a genetic alteration or EGO data upload.
 A list of available feats can be provided upon request.
 
-Alternatively, you can be awarded 2 points to be allocated towards a genetic sleeve upgrade, or a data upload to your stack.
+Alternatively, you can be awarded 2 points to be allocated towards a genetic Skin upgrade, or a data upload to your EGO.
 
 ### Genetic Upgrade Option
-Based on the type of genetic alteration (Physique, Constitution, Dexterity, Charisma), you will either be issued a new similar sleeve, or given genetic enhancements to your current sleeve. You may be given the option to choose.
+Based on the type of genetic alteration (Physique, Constitution, Dexterity, Charisma), you will either be issued a new similar Skin, or given genetic enhancements to your current Skin. You may be given the option to choose.
 
 ### Data Upload Option
-One unit of data uploaded to your stack will be guaranteed to be enough to increase your Wit, Will, Intelligence or Wisdom assessment score by 1 point.
+One unit of data uploaded to your EGO will be guaranteed to be enough to increase your Wit, Will, Intelligence or Wisdom assessment score by 1 point.
 \page
-## Sleeve Races
+## Skin Races
 
 ---
 
@@ -278,7 +278,7 @@ You might want to tweak some of the features of a background so it better fits y
 
 ## Cryo-Emergent
 
-You were born in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into a stack and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
+You were born in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into an EGO and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
 
 Skill Proficiencies: Charm. Choose 1 from [Diplomacy, Investigate, Insight].
 Tool Proficiency: [Gaming Set, Musical Instrument]
@@ -345,7 +345,7 @@ You've spent some time in the military. You have been trained by the best of the
 Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
 Tool Proficiencies: Medkit
 Weapon Proficiencies: Rail Rifle
-Armor Proficiencies: Scarab Skin
+Armor Proficiencies: flak armor
 
 **Veteran** As a veteran you can use a Charm check to attempt to get a discount when hiring Mercenaries. You are better at using the marine lingo, and as a result, any marines under your command gain a +1 to Armor Class and attack rolls.
 

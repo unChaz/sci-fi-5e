@@ -1,7 +1,7 @@
 ## Spliced
 Spliced are the gene spliced creations of mad arcanists or their decedents. Spliced have their DNA mixed with that of an animal.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Charisma increases by 1.
 
@@ -14,7 +14,7 @@ As a bonus action, you can assume a more bestial appearance. This transformation
 
 Once you shift, you can't do so again until you finish a short or long rest.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Wisdom increases by 1.
 

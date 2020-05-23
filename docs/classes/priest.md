@@ -25,7 +25,7 @@
 You start with the following equipment, in addition to the equipment granted by your background:
 
 * (*a*) a scorcher or (*b*) an ion slingblade (if proficient)
-* (*a*) kevlar, (*b*) Flak armor, or (*c*) scarab skin (if proficient)
+* (*a*) kevlar, (*b*) scarab skin, or (*c*) scarab skin (if proficient)
 * (*a*) a scorcher and 20 clips of ammunition or (*b*) any simple weapon
 * (*a*) a chaplin's pack or (*b*) a field survival kit
 * A medkit and a religious symbol

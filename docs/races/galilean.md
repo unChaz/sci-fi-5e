@@ -1,7 +1,7 @@
 ## Galilean
 The Galilean refer those born on Io, Europa, Ganymede, and Callisto; the 4 largest moons of Jupiter, or in the great docks of Thebe. The Galilean moons are dry, harsh landscapes due to imperfect terraforming, and produce a hardened humorless populous. The Galilean care more about honor than any other culture of humans, past or present. Japanese culture has had a great influence on the Galilean, but their people come in all variations of human. Galilean have a natural aptitude for tekcasting.
 
-### Sleeve Traits
+### Skin Traits
 
 **_Ability Score Increase._** Your Constitution increases by 1.
 
@@ -10,9 +10,9 @@ The Galilean refer those born on Io, Europa, Ganymede, and Callisto; the 4 large
 **_Speed._** Your base walking speed is 30 feet.
 
 #### Survivalist
-Your sleeve has grown accustomed to living in harsh conditions. You have proficiency in the **Survival** skill.
+Your Skin has grown accustomed to living in harsh conditions. You have proficiency in the **Survival** skill.
 
-### Stack Traits
+### EGO Traits
 
 **_Ability Score Increase._** Your Will increases by 1.
 
@@ -22,3 +22,7 @@ Your sleeve has grown accustomed to living in harsh conditions. You have profici
 
 #### Natural Tekcasters
 You know one cantrip of your choice from the Arcanist spell list. Your tekcasting ability is Will.
+
+<img
+  src='https://i.imgur.com/qtWxVmo.jpg'
+  style='position:absolute;left:60px;bottom:40px;width:300px;' />
