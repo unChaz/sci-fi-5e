@@ -186,7 +186,7 @@ _Medium humanoid (any race), any non-lawful alignment_
 
 **Saving Throws** Str +4, Dex +5, Wis +2
 
-**Skills** Physique +4, Charm +4
+**Skills** Athletics +4, Charm +4
 
 **Senses** passive Perception 10
 
@@ -346,7 +346,7 @@ _Medium humanoid (any race), any alignment_
 |---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
-**Skills** Medicine +4, Nature +3, Perception +4
+**Skills** Medicine +4, Science +3, Perception +4
 
 **Senses** passive Perception 14 **Languages** Morphic plus any two languages **Challenge** 2 (450 XP)
 
@@ -380,7 +380,7 @@ _Medium humanoid (any race), any alignment_
 
 **Saving Throws** Str +7, Dex +5, Con +6
 
-**Skills** Physique +10, Intimidation +5
+**Skills** Athletics +10, Intimidation +5
 
 **Senses** passive Perception 11
 
@@ -738,7 +738,7 @@ _Medium humanoid (any race), any alignment_
 |---------|---------|---------|---------|---------|---------|
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-**Skills** Physique +5, Perception +2
+**Skills** Athletics +5, Perception +2
 
 **Senses** passive Perception 12
 
@@ -925,7 +925,7 @@ _Medium humanoid (human), any alignment_
 |---------|---------|---------|---------|---------|---------|
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-**Skills** Physique +5, Perception +2
+**Skills** Athletics +5, Perception +2
 
 **Damage Resistances** fire
 
@@ -965,7 +965,7 @@ _Medium humanoid (lizardfolk), neutral_
 |---------|---------|---------|--------|---------|--------|
 | 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2) | 12 (+1) | 7 (−2) |
 
-**Skills** Perception +3, Stealth +4, Nature +5
+**Skills** Perception +3, Stealth +4, Science +5
 
 **Senses** passive Perception 13
 

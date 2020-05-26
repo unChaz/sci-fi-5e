@@ -20,7 +20,7 @@ ______
 
 **Saving Throws:** Strength, Constitution
 
-**Skills:** Choose two from  Physique, Intimidation, Perception, and Nature
+**Skills:** Choose two from  Athletics, Intimidation, Perception, and Science
 
 ### Equipment
 

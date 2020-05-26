@@ -592,7 +592,7 @@ _Large monstrosity, neutral good_
 |---------|---------|---------|--------|---------|---------|
 | 18 (+4) | 14 (+2) | 14 (+2) | 9 (−1) | 13 (+1) | 11 (+0) |
 
-**Skills** Physique +6, Perception +3, Nature +3
+**Skills** Athletics +6, Perception +3, Nature +3
 
 **Senses** passive Perception 13
 
@@ -3135,7 +3135,7 @@ _Huge giant, lawful evil_
 
 **Saving Throws** Dex +3, Con +10, Cha +5
 
-**Skills** Physique +11, Perception +6
+**Skills** Athletics +11, Perception +6
 
 **Damage Immunities** fire
 
@@ -3169,7 +3169,7 @@ _Huge giant, neutral evil_
 
 **Saving Throws** Con +8, Wis +3, Cha +4
 
-**Skills** Physique +9, Perception +3
+**Skills** Athletics +9, Perception +3
 
 **Damage Immunities** cold
 
@@ -3233,7 +3233,7 @@ _Huge giant, neutral_
 
 **Saving Throws** Dex +5, Con +8, Wis +4
 
-**Skills** Physique +12, Perception +4
+**Skills** Athletics +12, Perception +4
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -3271,7 +3271,7 @@ _Huge giant, chaotic good_
 
 **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
 
-**Skills** History +8, Physique +14, History +8, Perception +9
+**Skills** History +8, Athletics +14, History +8, Perception +9
 
 **Damage Resistances** cold
 
@@ -3415,7 +3415,7 @@ _Medium humanoid (grimlock), neutral evil_
 |---------|---------|---------|--------|--------|--------|
 | 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1) | 8 (−1) | 6 (−2) |
 
-**Skills** Physique +5, Perception +3, Stealth +3
+**Skills** Athletics +5, Perception +3, Stealth +3
 
 **Condition Immunities** blinded
 

@@ -3,7 +3,7 @@ Synthetic Skins are made from fabricated parts instead of flesh and blood. While
 
 ### Traits
 
-**_Ability Score Increase._** Two ability scores of your choice increase by 1.
+**_Ability Score Increase._** One Skin ability scores of your choice increases by 1.
 
 **_Size._** Synthetics are usually built to be between 4 and 8 feet tall, and come in many shapes. Your size is Medium.
 

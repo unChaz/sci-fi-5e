@@ -62,9 +62,9 @@ Skills have been updated to better fit a sci-fi campaign setting.
 |**Arcana** | Intelligence | Knowledge of Tek Arcana. |
 |**Athletics** | Strength |  Lifting, grappling, climbing, jumping, or swimming. |
 |**Charm** | Physique | The ability to flirt and seduce. |
+|**Computers** | Intelligence | Advanced use of computers, and breaking into computer systems. |
 |**Deception** | Wit | The ability to lie convincingly. |
 |**Engineering** | Intelligence | The building or repairing of mechanical or electronic devices. |
-|**Hacking** | Intelligence | Advanced use of computers, and breaking into computer systems. |
 |**Insight** | Wisdom | The ability to determine the true intentions of a creature. |
 |**Intimidation** | Charisma | When you attempt to influence someone through overt threats, hostile actions, or physical violence. |
 |**Investigation** | Intelligence| Searching for clues and making deductions. |

@@ -18,7 +18,7 @@
 
 **Saving Throws:** Strength, Dexterity
 
-**Skills:** Choose two from Acrobatics, Physique, History, Insight, and Stealth
+**Skills:** Choose two from Acrobatics, Athletics, History, Insight, and Stealth
 
 ###  Equipment
 

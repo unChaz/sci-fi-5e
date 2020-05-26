@@ -3,7 +3,7 @@ Rusters are most commonly of Russian or Irish decent who worked the Helium3 mine
 
 ### Skin Traits
 
-**_Ability Score Increase._** Your Constitution increases by 1.
+**_Ability Score Increase._** Your Dexterity increases by 1.
 
 **_Size._** Rusters are about 5 feet tall. Your size is Medium.
 

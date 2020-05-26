@@ -19,7 +19,7 @@ Modern scouts are very different from those of the past. Today scouts must be ve
 
 **Saving Throws:** Strength, Dexterity
 
-**Skills:** Choose three from Computers, Nature, Physique, History, Insight, Investigation, Perception, and Stealth
+**Skills:** Choose three from Computers, Science, Athletics, History, Insight, Investigation, Perception, and Stealth
 
 ### Equipment
 
@@ -228,7 +228,7 @@ Starting at 3rd level, you are difficult to pin down during a fight. You can mov
 
 #### Survivalist
 
-When you choose this archetype at 3rd level, you gain proficiency in the Nature and Toughness skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+When you choose this archetype at 3rd level, you gain proficiency in the Science and Survival skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
 
 #### Superior Mobility
 At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well.

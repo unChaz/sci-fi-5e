@@ -20,7 +20,7 @@ Guardians are warriors who pledged an oath to an alien entity, usually lawful-go
 
 **Saving Throws:** Wisdom, Charisma
 
-**Skills:** Choose two from Physique, Insight, Intimidation, Medicine, Charm, and Religion
+**Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Charm, and Religion
 
 ### Equipment
 

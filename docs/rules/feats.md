@@ -55,7 +55,7 @@ Increase your Constitution score by 1, to a maximum of 20.
 When you gain this feat, choose one o f the following damage types: acid, cold, fire, lightning, or concussive. Tek Skills you cast ignore resistance to damage o f the chosen type. In addition, when you roll damage for a tek skill you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type.
 
 #### GRAPPLER
-*Prerequisite: Physique 13 or higher*
+*Prerequisite: Strength 13 or higher*
 
 You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 - You have advantage on attack rolls against a creature you are grappling.
@@ -78,7 +78,7 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 *Prerequisite: Proficiency with medium armor*
 
 You have trained to master the use of heavy armor, gaining the following benefits:
-- Increase your Physique score by 1, to a maximum of 20.
+- Increase your Strength score by 1, to a maximum of 20.
 - You gain proficiency with heavy armor.
 
 #### HEAVY ARMOR MASTER
@@ -250,7 +250,7 @@ You have learned techniques to enhance your attacks with certain kinds o f tek s
 
 #### TAVERN BRAWLER
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
-- Increase your Physique or Constitution score by 1, to a maximum o f 20.
+- Increase your Strength or Constitution score by 1, to a maximum o f 20.
 - You are proficient with improvised weapons and unarmed strikes.
 - Your unarmed strike uses a d4 for damage.
 - When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.

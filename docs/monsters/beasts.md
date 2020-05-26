@@ -18,7 +18,7 @@ _Medium beast, unaligned_
 |---------|---------|---------|--------|---------|--------|
 | 16 (+3) | 14 (+2) | 14 (+2) | 6 (−2) | 12 (+1) | 7 (−2) |
 
-**Skills** Physique +5, Perception +3
+**Skills** Athletics +5, Perception +3
 
 **Senses** passive Perception 13
 
@@ -772,7 +772,7 @@ _Huge beast, unaligned_
 |---------|---------|---------|--------|---------|--------|
 | 23 (+6) | 14 (+2) | 18 (+4) | 7 (−2) | 12 (+1) | 7 (−2) |
 
-**Skills** Physique +9, Perception +4
+**Skills** Athletics +9, Perception +4
 
 **Senses** passive Perception 14
 

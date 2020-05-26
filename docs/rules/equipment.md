@@ -47,8 +47,8 @@ Many weapons have special properties related to their use, as shown in the Weapo
   | Razor (rapier) | 3000 credits | 1d8 piercing| 7 kg. | Finesse, Special |
 | **_Martial Ranged Weapons_** | | | | |
 | Pulse Fist | 1000 credits | 1d6 incendiary | 1 kg. | Ammunition (range 25/100), loading(4), Special |
-| Rail Rifle | 7500 credits | 1d4 piercing | 3 kg. | Ammunition (range 30/120), light, loading(10), Burst-Fire(3) |
-| Recoil Rifle | 5000 credits | 2d12 piercing | 18 kg. | Ammunition (range 200/600), heavy, loading(1), two-handed |
+| Rail Rifle | 7500 credits | 3d4 piercing | 3 kg. | Ammunition (range 30/120), light, loading(10), Burst-Fire(3) |
+| Recoil Rifle | 5000 credits | 2d12 piercing | 18 kg. | Ammunition (range 200/600), heavy, loading(3), two-handed |
 | Pulse Net | 100 credits | — | 3 kg. | Special, thrown (range 5/15) |
 </div>
 

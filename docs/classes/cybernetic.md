@@ -22,7 +22,7 @@ Cybernetics are tekcasters who have integrated with an alien AI via synthetic Sk
 
 **Saving Throws:** Wisdom, Wit
 
-**Skills:** Choose two skills from History, Charm, Intimidation, Investigation, and Nature
+**Skills:** Choose two skills from History, Charm, Intimidation, Investigation, and Science
 
 ### Equipment
 

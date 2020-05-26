@@ -14,7 +14,7 @@ Tool Proficiency: [Gaming Set, Musical Instrument]
 You are more comfortable in null gravity and in a confined metal cockpit than you are planetside.
 
 Skill Proficiencies: Acrobatics. Choose 1 from [Engineering, Computers, Pilot].
-Tool Proficiency: Choose 1 from [Navigator's Kit, Engineering's Kit]
+Tool Proficiency: Choose 1 from [Navigator's Datapad, Engineering's Kit]
 
 **Spacewalker**: You do not have to roll ability check to move through null gravity.
 
@@ -22,8 +22,8 @@ Tool Proficiency: Choose 1 from [Navigator's Kit, Engineering's Kit]
 
 You have risen in the ranks of duelists, and have earned your respect among the elite praetorian.
 
-Skill Proficiencies: Physique. Choose 1 from [Acrobatics, Charm, Intimidation]
-Tool Proficiency: Choose 1 from [Musical Instrument, Navigator's Kit, Medkit]
+Skill Proficiencies: Athletics. Choose 1 from [Acrobatics, Charm, Intimidation]
+Tool Proficiency: Choose 1 from [Musical Instrument, Navigator's Datapad, Medkit]
 Weapon Proficiency: Pulse Rapier, Pulse Whip
 
 ### Hacker
@@ -67,7 +67,7 @@ Tool Proficiencies: Choose 1 from [Disguise Kit, Engineering's Tools, Medkit]
 
 You've spent some time in the military. You have been trained by the best of the best, and are a war hardened veteran.
 
-Skill Proficiencies: Physique. Choose 1 from [Toughness, Intimidation, Medic]
+Skill Proficiencies: Athletics. Choose 1 from [Survival, Intimidation, Medic]
 Tool Proficiencies: Medkit
 Weapon Proficiencies: Rail Rifle
 Armor Proficiencies: flak armor
@@ -111,7 +111,7 @@ You have spent most of your life being educated, and now you are going out there
 Skill Proficiencies: Arcana. Choose 2 from [Nature, Medic, Investigation, History]
 Tool Proficiencies: Choose 1 from [Botanist's Kit, MedKit, Poisoner's Kit]
 
-**Field of Study**: You specialize in a specific field. You have advantage when rolling History checks involving that field of study.
+**Field of Study**: You specialize in a specific field. You have advantage when rolling Science checks relating directly to that field of study.
 
 ### Engineer
 You know the ins and outs of most ships and devices.

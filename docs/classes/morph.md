@@ -20,7 +20,7 @@ Morphs are tekcasters who have developed their tekcasting ability to strengthen 
 
 **Saving Throws:** Intelligence, Wisdom
 
-**Skills:** Choose two from History, Insight, Medicine, Perception, and Nature
+**Skills:** Choose two from History, Insight, Medicine, Perception, and Science
 
 ###  Equipment
 
@@ -28,7 +28,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 * (*a*) a stun fist (*b*) any simple weapon
 * (*a*) an ion blade or (*b*) any simple melee weapon
-* scarab skin, a field survival kit, and a morphic focus
+* scarab skin, a field survival kit, and a tekcaster
 
 ###  Morphic cant
 

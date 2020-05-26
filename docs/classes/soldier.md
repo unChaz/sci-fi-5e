@@ -19,7 +19,7 @@ Whether a freedom fighter, mercenary, or enlisted soldier, and whether you carry
 
 **Saving Throws:** Strength, Constitution
 
-**Skills:** Choose two skills from Acrobatics, Physique, History, Insight, Intimidation, Perception, and Nature
+**Skills:** Choose two skills from Acrobatics, Athletics, History, Insight, Intimidation, Perception, and Science
 
 ### Equipment
 
