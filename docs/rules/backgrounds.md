@@ -154,4 +154,4 @@ Skill Proficiencies: Diplomacy. Choose 1 from [Insight, History, Charm]
 
 **Entrepreneur**: You are skilled at making business deals. You do all your business through a small corporation you chose a name for. You have 3 employees that run this small business for you. The business does not turn a profit unless you invest time and money into a business venture. The business can be any type of legal small business. The business venture can be anything legal or illegal. You must fund the venture directly by investing credits and making the appropriate business connections. The success of the venture is determined by a number of appropriate ability checks determined by the DM. Results can range from capital gains/losses, earned/ruined business relationships, to even legal trouble, or disputes with elite houses/corporations. Once you make the proposal and appropriate connections, the length of the business venture, the difficulty, and potential outcomes will be determined by the DM.
 
-Equipment: A case of business cards, and 3000 credits
+Equipment: A case of business cards, fine clothing, and 3000 credits
