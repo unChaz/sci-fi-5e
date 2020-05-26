@@ -26,14 +26,18 @@ Skill Proficiencies: Athletics. Choose 1 from [Acrobatics, Charm, Intimidation]
 Tool Proficiency: Choose 1 from [Musical Instrument, Navigator's Datapad, Medkit]
 Weapon Proficiency: Pulse Rapier, Pulse Whip
 
+Equipment: A Pulse Rapier, fine clothing, and 1000 credits.
+
 ### Hacker
 
 Since childhood you've retreated to the comfortable world of cyberspace.
 
 Skill Proficiencies: Computers. Choose 1 from [Stealth, Investigate, Engineering]
-Tool Proficiency: Choose one: [Hacker's Kit, Forgery Kit]
+Tool Proficiency: Hacker's Kit, and Forgery Kit
 
 **Stealthy Hacker**: You have advantage on Stealth checks when trying to hack a system unnoticed.
+
+Equipment: A hackers datapad, 3 wireless spycams, and 1000 credits.
 
 ### Criminal/Spy
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
@@ -43,6 +47,8 @@ Tool Proficiencies: Thieve's Tools. Choose 1 from [Forgery Kit, Poisoner's Kit, 
 
 Criminal Contact: You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact.
 
+Equipment: Knife ring, 3 wireless spycams, and 1000 credits.
+
 ```
 ```
 
@@ -50,9 +56,11 @@ Criminal Contact: You have a reliable and trustworthy contact who acts as your l
 You make your living sneaking illegal goods past Authority checkpoints. You're good with your tongue, and even better in a cockpit.
 
 Skill Proficiencies: Pilot. Choose 1 from [Stealth, Charm, Diplomacy]
-Tool Proficiencies: Navigator's Tools
+Tool Proficiencies: Navigator's Tools, Forgery Kit
 
 **Skills of the Trade**. You know how to hide things on a ship so they cannot be found. You also know where to look when trying to find hidden contraband.
+
+Equipment: A fake ID, a good luck charm, and 1000 credits
 
 ### Detective
 
