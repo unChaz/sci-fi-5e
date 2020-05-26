@@ -24,7 +24,7 @@ Each VPN will have an automatically generated base64 encoded random string ident
 <br>
 
 >### Network Monitoring
->Having a hacker actively monitoring a network for intruders allows you to add their intelligence (hacking) modifier to the network's security protocol DC.
+>Having a hacker actively monitoring a network for intruders allows you to add their intelligence (Computers) modifier to the network's security protocol DC.
 
 ### Breaking Into a System
 
@@ -34,7 +34,7 @@ Breaking into a system is a three step process.
 First you must have a connection to the network. If the network is connected to SIGNET, this is easy if the network has a public front. If it doesn't you must find a lead. You can discover a point of entry by either monitoring the traffic of someones datapad via packet sniffing, or analyze a stolen datapad. Hacking through DARKNET is not viable due to the slow response time. If the network is not connected to SIGNET, you must hack in person. A direct connection to the network can be made through any of its connected devices. A security network can be connected to through a security camera, door access panel, a disabled defense turret, engineering access panel, or any device connected to the network.
 
 ##### Packet Sniffing
-A hacker's datapad can scan for packets being transmitted to and from a target device. You must be within 30 feet of the device. Due to encryption, you cannot see the contents of the data, but you can trace the destination of packets to determine the network they are connected to. Make a hacker check with the DC = 10 + the user's hacking modifier. On a success, while monitoring them you can determine the network they are connecting to. On a failure, make a dexterity (stealth) check to see if you were noticed.
+A hacker's datapad can scan for packets being transmitted to and from a target device. You must be within 30 feet of the device. Due to encryption, you cannot see the contents of the data, but you can trace the destination of packets to determine the network they are connected to. Make a hacker check with the DC = 10 + the user's Computers modifier. On a success, while monitoring them you can determine the network they are connecting to. On a failure, make a dexterity (stealth) check to see if you were noticed.
 
 #### Step 2: Bypass Security Protocol
 Breaking security protocol requires 1 minute, and a successful intelligence (hacking) check against the network's security protocol DC. The level of access you gain depends on the result of the roll.
