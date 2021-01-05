@@ -28,24 +28,20 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a martial weapon and a medkit or (*b*) two martial weapons
 * (*a*) a scorcher (*b*) any simple melee weapon
 * (*a*) a chaplin's pack or (*b*) a field survival kit
-* scarab skin and a holy symbol
+* scarab skin and a tekcaster
 
-## Alien Sense
+## Alien Anthropologist
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any Alien, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (Alien, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire
-
-Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* tek skill.
-
-You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+Through great amount of studying alien culture and technology, you can recognize alien artifacts, structures, and technology. As an action, you can study an object. You know the alien origin of the object, and you can tell if it is dangerous or not. You can gather some basic information related to the object just by looking at it.
 
 ```
 ```
 
 ## Lay on Hands
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your guardian level × 5.
+The first skill any Guardian learns with the tekcaster is how to heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your guardian level × 5.
 
-As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+As an action, you can touch a creature while wielding a tekcaster, and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
 
 Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
 
