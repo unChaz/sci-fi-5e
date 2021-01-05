@@ -1,5 +1,7 @@
 # Scoundrel
 
+The Rogues and Spies of the worlds, Scoundrels specialize in the skullduggery of the criminal underworld. Not only do scoundrels work for criminal organizations, but governments will employ scoundrels to infiltrate such criminal organizations. Corporations also employ scoundrels to engage in corporate espianage, and the war of subversion that is ongoing between corporations and factions.
+
 ###  Hit Points
 
 **Hit Dice:** 1d8 per scoundrel level
