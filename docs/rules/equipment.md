@@ -65,7 +65,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 **_Stealth._** If the Armor table shows “Disadvantage” in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
 
-**_Pulse Shields._** A Pulse Shields is made from wood or metal and is carried in one hand. Wielding A Pulse Shields increases your Armor Class by 2. You can benefit from only one shield at a time.
+**_Pulse Shields._** A Pulse Shields is a handheld device that projects a small force barrier and is carried in one hand. Wielding A Pulse Shields increases your Armor Class by 2. You can benefit from only one shield at a time.
 
 #### Light Armor
 
@@ -73,7 +73,7 @@ Made from supple and thin materials, light armor is worn underneath clothing, an
 
 **_scarab skin._** Lightweight metal lined combat armor.
 
-**_Pulse Armor._** Powered by a small generator, this expensive shielding deflects projectiles. Once depleted it takes time to recharge. Pulse armor can be quite expensive, but ideal if you are trying to keep a low profile.
+**_pulse armor._** Powered by a small generator, this expensive shielding deflects projectiles. Once depleted it takes time to recharge. Pulse armor can be quite expensive, but ideal if you are trying to keep a low profile.
 
 #### Medium Armor
 
