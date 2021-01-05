@@ -7,7 +7,7 @@ Space encounters should be kept simple, and contained in the theater of the mind
 <br>
 
 >### Short and Sweet
->Ship encounters should be short, simple, and cinematic. In this universe, the point of ship to ship combat is not to destroy, but commandeer enemy vessels. These huge ships take trillions of credits of wealth, and years to build. Squandering all that for an easy victory is generally considered foolish, and dishonorable.
+>Ship encounters should be short, simple, and cinematic. In this universe, the point of ship to ship combat is not to destroy, but commandeer enemy vessels. These huge ships take trillions of credits of wealth, and years to build. Squandering all that for an easy victory is generally considered foolish, and dishonorable. The goal of any ship combat is to disable, board, and take control of the enemy vessel.
 
 
 #### Available Maneuvers
