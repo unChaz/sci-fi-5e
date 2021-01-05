@@ -1,6 +1,6 @@
 # Guardian
 
-Guardians are warriors who pledged an oath to an alien entity, usually lawful-good. In exchange for their oaths they have been given a tekcaster and the secrets of casting Guardian tekskills.
+Guardians are human warriors who pledged to study the mysterious ancient alien race only known as The Others. They vow to learn as much as they can about The Others, and forward everything they learn to The Protectorate; the centralized Guardian organization. In exchange for their oaths they have been given a tekcaster and the secrets of casting Guardian tekskills. In addition to their studies, Guardians vow to protect the weak, and honor the laws of humans. This central piece of their theocracy comes from a roughly translated oath found on an alien relic belonging to the order of alien warriors that are presumed to have acted like the alien's law enforcement.
 
 ### Hit Points
 
