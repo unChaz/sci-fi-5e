@@ -1,5 +1,7 @@
 # Evangelist
 
+Evangelists are the celebrities and influencers of the SIGNET. They have gained notoriety and influence among the populus, and they have used that influence to their advantage including the ability to use a tekcaster.
+
 ### Hit Points
 
 **Hit Dice:** 1d8 per evangelist level
@@ -111,7 +113,7 @@ Your Evangelistic Inspiration die changes when you reach certain levels in this 
 | 20th  | +6               | Superior Inspiration                                 | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 </div>
 
-### Jack of All Trades
+### Popularity Contest
 
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
@@ -123,9 +125,9 @@ The extra hit points increase when you reach certain levels in this class: to 1d
 
 ### Evangelist College
 
-At 3rd level, you delve into the advanced techniques of a evangelist college of your choice: the College of Lore or the College of Valor, both detailed at the end of
+At 3rd level, you delve into the advanced techniques of a evangelist college of your choice.
 
-the class description. Your choice grants you features at 3rd level and again at 6th and 14th level.
+Your choice grants you features at 3rd level and again at 6th and 14th level.
 
 ```
 ```
@@ -164,13 +166,13 @@ At 20th level, when you roll initiative and have no uses of Evangelistic Inspira
 
 ## Evangelist Colleges
 
-### College of Lore
+### College of Journalism
 
-Evangelists of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly blogs and white papers. These evangelists use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith to the loyalty of their organization.
+Journalists are always out to get the big scoop. Whether it's to witness and document a big discovery, expose the corruption of a polititian, or simply to document the life of a spacer, Journalists always have the camera running.
 
-The loyalty of these evangelists lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a sect. A noble who keeps such a evangelist as a herald or advisor knows that the evangelist would rather be honest than politic.
+The loyalty of these evangelists lies in the pursuit of beauty and truth, not in fealty to a corporation or government.
 
-The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
+Some Journalists work freelance, while others may report to a specific news site on the web.
 
 #### Bonus Proficiencies
 
@@ -187,6 +189,6 @@ Also at 3rd level, you learn how to use your wit to distract, confuse, and other
 
 At 6th level, you learn two tek skills of your choice from any class. A tek skill you choose must be of a level you can cast, as shown on the Evangelist table, or a cantrip. The chosen tek skills count as evangelist tek skills for you but don't count against the number of evangelist tek skills you know.
 
-#### Peerless Skill
+#### Peerless Knowledge
 
 Starting at 14th level, when you make an ability check, you can expend one use of Evangelistic Inspiration. Roll a Evangelistic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
