@@ -1,6 +1,6 @@
 ## Venusian
 
-The floating cities of Venus are a paradise. Venus is known for its thriving industry below the clouds, and beautiful tourist destinations above.
+The floating cities of Venus are a paradise. Venus is known for its thriving automated industry below the clouds, and beautiful tourist destinations above. Centuries of tampering with genetics have resulted in a population that prizes beauty above all else. Venus abandoned capitalism in favor of automation driven socialism decades ago. The ownerships of the machines that work in the uninhabitable atmosphere of the planet is shared among all citizens of Venus. Citizenship is very difficult to obtain unless you are born of Venusian parents. Many citizens of Venus do not work, and live off of the minimum living wage provided by the government, but most work as civil servants, scientests, doctors, or in the booming tourist industry. Though, for some their appetite for riches inspires them to dabble in interplanetary business; legal or otherwise.
 
 ### Skin Traits
 
@@ -11,7 +11,7 @@ The floating cities of Venus are a paradise. Venus is known for its thriving ind
 **_Speed._** Your base walking speed is 30 feet.
 
 #### Tough Lungs
-Used to the harsh gasses in the Venusian atmosphere. You are immune to poison damage and the poisoned condition.
+Used to the harsh gasses in the Venusian atmosphere. You are immune the poisoned condition.
 
 ### EGO Traits
 
