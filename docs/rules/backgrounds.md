@@ -2,7 +2,8 @@
 
 ### Cryo-Emergent
 
-You were born in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into an EGO and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
+**Requirement**: Earther
+You were born on Earth in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into an EGO and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
 
 Skill Proficiencies: History. Choose 1 from [Diplomacy, Charm, Insight].
 Tool Proficiency: [Gaming Set, Musical Instrument]
@@ -28,7 +29,7 @@ Weapon Proficiency: Pulse Rapier, Pulse Whip
 
 Equipment: A Pulse Rapier, fine clothing, and 1000 credits.
 
-### Hacker
+### Netrunner
 
 Since childhood you've retreated to the comfortable world of cyberspace.
 
@@ -39,7 +40,7 @@ Tool Proficiency: Hacker's Kit, and Forgery Kit
 
 Equipment: A hackers datapad, 3 wireless spycams, and 1000 credits.
 
-### Criminal/Spy
+### Gangster
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization.
 
 Skill Proficiencies: Stealth. Choose 1 from [Trickery, Engineering, Intimidation]
