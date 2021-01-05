@@ -1,5 +1,5 @@
 ## Galilean
-The Galilean refer those born on Io, Europa, Ganymede, and Callisto; the 4 largest moons of Jupiter, or in the great docks of Thebe. The Galilean moons are dry, harsh landscapes due to imperfect terraforming, and produce a hardened humorless populous. The Galilean care more about honor than any other culture of humans, past or present. Japanese culture has had a great influence on the Galilean, but their people come in all variations of human. Galilean have a natural aptitude for tekcasting.
+The Galilean refer those born on Io, Europa, Ganymede, and Callisto; the 4 largest moons of Jupiter, or in the great docks of Thebe. The Galilean moons are dry, harsh landscapes due to imperfect terraforming, and produce a hardened humorless populous. The Galilean care more about honor than any other culture of humans, past or present. Ancient Roman and Japanese culture has had a great influence on the Galilean, but their people come in all variations of human. Galilean have a natural aptitude for tekcasting.
 
 ### Skin Traits
 
