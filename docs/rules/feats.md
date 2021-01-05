@@ -49,11 +49,6 @@ You master fighting with two weapons, gaining the following benefits:
 Hardy and resilient, you gain the following benefits:
 Increase your Constitution score by 1, to a maximum of 20.
 
-#### ELEMENTAL ADEPT
-*Prerequisite: The ability to cast at least one tek skill*
-
-When you gain this feat, choose one o f the following damage types: acid, cold, fire, lightning, or concussive. Tek Skills you cast ignore resistance to damage o f the chosen type. In addition, when you roll damage for a tek skill you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type.
-
 #### GRAPPLER
 *Prerequisite: Strength 13 or higher*
 
@@ -64,24 +59,24 @@ You've developed the skills necessary to hold your own in close-quarters grappli
 
 \page
 
-#### GREAT WEAPON MASTER
+#### SAMURAI
 You've learned to put the weight of a weapon to you advantage, letting its momentum empower your strikes. You gain the following benefits:
 - On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 - Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
-#### HEALER
+#### MEDIC
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 - When you use a medic kit to stabilize a dying creature, that creature also regains 1 hit point.
 - As an action, you can spend one use of a medic kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
 
-#### HEAVILY ARMORED
+#### MECH INITIATE
 *Prerequisite: Proficiency with medium armor*
 
 You have trained to master the use of heavy armor, gaining the following benefits:
 - Increase your Strength score by 1, to a maximum of 20.
 - You gain proficiency with heavy armor.
 
-#### HEAVY ARMOR MASTER
+#### MECH MASTER
 *Prerequisite: Proficiency with heavy armor*
 
 You can use your arm or to deflect strikes that would kill others. You gain the following benefits:
@@ -95,16 +90,16 @@ You can spend 10 minutes inspiring your companions, shoring up their resolve to 
 
 In addition, any mercenaries under your command receive +2 to initiative and armor class.
 
-#### LIGHTLY ARMORED
-You have trained to master the use of light armor, gaining the following benefits:
+#### SPACEWALKER'S GRACE
+You have trained to master moving in low gravity.
 Increase your Physique or Dexterity score by 1, to a maximum of 20.
-You gain proficiency with light armor.
+You no longer risk negative effects of moving in low or null gravity at your full movement speed.
 
 ```
 ```
 
 #### LINGUIST
-You have studied languages and codes, gaining the following benefits:
+You have studied languages and coding, gaining the following benefits:
 - Increase your Intelligence score by 1, to a maximum of 20.
 - You learn three languages of your choice.
 - You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use tek to decipher it.
@@ -120,14 +115,8 @@ If more than one creature spends a luck point to influence the outcome of a roll
 
 You regain your expended luck points when you finish a long rest.
 
-#### MAGE SLAYER
-You have practiced techniques useful in melee combat against tekcasters, gaining the following benefits:
-- When a creature within 5 feet of you casts a tek skill, you can use your reaction to make a melee weapon attack against that creature.
-- When you damage a creature that is concentrating on a tek skill, that creature has disadvantage on the saving throw it makes to maintain its concentration.
-You have advantage on saving throws against tek skills cast by creatures within 5 feet of you.
-
-#### MAGIC INITIATE
-Choose a class: evangelist, priest, morph, scion, cybernetic, or Arcanist. You learn two cantrips of your choice from that class's tek skill list.
+#### ARCANE INITIATE
+Choose a class: evangelist, priest, morph, scion, cybernetic, or arcanist. You learn two cantrips of your choice from that class's tek skill list.
 
 In addition, choose one 1st-level tek skill from that same list. You learn that tek skill and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
 
@@ -137,7 +126,7 @@ Your tek skillcasting ability for these tek skills depends on the class you chos
 
 #### MARTIAL ADEPT
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
-- You learn two maneuvers of your choice from among those available to the Battle Master archetype in the soldier class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Physique or Dexterity modifier (your choice).
+- You learn two soldier maneuvers of your choice from among those available to the Battle Master archetype in the soldier class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Physique or Dexterity modifier (your choice).
 - If you already have superiority dice, you gain one m ore; otherwise, you have one superiority die, which is a d6. This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 #### MEDIUM ARMOR MASTER
@@ -147,37 +136,21 @@ You have practiced moving in medium arm or to gain the following benefits:
 - Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
 - When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
-#### MISSION SPECIALIST
-Alert to the hidden traps and secret doors, you gain the following benefits:
-- When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
-- You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
-- You have advantage on saving throws made to avoid or resist traps.
-- You have resistance to the damage dealt by traps.
-- You can search for traps while traveling at a normal pace, instead of only at a slow pace.
-
 #### MOBILE
 You are exceptionally speedy and agile. You gain the following benefits:
 - Your speed increases by 10 feet.
 - When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
 - When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
 
-
 #### MODERATELY ARMORED
 *Prerequisite: Proficiency with light armor*
 
-You have trained to master the use of medium armor and shields, gaining the following benefits:
+You have trained to master the use of medium armor and pulse shields, gaining the following benefits:
 - Increase your Physique or Dexterity score by 1, to a maximum of 20.
 - You gain proficiency with medium armor and pulse shields.
 
 ```
 ```
-
-#### MOUNTED COMBATANT
-You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
-- You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
-- You can force an attack targeted at your mount to target you instead.
-- If your mount is subjected to an effect that allows it to take a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
-Mounts include Grav Boots, and Hover Bikes.
 
 #### OBSERVANT
 Quick to notice details of your environment, you gain the following benefits:
@@ -190,14 +163,6 @@ Choose one ability score. You gain the following benefits:
 - Increase the chosen ability score by 1, to a maximum of 20.
 - You gain proficiency in saving throws using the chosen ability.
 
-#### RITUAL CASTER
-*Prerequisite: Intelligence, Will or Wisdom 13 or higher*
-
-You have learned a number of tek skills that you can cast as rituals. These tek skills are written in a ritual book, which you must have in hand while casting one of them.
-
-When you choose this feat, you acquire a ritual book holding two 1st-level tek skills of your choice. Choose one of the following classes: evangelist, priest, morph, scion, cybernetic, or Arcanist. You must choose your tek skills from that class's tek skill list, and the tek skills you choose must have the ritual tag. The class you choose also determines your tek skillcasting ability for these tek skills: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for Arcanist.
-
-If you come across a tek skill in written form, such as a tek tek skill datacube or an arcanist's tekcaster, you might be able to add it to your ritual book. The tek skill must be on the tek skill list for the class you chose, the tek skill's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the tek skill into your ritual book takes 2 hours per level of the tek skill, and costs 50 gp per level. The cost represents material components you expend as you experiment with the tek skill to master it, as well as the fine inks you need to record it.
 
 #### SAVAGE ATTACKER
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
@@ -205,7 +170,7 @@ Once per turn when you roll damage for a melee weapon attack, you can reroll the
 \page
 
 #### SCORCHER EXPERT
-Thanks to extensive practice with the scorcher , you gain the following benefits:
+Thanks to extensive practice with the scorcher, you gain the following benefits:
 - You can use the scorcher's “create ammunition” property without using an action.
 - Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.
 - When you use the Attack action and attack with a one handed weapon, you can use a bonus action to attack with a loaded hand scorcher you are holding.
@@ -225,7 +190,6 @@ You have mastered ranged weapons and can make shots that others find im possible
 #### SKILLED
 You gain proficiency in any combination of three skills or tools of your choice.
 
-
 #### SKULKER
 *Prerequisite: Dexterity 13 or higher*
 
@@ -240,14 +204,6 @@ You understand spacecraft architecture with uncanny precision. You gain the foll
 - You have advantage on Intelligence (Investigation) checks to navigate an unfamiliar ship.
 - You can accurately recall the layout of any ship or space station you've been on.
 
-#### SPELL SNIPER
-*Prerequisite: The ability to cast at least one tek skill*
-
-You have learned techniques to enhance your attacks with certain kinds o f tek skills, gaining the following benefits:
-- When you cast a tek skill that requires you to make an attack roll, the tek skill's range is doubled.
-- Your ranged tek skill attacks ignore half cover and three-quarters cover.
-- You learn one cantrip that requires an attack roll. Choose the cantrip from the evangelist, priest, morph, scion, cybernetic, or Arcanist tek skill list. Your tek skillcasting ability for this cantrip depends on the tek skill list you chose from: Charisma for evangelist, scion, or cybernetic; Wisdom for priest or morph; or Intelligence for Arcanist.
-
 #### TAVERN BRAWLER
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
 - Increase your Strength or Constitution score by 1, to a maximum o f 20.
@@ -258,14 +214,6 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 #### TOUGH
 Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum
 increases by an additional 2 hit points.
-
-#### WAR CASTER
-*Prerequisite: The ability to cast at least one tek skill*
-You have practiced casting tek skills in the midst of combat, learning techniques that grant you the following benefits:
-You have advantage on Constitution saving throws that you make to maintain your concentration on a tek skill when you take damage.
-You can perform the somatic components of tek skills even when you have weapons or a shield in one or both hands.
-When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a tek skill at the creature, rather than making
-an opportunity attack. The tek skill must have a casting time of 1 action and must target only that creature.
 
 #### WEAPON MASTER
 You have practiced extensively with a variety of weapons, gaining the following benefits:
