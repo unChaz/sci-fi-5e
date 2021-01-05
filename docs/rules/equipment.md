@@ -28,7 +28,6 @@ Many weapons have special properties related to their use, as shown in the Weapo
 | Name | Cost | Damage | Weight | Properties |
 |-------|-------|--------|---------|------------|
 | **_Simple Melee Weapons_** | | | | |
-| Knife Ring | 200 credits | 1d4 piercing | 1 kg. | Hidden, Light |
 | Ion Dagger | 200 credits | 1d4 piercing | 1 kg. | Finesse, light, thrown (range 20/60) |
 | Katana | 800 credits | 1d6 piercing | 4 kg. | Finesse |
 | Light Hammer | 200 credits | 1d4 bludgeoning | 8kg | Light, thrown (range 20/60) |
@@ -37,10 +36,10 @@ Many weapons have special properties related to their use, as shown in the Weapo
 | Scorcher | 2500 credits | 1d8 piercing | 5 kg. | Ammunition (range 80/320), loading(10), two-handed |
 | Dart | 50 credits | 1d4 piercing | 1/4 kg. | Finesse, thrown (range 20/60) |
 | **_Martial Melee Weapons_** | | | | |
-| Stun Fist | 1000 credits | 1d6 concussive | 4 kg. | Reach |
-| Ion Blade | 1000 credits | 1d6 piercing | 2 kg. | Finesse, light |
-| Pulse blade | 1500 credits | 1d8 slashing | 3 kg. | Versatile (1d10) |
-| Warhammer | 2000 credits | 1d8 bludgeoning | 20kg | Versatile (1d10) |
+| Stun Fist | 1000 credits | 1d8 concussive | 4 kg. | Reach |
+| Ion Blade | 1000 credits | 1d8 piercing | 2 kg. | Finesse, light |
+| Pulse blade | 1500 credits | 1d10 slashing | 3 kg. |  |
+| Warhammer | 2000 credits | 1d10 bludgeoning | 20kg |  |
 | Pulseaxe | 2500 credits | 1d12 slashing | 40kg | Heavy, two-handed |
 | Ion Halberd | 2500 credits | 1d10 slashing | 30kg | Heavy, reach, two-handed |
 | Razor (whip) | 3000 credits |1d4 slashing | 7 kg. | Finesse, Special, Reach |
@@ -70,7 +69,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 #### Light Armor
 
-Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
+Made from supple and thin materials, light armor is worn underneath clothing, and it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
 
 **_scarab skin._** Lightweight metal lined combat armor.
 
@@ -78,7 +77,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 #### Medium Armor
 
-Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
+Medium armor offers more protection than light armor, but it also impairs movement more, and is strapped outside of your clothing. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
 **_flak armor._** Made of interlocking metal rings, a scarab skin is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
@@ -86,11 +85,11 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 
 #### Heavy Armor
 
-Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
+Of all the armor categories, heavy armor offers the best protection. These mechanized suits of armor are more driven than worn, and require training to be used properly. Anyone with Heavy Armor proficiency has gone through mech armor training either in the military using Power Shells, or on the job using the large mech units that are used to haul rock and freight.
 
 Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but it also doesn't penalize you if your Dexterity modifier is negative.
 
-**_Power Shell._** Heavy and cumbersome, this powered mech armor gives the wearer enhanced strength, and a tough shell more resistant to damage than the standard pulse armor. However it makes it very difficult to be stealthy. This armor gives the wearer +2 Strength.
+**_Power Shell._** Heavy and cumbersome, this powered mech armor gives the wearer enhanced strength, and a tough shell more resistant to damage than the standard pulse armor. However it makes it very difficult to be stealthy. This armor gives the wearer advantage on Strengh checks.
 
 <div class='wide'>
 ##### Armor
@@ -134,11 +133,11 @@ Below is a list of common freelancer gear.
 
 **_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save. Caltrops can be coated in poison to do additional damage.
 
-**_Combat EVA Suit_** A piece of armor can be outfitted with retractable EVA components, and a low profile oxygen tank. As an action, you can enable the EVA mode. Helmet and gloves extend to cover the face and hands. The suit has enough oxygen for 4 hours.
+**_Combat VAC Suit_** A piece of armor can be outfitted with retractable VAC helmet, and a low profile oxygen tank. As an action, you can enable the VAC mode. Helmet extends to cover the face. The suit has enough oxygen for 4 hours.
 
 **_Communicator_** An earpiece to use to communicate with squadmates. Has a range of 5 miles. Musut be occasionally recharged.
 
-**_EVA Suit_** A spacesuit, helmet, and oxygen tank. Holds enough oxygen for a 4 hour EVA. The helmlet has a flashlight on it. Can automatically refill tank outside of a vacuum. Requires occasional recharging.
+**_VAC Suit_** A spacesuit, helmet, and oxygen tank. Holds enough oxygen for a 4 hours. The helmlet has a flashlight on it. Can automatically refill tank outside of a vacuum. Requires occasional recharging.
 
 **_Datacube._** A cube 1 inch on each side that can store up to 1 zettabyte of information.
 
@@ -294,7 +293,7 @@ This specialized datapad is used for navigation in space. Proficiency with navig
 A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 
 ### Thieves' Tools
-This set of tools includes a datapad, a small file, a set of lock picks, a small mirror mounted on a metal handle, a laser cutter, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or pick physical locks as well as hack simple electronic locks.
+This set of tools includes a datapad, a small file, a set of lock picks, a small mirror mounted on a metal handle, a laser cutter, a hand drill, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or pick physical locks as well as hack simple electronic locks.
 
 ## Currency Conversion
 
