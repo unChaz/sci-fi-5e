@@ -1,5 +1,5 @@
 ## Ruster
-Rusters are most commonly of Russian or Irish decent who worked the Helium3 mines deep under mars. They are a small scrappy bunch. They value family and freedom above all else. The Rusters have been forced into hard labor for centuries. The few who are lucky enough to escape the mines usually end up as mechanics, or construction workers. Many are forced into a life of crime, as it is nearly impossible for an unmistakable Ruster to climb the rungs of the Martian socioeconomic ladder.
+Rusters are most commonly of Russian or Irish decent who worked the Helium3 mines deep under mars. They are a small scrappy bunch. They value family, community and freedom above all else. The Rusters have been forced into hard labor for centuries. The few who are lucky enough to escape the mines usually end up as mechanics, or construction workers. Many are forced into a life of crime, as it is nearly impossible for an unmistakable Ruster to climb the rungs of the Martian socioeconomic ladder.
 
 ### Skin Traits
 
