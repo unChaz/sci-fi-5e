@@ -1,5 +1,6 @@
 # Brute
 
+Whether due to some genetic alterations, or a mining community that prizes its workers on sheer strength, Brutes are humans that have built up nearly super-human strength through conventional means. Where they may lack in intelligence and skill, they make up for with raw strength. Brutes are often used by corporations for security detail, recruited by criminal organizations as lackeys, or get their strength from military rationed pharmasuticals. Either way, Brutes are highly prized assets for any crew, if only for the intimidation factor.
 ______
 
 ### Hit Points
