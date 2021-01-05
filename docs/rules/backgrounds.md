@@ -2,7 +2,7 @@
 
 ### Cryo-Emergent
 
-**Requirement**: Earther
+**Requirement**: Terran
 
 You were born on Earth in the 20th century, and at some point in your life bought “Cryo-Insurance”. Upon your death your brain was frozen. Centuries later your brain was downloaded into an EGO and you woke up in an unfamiliar body in a whole new world. You are constantly fascinated by new technologies and this new odd world.
 
