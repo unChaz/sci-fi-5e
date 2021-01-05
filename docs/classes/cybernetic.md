@@ -1,8 +1,7 @@
 # Cybernetic
 _______
-***requires bionic or synthetic Skin***
 
-Cybernetics are tekcasters who have integrated with an alien AI via synthetic Skin parts. At some point you encountered an Alien AI, and it copied itself into your circuits.
+The vast majority of alien technology is not understood, and a run-in with an alien artifact can be deadly, or leave you with some unintended results. Cybernetics were once regular humans that had a brush in with alien technology. Somehow, the AI that resided in the alien tech uploaded itself into their EGO. Each AI has their own personality, motivations, and goals, but do their best to work with their Cybernetic host by trading their knowledge and special abilities to influence the host to do their bidding.
 
 ### Hit Points
 
@@ -109,7 +108,6 @@ You can use an tekcaster as a Tekcasting focus for your cybernetic tek skills.
 </div>
 
 
-
 ## Nanotech
 
 Your Symbiote provides you with access to alien nanotech that imbue you with an abiding tek ability.
@@ -134,7 +132,7 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 ## Link of the Blade
 
-You can use your action to create a Nanoblade in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as tek for the purpose of overcoming resistance and immunity to nontek attacks and damage.
+You can use your action to create a Nanoblade in your empty hand. You can choose the shape that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as tek for the purpose of overcoming resistance and immunity to nontek attacks and damage.
 
 Your Nanoblade disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
