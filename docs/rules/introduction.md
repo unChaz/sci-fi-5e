@@ -38,7 +38,6 @@ A "Skin" is what the human body is now commonly referred to. Upon death, if your
 |Strength |Physical strength |
 |Dexterity | Agility, reflex, and balance |
 |Physique | Beauty, appearance |
-|Constitution | Overall health |
 
 ### Modified Ability Scores
 
