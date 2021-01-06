@@ -31,7 +31,6 @@ You start with the following equipment, in addition to the equipment granted by 
 * (*a*) a ukulele or (*b*) any other musical instrument
 * scarab skin and an ion dagger
 
-
 ### Tekcasting
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
@@ -47,9 +46,6 @@ You know two cantrips of your choice from the evangelist tek skill list. You lea
 The Evangelist table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
 
 For example, if you know the 1st-level tek skill *cure wounds* and have a 1st-level and a 2nd-level tek skill slot available, you can cast *cure wounds* using either slot.
-
-```
-```
 
 ##### Tek Skills Known of 1st Level and Higher
 
