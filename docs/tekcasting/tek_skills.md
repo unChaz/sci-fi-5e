@@ -23,7 +23,7 @@ In every case, the number of tek skills a caster can have fixed in mind at any g
 
 #### Tek Slots
 
-Regardless of how many tek skills a caster knows or prepares, he or she can cast only a limited number of tek skills before resting. Manipulating the fabric of tek and channeling its energy into even a simple tek skill is physically and mentally taxing, and higher level tek skills are even more so. Thus, each Tekcasting class's description (except that of the cybernetic) includes a table showing how many tek skill slots of each tek skill level a character can use at each character level. For example, the 3rd-level Arcanist Umara has four 1st-level tek skill slots and two 2nd-level slots.
+Regardless of how many tek skills a caster knows or prepares, he or she can cast only a limited number of tek skills before the tekcaster must recharge. Manipulating the fabric of tek and channeling its energy into even a simple tek skill requires a large amount of energy, and higher level tek skills are even more so. Thus, each Tekcasting class's description (except that of the cybernetic) includes a table showing how many tek skill slots of each tek skill level a character can use at each character level. For example, the 3rd-level Arcanist Umara has four 1st-level tek skill slots and two 2nd-level slots. The more experience you become at tekcasting the more efficient you can be with the limited energy the tekcaster provides.
 
 When a character casts a tek skill, he or she expends a slot of that tek skill's level or higher, effectively “filling” a slot with the tek skill. You can think of a tek skill slot as a groove of a certain size—small for a 1st-level slot, larger for a tek skill of higher level. A 1st-level tek skill fits into a slot of any size, but a 9th-level tek skill fits only in a 9th-level slot. So when Umara casts _tek missile_, a 1st-level tek skill, she spends one of her four 1st-level slots and has three remaining.
 
@@ -47,7 +47,7 @@ A cantrip is a tek skill that can be cast at will, without using a tek skill slo
 
 #### Rituals
 
-Certain tek skills have a special tag: ritual. Such a tek skill can be cast following the normal rules for Tekcasting, or the tek skill can be cast as a ritual. The ritual version of a tek skill takes 10 minutes longer to cast than normal. It also doesn't expend a tek skill slot, which means the ritual version of a tek skill can't be cast at a higher level.
+Certain tek skills have a special tag: ritual. Such a tek skill can be cast following the normal rules for Tekcasting, or the tek skill can be cast as a ritual. The ritual version of a tek skill takes 10 minutes longer to cast than normal, as it requires you to hook your tekcaster up to a static external power source such as a power grid or generator. It also doesn't expend a tek skill slot, which means the ritual version of a tek skill can't be cast at a higher level.
 
 To cast a tek skill as a ritual, a tekcaster must have a feature that grants the ability to do so. The priest and the morph, for example, have such a feature. The caster must also have the tek skill prepared or on his or her list of tek skills known, unless the character's ritual feature specifies otherwise, as the Arcanist's does.
 
@@ -58,6 +58,8 @@ To cast a tek skill as a ritual, a tekcaster must have a feature that grants the
 When a character casts any tek skill, the same basic rules are followed, regardless of the character's class or the tek skill's effects.
 
 Each tek skill description begins with a block of information, including the tek skill's name, level, school of tek, casting time, range, components, and duration. The rest of a tek skill entry describes the tek skill's effect.
+
+In order to cast a tek skill you must be in possesion of, and attuned to a tekcaster. In order to attune to a tekcaster, the previous owner must have unattuned, or be deceased. You must fascet a gemstone into the tekcaster and attune to it over the course of 3 days.
 
 #### Casting Time
 
@@ -237,7 +239,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 
 * Dancing Lights
 * Light
-* Mage Hand
+* Telekenesis
 * Mending
 * Message
 * Minor Illusion
@@ -748,7 +750,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Chill Touch
 * Dancing Lights
 * Light
-* Mage Hand
+* Telekenesis
 * Mending
 * Message
 * Minor Illusion
@@ -896,7 +898,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 ##### Cantrips (0 Level)
 
 * Chill Touch
-* Mage Hand
+* Telekenesis
 * Minor Illusion
 * Prestidigitation
 * True Strike
@@ -993,7 +995,7 @@ For example, if two priests cast _bless_ on the same target, that character gain
 * Chill Touch
 * Dancing Lights
 * Light
-* Mage Hand
+* Telekenesis
 * Mending
 * Message
 * Minor Illusion
@@ -4634,7 +4636,7 @@ _1st-level abjuration_
 
 You touch a willing creature who isn't wearing armor, and a protective tek force surrounds it until the tek skill ends. The target's base AC becomes 13 + its Dexterity modifier. The tek skill ends if the target dons armor or if you dismiss the tek skill as an action.
 
-##### Mage Hand
+##### Telekenesis
 
 _Conjuration cantrip_
 
@@ -4646,11 +4648,11 @@ _Conjuration cantrip_
 
 **Duration:** 1 minute
 
-A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this tek skill again.
+You gain the temporary power of telekenesis. This effect lasts for the duration or until you dismiss it as an action.
 
-You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+You can use your action to manipulate objects within 30ft of you. You can use the power to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
-The hand can't attack, activate alien artifacts, or carry more than 10 pounds.
+Telekenesis cannot pick up or move objects weighing more than 10 pounds.
 
 ##### Tek Circle
 
