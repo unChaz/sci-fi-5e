@@ -21,9 +21,6 @@
 [[classes/morph]]
 
 \page
-[[classes/priest]]
-
-\page
 [[classes/scion]]
 
 \page
