@@ -90,9 +90,6 @@ Tek Arcana is the term that refers to the use of alien technology to produce eff
 ### Tekcaster
 The tekcaster is a device worn on the wrist and is connected to the fingers. Using a combination of hand movements, vocal commands, and material components, the tekcaster can be used to cast tek skills. The tekcaster uses a gemstone as its power source. Depending on the requirements of the tek skill, the gem may be destroyed and must be replaced. Some tek skills require better quality gems.
 
-```
-```
-
 >### Flavoring Spells
 > Any 5e spell can be easily translated using the following steps:
 > - Remove trivial material spell components that are not gems and do not have a monetary value.
@@ -104,3 +101,6 @@ The tekcaster is a device worn on the wrist and is connected to the fingers. Usi
 
 ### Built-in Tekcasting
 It is possible for one to cast tek skills without a conventional tekcaster. Synthetic Skins can have built in tekcasters, however the requirement for a gem as a power source still stands. Humans can also be fitted with a bionic arm that has a built in tekcaster.
+
+## Building your Crew
+Typical Freelance crews tend to have around 3-4 members. A well-backed crew will usually run with a pilot, hacker, tek specialist, and weapon specialist enabling the team to handle any situation. While having a pilot handy can be very useful, getting access to your own ship is difficult, as ships are prohibitively expensive, and public transport is widely available.
