@@ -42,9 +42,6 @@ Drawing on the alien essence of tekcasters, you can cast tek skills to shape the
 
 At 1st level, you know two cantrips of your choice from the morph tek skill list. You learn additional morph cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Morph table.
 
-```
-```
-
 ###  Preparing and Casting Tek Skills
 
 The Morph table shows how many tek skill slots you have to cast your tek skills of 1st level and higher. To cast one of these morph tek skills, you must expend a slot of the tek skill's level or higher. You regain all expended tek skill slots when you finish a long rest.
@@ -57,7 +54,7 @@ You can also change your list of prepared tek skills when you finish a long rest
 
 ##  Tekcasting Ability
 
-Wisdom + Will is your Tekcasting ability for your morph tek skills, since your tek draws upon your devotion and attunement to nature. You use your Wisdom whenever a tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a morph tek skill you cast and when making an attack roll with one.
+Wisdom is your Tekcasting ability for your morph tek skills, since your tek draws upon your devotion and attunement to nature. You use your Wisdom whenever a tek skill refers to your Tekcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a morph tek skill you cast and when making an attack roll with one.
 
 **Tek save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
