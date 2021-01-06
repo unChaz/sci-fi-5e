@@ -1,8 +1,8 @@
-# Races
+# Subspecies
 
 ---
 
-As humanity spread out throughout the solar system, they began to adapt and change to their new environment. Many unique subraces of human resulted.
+As humanity spread out throughout the solar system, they began to adapt and change to their new environment. Many unique subspecies of human resulted.
 
 
 [[races/belter]]
