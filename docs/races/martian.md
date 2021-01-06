@@ -7,7 +7,7 @@ Martians refer to upper class human citizens that live on the surface of Mars. T
 
 **_Size._** Martians are between 5 and 6 feet tall. Regardless of your position in that range, your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet.
+**_Speed._** Your base walking speed is 6 meters.
 
 #### Muscle Memory
 Martians are taught to use weapons from a young age. You have proficiency in **Simple Ion Weapons** and **Railrifles**.
